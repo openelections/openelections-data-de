@@ -13,6 +13,9 @@ office_mapping = {
     'STATE REPRESENTATIVE': 'State Assembly'
 }
 
+lookup_file = open("election_districts_2012.csv", "rU")
+district_lookup = [row for row in csv.reader(lookup_file)]
+
 text_file = open("stwres.txt", "r")
 raw = text_file.read().splitlines()
 text_file.close()
@@ -82,8 +85,9 @@ for i in range(0,len(filtered)):
         if re.match(r"^\d\d-\d\d$", line[0]):
             for k in range(0, len(candidates)):
                 # election_district, office, district, party, candidate, votes
-                processed.append([line[0], office, district, parties[k], candidates[k], re.sub(r",", "", line[3*k+4].strip())])            
-            processed.append([line[0], office, district, '', 'Total', re.sub(r",", "", line[1].strip())]) 
+                county = [d[0] for d in district_lookup if d[1] == line[0]][0]
+                processed.append([county, line[0], office, district, parties[k], candidates[k], re.sub(r",", "", line[3*k+4].strip())])
+            processed.append([county, line[0], office, district, '', 'Total', re.sub(r",", "", line[1].strip())])
         elif re.match(r"^RD Tot$", line[0]):
             pass
         elif re.match(r"^Cand Tot$", line[0]):
@@ -93,14 +97,14 @@ for i in range(0,len(filtered)):
             # else:
             #     for k in range(0, len(candidates)):
             #         print i
-            #         processed.append(['Total', office, district, parties[k], candidates[k], line[3*k+4]]) 
+            #         processed.append(['Total', office, district, parties[k], candidates[k], line[3*k+4]])
         else:
             print "ERROR: Line in unknown format."
 
 f = open('20161108__de__general__precinct.csv', 'wt')
 try:
     writer = csv.writer(f, quoting=csv.QUOTE_NONNUMERIC)
-    writer.writerow( ('election_district', 'office', 'district', 'party', 'candidate', 'votes') )
+    writer.writerow(('county', 'election_district', 'office', 'district', 'party', 'candidate', 'votes') )
     for i in range(0, len(processed)):
         writer.writerow( processed[i] )
 finally:
