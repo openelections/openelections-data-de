@@ -27,7 +27,7 @@ import csv
 import sys
 import os
 import argparse
-
+import collections
 
 def main():
     args = parseArguments()
@@ -53,112 +53,127 @@ class DEParser(object):
         self.date = None
         self.outDirPath = outDirPath
         self.processed = []
-        self.district_lookup = []
+        self.district_lookup = {}
         self.raw = []
+        self.chunks = []
         self.election_type = None
+        self.Chunk = collections.namedtuple('Chunk', 'office text')
+        self.Result = collections.namedtuple('Result', 'county election_district office district party candidate election_day absentee votes')
 
         self.readIn()
         self.process()
+        self.splitIntoChunks()
+        self.readInDistricts() # Requires self.year to have been set during chunking
+        self.process()
 
     def readIn(self):
-        with open("election_districts_2012.csv", "rU") as lookup_file:
-            self.district_lookup = [row for row in csv.reader(lookup_file)]
-
         with open(self.inputFilePath, "r") as text_file:
             self.raw = text_file.read().splitlines()
 
-    def process(self):
-        # split into chunks for each table
-        # new table begins with line where many characters are letters and all characters are uppercase
-        lastchunkstart = 0
-        chunked = []
+    def readInDistricts(self):
+        year = int(self.date[0:4])
+        if year >= 2012 and year < 2022:
+            districtsFile = "election_districts_2012-2022.csv"
+        elif year >= 2002 and year < 2012:
+            districtsFile = "election_districts_2002-2012.csv"
+
+        with open(districtsFile, "rU") as lookup_file:
+            for row in csv.DictReader(lookup_file):
+                self.district_lookup[row['election_district']] = row['county']
+
+    def splitIntoChunks(self):
+        lastchunkstart = None
+        self.chunks = []
+
         for i, row in enumerate(self.raw):
             # Does this line have the election type and date?
-            m = re.match(r"^(\d\d\/\d\d\/\d\d) (\w+)", row)
+            m = re.match(r"^(\d\d\/\d\d\/\d\d) (Presidential )?(\w+) ;", row)
             if m:
-                self.election_type = m.group(2).lower()
+                self.election_type = m.group(3).lower()
                 self.date = "20{}{}{}".format(m.group(1)[6:8], m.group(1)[0:2], m.group(1)[3:5])
 
-            # no non-uppercase, first character is an uppercase letter, proportion of letters is high
-            elif (row == row.upper() and row[0].isupper() and
-                sum(1 for c in re.sub(r'\s+', '', row) if c.isupper()) / float(len(re.sub(r'\s+', '', row))) > .8):
-                # skip the file headers in the first chunk
-                if lastchunkstart > 0:
-                    chunked.append(self.raw[lastchunkstart:i])
-                lastchunkstart = i
+            elif row == ';':
+                if lastchunkstart:
+                    self.chunks.append(Chunk(self.raw[lastchunkstart:i-1]))
 
-        chunked.append(self.raw[lastchunkstart:i])
+                lastchunkstart = i-1
 
-        # drop chunks for local offices, keep only:
-        # [PRESIDENT;', 'UNITED STATES SENATOR;', 'REPRESENTATIVE IN CONGRESS;',
-        # 'GOVERNOR;', ''LIEUTENANT GOVERNOR;', 'ATTORNEY GENERAL;',
-        # 'STATE REPRESENTATIVE DISTRICT #;', 'STATE SENATOR DISTRICT #;']
-        filtered = []
-        for i in range(0, len(chunked)):
-            if re.match(r"^PRESIDENT$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^UNITED STATES SENATOR$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^REPRESENTATIVE IN CONGRESS$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^GOVERNOR$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^LIEUTENANT GOVERNOR$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^ATTORNEY GENERAL$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^STATE REPRESENTATIVE DISTRICT \d+$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
-            if re.match(r"^STATE SENATOR DISTRICT \d+$", chunked[i][0].strip().replace(';','')):
-                filtered.append(chunked[i])
+        # After finishing, append the last chunk
+        self.chunks.append(Chunk(self.raw[lastchunkstart:i]))
 
-        # process chunks
-        for i in range(0,len(filtered)):
-            tb = filtered[i]
-            # parse second/third line to create lists of candidates & parties
-            candidates = [j for j in tb[2].split(';') if j != '' and j != ' ' and j != 'District' and j != 'Total']
-            parties = [j for j in tb[3].split(';') if j != '' and j != ' ']
-            if (len(candidates) != len(parties)):
-                print("ERROR: Number of candidates not the same as number of parties")
-            # parse first line to identify office & district
-            office_district_split = tb[0].find('DISTRICT')
-            office = DEParser.office_mapping[tb[0][0:office_district_split].strip()]  # relies on -1 removing ; at end
-            if office_district_split == -1:
-                district = ''
-            else:
-                district = tb[0][office_district_split + 9 : -1] # relies on -1 removing ; at end
-            # individual election districts start on row 4 and begin with a ##-## value
-            # each set of election districts is followed by a rep-district total
-            # after all election districts for a race, the last one is followed by a candidate total
-            # failed to parse candidate totals because the data quality is too bad:
-            # * last character of the line is routinely cut off
-            # * numbers within a line overlap
-            for j in range(4,len(tb)):
-                line = tb[j].split(';')
-                if re.match(r"^\d\d-\d\d$", line[0]):
-                    for k in range(0, len(candidates)):
-                        # election_district, office, district, party, candidate, votes
-                        county = [d[0] for d in self.district_lookup if d[1] == line[0]][0]
-                        self.processed.append([county, line[0], office, district, parties[k], candidates[k], re.sub(r",", "", line[3*k+4].strip())])
-                    self.processed.append([county, line[0], office, district, '', 'Total', re.sub(r",", "", line[1].strip())])
-                elif re.match(r"^RD Tot$", line[0]):
-                    pass
-                elif re.match(r"^Cand Tot$", line[0]):
-                    pass
-                    # if 3*k+4 > len(line) - 2:
-                    #     print("ERROR: Overlapping numbers in Cand Tot line of filtered[" + str(i) + "].")
-                    # else:
-                    #     for k in range(0, len(candidates)):
-                    #         print(i)
-                    #         self.processed.append(['Total', office, district, parties[k], candidates[k], line[3*k+4]])
+    def process(self):
+        for chunk in filter(lambda c: c.recognizedOffice == True, self.chunks):
+            header = []
+            lastED = None
+
+            for i, line in enumerate(chunk.resultLines):
+                line = [c.strip() for c in line.split(';')]
+
+                if line[0] == "District":
+                    header = [] # Reset candidate header
+                    nextLine = chunk.resultLines[i+1].split(';')
+
+                    for j, cell in enumerate(line):
+                        candidateName = cell.title()
+                        if j <= len(nextLine) and candidateName and candidateName not in ['District', 'Total']:
+                            header.append((candidateName, nextLine[j]))
+                        else:
+                            header.append(None)
+
+                elif not line[0].strip():
+                    pass # skip party and column header rows
                 else:
-                    print("ERROR: Line in unknown format.")
+                    for j, candidate in enumerate(header):
+                        if candidate:
+                            if line[0] == "RD Tot":
+                                pass
+                                # county = self.district_lookup[lastED]
+                                # election_district = f"RD {lastED[3:5]} Total"
+                            elif line[0] == "Cand Tot":
+                                county = self.district_lookup[lastED]
+                                election_district = "Total"
+                            else:
+                                lastED = line[0]
+                                county = self.district_lookup[line[0]]
+                                election_district = line[0]
+                                                            # 'county election_district office district party candidate election_day absentee votes'
+                            self.processed.append(self.Result(county, election_district, chunk.office, chunk.district, candidate[1], candidate[0], line[j], line[j+1], line[j+2]))
+
 
     def writeOut(self):
-        with open(os.path.join(self.outDirPath, f"{self.date}__de__{self.election_type}__precinct.csv"), 'w') as f:
+        filename = f"{self.date}__de__{self.election_type}__precinct.csv"
+        with open(os.path.join(self.outDirPath, filename), 'w') as f:
             writer = csv.writer(f, lineterminator='\n')
-            writer.writerow(('county', 'election_district', 'office', 'district', 'party', 'candidate', 'votes'))
-            writer.writerows(self.processed)
+            writer.writerow(self.Result._fields)
+
+            for result in self.processed:
+                writer.writerow(list(result))
+
+class Chunk(object):
+    def __init__(self, text):
+        self.rawOffice = text[0].strip(';')
+        self.office = None
+        self.identifyOfficeAndDistrict()
+        # self._candidates = None
+
+        self.text = text
+
+    def identifyOfficeAndDistrict(self):
+        office_district = self.rawOffice.split(' DISTRICT ')
+        if len(office_district) > 1:
+            self.office, self.district = office_district
+        else:
+            self.district = None
+
+        self.recognizedOffice = (self.office in DEParser.office_mapping)
+
+        if self.recognizedOffice:
+            self.office = DEParser.office_mapping[self.office]
+
+
+    @property
+    def resultLines(self):
+        return self.text[2:]
 
 def parseArguments():
     parser = argparse.ArgumentParser(description='Parse Delaware vote files into OpenElections format')
