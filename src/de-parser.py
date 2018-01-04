@@ -61,9 +61,9 @@ class DEParser(object):
         self.Result = collections.namedtuple('Result', 'county election_district office district party candidate election_day absentee votes')
 
         self.readIn()
-        self.process()
         self.splitIntoChunks()
-        self.readInDistricts() # Requires self.year to have been set during chunking
+        print(f'Creating file for election on {self.date}')
+        self.readInDistricts()
         self.process()
 
     def readIn(self):
@@ -71,11 +71,12 @@ class DEParser(object):
             self.raw = text_file.read().splitlines()
 
     def readInDistricts(self):
-        year = int(self.date[0:4])
-        if year >= 2012 and year < 2022:
+        if self.date > "20120424" and self.date <= "20221108":
             districtsFile = "election_districts_2012-2022.csv"
-        elif year >= 2002 and year < 2012:
+        elif self.date > "20021105" and self.date <= "20120424":
             districtsFile = "election_districts_2002-2012.csv"
+
+        print(f"Using ED file {districtsFile}")
 
         with open(districtsFile, "rU") as lookup_file:
             for row in csv.DictReader(lookup_file):
@@ -92,14 +93,16 @@ class DEParser(object):
                 self.election_type = m.group(3).lower()
                 self.date = "20{}{}{}".format(m.group(1)[6:8], m.group(1)[0:2], m.group(1)[3:5])
 
-            elif row == ';':
+            # New chunk begins: only one semicolon on a non-short line
+            elif len(re.findall(';', row)) == 1 and len(row) > 5:
+                # print(row)
                 if lastchunkstart:
-                    self.chunks.append(Chunk(self.raw[lastchunkstart:i-1]))
+                    self.chunks.append(Chunk(self.raw[lastchunkstart:i]))
 
-                lastchunkstart = i-1
+                lastchunkstart = i
 
         # After finishing, append the last chunk
-        self.chunks.append(Chunk(self.raw[lastchunkstart:i]))
+        self.chunks.append(Chunk(self.raw[lastchunkstart:]))
 
     def process(self):
         for chunk in filter(lambda c: c.recognizedOffice == True, self.chunks):
@@ -107,8 +110,9 @@ class DEParser(object):
             lastED = None
 
             for i, line in enumerate(chunk.resultLines):
-                line = [c.strip() for c in line.split(';')]
-
+                line = [cell.strip() for cell in line.split(';')]
+                # print(i, line)
+                
                 if line[0] == "District":
                     header = [] # Reset candidate header
                     nextLine = chunk.resultLines[i+1].split(';')
@@ -120,24 +124,36 @@ class DEParser(object):
                         else:
                             header.append(None)
 
-                elif not line[0].strip():
+                elif not line[0]:
                     pass # skip party and column header rows
+
+                elif line[0] == "RD Tot":
+                    # print("Skipping RD Tot line")
+                    pass
+                    # county = self.district_lookup[lastED]
+                    # election_district = f"RD {lastED[3:5]} Total"
+
                 else:
                     for j, candidate in enumerate(header):
                         if candidate:
-                            if line[0] == "RD Tot":
-                                pass
-                                # county = self.district_lookup[lastED]
-                                # election_district = f"RD {lastED[3:5]} Total"
-                            elif line[0] == "Cand Tot":
+                            if line[0] == "Cand Tot":
                                 county = self.district_lookup[lastED]
                                 election_district = "Total"
                             else:
-                                lastED = line[0]
-                                county = self.district_lookup[line[0]]
+                                try:
+                                    county = self.district_lookup[line[0]]
+                                    lastED = line[0]
+                                except:
+                                    print(f"ERROR: Can't find ED: {line[0]}")
                                 election_district = line[0]
-                                                            # 'county election_district office district party candidate election_day absentee votes'
-                            self.processed.append(self.Result(county, election_district, chunk.office, chunk.district, candidate[1], candidate[0], line[j], line[j+1], line[j+2]))
+
+                            try:
+                                                                # 'county election_district office district party candidate election_day absentee votes'
+                                result = self.Result(county, election_district, chunk.office, chunk.district, candidate[1], candidate[0], line[j], line[j+1], line[j+2])
+                                # print(result)
+                                self.processed.append(result)
+                            except:
+                                print(f"ERROR: Failed adding result for {candidate} in ED-RD {line[0]}")
 
 
     def writeOut(self):
@@ -154,15 +170,16 @@ class Chunk(object):
         self.rawOffice = text[0].strip(';')
         self.office = None
         self.identifyOfficeAndDistrict()
-        # self._candidates = None
 
         self.text = text
 
     def identifyOfficeAndDistrict(self):
         office_district = self.rawOffice.split(' DISTRICT ')
+        
         if len(office_district) > 1:
             self.office, self.district = office_district
         else:
+            self.office = self.rawOffice
             self.district = None
 
         self.recognizedOffice = (self.office in DEParser.office_mapping)
@@ -173,7 +190,7 @@ class Chunk(object):
 
     @property
     def resultLines(self):
-        return self.text[2:]
+        return self.text[1:]
 
 def parseArguments():
     parser = argparse.ArgumentParser(description='Parse Delaware vote files into OpenElections format')
