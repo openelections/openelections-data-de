@@ -1,0 +1,2065 @@
+county,election_district,office,district,party,candidate,election_day,absentee,votes
+New Castle,01-01,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,01-01,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,01-01,U.S. Senate,,REPUBLICAN,Ting J,14,0,14
+New Castle,02-01,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,02-01,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,02-01,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,04-01,U.S. Senate,,REPUBLICAN,O'Donnell,0,1,1
+New Castle,04-01,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,04-01,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,05-01,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,05-01,U.S. Senate,,REPUBLICAN,Protack M,8,1,9
+New Castle,05-01,U.S. Senate,,REPUBLICAN,Ting J,6,3,9
+New Castle,06-01,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,06-01,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,06-01,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,07-01,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,07-01,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,07-01,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,08-01,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,08-01,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,08-01,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,09-01,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,09-01,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,09-01,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,10-01,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,10-01,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+New Castle,10-01,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,11-01,U.S. Senate,,REPUBLICAN,O'Donnell,5,1,6
+New Castle,11-01,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,11-01,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,01-02,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,01-02,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,01-02,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,02-02,U.S. Senate,,REPUBLICAN,O'Donnell,0,1,1
+New Castle,02-02,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,02-02,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,04-02,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,04-02,U.S. Senate,,REPUBLICAN,Protack M,1,1,2
+New Castle,04-02,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,05-02,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,05-02,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,05-02,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,06-02,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,06-02,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,06-02,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,08-02,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,08-02,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,08-02,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,10-02,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,10-02,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,10-02,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,11-02,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,11-02,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,11-02,U.S. Senate,,REPUBLICAN,Ting J,1,1,2
+New Castle,12-02,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,12-02,U.S. Senate,,REPUBLICAN,Protack M,1,1,2
+New Castle,12-02,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,15-02,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,15-02,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,15-02,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,16-02,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,16-02,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,16-02,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,17-02,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,17-02,U.S. Senate,,REPUBLICAN,Protack M,0,4,4
+New Castle,17-02,U.S. Senate,,REPUBLICAN,Ting J,0,1,1
+New Castle,01-03,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,01-03,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,01-03,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,02-03,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,02-03,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+New Castle,02-03,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,03-03,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,03-03,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,03-03,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,04-03,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,04-03,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,04-03,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,05-03,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,05-03,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,05-03,U.S. Senate,,REPUBLICAN,Ting J,1,1,2
+New Castle,07-03,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,07-03,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,07-03,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,08-03,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,08-03,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,08-03,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,10-03,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,10-03,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,10-03,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,12-03,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,12-03,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,12-03,U.S. Senate,,REPUBLICAN,Ting J,0,1,1
+New Castle,01-04,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,01-04,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,01-04,U.S. Senate,,REPUBLICAN,Ting J,51,2,53
+New Castle,02-04,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,02-04,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,02-04,U.S. Senate,,REPUBLICAN,Ting J,33,0,33
+New Castle,03-04,U.S. Senate,,REPUBLICAN,O'Donnell,12,1,13
+New Castle,03-04,U.S. Senate,,REPUBLICAN,Protack M,14,0,14
+New Castle,03-04,U.S. Senate,,REPUBLICAN,Ting J,79,2,81
+New Castle,04-04,U.S. Senate,,REPUBLICAN,O'Donnell,16,0,16
+New Castle,04-04,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,04-04,U.S. Senate,,REPUBLICAN,Ting J,25,0,25
+New Castle,05-04,U.S. Senate,,REPUBLICAN,O'Donnell,5,1,6
+New Castle,05-04,U.S. Senate,,REPUBLICAN,Protack M,22,2,24
+New Castle,05-04,U.S. Senate,,REPUBLICAN,Ting J,76,0,76
+New Castle,06-04,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,06-04,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,06-04,U.S. Senate,,REPUBLICAN,Ting J,22,1,23
+New Castle,07-04,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+New Castle,07-04,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,07-04,U.S. Senate,,REPUBLICAN,Ting J,16,1,17
+New Castle,08-04,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,08-04,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,08-04,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,09-04,U.S. Senate,,REPUBLICAN,O'Donnell,7,1,8
+New Castle,09-04,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,09-04,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,10-04,U.S. Senate,,REPUBLICAN,O'Donnell,3,1,4
+New Castle,10-04,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,10-04,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,12-04,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,12-04,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,12-04,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,13-04,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,13-04,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+New Castle,13-04,U.S. Senate,,REPUBLICAN,Ting J,7,1,8
+New Castle,16-04,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,16-04,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,16-04,U.S. Senate,,REPUBLICAN,Ting J,25,0,25
+New Castle,18-04,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,18-04,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,18-04,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,01-05,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,01-05,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,01-05,U.S. Senate,,REPUBLICAN,Ting J,7,3,10
+New Castle,03-05,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,03-05,U.S. Senate,,REPUBLICAN,Protack M,12,1,13
+New Castle,03-05,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,04-05,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,04-05,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,04-05,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,06-05,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,06-05,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,06-05,U.S. Senate,,REPUBLICAN,Ting J,0,1,1
+New Castle,09-05,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,09-05,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,09-05,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,11-05,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,11-05,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,11-05,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,01-06,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,01-06,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,01-06,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+New Castle,02-06,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,02-06,U.S. Senate,,REPUBLICAN,Protack M,22,0,22
+New Castle,02-06,U.S. Senate,,REPUBLICAN,Ting J,30,0,30
+New Castle,03-06,U.S. Senate,,REPUBLICAN,O'Donnell,26,0,26
+New Castle,03-06,U.S. Senate,,REPUBLICAN,Protack M,30,1,31
+New Castle,03-06,U.S. Senate,,REPUBLICAN,Ting J,36,2,38
+New Castle,04-06,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,04-06,U.S. Senate,,REPUBLICAN,Protack M,32,0,32
+New Castle,04-06,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+New Castle,05-06,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,05-06,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,05-06,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,06-06,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,06-06,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,06-06,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+New Castle,07-06,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,07-06,U.S. Senate,,REPUBLICAN,Protack M,32,1,33
+New Castle,07-06,U.S. Senate,,REPUBLICAN,Ting J,46,1,47
+New Castle,09-06,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,09-06,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,09-06,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,10-06,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,10-06,U.S. Senate,,REPUBLICAN,Protack M,23,0,23
+New Castle,10-06,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,11-06,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,11-06,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,11-06,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,12-06,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,12-06,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,12-06,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,01-07,U.S. Senate,,REPUBLICAN,O'Donnell,15,0,15
+New Castle,01-07,U.S. Senate,,REPUBLICAN,Protack M,36,1,37
+New Castle,01-07,U.S. Senate,,REPUBLICAN,Ting J,53,0,53
+New Castle,02-07,U.S. Senate,,REPUBLICAN,O'Donnell,24,0,24
+New Castle,02-07,U.S. Senate,,REPUBLICAN,Protack M,52,3,55
+New Castle,02-07,U.S. Senate,,REPUBLICAN,Ting J,62,2,64
+New Castle,04-07,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,04-07,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,04-07,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,05-07,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,05-07,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,05-07,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,06-07,U.S. Senate,,REPUBLICAN,O'Donnell,16,0,16
+New Castle,06-07,U.S. Senate,,REPUBLICAN,Protack M,22,2,24
+New Castle,06-07,U.S. Senate,,REPUBLICAN,Ting J,35,1,36
+New Castle,07-07,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,07-07,U.S. Senate,,REPUBLICAN,Protack M,14,0,14
+New Castle,07-07,U.S. Senate,,REPUBLICAN,Ting J,11,0,11
+New Castle,08-07,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,08-07,U.S. Senate,,REPUBLICAN,Protack M,26,0,26
+New Castle,08-07,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+New Castle,09-07,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,09-07,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+New Castle,09-07,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+New Castle,12-07,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,12-07,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+New Castle,12-07,U.S. Senate,,REPUBLICAN,Ting J,38,2,40
+New Castle,13-07,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,13-07,U.S. Senate,,REPUBLICAN,Protack M,28,0,28
+New Castle,13-07,U.S. Senate,,REPUBLICAN,Ting J,50,3,53
+New Castle,01-08,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,01-08,U.S. Senate,,REPUBLICAN,Protack M,10,1,11
+New Castle,01-08,U.S. Senate,,REPUBLICAN,Ting J,19,0,19
+New Castle,02-08,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+New Castle,02-08,U.S. Senate,,REPUBLICAN,Protack M,36,0,36
+New Castle,02-08,U.S. Senate,,REPUBLICAN,Ting J,24,2,26
+New Castle,03-08,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,03-08,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+New Castle,03-08,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+New Castle,04-08,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,04-08,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+New Castle,04-08,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+New Castle,05-08,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,05-08,U.S. Senate,,REPUBLICAN,Protack M,24,1,25
+New Castle,05-08,U.S. Senate,,REPUBLICAN,Ting J,14,2,16
+New Castle,06-08,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,06-08,U.S. Senate,,REPUBLICAN,Protack M,22,0,22
+New Castle,06-08,U.S. Senate,,REPUBLICAN,Ting J,16,0,16
+New Castle,07-08,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,07-08,U.S. Senate,,REPUBLICAN,Protack M,20,0,20
+New Castle,07-08,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,08-08,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,08-08,U.S. Senate,,REPUBLICAN,Protack M,11,0,11
+New Castle,08-08,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+Kent,09-08,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Kent,09-08,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+Kent,09-08,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+Kent,10-08,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Kent,10-08,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+Kent,10-08,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,01-09,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,01-09,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,01-09,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,02-09,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,02-09,U.S. Senate,,REPUBLICAN,Protack M,24,0,24
+New Castle,02-09,U.S. Senate,,REPUBLICAN,Ting J,26,0,26
+New Castle,03-09,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,03-09,U.S. Senate,,REPUBLICAN,Protack M,26,1,27
+New Castle,03-09,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+New Castle,04-09,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,04-09,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+New Castle,04-09,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+New Castle,05-09,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,05-09,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,05-09,U.S. Senate,,REPUBLICAN,Ting J,13,0,13
+New Castle,07-09,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,07-09,U.S. Senate,,REPUBLICAN,Protack M,31,0,31
+New Castle,07-09,U.S. Senate,,REPUBLICAN,Ting J,20,0,20
+New Castle,08-09,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,08-09,U.S. Senate,,REPUBLICAN,Protack M,32,0,32
+New Castle,08-09,U.S. Senate,,REPUBLICAN,Ting J,17,0,17
+New Castle,09-09,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,09-09,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,09-09,U.S. Senate,,REPUBLICAN,Ting J,8,1,9
+New Castle,01-10,U.S. Senate,,REPUBLICAN,O'Donnell,12,2,14
+New Castle,01-10,U.S. Senate,,REPUBLICAN,Protack M,44,0,44
+New Castle,01-10,U.S. Senate,,REPUBLICAN,Ting J,35,1,36
+New Castle,02-10,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,02-10,U.S. Senate,,REPUBLICAN,Protack M,19,1,20
+New Castle,02-10,U.S. Senate,,REPUBLICAN,Ting J,22,0,22
+New Castle,04-10,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,04-10,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,04-10,U.S. Senate,,REPUBLICAN,Ting J,6,1,7
+New Castle,06-10,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,06-10,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+New Castle,06-10,U.S. Senate,,REPUBLICAN,Ting J,33,0,33
+New Castle,07-10,U.S. Senate,,REPUBLICAN,O'Donnell,13,1,14
+New Castle,07-10,U.S. Senate,,REPUBLICAN,Protack M,38,3,41
+New Castle,07-10,U.S. Senate,,REPUBLICAN,Ting J,45,0,45
+New Castle,08-10,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,08-10,U.S. Senate,,REPUBLICAN,Protack M,23,0,23
+New Castle,08-10,U.S. Senate,,REPUBLICAN,Ting J,33,1,34
+New Castle,09-10,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,09-10,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+New Castle,09-10,U.S. Senate,,REPUBLICAN,Ting J,18,0,18
+New Castle,10-10,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,10-10,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,10-10,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,11-10,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,11-10,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,11-10,U.S. Senate,,REPUBLICAN,Ting J,13,2,15
+New Castle,01-11,U.S. Senate,,REPUBLICAN,O'Donnell,5,3,8
+New Castle,01-11,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,01-11,U.S. Senate,,REPUBLICAN,Ting J,20,0,20
+New Castle,02-11,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,02-11,U.S. Senate,,REPUBLICAN,Protack M,11,1,12
+New Castle,02-11,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+New Castle,03-11,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,03-11,U.S. Senate,,REPUBLICAN,Protack M,23,0,23
+New Castle,03-11,U.S. Senate,,REPUBLICAN,Ting J,24,0,24
+New Castle,04-11,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,04-11,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,04-11,U.S. Senate,,REPUBLICAN,Ting J,17,0,17
+New Castle,05-11,U.S. Senate,,REPUBLICAN,O'Donnell,10,1,11
+New Castle,05-11,U.S. Senate,,REPUBLICAN,Protack M,23,0,23
+New Castle,05-11,U.S. Senate,,REPUBLICAN,Ting J,43,0,43
+New Castle,06-11,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,06-11,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,06-11,U.S. Senate,,REPUBLICAN,Ting J,26,0,26
+New Castle,07-11,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,07-11,U.S. Senate,,REPUBLICAN,Protack M,19,0,19
+New Castle,07-11,U.S. Senate,,REPUBLICAN,Ting J,58,6,64
+New Castle,08-11,U.S. Senate,,REPUBLICAN,O'Donnell,17,0,17
+New Castle,08-11,U.S. Senate,,REPUBLICAN,Protack M,39,1,40
+New Castle,08-11,U.S. Senate,,REPUBLICAN,Ting J,33,4,37
+New Castle,10-11,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,10-11,U.S. Senate,,REPUBLICAN,Protack M,29,1,30
+New Castle,10-11,U.S. Senate,,REPUBLICAN,Ting J,61,1,62
+New Castle,12-11,U.S. Senate,,REPUBLICAN,O'Donnell,17,0,17
+New Castle,12-11,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,12-11,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+New Castle,14-11,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+New Castle,14-11,U.S. Senate,,REPUBLICAN,Protack M,11,0,11
+New Castle,14-11,U.S. Senate,,REPUBLICAN,Ting J,11,0,11
+New Castle,01-12,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,01-12,U.S. Senate,,REPUBLICAN,Protack M,20,1,21
+New Castle,01-12,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+New Castle,02-12,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,02-12,U.S. Senate,,REPUBLICAN,Protack M,16,1,17
+New Castle,02-12,U.S. Senate,,REPUBLICAN,Ting J,11,0,11
+New Castle,03-12,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,03-12,U.S. Senate,,REPUBLICAN,Protack M,9,1,10
+New Castle,03-12,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,04-12,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,04-12,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,04-12,U.S. Senate,,REPUBLICAN,Ting J,44,0,44
+New Castle,06-12,U.S. Senate,,REPUBLICAN,O'Donnell,21,0,21
+New Castle,06-12,U.S. Senate,,REPUBLICAN,Protack M,73,0,73
+New Castle,06-12,U.S. Senate,,REPUBLICAN,Ting J,69,1,70
+New Castle,07-12,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,07-12,U.S. Senate,,REPUBLICAN,Protack M,22,0,22
+New Castle,07-12,U.S. Senate,,REPUBLICAN,Ting J,42,1,43
+New Castle,08-12,U.S. Senate,,REPUBLICAN,O'Donnell,5,1,6
+New Castle,08-12,U.S. Senate,,REPUBLICAN,Protack M,44,2,46
+New Castle,08-12,U.S. Senate,,REPUBLICAN,Ting J,48,0,48
+New Castle,11-12,U.S. Senate,,REPUBLICAN,O'Donnell,16,0,16
+New Castle,11-12,U.S. Senate,,REPUBLICAN,Protack M,24,1,25
+New Castle,11-12,U.S. Senate,,REPUBLICAN,Ting J,68,0,68
+New Castle,12-12,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,12-12,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+New Castle,12-12,U.S. Senate,,REPUBLICAN,Ting J,36,0,36
+New Castle,01-13,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,01-13,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,01-13,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,03-13,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,03-13,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,03-13,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,04-13,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,04-13,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+New Castle,04-13,U.S. Senate,,REPUBLICAN,Ting J,16,0,16
+New Castle,05-13,U.S. Senate,,REPUBLICAN,O'Donnell,7,1,8
+New Castle,05-13,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,05-13,U.S. Senate,,REPUBLICAN,Ting J,6,1,7
+New Castle,07-13,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,07-13,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,07-13,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,08-13,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,08-13,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,08-13,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,09-13,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,09-13,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,09-13,U.S. Senate,,REPUBLICAN,Ting J,13,0,13
+New Castle,10-13,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,10-13,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,10-13,U.S. Senate,,REPUBLICAN,Ting J,13,0,13
+New Castle,11-13,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,11-13,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,11-13,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+Sussex,01-14,U.S. Senate,,REPUBLICAN,O'Donnell,19,1,20
+Sussex,01-14,U.S. Senate,,REPUBLICAN,Protack M,29,0,29
+Sussex,01-14,U.S. Senate,,REPUBLICAN,Ting J,58,0,58
+Sussex,02-14,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+Sussex,02-14,U.S. Senate,,REPUBLICAN,Protack M,16,0,16
+Sussex,02-14,U.S. Senate,,REPUBLICAN,Ting J,34,3,37
+Sussex,03-14,U.S. Senate,,REPUBLICAN,O'Donnell,11,1,12
+Sussex,03-14,U.S. Senate,,REPUBLICAN,Protack M,36,0,36
+Sussex,03-14,U.S. Senate,,REPUBLICAN,Ting J,49,4,53
+Sussex,04-14,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+Sussex,04-14,U.S. Senate,,REPUBLICAN,Protack M,43,2,45
+Sussex,04-14,U.S. Senate,,REPUBLICAN,Ting J,63,0,63
+Sussex,05-14,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+Sussex,05-14,U.S. Senate,,REPUBLICAN,Protack M,39,0,39
+Sussex,05-14,U.S. Senate,,REPUBLICAN,Ting J,34,0,34
+Sussex,06-14,U.S. Senate,,REPUBLICAN,O'Donnell,22,0,22
+Sussex,06-14,U.S. Senate,,REPUBLICAN,Protack M,37,0,37
+Sussex,06-14,U.S. Senate,,REPUBLICAN,Ting J,81,1,82
+Sussex,07-14,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,07-14,U.S. Senate,,REPUBLICAN,Protack M,15,2,17
+Sussex,07-14,U.S. Senate,,REPUBLICAN,Ting J,51,3,54
+New Castle,01-15,U.S. Senate,,REPUBLICAN,O'Donnell,1,1,2
+New Castle,01-15,U.S. Senate,,REPUBLICAN,Protack M,14,0,14
+New Castle,01-15,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,02-15,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,02-15,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,02-15,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+New Castle,03-15,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,03-15,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,03-15,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+New Castle,04-15,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,04-15,U.S. Senate,,REPUBLICAN,Protack M,11,0,11
+New Castle,04-15,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,05-15,U.S. Senate,,REPUBLICAN,O'Donnell,6,1,7
+New Castle,05-15,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+New Castle,05-15,U.S. Senate,,REPUBLICAN,Ting J,10,1,11
+New Castle,07-15,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,07-15,U.S. Senate,,REPUBLICAN,Protack M,16,0,16
+New Castle,07-15,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+New Castle,09-15,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,09-15,U.S. Senate,,REPUBLICAN,Protack M,22,0,22
+New Castle,09-15,U.S. Senate,,REPUBLICAN,Ting J,19,1,20
+New Castle,01-16,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,01-16,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,01-16,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,02-16,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,02-16,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,02-16,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,03-16,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,03-16,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,03-16,U.S. Senate,,REPUBLICAN,Ting J,0,1,1
+New Castle,04-16,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,04-16,U.S. Senate,,REPUBLICAN,Protack M,6,1,7
+New Castle,04-16,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,05-16,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,05-16,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,05-16,U.S. Senate,,REPUBLICAN,Ting J,0,1,1
+New Castle,06-16,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,06-16,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+New Castle,06-16,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,07-16,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,07-16,U.S. Senate,,REPUBLICAN,Protack M,4,1,5
+New Castle,07-16,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,08-16,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,08-16,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,08-16,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,01-17,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,01-17,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,01-17,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+New Castle,03-17,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,03-17,U.S. Senate,,REPUBLICAN,Protack M,14,0,14
+New Castle,03-17,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+New Castle,04-17,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,04-17,U.S. Senate,,REPUBLICAN,Protack M,12,1,13
+New Castle,04-17,U.S. Senate,,REPUBLICAN,Ting J,35,0,35
+New Castle,05-17,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,05-17,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,05-17,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+New Castle,06-17,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,06-17,U.S. Senate,,REPUBLICAN,Protack M,2,0,2
+New Castle,06-17,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,07-17,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,07-17,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,07-17,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+New Castle,09-17,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,09-17,U.S. Senate,,REPUBLICAN,Protack M,12,2,14
+New Castle,09-17,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+New Castle,10-17,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,10-17,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+New Castle,10-17,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,11-17,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,11-17,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,11-17,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,01-18,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,01-18,U.S. Senate,,REPUBLICAN,Protack M,26,0,26
+New Castle,01-18,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,02-18,U.S. Senate,,REPUBLICAN,O'Donnell,7,2,9
+New Castle,02-18,U.S. Senate,,REPUBLICAN,Protack M,7,2,9
+New Castle,02-18,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,03-18,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,03-18,U.S. Senate,,REPUBLICAN,Protack M,7,2,9
+New Castle,03-18,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,04-18,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+New Castle,04-18,U.S. Senate,,REPUBLICAN,Protack M,21,2,23
+New Castle,04-18,U.S. Senate,,REPUBLICAN,Ting J,4,1,5
+New Castle,05-18,U.S. Senate,,REPUBLICAN,O'Donnell,7,1,8
+New Castle,05-18,U.S. Senate,,REPUBLICAN,Protack M,15,2,17
+New Castle,05-18,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,08-18,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,08-18,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,08-18,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+New Castle,01-19,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,01-19,U.S. Senate,,REPUBLICAN,Protack M,17,2,19
+New Castle,01-19,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+New Castle,02-19,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,02-19,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+New Castle,02-19,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,03-19,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,03-19,U.S. Senate,,REPUBLICAN,Protack M,10,1,11
+New Castle,03-19,U.S. Senate,,REPUBLICAN,Ting J,12,1,13
+New Castle,04-19,U.S. Senate,,REPUBLICAN,O'Donnell,8,1,9
+New Castle,04-19,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,04-19,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+New Castle,05-19,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,05-19,U.S. Senate,,REPUBLICAN,Protack M,32,0,32
+New Castle,05-19,U.S. Senate,,REPUBLICAN,Ting J,14,0,14
+New Castle,07-19,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,07-19,U.S. Senate,,REPUBLICAN,Protack M,13,1,14
+New Castle,07-19,U.S. Senate,,REPUBLICAN,Ting J,2,1,3
+New Castle,09-19,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,09-19,U.S. Senate,,REPUBLICAN,Protack M,7,1,8
+New Castle,09-19,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+New Castle,11-19,U.S. Senate,,REPUBLICAN,O'Donnell,9,3,12
+New Castle,11-19,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,11-19,U.S. Senate,,REPUBLICAN,Ting J,13,0,13
+New Castle,01-20,U.S. Senate,,REPUBLICAN,O'Donnell,33,0,33
+New Castle,01-20,U.S. Senate,,REPUBLICAN,Protack M,80,1,81
+New Castle,01-20,U.S. Senate,,REPUBLICAN,Ting J,69,1,70
+New Castle,02-20,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+New Castle,02-20,U.S. Senate,,REPUBLICAN,Protack M,25,0,25
+New Castle,02-20,U.S. Senate,,REPUBLICAN,Ting J,18,0,18
+New Castle,03-20,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,03-20,U.S. Senate,,REPUBLICAN,Protack M,20,1,21
+New Castle,03-20,U.S. Senate,,REPUBLICAN,Ting J,19,0,19
+New Castle,04-20,U.S. Senate,,REPUBLICAN,O'Donnell,12,2,14
+New Castle,04-20,U.S. Senate,,REPUBLICAN,Protack M,48,0,48
+New Castle,04-20,U.S. Senate,,REPUBLICAN,Ting J,28,0,28
+New Castle,05-20,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,05-20,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,05-20,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,06-20,U.S. Senate,,REPUBLICAN,O'Donnell,35,3,38
+New Castle,06-20,U.S. Senate,,REPUBLICAN,Protack M,106,0,106
+New Castle,06-20,U.S. Senate,,REPUBLICAN,Ting J,80,0,80
+New Castle,10-20,U.S. Senate,,REPUBLICAN,O'Donnell,12,1,13
+New Castle,10-20,U.S. Senate,,REPUBLICAN,Protack M,20,2,22
+New Castle,10-20,U.S. Senate,,REPUBLICAN,Ting J,32,1,33
+New Castle,12-20,U.S. Senate,,REPUBLICAN,O'Donnell,30,0,30
+New Castle,12-20,U.S. Senate,,REPUBLICAN,Protack M,36,1,37
+New Castle,12-20,U.S. Senate,,REPUBLICAN,Ting J,48,0,48
+New Castle,13-20,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,13-20,U.S. Senate,,REPUBLICAN,Protack M,20,1,21
+New Castle,13-20,U.S. Senate,,REPUBLICAN,Ting J,24,0,24
+New Castle,01-21,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,01-21,U.S. Senate,,REPUBLICAN,Protack M,43,1,44
+New Castle,01-21,U.S. Senate,,REPUBLICAN,Ting J,51,0,51
+New Castle,02-21,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,02-21,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,02-21,U.S. Senate,,REPUBLICAN,Ting J,11,1,12
+New Castle,03-21,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,03-21,U.S. Senate,,REPUBLICAN,Protack M,27,1,28
+New Castle,03-21,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+New Castle,04-21,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,04-21,U.S. Senate,,REPUBLICAN,Protack M,27,3,30
+New Castle,04-21,U.S. Senate,,REPUBLICAN,Ting J,29,0,29
+New Castle,08-21,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,08-21,U.S. Senate,,REPUBLICAN,Protack M,11,0,11
+New Castle,08-21,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,11-21,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,11-21,U.S. Senate,,REPUBLICAN,Protack M,26,1,27
+New Castle,11-21,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+New Castle,12-21,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,12-21,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,12-21,U.S. Senate,,REPUBLICAN,Ting J,15,0,15
+New Castle,01-22,U.S. Senate,,REPUBLICAN,O'Donnell,11,2,13
+New Castle,01-22,U.S. Senate,,REPUBLICAN,Protack M,48,0,48
+New Castle,01-22,U.S. Senate,,REPUBLICAN,Ting J,58,0,58
+New Castle,02-22,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,02-22,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+New Castle,02-22,U.S. Senate,,REPUBLICAN,Ting J,18,2,20
+New Castle,04-22,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+New Castle,04-22,U.S. Senate,,REPUBLICAN,Protack M,35,0,35
+New Castle,04-22,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+New Castle,06-22,U.S. Senate,,REPUBLICAN,O'Donnell,17,0,17
+New Castle,06-22,U.S. Senate,,REPUBLICAN,Protack M,62,0,62
+New Castle,06-22,U.S. Senate,,REPUBLICAN,Ting J,46,2,48
+New Castle,07-22,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+New Castle,07-22,U.S. Senate,,REPUBLICAN,Protack M,37,0,37
+New Castle,07-22,U.S. Senate,,REPUBLICAN,Ting J,26,0,26
+New Castle,11-22,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,11-22,U.S. Senate,,REPUBLICAN,Protack M,18,0,18
+New Castle,11-22,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+New Castle,14-22,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,14-22,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,14-22,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,01-23,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,01-23,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,01-23,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,02-23,U.S. Senate,,REPUBLICAN,O'Donnell,15,0,15
+New Castle,02-23,U.S. Senate,,REPUBLICAN,Protack M,28,0,28
+New Castle,02-23,U.S. Senate,,REPUBLICAN,Ting J,36,0,36
+New Castle,03-23,U.S. Senate,,REPUBLICAN,O'Donnell,17,0,17
+New Castle,03-23,U.S. Senate,,REPUBLICAN,Protack M,21,1,22
+New Castle,03-23,U.S. Senate,,REPUBLICAN,Ting J,26,0,26
+New Castle,06-23,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+New Castle,06-23,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,06-23,U.S. Senate,,REPUBLICAN,Ting J,14,0,14
+New Castle,07-23,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,07-23,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,07-23,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+New Castle,08-23,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+New Castle,08-23,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,08-23,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+New Castle,09-23,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,09-23,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+New Castle,09-23,U.S. Senate,,REPUBLICAN,Ting J,18,0,18
+New Castle,10-23,U.S. Senate,,REPUBLICAN,O'Donnell,0,1,1
+New Castle,10-23,U.S. Senate,,REPUBLICAN,Protack M,15,2,17
+New Castle,10-23,U.S. Senate,,REPUBLICAN,Ting J,10,4,14
+New Castle,01-24,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+New Castle,01-24,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,01-24,U.S. Senate,,REPUBLICAN,Ting J,8,1,9
+New Castle,03-24,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,03-24,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+New Castle,03-24,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,04-24,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,04-24,U.S. Senate,,REPUBLICAN,Protack M,4,0,4
+New Castle,04-24,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,06-24,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,06-24,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,06-24,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,07-24,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+New Castle,07-24,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+New Castle,07-24,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+New Castle,08-24,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,08-24,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+New Castle,08-24,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,01-25,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,01-25,U.S. Senate,,REPUBLICAN,Protack M,5,1,6
+New Castle,01-25,U.S. Senate,,REPUBLICAN,Ting J,11,1,12
+New Castle,02-25,U.S. Senate,,REPUBLICAN,O'Donnell,20,0,20
+New Castle,02-25,U.S. Senate,,REPUBLICAN,Protack M,28,1,29
+New Castle,02-25,U.S. Senate,,REPUBLICAN,Ting J,38,1,39
+New Castle,03-25,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+New Castle,03-25,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+New Castle,03-25,U.S. Senate,,REPUBLICAN,Ting J,12,1,13
+New Castle,05-25,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+New Castle,05-25,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,05-25,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+New Castle,08-25,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,08-25,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+New Castle,08-25,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,01-26,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+New Castle,01-26,U.S. Senate,,REPUBLICAN,Protack M,13,1,14
+New Castle,01-26,U.S. Senate,,REPUBLICAN,Ting J,17,0,17
+New Castle,02-26,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,02-26,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,02-26,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+New Castle,03-26,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+New Castle,03-26,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+New Castle,03-26,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+New Castle,05-26,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,05-26,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+New Castle,05-26,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+New Castle,09-26,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,09-26,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+New Castle,09-26,U.S. Senate,,REPUBLICAN,Ting J,5,0,5
+New Castle,01-27,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+New Castle,01-27,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+New Castle,01-27,U.S. Senate,,REPUBLICAN,Ting J,11,0,11
+New Castle,02-27,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+New Castle,02-27,U.S. Senate,,REPUBLICAN,Protack M,18,0,18
+New Castle,02-27,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+New Castle,03-27,U.S. Senate,,REPUBLICAN,O'Donnell,13,0,13
+New Castle,03-27,U.S. Senate,,REPUBLICAN,Protack M,18,0,18
+New Castle,03-27,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+New Castle,06-27,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+New Castle,06-27,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+New Castle,06-27,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+New Castle,07-27,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+New Castle,07-27,U.S. Senate,,REPUBLICAN,Protack M,19,0,19
+New Castle,07-27,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+New Castle,10-27,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+New Castle,10-27,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+New Castle,10-27,U.S. Senate,,REPUBLICAN,Ting J,8,1,9
+Kent,01-28,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+Kent,01-28,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+Kent,01-28,U.S. Senate,,REPUBLICAN,Ting J,2,2,4
+Kent,02-28,U.S. Senate,,REPUBLICAN,O'Donnell,13,2,15
+Kent,02-28,U.S. Senate,,REPUBLICAN,Protack M,26,0,26
+Kent,02-28,U.S. Senate,,REPUBLICAN,Ting J,22,2,24
+Kent,03-28,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Kent,03-28,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+Kent,03-28,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+Kent,05-28,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+Kent,05-28,U.S. Senate,,REPUBLICAN,Protack M,17,1,18
+Kent,05-28,U.S. Senate,,REPUBLICAN,Ting J,13,2,15
+Kent,06-28,U.S. Senate,,REPUBLICAN,O'Donnell,11,1,12
+Kent,06-28,U.S. Senate,,REPUBLICAN,Protack M,25,2,27
+Kent,06-28,U.S. Senate,,REPUBLICAN,Ting J,11,1,12
+Kent,07-28,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+Kent,07-28,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+Kent,07-28,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+Kent,09-28,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+Kent,09-28,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+Kent,09-28,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+Kent,11-28,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Kent,11-28,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+Kent,11-28,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+Kent,13-28,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Kent,13-28,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+Kent,13-28,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+Kent,14-28,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Kent,14-28,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+Kent,14-28,U.S. Senate,,REPUBLICAN,Ting J,15,0,15
+Kent,01-29,U.S. Senate,,REPUBLICAN,O'Donnell,13,2,15
+Kent,01-29,U.S. Senate,,REPUBLICAN,Protack M,23,4,27
+Kent,01-29,U.S. Senate,,REPUBLICAN,Ting J,20,2,22
+Kent,02-29,U.S. Senate,,REPUBLICAN,O'Donnell,13,0,13
+Kent,02-29,U.S. Senate,,REPUBLICAN,Protack M,31,3,34
+Kent,02-29,U.S. Senate,,REPUBLICAN,Ting J,36,5,41
+Kent,03-29,U.S. Senate,,REPUBLICAN,O'Donnell,6,1,7
+Kent,03-29,U.S. Senate,,REPUBLICAN,Protack M,19,3,22
+Kent,03-29,U.S. Senate,,REPUBLICAN,Ting J,6,2,8
+Kent,04-29,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Kent,04-29,U.S. Senate,,REPUBLICAN,Protack M,3,1,4
+Kent,04-29,U.S. Senate,,REPUBLICAN,Ting J,3,1,4
+Kent,05-29,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Kent,05-29,U.S. Senate,,REPUBLICAN,Protack M,18,1,19
+Kent,05-29,U.S. Senate,,REPUBLICAN,Ting J,1,0,1
+Kent,06-29,U.S. Senate,,REPUBLICAN,O'Donnell,9,0,9
+Kent,06-29,U.S. Senate,,REPUBLICAN,Protack M,23,0,23
+Kent,06-29,U.S. Senate,,REPUBLICAN,Ting J,19,1,20
+Kent,07-29,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+Kent,07-29,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+Kent,07-29,U.S. Senate,,REPUBLICAN,Ting J,27,0,27
+Kent,01-30,U.S. Senate,,REPUBLICAN,O'Donnell,7,1,8
+Kent,01-30,U.S. Senate,,REPUBLICAN,Protack M,42,6,48
+Kent,01-30,U.S. Senate,,REPUBLICAN,Ting J,16,3,19
+Kent,02-30,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Kent,02-30,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+Kent,02-30,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+Kent,03-30,U.S. Senate,,REPUBLICAN,O'Donnell,10,1,11
+Kent,03-30,U.S. Senate,,REPUBLICAN,Protack M,26,1,27
+Kent,03-30,U.S. Senate,,REPUBLICAN,Ting J,15,2,17
+Kent,04-30,U.S. Senate,,REPUBLICAN,O'Donnell,18,1,19
+Kent,04-30,U.S. Senate,,REPUBLICAN,Protack M,40,2,42
+Kent,04-30,U.S. Senate,,REPUBLICAN,Ting J,13,2,15
+Kent,06-30,U.S. Senate,,REPUBLICAN,O'Donnell,30,2,32
+Kent,06-30,U.S. Senate,,REPUBLICAN,Protack M,40,0,40
+Kent,06-30,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+Kent,07-30,U.S. Senate,,REPUBLICAN,O'Donnell,23,2,25
+Kent,07-30,U.S. Senate,,REPUBLICAN,Protack M,36,1,37
+Kent,07-30,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+Sussex,08-30,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,08-30,U.S. Senate,,REPUBLICAN,Protack M,1,0,1
+Sussex,08-30,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+Kent,01-31,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+Kent,01-31,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+Kent,01-31,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+Kent,02-31,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+Kent,02-31,U.S. Senate,,REPUBLICAN,Protack M,37,4,41
+Kent,02-31,U.S. Senate,,REPUBLICAN,Ting J,28,4,32
+Kent,03-31,U.S. Senate,,REPUBLICAN,O'Donnell,19,2,21
+Kent,03-31,U.S. Senate,,REPUBLICAN,Protack M,46,2,48
+Kent,03-31,U.S. Senate,,REPUBLICAN,Ting J,43,4,47
+Kent,05-31,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Kent,05-31,U.S. Senate,,REPUBLICAN,Protack M,15,1,16
+Kent,05-31,U.S. Senate,,REPUBLICAN,Ting J,15,1,16
+Kent,07-31,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Kent,07-31,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+Kent,07-31,U.S. Senate,,REPUBLICAN,Ting J,11,0,11
+Kent,01-32,U.S. Senate,,REPUBLICAN,O'Donnell,7,1,8
+Kent,01-32,U.S. Senate,,REPUBLICAN,Protack M,19,6,25
+Kent,01-32,U.S. Senate,,REPUBLICAN,Ting J,30,6,36
+Kent,02-32,U.S. Senate,,REPUBLICAN,O'Donnell,6,1,7
+Kent,02-32,U.S. Senate,,REPUBLICAN,Protack M,27,1,28
+Kent,02-32,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+Kent,03-32,U.S. Senate,,REPUBLICAN,O'Donnell,17,1,18
+Kent,03-32,U.S. Senate,,REPUBLICAN,Protack M,51,4,55
+Kent,03-32,U.S. Senate,,REPUBLICAN,Ting J,33,2,35
+Kent,07-32,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Kent,07-32,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+Kent,07-32,U.S. Senate,,REPUBLICAN,Ting J,2,1,3
+Kent,01-33,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+Kent,01-33,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+Kent,01-33,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+Kent,02-33,U.S. Senate,,REPUBLICAN,O'Donnell,31,0,31
+Kent,02-33,U.S. Senate,,REPUBLICAN,Protack M,70,0,70
+Kent,02-33,U.S. Senate,,REPUBLICAN,Ting J,47,1,48
+Kent,03-33,U.S. Senate,,REPUBLICAN,O'Donnell,29,2,31
+Kent,03-33,U.S. Senate,,REPUBLICAN,Protack M,60,0,60
+Kent,03-33,U.S. Senate,,REPUBLICAN,Ting J,24,3,27
+Kent,04-33,U.S. Senate,,REPUBLICAN,O'Donnell,46,2,48
+Kent,04-33,U.S. Senate,,REPUBLICAN,Protack M,51,3,54
+Kent,04-33,U.S. Senate,,REPUBLICAN,Ting J,42,2,44
+Kent,05-33,U.S. Senate,,REPUBLICAN,O'Donnell,31,0,31
+Kent,05-33,U.S. Senate,,REPUBLICAN,Protack M,49,2,51
+Kent,05-33,U.S. Senate,,REPUBLICAN,Ting J,38,0,38
+Kent,06-33,U.S. Senate,,REPUBLICAN,O'Donnell,64,1,65
+Kent,06-33,U.S. Senate,,REPUBLICAN,Protack M,123,4,127
+Kent,06-33,U.S. Senate,,REPUBLICAN,Ting J,88,5,93
+Sussex,09-33,U.S. Senate,,REPUBLICAN,O'Donnell,17,0,17
+Sussex,09-33,U.S. Senate,,REPUBLICAN,Protack M,47,1,48
+Sussex,09-33,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+Sussex,10-33,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+Sussex,10-33,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+Sussex,10-33,U.S. Senate,,REPUBLICAN,Ting J,8,1,9
+Kent,01-34,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+Kent,01-34,U.S. Senate,,REPUBLICAN,Protack M,0,0,0
+Kent,01-34,U.S. Senate,,REPUBLICAN,Ting J,0,0,0
+Kent,02-34,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+Kent,02-34,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+Kent,02-34,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+Kent,03-34,U.S. Senate,,REPUBLICAN,O'Donnell,8,1,9
+Kent,03-34,U.S. Senate,,REPUBLICAN,Protack M,30,2,32
+Kent,03-34,U.S. Senate,,REPUBLICAN,Ting J,21,2,23
+Kent,04-34,U.S. Senate,,REPUBLICAN,O'Donnell,13,2,15
+Kent,04-34,U.S. Senate,,REPUBLICAN,Protack M,43,2,45
+Kent,04-34,U.S. Senate,,REPUBLICAN,Ting J,43,2,45
+Kent,05-34,U.S. Senate,,REPUBLICAN,O'Donnell,9,1,10
+Kent,05-34,U.S. Senate,,REPUBLICAN,Protack M,22,0,22
+Kent,05-34,U.S. Senate,,REPUBLICAN,Ting J,30,3,33
+Kent,06-34,U.S. Senate,,REPUBLICAN,O'Donnell,9,1,10
+Kent,06-34,U.S. Senate,,REPUBLICAN,Protack M,55,5,60
+Kent,06-34,U.S. Senate,,REPUBLICAN,Ting J,35,6,41
+Kent,08-34,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+Kent,08-34,U.S. Senate,,REPUBLICAN,Protack M,14,0,14
+Kent,08-34,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+Kent,09-34,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Kent,09-34,U.S. Senate,,REPUBLICAN,Protack M,6,0,6
+Kent,09-34,U.S. Senate,,REPUBLICAN,Ting J,2,0,2
+Kent,10-34,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+Kent,10-34,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+Kent,10-34,U.S. Senate,,REPUBLICAN,Ting J,4,0,4
+Sussex,01-35,U.S. Senate,,REPUBLICAN,O'Donnell,8,1,9
+Sussex,01-35,U.S. Senate,,REPUBLICAN,Protack M,27,1,28
+Sussex,01-35,U.S. Senate,,REPUBLICAN,Ting J,34,0,34
+Sussex,02-35,U.S. Senate,,REPUBLICAN,O'Donnell,20,0,20
+Sussex,02-35,U.S. Senate,,REPUBLICAN,Protack M,45,4,49
+Sussex,02-35,U.S. Senate,,REPUBLICAN,Ting J,25,0,25
+Sussex,03-35,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Sussex,03-35,U.S. Senate,,REPUBLICAN,Protack M,6,1,7
+Sussex,03-35,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+Sussex,04-35,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+Sussex,04-35,U.S. Senate,,REPUBLICAN,Protack M,30,2,32
+Sussex,04-35,U.S. Senate,,REPUBLICAN,Ting J,31,3,34
+Sussex,05-35,U.S. Senate,,REPUBLICAN,O'Donnell,1,0,1
+Sussex,05-35,U.S. Senate,,REPUBLICAN,Protack M,5,1,6
+Sussex,05-35,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+Sussex,06-35,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,06-35,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+Sussex,06-35,U.S. Senate,,REPUBLICAN,Ting J,8,0,8
+Sussex,07-35,U.S. Senate,,REPUBLICAN,O'Donnell,2,0,2
+Sussex,07-35,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+Sussex,07-35,U.S. Senate,,REPUBLICAN,Ting J,8,1,9
+Sussex,01-36,U.S. Senate,,REPUBLICAN,O'Donnell,8,0,8
+Sussex,01-36,U.S. Senate,,REPUBLICAN,Protack M,25,0,25
+Sussex,01-36,U.S. Senate,,REPUBLICAN,Ting J,27,0,27
+Sussex,02-36,U.S. Senate,,REPUBLICAN,O'Donnell,11,1,12
+Sussex,02-36,U.S. Senate,,REPUBLICAN,Protack M,35,0,35
+Sussex,02-36,U.S. Senate,,REPUBLICAN,Ting J,28,0,28
+Sussex,03-36,U.S. Senate,,REPUBLICAN,O'Donnell,4,1,5
+Sussex,03-36,U.S. Senate,,REPUBLICAN,Protack M,18,2,20
+Sussex,03-36,U.S. Senate,,REPUBLICAN,Ting J,22,1,23
+Sussex,04-36,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,04-36,U.S. Senate,,REPUBLICAN,Protack M,21,0,21
+Sussex,04-36,U.S. Senate,,REPUBLICAN,Ting J,16,1,17
+Sussex,05-36,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+Sussex,05-36,U.S. Senate,,REPUBLICAN,Protack M,3,0,3
+Sussex,05-36,U.S. Senate,,REPUBLICAN,Ting J,8,1,9
+Sussex,06-36,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+Sussex,06-36,U.S. Senate,,REPUBLICAN,Protack M,22,0,22
+Sussex,06-36,U.S. Senate,,REPUBLICAN,Ting J,14,1,15
+Sussex,07-36,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,07-36,U.S. Senate,,REPUBLICAN,Protack M,30,0,30
+Sussex,07-36,U.S. Senate,,REPUBLICAN,Ting J,23,2,25
+Sussex,08-36,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,08-36,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+Sussex,08-36,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+Sussex,01-37,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+Sussex,01-37,U.S. Senate,,REPUBLICAN,Protack M,42,0,42
+Sussex,01-37,U.S. Senate,,REPUBLICAN,Ting J,85,0,85
+Sussex,02-37,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+Sussex,02-37,U.S. Senate,,REPUBLICAN,Protack M,31,0,31
+Sussex,02-37,U.S. Senate,,REPUBLICAN,Ting J,47,0,47
+Sussex,03-37,U.S. Senate,,REPUBLICAN,O'Donnell,6,2,8
+Sussex,03-37,U.S. Senate,,REPUBLICAN,Protack M,11,0,11
+Sussex,03-37,U.S. Senate,,REPUBLICAN,Ting J,28,0,28
+Sussex,04-37,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+Sussex,04-37,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+Sussex,04-37,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+Sussex,05-37,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+Sussex,05-37,U.S. Senate,,REPUBLICAN,Protack M,22,1,23
+Sussex,05-37,U.S. Senate,,REPUBLICAN,Ting J,25,0,25
+Sussex,06-37,U.S. Senate,,REPUBLICAN,O'Donnell,9,1,10
+Sussex,06-37,U.S. Senate,,REPUBLICAN,Protack M,14,1,15
+Sussex,06-37,U.S. Senate,,REPUBLICAN,Ting J,61,3,64
+Sussex,07-37,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+Sussex,07-37,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+Sussex,07-37,U.S. Senate,,REPUBLICAN,Ting J,13,0,13
+Sussex,08-37,U.S. Senate,,REPUBLICAN,O'Donnell,0,0,0
+Sussex,08-37,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+Sussex,08-37,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+Sussex,01-38,U.S. Senate,,REPUBLICAN,O'Donnell,14,0,14
+Sussex,01-38,U.S. Senate,,REPUBLICAN,Protack M,16,0,16
+Sussex,01-38,U.S. Senate,,REPUBLICAN,Ting J,35,6,41
+Sussex,02-38,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+Sussex,02-38,U.S. Senate,,REPUBLICAN,Protack M,41,0,41
+Sussex,02-38,U.S. Senate,,REPUBLICAN,Ting J,29,0,29
+Sussex,03-38,U.S. Senate,,REPUBLICAN,O'Donnell,19,0,19
+Sussex,03-38,U.S. Senate,,REPUBLICAN,Protack M,45,0,45
+Sussex,03-38,U.S. Senate,,REPUBLICAN,Ting J,54,1,55
+Sussex,04-38,U.S. Senate,,REPUBLICAN,O'Donnell,17,0,17
+Sussex,04-38,U.S. Senate,,REPUBLICAN,Protack M,46,1,47
+Sussex,04-38,U.S. Senate,,REPUBLICAN,Ting J,69,3,72
+Sussex,05-38,U.S. Senate,,REPUBLICAN,O'Donnell,10,2,12
+Sussex,05-38,U.S. Senate,,REPUBLICAN,Protack M,29,0,29
+Sussex,05-38,U.S. Senate,,REPUBLICAN,Ting J,51,0,51
+Sussex,06-38,U.S. Senate,,REPUBLICAN,O'Donnell,21,0,21
+Sussex,06-38,U.S. Senate,,REPUBLICAN,Protack M,42,0,42
+Sussex,06-38,U.S. Senate,,REPUBLICAN,Ting J,30,0,30
+Sussex,07-38,U.S. Senate,,REPUBLICAN,O'Donnell,10,0,10
+Sussex,07-38,U.S. Senate,,REPUBLICAN,Protack M,37,1,38
+Sussex,07-38,U.S. Senate,,REPUBLICAN,Ting J,37,0,37
+Sussex,08-38,U.S. Senate,,REPUBLICAN,O'Donnell,3,1,4
+Sussex,08-38,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+Sussex,08-38,U.S. Senate,,REPUBLICAN,Ting J,3,0,3
+Sussex,01-39,U.S. Senate,,REPUBLICAN,O'Donnell,4,1,5
+Sussex,01-39,U.S. Senate,,REPUBLICAN,Protack M,7,1,8
+Sussex,01-39,U.S. Senate,,REPUBLICAN,Ting J,16,0,16
+Sussex,02-39,U.S. Senate,,REPUBLICAN,O'Donnell,11,1,12
+Sussex,02-39,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+Sussex,02-39,U.S. Senate,,REPUBLICAN,Ting J,37,0,37
+Sussex,03-39,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Sussex,03-39,U.S. Senate,,REPUBLICAN,Protack M,14,1,15
+Sussex,03-39,U.S. Senate,,REPUBLICAN,Ting J,23,0,23
+Sussex,04-39,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Sussex,04-39,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+Sussex,04-39,U.S. Senate,,REPUBLICAN,Ting J,36,0,36
+Sussex,05-39,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,05-39,U.S. Senate,,REPUBLICAN,Protack M,13,0,13
+Sussex,05-39,U.S. Senate,,REPUBLICAN,Ting J,36,0,36
+Sussex,06-39,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+Sussex,06-39,U.S. Senate,,REPUBLICAN,Protack M,20,1,21
+Sussex,06-39,U.S. Senate,,REPUBLICAN,Ting J,31,1,32
+Sussex,07-39,U.S. Senate,,REPUBLICAN,O'Donnell,5,0,5
+Sussex,07-39,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+Sussex,07-39,U.S. Senate,,REPUBLICAN,Ting J,10,0,10
+Sussex,01-40,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+Sussex,01-40,U.S. Senate,,REPUBLICAN,Protack M,13,1,14
+Sussex,01-40,U.S. Senate,,REPUBLICAN,Ting J,16,0,16
+Sussex,02-40,U.S. Senate,,REPUBLICAN,O'Donnell,8,1,9
+Sussex,02-40,U.S. Senate,,REPUBLICAN,Protack M,14,0,14
+Sussex,02-40,U.S. Senate,,REPUBLICAN,Ting J,13,1,14
+Sussex,03-40,U.S. Senate,,REPUBLICAN,O'Donnell,4,1,5
+Sussex,03-40,U.S. Senate,,REPUBLICAN,Protack M,7,0,7
+Sussex,03-40,U.S. Senate,,REPUBLICAN,Ting J,12,2,14
+Sussex,04-40,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+Sussex,04-40,U.S. Senate,,REPUBLICAN,Protack M,10,1,11
+Sussex,04-40,U.S. Senate,,REPUBLICAN,Ting J,18,0,18
+Sussex,05-40,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Sussex,05-40,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+Sussex,05-40,U.S. Senate,,REPUBLICAN,Ting J,12,0,12
+Sussex,06-40,U.S. Senate,,REPUBLICAN,O'Donnell,3,0,3
+Sussex,06-40,U.S. Senate,,REPUBLICAN,Protack M,12,0,12
+Sussex,06-40,U.S. Senate,,REPUBLICAN,Ting J,7,0,7
+Sussex,07-40,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+Sussex,07-40,U.S. Senate,,REPUBLICAN,Protack M,15,0,15
+Sussex,07-40,U.S. Senate,,REPUBLICAN,Ting J,11,0,11
+Sussex,01-41,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+Sussex,01-41,U.S. Senate,,REPUBLICAN,Protack M,32,0,32
+Sussex,01-41,U.S. Senate,,REPUBLICAN,Ting J,22,0,22
+Sussex,02-41,U.S. Senate,,REPUBLICAN,O'Donnell,6,0,6
+Sussex,02-41,U.S. Senate,,REPUBLICAN,Protack M,5,0,5
+Sussex,02-41,U.S. Senate,,REPUBLICAN,Ting J,16,0,16
+Sussex,03-41,U.S. Senate,,REPUBLICAN,O'Donnell,7,0,7
+Sussex,03-41,U.S. Senate,,REPUBLICAN,Protack M,10,0,10
+Sussex,03-41,U.S. Senate,,REPUBLICAN,Ting J,13,1,14
+Sussex,04-41,U.S. Senate,,REPUBLICAN,O'Donnell,2,1,3
+Sussex,04-41,U.S. Senate,,REPUBLICAN,Protack M,17,0,17
+Sussex,04-41,U.S. Senate,,REPUBLICAN,Ting J,21,0,21
+Sussex,05-41,U.S. Senate,,REPUBLICAN,O'Donnell,12,0,12
+Sussex,05-41,U.S. Senate,,REPUBLICAN,Protack M,18,0,18
+Sussex,05-41,U.S. Senate,,REPUBLICAN,Ting J,43,2,45
+Sussex,06-41,U.S. Senate,,REPUBLICAN,O'Donnell,8,1,9
+Sussex,06-41,U.S. Senate,,REPUBLICAN,Protack M,9,0,9
+Sussex,06-41,U.S. Senate,,REPUBLICAN,Ting J,9,0,9
+Sussex,07-41,U.S. Senate,,REPUBLICAN,O'Donnell,6,3,9
+Sussex,07-41,U.S. Senate,,REPUBLICAN,Protack M,26,1,27
+Sussex,07-41,U.S. Senate,,REPUBLICAN,Ting J,35,0,35
+Sussex,08-41,U.S. Senate,,REPUBLICAN,O'Donnell,11,0,11
+Sussex,08-41,U.S. Senate,,REPUBLICAN,Protack M,27,0,27
+Sussex,08-41,U.S. Senate,,REPUBLICAN,Ting J,42,0,42
+Sussex,09-41,U.S. Senate,,REPUBLICAN,O'Donnell,4,0,4
+Sussex,09-41,U.S. Senate,,REPUBLICAN,Protack M,8,0,8
+Sussex,09-41,U.S. Senate,,REPUBLICAN,Ting J,6,0,6
+Sussex,Total,U.S. Senate,,REPUBLICAN,O'Donnell,2423,82,2505
+Sussex,Total,U.S. Senate,,REPUBLICAN,Protack M,5614,157,5771
+Sussex,Total,U.S. Senate,,REPUBLICAN,Ting J,5925,185,6110
+New Castle,01-01,U.S. House,,DEMOCRATIC,Hartley-Na,70,0,70
+New Castle,01-01,U.S. House,,DEMOCRATIC,Spivack D,178,5,183
+New Castle,02-01,U.S. House,,DEMOCRATIC,Hartley-Na,121,4,125
+New Castle,02-01,U.S. House,,DEMOCRATIC,Spivack D,208,4,212
+New Castle,04-01,U.S. House,,DEMOCRATIC,Hartley-Na,50,1,51
+New Castle,04-01,U.S. House,,DEMOCRATIC,Spivack D,91,3,94
+New Castle,05-01,U.S. House,,DEMOCRATIC,Hartley-Na,84,1,85
+New Castle,05-01,U.S. House,,DEMOCRATIC,Spivack D,134,0,134
+New Castle,06-01,U.S. House,,DEMOCRATIC,Hartley-Na,30,0,30
+New Castle,06-01,U.S. House,,DEMOCRATIC,Spivack D,88,2,90
+New Castle,07-01,U.S. House,,DEMOCRATIC,Hartley-Na,17,1,18
+New Castle,07-01,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,08-01,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+New Castle,08-01,U.S. House,,DEMOCRATIC,Spivack D,10,0,10
+New Castle,09-01,U.S. House,,DEMOCRATIC,Hartley-Na,103,2,105
+New Castle,09-01,U.S. House,,DEMOCRATIC,Spivack D,132,3,135
+New Castle,10-01,U.S. House,,DEMOCRATIC,Hartley-Na,17,0,17
+New Castle,10-01,U.S. House,,DEMOCRATIC,Spivack D,26,0,26
+New Castle,11-01,U.S. House,,DEMOCRATIC,Hartley-Na,51,0,51
+New Castle,11-01,U.S. House,,DEMOCRATIC,Spivack D,76,1,77
+New Castle,01-02,U.S. House,,DEMOCRATIC,Hartley-Na,17,0,17
+New Castle,01-02,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,02-02,U.S. House,,DEMOCRATIC,Hartley-Na,68,2,70
+New Castle,02-02,U.S. House,,DEMOCRATIC,Spivack D,102,3,105
+New Castle,04-02,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,04-02,U.S. House,,DEMOCRATIC,Spivack D,23,0,23
+New Castle,05-02,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,05-02,U.S. House,,DEMOCRATIC,Spivack D,43,1,44
+New Castle,06-02,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,06-02,U.S. House,,DEMOCRATIC,Spivack D,35,0,35
+New Castle,08-02,U.S. House,,DEMOCRATIC,Hartley-Na,29,0,29
+New Castle,08-02,U.S. House,,DEMOCRATIC,Spivack D,45,2,47
+New Castle,10-02,U.S. House,,DEMOCRATIC,Hartley-Na,34,2,36
+New Castle,10-02,U.S. House,,DEMOCRATIC,Spivack D,61,1,62
+New Castle,11-02,U.S. House,,DEMOCRATIC,Hartley-Na,47,0,47
+New Castle,11-02,U.S. House,,DEMOCRATIC,Spivack D,82,2,84
+New Castle,12-02,U.S. House,,DEMOCRATIC,Hartley-Na,13,0,13
+New Castle,12-02,U.S. House,,DEMOCRATIC,Spivack D,31,0,31
+New Castle,15-02,U.S. House,,DEMOCRATIC,Hartley-Na,0,0,0
+New Castle,15-02,U.S. House,,DEMOCRATIC,Spivack D,0,0,0
+New Castle,16-02,U.S. House,,DEMOCRATIC,Hartley-Na,25,1,26
+New Castle,16-02,U.S. House,,DEMOCRATIC,Spivack D,33,0,33
+New Castle,17-02,U.S. House,,DEMOCRATIC,Hartley-Na,0,7,7
+New Castle,17-02,U.S. House,,DEMOCRATIC,Spivack D,0,13,13
+New Castle,01-03,U.S. House,,DEMOCRATIC,Hartley-Na,46,1,47
+New Castle,01-03,U.S. House,,DEMOCRATIC,Spivack D,94,1,95
+New Castle,02-03,U.S. House,,DEMOCRATIC,Hartley-Na,56,0,56
+New Castle,02-03,U.S. House,,DEMOCRATIC,Spivack D,106,0,106
+New Castle,03-03,U.S. House,,DEMOCRATIC,Hartley-Na,15,0,15
+New Castle,03-03,U.S. House,,DEMOCRATIC,Spivack D,14,1,15
+New Castle,04-03,U.S. House,,DEMOCRATIC,Hartley-Na,16,2,18
+New Castle,04-03,U.S. House,,DEMOCRATIC,Spivack D,18,0,18
+New Castle,05-03,U.S. House,,DEMOCRATIC,Hartley-Na,45,1,46
+New Castle,05-03,U.S. House,,DEMOCRATIC,Spivack D,57,1,58
+New Castle,07-03,U.S. House,,DEMOCRATIC,Hartley-Na,22,1,23
+New Castle,07-03,U.S. House,,DEMOCRATIC,Spivack D,39,1,40
+New Castle,08-03,U.S. House,,DEMOCRATIC,Hartley-Na,66,0,66
+New Castle,08-03,U.S. House,,DEMOCRATIC,Spivack D,114,0,114
+New Castle,10-03,U.S. House,,DEMOCRATIC,Hartley-Na,68,1,69
+New Castle,10-03,U.S. House,,DEMOCRATIC,Spivack D,78,2,80
+New Castle,12-03,U.S. House,,DEMOCRATIC,Hartley-Na,0,0,0
+New Castle,12-03,U.S. House,,DEMOCRATIC,Spivack D,3,0,3
+New Castle,01-04,U.S. House,,DEMOCRATIC,Hartley-Na,55,0,55
+New Castle,01-04,U.S. House,,DEMOCRATIC,Spivack D,111,2,113
+New Castle,02-04,U.S. House,,DEMOCRATIC,Hartley-Na,10,2,12
+New Castle,02-04,U.S. House,,DEMOCRATIC,Spivack D,17,4,21
+New Castle,03-04,U.S. House,,DEMOCRATIC,Hartley-Na,62,4,66
+New Castle,03-04,U.S. House,,DEMOCRATIC,Spivack D,147,9,156
+New Castle,04-04,U.S. House,,DEMOCRATIC,Hartley-Na,47,3,50
+New Castle,04-04,U.S. House,,DEMOCRATIC,Spivack D,70,0,70
+New Castle,05-04,U.S. House,,DEMOCRATIC,Hartley-Na,47,0,47
+New Castle,05-04,U.S. House,,DEMOCRATIC,Spivack D,83,1,84
+New Castle,06-04,U.S. House,,DEMOCRATIC,Hartley-Na,50,0,50
+New Castle,06-04,U.S. House,,DEMOCRATIC,Spivack D,112,3,115
+New Castle,07-04,U.S. House,,DEMOCRATIC,Hartley-Na,33,0,33
+New Castle,07-04,U.S. House,,DEMOCRATIC,Spivack D,80,1,81
+New Castle,08-04,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+New Castle,08-04,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+New Castle,09-04,U.S. House,,DEMOCRATIC,Hartley-Na,52,4,56
+New Castle,09-04,U.S. House,,DEMOCRATIC,Spivack D,70,7,77
+New Castle,10-04,U.S. House,,DEMOCRATIC,Hartley-Na,43,1,44
+New Castle,10-04,U.S. House,,DEMOCRATIC,Spivack D,80,0,80
+New Castle,12-04,U.S. House,,DEMOCRATIC,Hartley-Na,7,0,7
+New Castle,12-04,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,13-04,U.S. House,,DEMOCRATIC,Hartley-Na,31,2,33
+New Castle,13-04,U.S. House,,DEMOCRATIC,Spivack D,41,0,41
+New Castle,16-04,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+New Castle,16-04,U.S. House,,DEMOCRATIC,Spivack D,1,1,2
+New Castle,18-04,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,18-04,U.S. House,,DEMOCRATIC,Spivack D,10,0,10
+New Castle,01-05,U.S. House,,DEMOCRATIC,Hartley-Na,28,0,28
+New Castle,01-05,U.S. House,,DEMOCRATIC,Spivack D,16,1,17
+New Castle,03-05,U.S. House,,DEMOCRATIC,Hartley-Na,12,1,13
+New Castle,03-05,U.S. House,,DEMOCRATIC,Spivack D,19,1,20
+New Castle,04-05,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,04-05,U.S. House,,DEMOCRATIC,Spivack D,23,0,23
+New Castle,06-05,U.S. House,,DEMOCRATIC,Hartley-Na,8,1,9
+New Castle,06-05,U.S. House,,DEMOCRATIC,Spivack D,20,0,20
+New Castle,09-05,U.S. House,,DEMOCRATIC,Hartley-Na,20,0,20
+New Castle,09-05,U.S. House,,DEMOCRATIC,Spivack D,18,0,18
+New Castle,11-05,U.S. House,,DEMOCRATIC,Hartley-Na,6,1,7
+New Castle,11-05,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+New Castle,01-06,U.S. House,,DEMOCRATIC,Hartley-Na,15,0,15
+New Castle,01-06,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+New Castle,02-06,U.S. House,,DEMOCRATIC,Hartley-Na,26,2,28
+New Castle,02-06,U.S. House,,DEMOCRATIC,Spivack D,82,0,82
+New Castle,03-06,U.S. House,,DEMOCRATIC,Hartley-Na,100,1,101
+New Castle,03-06,U.S. House,,DEMOCRATIC,Spivack D,96,2,98
+New Castle,04-06,U.S. House,,DEMOCRATIC,Hartley-Na,46,0,46
+New Castle,04-06,U.S. House,,DEMOCRATIC,Spivack D,60,0,60
+New Castle,05-06,U.S. House,,DEMOCRATIC,Hartley-Na,16,0,16
+New Castle,05-06,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+New Castle,06-06,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,06-06,U.S. House,,DEMOCRATIC,Spivack D,43,0,43
+New Castle,07-06,U.S. House,,DEMOCRATIC,Hartley-Na,41,0,41
+New Castle,07-06,U.S. House,,DEMOCRATIC,Spivack D,58,0,58
+New Castle,09-06,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+New Castle,09-06,U.S. House,,DEMOCRATIC,Spivack D,9,0,9
+New Castle,10-06,U.S. House,,DEMOCRATIC,Hartley-Na,38,1,39
+New Castle,10-06,U.S. House,,DEMOCRATIC,Spivack D,27,0,27
+New Castle,11-06,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,11-06,U.S. House,,DEMOCRATIC,Spivack D,8,0,8
+New Castle,12-06,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+New Castle,12-06,U.S. House,,DEMOCRATIC,Spivack D,14,1,15
+New Castle,01-07,U.S. House,,DEMOCRATIC,Hartley-Na,21,0,21
+New Castle,01-07,U.S. House,,DEMOCRATIC,Spivack D,33,3,36
+New Castle,02-07,U.S. House,,DEMOCRATIC,Hartley-Na,39,0,39
+New Castle,02-07,U.S. House,,DEMOCRATIC,Spivack D,98,2,100
+New Castle,04-07,U.S. House,,DEMOCRATIC,Hartley-Na,6,1,7
+New Castle,04-07,U.S. House,,DEMOCRATIC,Spivack D,18,1,19
+New Castle,05-07,U.S. House,,DEMOCRATIC,Hartley-Na,22,0,22
+New Castle,05-07,U.S. House,,DEMOCRATIC,Spivack D,41,2,43
+New Castle,06-07,U.S. House,,DEMOCRATIC,Hartley-Na,23,1,24
+New Castle,06-07,U.S. House,,DEMOCRATIC,Spivack D,34,1,35
+New Castle,07-07,U.S. House,,DEMOCRATIC,Hartley-Na,14,1,15
+New Castle,07-07,U.S. House,,DEMOCRATIC,Spivack D,40,0,40
+New Castle,08-07,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,08-07,U.S. House,,DEMOCRATIC,Spivack D,28,0,28
+New Castle,09-07,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,09-07,U.S. House,,DEMOCRATIC,Spivack D,6,1,7
+New Castle,12-07,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,12-07,U.S. House,,DEMOCRATIC,Spivack D,33,0,33
+New Castle,13-07,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,13-07,U.S. House,,DEMOCRATIC,Spivack D,55,1,56
+New Castle,01-08,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,01-08,U.S. House,,DEMOCRATIC,Spivack D,12,0,12
+New Castle,02-08,U.S. House,,DEMOCRATIC,Hartley-Na,26,0,26
+New Castle,02-08,U.S. House,,DEMOCRATIC,Spivack D,36,0,36
+New Castle,03-08,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,03-08,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+New Castle,04-08,U.S. House,,DEMOCRATIC,Hartley-Na,19,1,20
+New Castle,04-08,U.S. House,,DEMOCRATIC,Spivack D,15,0,15
+New Castle,05-08,U.S. House,,DEMOCRATIC,Hartley-Na,22,0,22
+New Castle,05-08,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+New Castle,06-08,U.S. House,,DEMOCRATIC,Hartley-Na,19,0,19
+New Castle,06-08,U.S. House,,DEMOCRATIC,Spivack D,31,0,31
+New Castle,07-08,U.S. House,,DEMOCRATIC,Hartley-Na,11,1,12
+New Castle,07-08,U.S. House,,DEMOCRATIC,Spivack D,21,0,21
+New Castle,08-08,U.S. House,,DEMOCRATIC,Hartley-Na,14,0,14
+New Castle,08-08,U.S. House,,DEMOCRATIC,Spivack D,16,2,18
+Kent,09-08,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+Kent,09-08,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+Kent,10-08,U.S. House,,DEMOCRATIC,Hartley-Na,9,5,14
+Kent,10-08,U.S. House,,DEMOCRATIC,Spivack D,5,0,5
+New Castle,01-09,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+New Castle,01-09,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+New Castle,02-09,U.S. House,,DEMOCRATIC,Hartley-Na,35,2,37
+New Castle,02-09,U.S. House,,DEMOCRATIC,Spivack D,28,2,30
+New Castle,03-09,U.S. House,,DEMOCRATIC,Hartley-Na,19,0,19
+New Castle,03-09,U.S. House,,DEMOCRATIC,Spivack D,28,2,30
+New Castle,04-09,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,04-09,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,05-09,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,05-09,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+New Castle,07-09,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+New Castle,07-09,U.S. House,,DEMOCRATIC,Spivack D,22,0,22
+New Castle,08-09,U.S. House,,DEMOCRATIC,Hartley-Na,14,0,14
+New Castle,08-09,U.S. House,,DEMOCRATIC,Spivack D,32,0,32
+New Castle,09-09,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,09-09,U.S. House,,DEMOCRATIC,Spivack D,17,2,19
+New Castle,01-10,U.S. House,,DEMOCRATIC,Hartley-Na,15,0,15
+New Castle,01-10,U.S. House,,DEMOCRATIC,Spivack D,31,1,32
+New Castle,02-10,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,02-10,U.S. House,,DEMOCRATIC,Spivack D,27,2,29
+New Castle,04-10,U.S. House,,DEMOCRATIC,Hartley-Na,17,1,18
+New Castle,04-10,U.S. House,,DEMOCRATIC,Spivack D,23,0,23
+New Castle,06-10,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+New Castle,06-10,U.S. House,,DEMOCRATIC,Spivack D,16,0,16
+New Castle,07-10,U.S. House,,DEMOCRATIC,Hartley-Na,20,3,23
+New Castle,07-10,U.S. House,,DEMOCRATIC,Spivack D,31,0,31
+New Castle,08-10,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,08-10,U.S. House,,DEMOCRATIC,Spivack D,20,2,22
+New Castle,09-10,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,09-10,U.S. House,,DEMOCRATIC,Spivack D,15,0,15
+New Castle,10-10,U.S. House,,DEMOCRATIC,Hartley-Na,38,1,39
+New Castle,10-10,U.S. House,,DEMOCRATIC,Spivack D,20,0,20
+New Castle,11-10,U.S. House,,DEMOCRATIC,Hartley-Na,14,0,14
+New Castle,11-10,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,01-11,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,01-11,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+New Castle,02-11,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+New Castle,02-11,U.S. House,,DEMOCRATIC,Spivack D,9,1,10
+New Castle,03-11,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,03-11,U.S. House,,DEMOCRATIC,Spivack D,31,1,32
+New Castle,04-11,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,04-11,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+New Castle,05-11,U.S. House,,DEMOCRATIC,Hartley-Na,22,0,22
+New Castle,05-11,U.S. House,,DEMOCRATIC,Spivack D,52,2,54
+New Castle,06-11,U.S. House,,DEMOCRATIC,Hartley-Na,19,0,19
+New Castle,06-11,U.S. House,,DEMOCRATIC,Spivack D,18,0,18
+New Castle,07-11,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,07-11,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+New Castle,08-11,U.S. House,,DEMOCRATIC,Hartley-Na,14,0,14
+New Castle,08-11,U.S. House,,DEMOCRATIC,Spivack D,28,3,31
+New Castle,10-11,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+New Castle,10-11,U.S. House,,DEMOCRATIC,Spivack D,29,0,29
+New Castle,12-11,U.S. House,,DEMOCRATIC,Hartley-Na,27,1,28
+New Castle,12-11,U.S. House,,DEMOCRATIC,Spivack D,35,1,36
+New Castle,14-11,U.S. House,,DEMOCRATIC,Hartley-Na,11,1,12
+New Castle,14-11,U.S. House,,DEMOCRATIC,Spivack D,18,1,19
+New Castle,01-12,U.S. House,,DEMOCRATIC,Hartley-Na,24,0,24
+New Castle,01-12,U.S. House,,DEMOCRATIC,Spivack D,32,1,33
+New Castle,02-12,U.S. House,,DEMOCRATIC,Hartley-Na,9,1,10
+New Castle,02-12,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+New Castle,03-12,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,03-12,U.S. House,,DEMOCRATIC,Spivack D,22,0,22
+New Castle,04-12,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+New Castle,04-12,U.S. House,,DEMOCRATIC,Spivack D,9,0,9
+New Castle,06-12,U.S. House,,DEMOCRATIC,Hartley-Na,27,0,27
+New Castle,06-12,U.S. House,,DEMOCRATIC,Spivack D,48,1,49
+New Castle,07-12,U.S. House,,DEMOCRATIC,Hartley-Na,7,0,7
+New Castle,07-12,U.S. House,,DEMOCRATIC,Spivack D,31,4,35
+New Castle,08-12,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,08-12,U.S. House,,DEMOCRATIC,Spivack D,22,0,22
+New Castle,11-12,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+New Castle,11-12,U.S. House,,DEMOCRATIC,Spivack D,23,3,26
+New Castle,12-12,U.S. House,,DEMOCRATIC,Hartley-Na,24,0,24
+New Castle,12-12,U.S. House,,DEMOCRATIC,Spivack D,43,0,43
+New Castle,01-13,U.S. House,,DEMOCRATIC,Hartley-Na,36,1,37
+New Castle,01-13,U.S. House,,DEMOCRATIC,Spivack D,51,0,51
+New Castle,03-13,U.S. House,,DEMOCRATIC,Hartley-Na,21,1,22
+New Castle,03-13,U.S. House,,DEMOCRATIC,Spivack D,21,0,21
+New Castle,04-13,U.S. House,,DEMOCRATIC,Hartley-Na,67,0,67
+New Castle,04-13,U.S. House,,DEMOCRATIC,Spivack D,65,1,66
+New Castle,05-13,U.S. House,,DEMOCRATIC,Hartley-Na,38,0,38
+New Castle,05-13,U.S. House,,DEMOCRATIC,Spivack D,46,0,46
+New Castle,07-13,U.S. House,,DEMOCRATIC,Hartley-Na,31,0,31
+New Castle,07-13,U.S. House,,DEMOCRATIC,Spivack D,30,2,32
+New Castle,08-13,U.S. House,,DEMOCRATIC,Hartley-Na,29,1,30
+New Castle,08-13,U.S. House,,DEMOCRATIC,Spivack D,25,0,25
+New Castle,09-13,U.S. House,,DEMOCRATIC,Hartley-Na,46,2,48
+New Castle,09-13,U.S. House,,DEMOCRATIC,Spivack D,80,0,80
+New Castle,10-13,U.S. House,,DEMOCRATIC,Hartley-Na,45,0,45
+New Castle,10-13,U.S. House,,DEMOCRATIC,Spivack D,51,3,54
+New Castle,11-13,U.S. House,,DEMOCRATIC,Hartley-Na,31,1,32
+New Castle,11-13,U.S. House,,DEMOCRATIC,Spivack D,43,0,43
+Sussex,01-14,U.S. House,,DEMOCRATIC,Hartley-Na,20,2,22
+Sussex,01-14,U.S. House,,DEMOCRATIC,Spivack D,39,2,41
+Sussex,02-14,U.S. House,,DEMOCRATIC,Hartley-Na,17,0,17
+Sussex,02-14,U.S. House,,DEMOCRATIC,Spivack D,14,1,15
+Sussex,03-14,U.S. House,,DEMOCRATIC,Hartley-Na,10,1,11
+Sussex,03-14,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+Sussex,04-14,U.S. House,,DEMOCRATIC,Hartley-Na,19,2,21
+Sussex,04-14,U.S. House,,DEMOCRATIC,Spivack D,34,2,36
+Sussex,05-14,U.S. House,,DEMOCRATIC,Hartley-Na,20,0,20
+Sussex,05-14,U.S. House,,DEMOCRATIC,Spivack D,28,3,31
+Sussex,06-14,U.S. House,,DEMOCRATIC,Hartley-Na,29,1,30
+Sussex,06-14,U.S. House,,DEMOCRATIC,Spivack D,23,0,23
+Sussex,07-14,U.S. House,,DEMOCRATIC,Hartley-Na,7,1,8
+Sussex,07-14,U.S. House,,DEMOCRATIC,Spivack D,21,1,22
+New Castle,01-15,U.S. House,,DEMOCRATIC,Hartley-Na,21,1,22
+New Castle,01-15,U.S. House,,DEMOCRATIC,Spivack D,21,0,21
+New Castle,02-15,U.S. House,,DEMOCRATIC,Hartley-Na,36,0,36
+New Castle,02-15,U.S. House,,DEMOCRATIC,Spivack D,29,1,30
+New Castle,03-15,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,03-15,U.S. House,,DEMOCRATIC,Spivack D,4,0,4
+New Castle,04-15,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,04-15,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+New Castle,05-15,U.S. House,,DEMOCRATIC,Hartley-Na,19,0,19
+New Castle,05-15,U.S. House,,DEMOCRATIC,Spivack D,12,0,12
+New Castle,07-15,U.S. House,,DEMOCRATIC,Hartley-Na,12,2,14
+New Castle,07-15,U.S. House,,DEMOCRATIC,Spivack D,25,0,25
+New Castle,09-15,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,09-15,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,01-16,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+New Castle,01-16,U.S. House,,DEMOCRATIC,Spivack D,9,2,11
+New Castle,02-16,U.S. House,,DEMOCRATIC,Hartley-Na,34,2,36
+New Castle,02-16,U.S. House,,DEMOCRATIC,Spivack D,31,1,32
+New Castle,03-16,U.S. House,,DEMOCRATIC,Hartley-Na,47,1,48
+New Castle,03-16,U.S. House,,DEMOCRATIC,Spivack D,27,0,27
+New Castle,04-16,U.S. House,,DEMOCRATIC,Hartley-Na,16,0,16
+New Castle,04-16,U.S. House,,DEMOCRATIC,Spivack D,18,2,20
+New Castle,05-16,U.S. House,,DEMOCRATIC,Hartley-Na,32,1,33
+New Castle,05-16,U.S. House,,DEMOCRATIC,Spivack D,33,2,35
+New Castle,06-16,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,06-16,U.S. House,,DEMOCRATIC,Spivack D,26,0,26
+New Castle,07-16,U.S. House,,DEMOCRATIC,Hartley-Na,33,0,33
+New Castle,07-16,U.S. House,,DEMOCRATIC,Spivack D,46,0,46
+New Castle,08-16,U.S. House,,DEMOCRATIC,Hartley-Na,26,0,26
+New Castle,08-16,U.S. House,,DEMOCRATIC,Spivack D,48,2,50
+New Castle,01-17,U.S. House,,DEMOCRATIC,Hartley-Na,14,0,14
+New Castle,01-17,U.S. House,,DEMOCRATIC,Spivack D,7,1,8
+New Castle,03-17,U.S. House,,DEMOCRATIC,Hartley-Na,21,1,22
+New Castle,03-17,U.S. House,,DEMOCRATIC,Spivack D,34,2,36
+New Castle,04-17,U.S. House,,DEMOCRATIC,Hartley-Na,26,0,26
+New Castle,04-17,U.S. House,,DEMOCRATIC,Spivack D,55,2,57
+New Castle,05-17,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,05-17,U.S. House,,DEMOCRATIC,Spivack D,24,0,24
+New Castle,06-17,U.S. House,,DEMOCRATIC,Hartley-Na,9,1,10
+New Castle,06-17,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+New Castle,07-17,U.S. House,,DEMOCRATIC,Hartley-Na,31,1,32
+New Castle,07-17,U.S. House,,DEMOCRATIC,Spivack D,28,0,28
+New Castle,09-17,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,09-17,U.S. House,,DEMOCRATIC,Spivack D,18,0,18
+New Castle,10-17,U.S. House,,DEMOCRATIC,Hartley-Na,12,2,14
+New Castle,10-17,U.S. House,,DEMOCRATIC,Spivack D,11,0,11
+New Castle,11-17,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,11-17,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+New Castle,01-18,U.S. House,,DEMOCRATIC,Hartley-Na,17,1,18
+New Castle,01-18,U.S. House,,DEMOCRATIC,Spivack D,35,0,35
+New Castle,02-18,U.S. House,,DEMOCRATIC,Hartley-Na,15,0,15
+New Castle,02-18,U.S. House,,DEMOCRATIC,Spivack D,16,1,17
+New Castle,03-18,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+New Castle,03-18,U.S. House,,DEMOCRATIC,Spivack D,9,0,9
+New Castle,04-18,U.S. House,,DEMOCRATIC,Hartley-Na,27,0,27
+New Castle,04-18,U.S. House,,DEMOCRATIC,Spivack D,22,1,23
+New Castle,05-18,U.S. House,,DEMOCRATIC,Hartley-Na,36,0,36
+New Castle,05-18,U.S. House,,DEMOCRATIC,Spivack D,23,1,24
+New Castle,08-18,U.S. House,,DEMOCRATIC,Hartley-Na,14,1,15
+New Castle,08-18,U.S. House,,DEMOCRATIC,Spivack D,11,0,11
+New Castle,01-19,U.S. House,,DEMOCRATIC,Hartley-Na,30,1,31
+New Castle,01-19,U.S. House,,DEMOCRATIC,Spivack D,33,1,34
+New Castle,02-19,U.S. House,,DEMOCRATIC,Hartley-Na,11,1,12
+New Castle,02-19,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,03-19,U.S. House,,DEMOCRATIC,Hartley-Na,10,1,11
+New Castle,03-19,U.S. House,,DEMOCRATIC,Spivack D,25,2,27
+New Castle,04-19,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+New Castle,04-19,U.S. House,,DEMOCRATIC,Spivack D,19,2,21
+New Castle,05-19,U.S. House,,DEMOCRATIC,Hartley-Na,25,4,29
+New Castle,05-19,U.S. House,,DEMOCRATIC,Spivack D,22,2,24
+New Castle,07-19,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,07-19,U.S. House,,DEMOCRATIC,Spivack D,11,0,11
+New Castle,09-19,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+New Castle,09-19,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+New Castle,11-19,U.S. House,,DEMOCRATIC,Hartley-Na,17,1,18
+New Castle,11-19,U.S. House,,DEMOCRATIC,Spivack D,24,2,26
+New Castle,01-20,U.S. House,,DEMOCRATIC,Hartley-Na,15,1,16
+New Castle,01-20,U.S. House,,DEMOCRATIC,Spivack D,41,2,43
+New Castle,02-20,U.S. House,,DEMOCRATIC,Hartley-Na,15,0,15
+New Castle,02-20,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+New Castle,03-20,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,03-20,U.S. House,,DEMOCRATIC,Spivack D,20,0,20
+New Castle,04-20,U.S. House,,DEMOCRATIC,Hartley-Na,10,2,12
+New Castle,04-20,U.S. House,,DEMOCRATIC,Spivack D,22,1,23
+New Castle,05-20,U.S. House,,DEMOCRATIC,Hartley-Na,2,0,2
+New Castle,05-20,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+New Castle,06-20,U.S. House,,DEMOCRATIC,Hartley-Na,12,0,12
+New Castle,06-20,U.S. House,,DEMOCRATIC,Spivack D,49,0,49
+New Castle,10-20,U.S. House,,DEMOCRATIC,Hartley-Na,13,0,13
+New Castle,10-20,U.S. House,,DEMOCRATIC,Spivack D,27,0,27
+New Castle,12-20,U.S. House,,DEMOCRATIC,Hartley-Na,13,0,13
+New Castle,12-20,U.S. House,,DEMOCRATIC,Spivack D,20,0,20
+New Castle,13-20,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+New Castle,13-20,U.S. House,,DEMOCRATIC,Spivack D,22,0,22
+New Castle,01-21,U.S. House,,DEMOCRATIC,Hartley-Na,13,1,14
+New Castle,01-21,U.S. House,,DEMOCRATIC,Spivack D,33,1,34
+New Castle,02-21,U.S. House,,DEMOCRATIC,Hartley-Na,14,0,14
+New Castle,02-21,U.S. House,,DEMOCRATIC,Spivack D,23,0,23
+New Castle,03-21,U.S. House,,DEMOCRATIC,Hartley-Na,15,1,16
+New Castle,03-21,U.S. House,,DEMOCRATIC,Spivack D,21,0,21
+New Castle,04-21,U.S. House,,DEMOCRATIC,Hartley-Na,14,1,15
+New Castle,04-21,U.S. House,,DEMOCRATIC,Spivack D,18,0,18
+New Castle,08-21,U.S. House,,DEMOCRATIC,Hartley-Na,7,0,7
+New Castle,08-21,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+New Castle,11-21,U.S. House,,DEMOCRATIC,Hartley-Na,19,1,20
+New Castle,11-21,U.S. House,,DEMOCRATIC,Spivack D,24,0,24
+New Castle,12-21,U.S. House,,DEMOCRATIC,Hartley-Na,1,1,2
+New Castle,12-21,U.S. House,,DEMOCRATIC,Spivack D,8,1,9
+New Castle,01-22,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+New Castle,01-22,U.S. House,,DEMOCRATIC,Spivack D,25,1,26
+New Castle,02-22,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+New Castle,02-22,U.S. House,,DEMOCRATIC,Spivack D,16,1,17
+New Castle,04-22,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,04-22,U.S. House,,DEMOCRATIC,Spivack D,18,1,19
+New Castle,06-22,U.S. House,,DEMOCRATIC,Hartley-Na,24,0,24
+New Castle,06-22,U.S. House,,DEMOCRATIC,Spivack D,44,0,44
+New Castle,07-22,U.S. House,,DEMOCRATIC,Hartley-Na,16,0,16
+New Castle,07-22,U.S. House,,DEMOCRATIC,Spivack D,23,0,23
+New Castle,11-22,U.S. House,,DEMOCRATIC,Hartley-Na,20,0,20
+New Castle,11-22,U.S. House,,DEMOCRATIC,Spivack D,19,4,23
+New Castle,14-22,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+New Castle,14-22,U.S. House,,DEMOCRATIC,Spivack D,9,0,9
+New Castle,01-23,U.S. House,,DEMOCRATIC,Hartley-Na,18,1,19
+New Castle,01-23,U.S. House,,DEMOCRATIC,Spivack D,12,0,12
+New Castle,02-23,U.S. House,,DEMOCRATIC,Hartley-Na,22,0,22
+New Castle,02-23,U.S. House,,DEMOCRATIC,Spivack D,46,6,52
+New Castle,03-23,U.S. House,,DEMOCRATIC,Hartley-Na,23,3,26
+New Castle,03-23,U.S. House,,DEMOCRATIC,Spivack D,61,1,62
+New Castle,06-23,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+New Castle,06-23,U.S. House,,DEMOCRATIC,Spivack D,10,0,10
+New Castle,07-23,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+New Castle,07-23,U.S. House,,DEMOCRATIC,Spivack D,26,1,27
+New Castle,08-23,U.S. House,,DEMOCRATIC,Hartley-Na,2,0,2
+New Castle,08-23,U.S. House,,DEMOCRATIC,Spivack D,10,1,11
+New Castle,09-23,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,09-23,U.S. House,,DEMOCRATIC,Spivack D,30,1,31
+New Castle,10-23,U.S. House,,DEMOCRATIC,Hartley-Na,3,1,4
+New Castle,10-23,U.S. House,,DEMOCRATIC,Spivack D,9,0,9
+New Castle,01-24,U.S. House,,DEMOCRATIC,Hartley-Na,19,1,20
+New Castle,01-24,U.S. House,,DEMOCRATIC,Spivack D,28,2,30
+New Castle,03-24,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+New Castle,03-24,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+New Castle,04-24,U.S. House,,DEMOCRATIC,Hartley-Na,16,1,17
+New Castle,04-24,U.S. House,,DEMOCRATIC,Spivack D,12,1,13
+New Castle,06-24,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,06-24,U.S. House,,DEMOCRATIC,Spivack D,15,0,15
+New Castle,07-24,U.S. House,,DEMOCRATIC,Hartley-Na,11,1,12
+New Castle,07-24,U.S. House,,DEMOCRATIC,Spivack D,10,1,11
+New Castle,08-24,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+New Castle,08-24,U.S. House,,DEMOCRATIC,Spivack D,26,0,26
+New Castle,01-25,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+New Castle,01-25,U.S. House,,DEMOCRATIC,Spivack D,16,1,17
+New Castle,02-25,U.S. House,,DEMOCRATIC,Hartley-Na,41,1,42
+New Castle,02-25,U.S. House,,DEMOCRATIC,Spivack D,35,1,36
+New Castle,03-25,U.S. House,,DEMOCRATIC,Hartley-Na,27,1,28
+New Castle,03-25,U.S. House,,DEMOCRATIC,Spivack D,18,0,18
+New Castle,05-25,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,05-25,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+New Castle,08-25,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+New Castle,08-25,U.S. House,,DEMOCRATIC,Spivack D,10,0,10
+New Castle,01-26,U.S. House,,DEMOCRATIC,Hartley-Na,80,1,81
+New Castle,01-26,U.S. House,,DEMOCRATIC,Spivack D,113,4,117
+New Castle,02-26,U.S. House,,DEMOCRATIC,Hartley-Na,42,0,42
+New Castle,02-26,U.S. House,,DEMOCRATIC,Spivack D,43,1,44
+New Castle,03-26,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+New Castle,03-26,U.S. House,,DEMOCRATIC,Spivack D,34,2,36
+New Castle,05-26,U.S. House,,DEMOCRATIC,Hartley-Na,74,0,74
+New Castle,05-26,U.S. House,,DEMOCRATIC,Spivack D,86,1,87
+New Castle,09-26,U.S. House,,DEMOCRATIC,Hartley-Na,52,0,52
+New Castle,09-26,U.S. House,,DEMOCRATIC,Spivack D,40,2,42
+New Castle,01-27,U.S. House,,DEMOCRATIC,Hartley-Na,25,0,25
+New Castle,01-27,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+New Castle,02-27,U.S. House,,DEMOCRATIC,Hartley-Na,15,2,17
+New Castle,02-27,U.S. House,,DEMOCRATIC,Spivack D,16,0,16
+New Castle,03-27,U.S. House,,DEMOCRATIC,Hartley-Na,24,2,26
+New Castle,03-27,U.S. House,,DEMOCRATIC,Spivack D,34,0,34
+New Castle,06-27,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+New Castle,06-27,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+New Castle,07-27,U.S. House,,DEMOCRATIC,Hartley-Na,13,0,13
+New Castle,07-27,U.S. House,,DEMOCRATIC,Spivack D,11,1,12
+New Castle,10-27,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+New Castle,10-27,U.S. House,,DEMOCRATIC,Spivack D,15,0,15
+Kent,01-28,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+Kent,01-28,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+Kent,02-28,U.S. House,,DEMOCRATIC,Hartley-Na,13,3,16
+Kent,02-28,U.S. House,,DEMOCRATIC,Spivack D,32,3,35
+Kent,03-28,U.S. House,,DEMOCRATIC,Hartley-Na,1,0,1
+Kent,03-28,U.S. House,,DEMOCRATIC,Spivack D,2,1,3
+Kent,05-28,U.S. House,,DEMOCRATIC,Hartley-Na,13,2,15
+Kent,05-28,U.S. House,,DEMOCRATIC,Spivack D,14,2,16
+Kent,06-28,U.S. House,,DEMOCRATIC,Hartley-Na,20,1,21
+Kent,06-28,U.S. House,,DEMOCRATIC,Spivack D,40,0,40
+Kent,07-28,U.S. House,,DEMOCRATIC,Hartley-Na,2,0,2
+Kent,07-28,U.S. House,,DEMOCRATIC,Spivack D,2,0,2
+Kent,09-28,U.S. House,,DEMOCRATIC,Hartley-Na,0,0,0
+Kent,09-28,U.S. House,,DEMOCRATIC,Spivack D,0,0,0
+Kent,11-28,U.S. House,,DEMOCRATIC,Hartley-Na,5,2,7
+Kent,11-28,U.S. House,,DEMOCRATIC,Spivack D,13,1,14
+Kent,13-28,U.S. House,,DEMOCRATIC,Hartley-Na,0,0,0
+Kent,13-28,U.S. House,,DEMOCRATIC,Spivack D,2,0,2
+Kent,14-28,U.S. House,,DEMOCRATIC,Hartley-Na,7,3,10
+Kent,14-28,U.S. House,,DEMOCRATIC,Spivack D,20,1,21
+Kent,01-29,U.S. House,,DEMOCRATIC,Hartley-Na,17,1,18
+Kent,01-29,U.S. House,,DEMOCRATIC,Spivack D,26,6,32
+Kent,02-29,U.S. House,,DEMOCRATIC,Hartley-Na,22,1,23
+Kent,02-29,U.S. House,,DEMOCRATIC,Spivack D,12,0,12
+Kent,03-29,U.S. House,,DEMOCRATIC,Hartley-Na,7,0,7
+Kent,03-29,U.S. House,,DEMOCRATIC,Spivack D,7,1,8
+Kent,04-29,U.S. House,,DEMOCRATIC,Hartley-Na,2,0,2
+Kent,04-29,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+Kent,05-29,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+Kent,05-29,U.S. House,,DEMOCRATIC,Spivack D,7,1,8
+Kent,06-29,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+Kent,06-29,U.S. House,,DEMOCRATIC,Spivack D,10,0,10
+Kent,07-29,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+Kent,07-29,U.S. House,,DEMOCRATIC,Spivack D,5,0,5
+Kent,01-30,U.S. House,,DEMOCRATIC,Hartley-Na,17,7,24
+Kent,01-30,U.S. House,,DEMOCRATIC,Spivack D,26,1,27
+Kent,02-30,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+Kent,02-30,U.S. House,,DEMOCRATIC,Spivack D,1,0,1
+Kent,03-30,U.S. House,,DEMOCRATIC,Hartley-Na,7,1,8
+Kent,03-30,U.S. House,,DEMOCRATIC,Spivack D,25,2,27
+Kent,04-30,U.S. House,,DEMOCRATIC,Hartley-Na,25,0,25
+Kent,04-30,U.S. House,,DEMOCRATIC,Spivack D,43,0,43
+Kent,06-30,U.S. House,,DEMOCRATIC,Hartley-Na,16,0,16
+Kent,06-30,U.S. House,,DEMOCRATIC,Spivack D,11,0,11
+Kent,07-30,U.S. House,,DEMOCRATIC,Hartley-Na,22,0,22
+Kent,07-30,U.S. House,,DEMOCRATIC,Spivack D,25,0,25
+Sussex,08-30,U.S. House,,DEMOCRATIC,Hartley-Na,1,0,1
+Sussex,08-30,U.S. House,,DEMOCRATIC,Spivack D,3,0,3
+Kent,01-31,U.S. House,,DEMOCRATIC,Hartley-Na,2,0,2
+Kent,01-31,U.S. House,,DEMOCRATIC,Spivack D,5,0,5
+Kent,02-31,U.S. House,,DEMOCRATIC,Hartley-Na,32,3,35
+Kent,02-31,U.S. House,,DEMOCRATIC,Spivack D,37,3,40
+Kent,03-31,U.S. House,,DEMOCRATIC,Hartley-Na,28,2,30
+Kent,03-31,U.S. House,,DEMOCRATIC,Spivack D,32,0,32
+Kent,05-31,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+Kent,05-31,U.S. House,,DEMOCRATIC,Spivack D,28,2,30
+Kent,07-31,U.S. House,,DEMOCRATIC,Hartley-Na,11,2,13
+Kent,07-31,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+Kent,01-32,U.S. House,,DEMOCRATIC,Hartley-Na,12,2,14
+Kent,01-32,U.S. House,,DEMOCRATIC,Spivack D,25,2,27
+Kent,02-32,U.S. House,,DEMOCRATIC,Hartley-Na,9,2,11
+Kent,02-32,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+Kent,03-32,U.S. House,,DEMOCRATIC,Hartley-Na,21,3,24
+Kent,03-32,U.S. House,,DEMOCRATIC,Spivack D,28,0,28
+Kent,07-32,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+Kent,07-32,U.S. House,,DEMOCRATIC,Spivack D,1,0,1
+Kent,01-33,U.S. House,,DEMOCRATIC,Hartley-Na,2,0,2
+Kent,01-33,U.S. House,,DEMOCRATIC,Spivack D,1,0,1
+Kent,02-33,U.S. House,,DEMOCRATIC,Hartley-Na,13,0,13
+Kent,02-33,U.S. House,,DEMOCRATIC,Spivack D,26,0,26
+Kent,03-33,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+Kent,03-33,U.S. House,,DEMOCRATIC,Spivack D,19,0,19
+Kent,04-33,U.S. House,,DEMOCRATIC,Hartley-Na,25,1,26
+Kent,04-33,U.S. House,,DEMOCRATIC,Spivack D,24,1,25
+Kent,05-33,U.S. House,,DEMOCRATIC,Hartley-Na,24,1,25
+Kent,05-33,U.S. House,,DEMOCRATIC,Spivack D,22,0,22
+Kent,06-33,U.S. House,,DEMOCRATIC,Hartley-Na,32,3,35
+Kent,06-33,U.S. House,,DEMOCRATIC,Spivack D,29,3,32
+Sussex,09-33,U.S. House,,DEMOCRATIC,Hartley-Na,17,0,17
+Sussex,09-33,U.S. House,,DEMOCRATIC,Spivack D,12,0,12
+Sussex,10-33,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+Sussex,10-33,U.S. House,,DEMOCRATIC,Spivack D,4,1,5
+Kent,01-34,U.S. House,,DEMOCRATIC,Hartley-Na,1,0,1
+Kent,01-34,U.S. House,,DEMOCRATIC,Spivack D,0,0,0
+Kent,02-34,U.S. House,,DEMOCRATIC,Hartley-Na,1,1,2
+Kent,02-34,U.S. House,,DEMOCRATIC,Spivack D,0,0,0
+Kent,03-34,U.S. House,,DEMOCRATIC,Hartley-Na,11,1,12
+Kent,03-34,U.S. House,,DEMOCRATIC,Spivack D,16,2,18
+Kent,04-34,U.S. House,,DEMOCRATIC,Hartley-Na,24,5,29
+Kent,04-34,U.S. House,,DEMOCRATIC,Spivack D,33,6,39
+Kent,05-34,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+Kent,05-34,U.S. House,,DEMOCRATIC,Spivack D,3,1,4
+Kent,06-34,U.S. House,,DEMOCRATIC,Hartley-Na,39,1,40
+Kent,06-34,U.S. House,,DEMOCRATIC,Spivack D,26,3,29
+Kent,08-34,U.S. House,,DEMOCRATIC,Hartley-Na,5,2,7
+Kent,08-34,U.S. House,,DEMOCRATIC,Spivack D,3,0,3
+Kent,09-34,U.S. House,,DEMOCRATIC,Hartley-Na,0,1,1
+Kent,09-34,U.S. House,,DEMOCRATIC,Spivack D,1,0,1
+Kent,10-34,U.S. House,,DEMOCRATIC,Hartley-Na,14,1,15
+Kent,10-34,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+Sussex,01-35,U.S. House,,DEMOCRATIC,Hartley-Na,7,1,8
+Sussex,01-35,U.S. House,,DEMOCRATIC,Spivack D,14,1,15
+Sussex,02-35,U.S. House,,DEMOCRATIC,Hartley-Na,29,2,31
+Sussex,02-35,U.S. House,,DEMOCRATIC,Spivack D,41,3,44
+Sussex,03-35,U.S. House,,DEMOCRATIC,Hartley-Na,4,1,5
+Sussex,03-35,U.S. House,,DEMOCRATIC,Spivack D,2,2,4
+Sussex,04-35,U.S. House,,DEMOCRATIC,Hartley-Na,10,1,11
+Sussex,04-35,U.S. House,,DEMOCRATIC,Spivack D,12,1,13
+Sussex,05-35,U.S. House,,DEMOCRATIC,Hartley-Na,0,0,0
+Sussex,05-35,U.S. House,,DEMOCRATIC,Spivack D,6,0,6
+Sussex,06-35,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+Sussex,06-35,U.S. House,,DEMOCRATIC,Spivack D,8,0,8
+Sussex,07-35,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+Sussex,07-35,U.S. House,,DEMOCRATIC,Spivack D,2,0,2
+Sussex,01-36,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+Sussex,01-36,U.S. House,,DEMOCRATIC,Spivack D,20,0,20
+Sussex,02-36,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+Sussex,02-36,U.S. House,,DEMOCRATIC,Spivack D,29,0,29
+Sussex,03-36,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+Sussex,03-36,U.S. House,,DEMOCRATIC,Spivack D,12,0,12
+Sussex,04-36,U.S. House,,DEMOCRATIC,Hartley-Na,9,0,9
+Sussex,04-36,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+Sussex,05-36,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+Sussex,05-36,U.S. House,,DEMOCRATIC,Spivack D,2,1,3
+Sussex,06-36,U.S. House,,DEMOCRATIC,Hartley-Na,12,1,13
+Sussex,06-36,U.S. House,,DEMOCRATIC,Spivack D,49,3,52
+Sussex,07-36,U.S. House,,DEMOCRATIC,Hartley-Na,7,2,9
+Sussex,07-36,U.S. House,,DEMOCRATIC,Spivack D,21,0,21
+Sussex,08-36,U.S. House,,DEMOCRATIC,Hartley-Na,8,1,9
+Sussex,08-36,U.S. House,,DEMOCRATIC,Spivack D,18,3,21
+Sussex,01-37,U.S. House,,DEMOCRATIC,Hartley-Na,19,0,19
+Sussex,01-37,U.S. House,,DEMOCRATIC,Spivack D,44,2,46
+Sussex,02-37,U.S. House,,DEMOCRATIC,Hartley-Na,12,2,14
+Sussex,02-37,U.S. House,,DEMOCRATIC,Spivack D,26,1,27
+Sussex,03-37,U.S. House,,DEMOCRATIC,Hartley-Na,13,0,13
+Sussex,03-37,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+Sussex,04-37,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+Sussex,04-37,U.S. House,,DEMOCRATIC,Spivack D,3,0,3
+Sussex,05-37,U.S. House,,DEMOCRATIC,Hartley-Na,4,0,4
+Sussex,05-37,U.S. House,,DEMOCRATIC,Spivack D,8,0,8
+Sussex,06-37,U.S. House,,DEMOCRATIC,Hartley-Na,18,1,19
+Sussex,06-37,U.S. House,,DEMOCRATIC,Spivack D,27,4,31
+Sussex,07-37,U.S. House,,DEMOCRATIC,Hartley-Na,6,1,7
+Sussex,07-37,U.S. House,,DEMOCRATIC,Spivack D,16,1,17
+Sussex,08-37,U.S. House,,DEMOCRATIC,Hartley-Na,0,0,0
+Sussex,08-37,U.S. House,,DEMOCRATIC,Spivack D,2,1,3
+Sussex,01-38,U.S. House,,DEMOCRATIC,Hartley-Na,17,0,17
+Sussex,01-38,U.S. House,,DEMOCRATIC,Spivack D,21,1,22
+Sussex,02-38,U.S. House,,DEMOCRATIC,Hartley-Na,18,0,18
+Sussex,02-38,U.S. House,,DEMOCRATIC,Spivack D,48,3,51
+Sussex,03-38,U.S. House,,DEMOCRATIC,Hartley-Na,21,1,22
+Sussex,03-38,U.S. House,,DEMOCRATIC,Spivack D,46,1,47
+Sussex,04-38,U.S. House,,DEMOCRATIC,Hartley-Na,6,2,8
+Sussex,04-38,U.S. House,,DEMOCRATIC,Spivack D,70,8,78
+Sussex,05-38,U.S. House,,DEMOCRATIC,Hartley-Na,16,1,17
+Sussex,05-38,U.S. House,,DEMOCRATIC,Spivack D,25,0,25
+Sussex,06-38,U.S. House,,DEMOCRATIC,Hartley-Na,28,0,28
+Sussex,06-38,U.S. House,,DEMOCRATIC,Spivack D,34,2,36
+Sussex,07-38,U.S. House,,DEMOCRATIC,Hartley-Na,20,0,20
+Sussex,07-38,U.S. House,,DEMOCRATIC,Spivack D,34,3,37
+Sussex,08-38,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+Sussex,08-38,U.S. House,,DEMOCRATIC,Spivack D,8,0,8
+Sussex,01-39,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+Sussex,01-39,U.S. House,,DEMOCRATIC,Spivack D,2,0,2
+Sussex,02-39,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+Sussex,02-39,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+Sussex,03-39,U.S. House,,DEMOCRATIC,Hartley-Na,3,0,3
+Sussex,03-39,U.S. House,,DEMOCRATIC,Spivack D,3,0,3
+Sussex,04-39,U.S. House,,DEMOCRATIC,Hartley-Na,7,0,7
+Sussex,04-39,U.S. House,,DEMOCRATIC,Spivack D,14,3,17
+Sussex,05-39,U.S. House,,DEMOCRATIC,Hartley-Na,10,1,11
+Sussex,05-39,U.S. House,,DEMOCRATIC,Spivack D,14,0,14
+Sussex,06-39,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+Sussex,06-39,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+Sussex,07-39,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+Sussex,07-39,U.S. House,,DEMOCRATIC,Spivack D,10,1,11
+Sussex,01-40,U.S. House,,DEMOCRATIC,Hartley-Na,10,0,10
+Sussex,01-40,U.S. House,,DEMOCRATIC,Spivack D,11,3,14
+Sussex,02-40,U.S. House,,DEMOCRATIC,Hartley-Na,14,1,15
+Sussex,02-40,U.S. House,,DEMOCRATIC,Spivack D,7,1,8
+Sussex,03-40,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+Sussex,03-40,U.S. House,,DEMOCRATIC,Spivack D,17,4,21
+Sussex,04-40,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+Sussex,04-40,U.S. House,,DEMOCRATIC,Spivack D,18,1,19
+Sussex,05-40,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+Sussex,05-40,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+Sussex,06-40,U.S. House,,DEMOCRATIC,Hartley-Na,5,0,5
+Sussex,06-40,U.S. House,,DEMOCRATIC,Spivack D,7,0,7
+Sussex,07-40,U.S. House,,DEMOCRATIC,Hartley-Na,21,0,21
+Sussex,07-40,U.S. House,,DEMOCRATIC,Spivack D,8,1,9
+Sussex,01-41,U.S. House,,DEMOCRATIC,Hartley-Na,11,0,11
+Sussex,01-41,U.S. House,,DEMOCRATIC,Spivack D,16,0,16
+Sussex,02-41,U.S. House,,DEMOCRATIC,Hartley-Na,4,1,5
+Sussex,02-41,U.S. House,,DEMOCRATIC,Spivack D,13,0,13
+Sussex,03-41,U.S. House,,DEMOCRATIC,Hartley-Na,3,1,4
+Sussex,03-41,U.S. House,,DEMOCRATIC,Spivack D,6,1,7
+Sussex,04-41,U.S. House,,DEMOCRATIC,Hartley-Na,13,2,15
+Sussex,04-41,U.S. House,,DEMOCRATIC,Spivack D,11,2,13
+Sussex,05-41,U.S. House,,DEMOCRATIC,Hartley-Na,21,0,21
+Sussex,05-41,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+Sussex,06-41,U.S. House,,DEMOCRATIC,Hartley-Na,6,0,6
+Sussex,06-41,U.S. House,,DEMOCRATIC,Spivack D,8,1,9
+Sussex,07-41,U.S. House,,DEMOCRATIC,Hartley-Na,27,2,29
+Sussex,07-41,U.S. House,,DEMOCRATIC,Spivack D,27,6,33
+Sussex,08-41,U.S. House,,DEMOCRATIC,Hartley-Na,14,1,15
+Sussex,08-41,U.S. House,,DEMOCRATIC,Spivack D,17,0,17
+Sussex,09-41,U.S. House,,DEMOCRATIC,Hartley-Na,8,0,8
+Sussex,09-41,U.S. House,,DEMOCRATIC,Spivack D,4,0,4
+Sussex,Total,U.S. House,,DEMOCRATIC,Hartley-Na,6047,206,6253
+Sussex,Total,U.S. House,,DEMOCRATIC,Spivack D,9205,310,9515
+New Castle,01-01,State Senate,1,DEMOCRATIC,Carroll T,54,1,55
+New Castle,01-01,State Senate,1,DEMOCRATIC,Hendrix L,8,0,8
+New Castle,01-01,State Senate,1,DEMOCRATIC,Mcdowell H,93,2,95
+New Castle,01-01,State Senate,1,DEMOCRATIC,Potter C,141,2,143
+New Castle,02-01,State Senate,1,DEMOCRATIC,Carroll T,64,1,65
+New Castle,02-01,State Senate,1,DEMOCRATIC,Hendrix L,13,1,14
+New Castle,02-01,State Senate,1,DEMOCRATIC,Mcdowell H,103,4,107
+New Castle,02-01,State Senate,1,DEMOCRATIC,Potter C,226,4,230
+New Castle,05-01,State Senate,1,DEMOCRATIC,Carroll T,31,0,31
+New Castle,05-01,State Senate,1,DEMOCRATIC,Hendrix L,35,1,36
+New Castle,05-01,State Senate,1,DEMOCRATIC,Mcdowell H,133,1,134
+New Castle,05-01,State Senate,1,DEMOCRATIC,Potter C,69,1,70
+New Castle,06-01,State Senate,1,DEMOCRATIC,Carroll T,27,0,27
+New Castle,06-01,State Senate,1,DEMOCRATIC,Hendrix L,8,0,8
+New Castle,06-01,State Senate,1,DEMOCRATIC,Mcdowell H,47,2,49
+New Castle,06-01,State Senate,1,DEMOCRATIC,Potter C,55,0,55
+New Castle,08-01,State Senate,1,DEMOCRATIC,Carroll T,3,0,3
+New Castle,08-01,State Senate,1,DEMOCRATIC,Hendrix L,1,0,1
+New Castle,08-01,State Senate,1,DEMOCRATIC,Mcdowell H,8,0,8
+New Castle,08-01,State Senate,1,DEMOCRATIC,Potter C,6,0,6
+New Castle,11-01,State Senate,1,DEMOCRATIC,Carroll T,20,0,20
+New Castle,11-01,State Senate,1,DEMOCRATIC,Hendrix L,9,0,9
+New Castle,11-01,State Senate,1,DEMOCRATIC,Mcdowell H,57,0,57
+New Castle,11-01,State Senate,1,DEMOCRATIC,Potter C,61,1,62
+New Castle,01-01,State Senate,1,REPUBLICAN,Chambers G,20,0,20
+New Castle,01-01,State Senate,1,REPUBLICAN,Nixon T,2,0,2
+New Castle,02-01,State Senate,1,REPUBLICAN,Chambers G,12,0,12
+New Castle,02-01,State Senate,1,REPUBLICAN,Nixon T,2,0,2
+New Castle,05-01,State Senate,1,REPUBLICAN,Chambers G,16,2,18
+New Castle,05-01,State Senate,1,REPUBLICAN,Nixon T,7,2,9
+New Castle,06-01,State Senate,1,REPUBLICAN,Chambers G,9,0,9
+New Castle,06-01,State Senate,1,REPUBLICAN,Nixon T,4,0,4
+New Castle,08-01,State Senate,1,REPUBLICAN,Chambers G,5,0,5
+New Castle,08-01,State Senate,1,REPUBLICAN,Nixon T,2,0,2
+New Castle,11-01,State Senate,1,REPUBLICAN,Chambers G,5,1,6
+New Castle,11-01,State Senate,1,REPUBLICAN,Nixon T,3,0,3
+New Castle,03-03,State Senate,1,DEMOCRATIC,Carroll T,6,0,6
+New Castle,03-03,State Senate,1,DEMOCRATIC,Hendrix L,2,0,2
+New Castle,03-03,State Senate,1,DEMOCRATIC,Mcdowell H,15,0,15
+New Castle,03-03,State Senate,1,DEMOCRATIC,Potter C,11,1,12
+New Castle,12-03,State Senate,1,DEMOCRATIC,Carroll T,0,0,0
+New Castle,12-03,State Senate,1,DEMOCRATIC,Hendrix L,2,0,2
+New Castle,12-03,State Senate,1,DEMOCRATIC,Mcdowell H,0,0,0
+New Castle,12-03,State Senate,1,DEMOCRATIC,Potter C,1,0,1
+New Castle,03-03,State Senate,1,REPUBLICAN,Chambers G,1,0,1
+New Castle,03-03,State Senate,1,REPUBLICAN,Nixon T,2,0,2
+New Castle,12-03,State Senate,1,REPUBLICAN,Chambers G,0,1,1
+New Castle,12-03,State Senate,1,REPUBLICAN,Nixon T,0,0,0
+New Castle,01-04,State Senate,1,DEMOCRATIC,Carroll T,10,0,10
+New Castle,01-04,State Senate,1,DEMOCRATIC,Hendrix L,17,0,17
+New Castle,01-04,State Senate,1,DEMOCRATIC,Mcdowell H,129,1,130
+New Castle,01-04,State Senate,1,DEMOCRATIC,Potter C,31,1,32
+New Castle,03-04,State Senate,1,DEMOCRATIC,Carroll T,10,0,10
+New Castle,03-04,State Senate,1,DEMOCRATIC,Hendrix L,19,0,19
+New Castle,03-04,State Senate,1,DEMOCRATIC,Mcdowell H,141,12,153
+New Castle,03-04,State Senate,1,DEMOCRATIC,Potter C,45,1,46
+New Castle,06-04,State Senate,1,DEMOCRATIC,Carroll T,16,0,16
+New Castle,06-04,State Senate,1,DEMOCRATIC,Hendrix L,22,0,22
+New Castle,06-04,State Senate,1,DEMOCRATIC,Mcdowell H,103,2,105
+New Castle,06-04,State Senate,1,DEMOCRATIC,Potter C,39,1,40
+New Castle,07-04,State Senate,1,DEMOCRATIC,Carroll T,5,0,5
+New Castle,07-04,State Senate,1,DEMOCRATIC,Hendrix L,15,0,15
+New Castle,07-04,State Senate,1,DEMOCRATIC,Mcdowell H,68,1,69
+New Castle,07-04,State Senate,1,DEMOCRATIC,Potter C,32,0,32
+New Castle,09-04,State Senate,1,DEMOCRATIC,Carroll T,9,1,10
+New Castle,09-04,State Senate,1,DEMOCRATIC,Hendrix L,11,1,12
+New Castle,09-04,State Senate,1,DEMOCRATIC,Mcdowell H,91,7,98
+New Castle,09-04,State Senate,1,DEMOCRATIC,Potter C,17,3,20
+New Castle,10-04,State Senate,1,DEMOCRATIC,Carroll T,19,0,19
+New Castle,10-04,State Senate,1,DEMOCRATIC,Hendrix L,7,0,7
+New Castle,10-04,State Senate,1,DEMOCRATIC,Mcdowell H,39,2,41
+New Castle,10-04,State Senate,1,DEMOCRATIC,Potter C,70,0,70
+New Castle,12-04,State Senate,1,DEMOCRATIC,Carroll T,1,0,1
+New Castle,12-04,State Senate,1,DEMOCRATIC,Hendrix L,3,0,3
+New Castle,12-04,State Senate,1,DEMOCRATIC,Mcdowell H,24,0,24
+New Castle,12-04,State Senate,1,DEMOCRATIC,Potter C,3,0,3
+New Castle,01-04,State Senate,1,REPUBLICAN,Chambers G,56,0,56
+New Castle,01-04,State Senate,1,REPUBLICAN,Nixon T,18,1,19
+New Castle,03-04,State Senate,1,REPUBLICAN,Chambers G,73,1,74
+New Castle,03-04,State Senate,1,REPUBLICAN,Nixon T,24,0,24
+New Castle,06-04,State Senate,1,REPUBLICAN,Chambers G,22,0,22
+New Castle,06-04,State Senate,1,REPUBLICAN,Nixon T,10,0,10
+New Castle,07-04,State Senate,1,REPUBLICAN,Chambers G,26,0,26
+New Castle,07-04,State Senate,1,REPUBLICAN,Nixon T,15,1,16
+New Castle,09-04,State Senate,1,REPUBLICAN,Chambers G,9,0,9
+New Castle,09-04,State Senate,1,REPUBLICAN,Nixon T,8,1,9
+New Castle,10-04,State Senate,1,REPUBLICAN,Chambers G,9,1,10
+New Castle,10-04,State Senate,1,REPUBLICAN,Nixon T,2,0,2
+New Castle,12-04,State Senate,1,REPUBLICAN,Chambers G,3,0,3
+New Castle,12-04,State Senate,1,REPUBLICAN,Nixon T,0,0,0
+New Castle,01-06,State Senate,1,DEMOCRATIC,Carroll T,2,0,2
+New Castle,01-06,State Senate,1,DEMOCRATIC,Hendrix L,1,0,1
+New Castle,01-06,State Senate,1,DEMOCRATIC,Mcdowell H,25,0,25
+New Castle,01-06,State Senate,1,DEMOCRATIC,Potter C,7,0,7
+New Castle,02-06,State Senate,1,DEMOCRATIC,Carroll T,10,0,10
+New Castle,02-06,State Senate,1,DEMOCRATIC,Hendrix L,12,1,13
+New Castle,02-06,State Senate,1,DEMOCRATIC,Mcdowell H,73,0,73
+New Castle,02-06,State Senate,1,DEMOCRATIC,Potter C,21,1,22
+New Castle,03-06,State Senate,1,DEMOCRATIC,Carroll T,11,0,11
+New Castle,03-06,State Senate,1,DEMOCRATIC,Hendrix L,17,0,17
+New Castle,03-06,State Senate,1,DEMOCRATIC,Mcdowell H,132,1,133
+New Castle,03-06,State Senate,1,DEMOCRATIC,Potter C,52,2,54
+New Castle,04-06,State Senate,1,DEMOCRATIC,Carroll T,3,0,3
+New Castle,04-06,State Senate,1,DEMOCRATIC,Hendrix L,11,0,11
+New Castle,04-06,State Senate,1,DEMOCRATIC,Mcdowell H,77,0,77
+New Castle,04-06,State Senate,1,DEMOCRATIC,Potter C,21,0,21
+New Castle,10-06,State Senate,1,DEMOCRATIC,Carroll T,13,0,13
+New Castle,10-06,State Senate,1,DEMOCRATIC,Hendrix L,7,1,8
+New Castle,10-06,State Senate,1,DEMOCRATIC,Mcdowell H,43,0,43
+New Castle,10-06,State Senate,1,DEMOCRATIC,Potter C,12,0,12
+New Castle,01-06,State Senate,1,REPUBLICAN,Chambers G,21,0,21
+New Castle,01-06,State Senate,1,REPUBLICAN,Nixon T,8,0,8
+New Castle,02-06,State Senate,1,REPUBLICAN,Chambers G,37,0,37
+New Castle,02-06,State Senate,1,REPUBLICAN,Nixon T,22,0,22
+New Castle,03-06,State Senate,1,REPUBLICAN,Chambers G,52,3,55
+New Castle,03-06,State Senate,1,REPUBLICAN,Nixon T,33,0,33
+New Castle,04-06,State Senate,1,REPUBLICAN,Chambers G,34,0,34
+New Castle,04-06,State Senate,1,REPUBLICAN,Nixon T,22,0,22
+New Castle,10-06,State Senate,1,REPUBLICAN,Chambers G,15,0,15
+New Castle,10-06,State Senate,1,REPUBLICAN,Nixon T,10,0,10
+New Castle,12-11,State Senate,1,DEMOCRATIC,Carroll T,12,1,13
+New Castle,12-11,State Senate,1,DEMOCRATIC,Hendrix L,8,0,8
+New Castle,12-11,State Senate,1,DEMOCRATIC,Mcdowell H,39,2,41
+New Castle,12-11,State Senate,1,DEMOCRATIC,Potter C,6,0,6
+New Castle,12-11,State Senate,1,REPUBLICAN,Chambers G,33,0,33
+New Castle,12-11,State Senate,1,REPUBLICAN,Nixon T,20,0,20
+New Castle,Total,State Senate,1,DEMOCRATIC,Carroll T,326,4,330
+New Castle,Total,State Senate,1,DEMOCRATIC,Hendrix L,228,5,233
+New Castle,Total,State Senate,1,DEMOCRATIC,Mcdowell H,1440,37,1477
+New Castle,Total,State Senate,1,DEMOCRATIC,Potter C,926,18,944
+New Castle,Total,State Senate,1,REPUBLICAN,Chambers G,458,9,467
+New Castle,Total,State Senate,1,REPUBLICAN,Nixon T,214,5,219
+New Castle,02-08,State Senate,14,REPUBLICAN,Allsopp B,38,1,39
+New Castle,02-08,State Senate,14,REPUBLICAN,Feroce J,33,1,34
+New Castle,03-08,State Senate,14,REPUBLICAN,Allsopp B,19,0,19
+New Castle,03-08,State Senate,14,REPUBLICAN,Feroce J,17,0,17
+New Castle,04-08,State Senate,14,REPUBLICAN,Allsopp B,14,0,14
+New Castle,04-08,State Senate,14,REPUBLICAN,Feroce J,11,0,11
+New Castle,05-08,State Senate,14,REPUBLICAN,Allsopp B,14,2,16
+New Castle,05-08,State Senate,14,REPUBLICAN,Feroce J,31,1,32
+New Castle,06-08,State Senate,14,REPUBLICAN,Allsopp B,24,0,24
+New Castle,06-08,State Senate,14,REPUBLICAN,Feroce J,21,0,21
+New Castle,07-08,State Senate,14,REPUBLICAN,Allsopp B,21,0,21
+New Castle,07-08,State Senate,14,REPUBLICAN,Feroce J,11,0,11
+New Castle,08-08,State Senate,14,REPUBLICAN,Allsopp B,15,0,15
+New Castle,08-08,State Senate,14,REPUBLICAN,Feroce J,8,0,8
+Kent,10-08,State Senate,14,REPUBLICAN,Allsopp B,11,0,11
+Kent,10-08,State Senate,14,REPUBLICAN,Feroce J,6,0,6
+New Castle,01-09,State Senate,14,REPUBLICAN,Allsopp B,10,0,10
+New Castle,01-09,State Senate,14,REPUBLICAN,Feroce J,5,0,5
+New Castle,03-09,State Senate,14,REPUBLICAN,Allsopp B,29,0,29
+New Castle,03-09,State Senate,14,REPUBLICAN,Feroce J,35,1,36
+New Castle,04-09,State Senate,14,REPUBLICAN,Allsopp B,15,0,15
+New Castle,04-09,State Senate,14,REPUBLICAN,Feroce J,12,0,12
+New Castle,05-09,State Senate,14,REPUBLICAN,Allsopp B,19,0,19
+New Castle,05-09,State Senate,14,REPUBLICAN,Feroce J,14,0,14
+New Castle,07-09,State Senate,14,REPUBLICAN,Allsopp B,17,0,17
+New Castle,07-09,State Senate,14,REPUBLICAN,Feroce J,45,0,45
+New Castle,09-09,State Senate,14,REPUBLICAN,Allsopp B,10,0,10
+New Castle,09-09,State Senate,14,REPUBLICAN,Feroce J,14,1,15
+Kent,01-28,State Senate,14,REPUBLICAN,Allsopp B,7,2,9
+Kent,01-28,State Senate,14,REPUBLICAN,Feroce J,5,0,5
+Kent,02-28,State Senate,14,REPUBLICAN,Allsopp B,24,2,26
+Kent,02-28,State Senate,14,REPUBLICAN,Feroce J,39,2,41
+Kent,06-28,State Senate,14,REPUBLICAN,Allsopp B,21,2,23
+Kent,06-28,State Senate,14,REPUBLICAN,Feroce J,25,2,27
+Kent,13-28,State Senate,14,REPUBLICAN,Allsopp B,1,0,1
+Kent,13-28,State Senate,14,REPUBLICAN,Feroce J,3,0,3
+Kent,14-28,State Senate,14,REPUBLICAN,Allsopp B,14,0,14
+Kent,14-28,State Senate,14,REPUBLICAN,Feroce J,19,0,19
+Kent,Total,State Senate,14,REPUBLICAN,Allsopp B,323,9,332
+Kent,Total,State Senate,14,REPUBLICAN,Feroce J,354,8,362
+New Castle,01-01,State Assembly,1,DEMOCRATIC,White V,62,2,64
+New Castle,01-01,State Assembly,1,DEMOCRATIC,Williams D,224,3,227
+New Castle,02-01,State Assembly,1,DEMOCRATIC,White V,86,1,87
+New Castle,02-01,State Assembly,1,DEMOCRATIC,Williams D,310,9,319
+New Castle,04-01,State Assembly,1,DEMOCRATIC,White V,42,2,44
+New Castle,04-01,State Assembly,1,DEMOCRATIC,Williams D,143,2,145
+New Castle,05-01,State Assembly,1,DEMOCRATIC,White V,84,1,85
+New Castle,05-01,State Assembly,1,DEMOCRATIC,Williams D,163,2,165
+New Castle,06-01,State Assembly,1,DEMOCRATIC,White V,27,0,27
+New Castle,06-01,State Assembly,1,DEMOCRATIC,Williams D,108,1,109
+New Castle,07-01,State Assembly,1,DEMOCRATIC,White V,5,0,5
+New Castle,07-01,State Assembly,1,DEMOCRATIC,Williams D,34,1,35
+New Castle,08-01,State Assembly,1,DEMOCRATIC,White V,6,0,6
+New Castle,08-01,State Assembly,1,DEMOCRATIC,Williams D,11,0,11
+New Castle,09-01,State Assembly,1,DEMOCRATIC,White V,67,1,68
+New Castle,09-01,State Assembly,1,DEMOCRATIC,Williams D,209,4,213
+New Castle,10-01,State Assembly,1,DEMOCRATIC,White V,16,0,16
+New Castle,10-01,State Assembly,1,DEMOCRATIC,Williams D,35,0,35
+New Castle,11-01,State Assembly,1,DEMOCRATIC,White V,47,0,47
+New Castle,11-01,State Assembly,1,DEMOCRATIC,Williams D,86,1,87
+New Castle,Total,State Assembly,1,DEMOCRATIC,White V,442,7,449
+New Castle,Total,State Assembly,1,DEMOCRATIC,Williams D,1323,23,1346
+New Castle,01-02,State Assembly,2,DEMOCRATIC,Farrell D,15,0,15
+New Castle,01-02,State Assembly,2,DEMOCRATIC,Plant H,27,0,27
+New Castle,02-02,State Assembly,2,DEMOCRATIC,Farrell D,28,0,28
+New Castle,02-02,State Assembly,2,DEMOCRATIC,Plant H,168,5,173
+New Castle,04-02,State Assembly,2,DEMOCRATIC,Farrell D,8,0,8
+New Castle,04-02,State Assembly,2,DEMOCRATIC,Plant H,27,0,27
+New Castle,05-02,State Assembly,2,DEMOCRATIC,Farrell D,20,0,20
+New Castle,05-02,State Assembly,2,DEMOCRATIC,Plant H,35,1,36
+New Castle,06-02,State Assembly,2,DEMOCRATIC,Farrell D,14,0,14
+New Castle,06-02,State Assembly,2,DEMOCRATIC,Plant H,34,0,34
+New Castle,08-02,State Assembly,2,DEMOCRATIC,Farrell D,16,1,17
+New Castle,08-02,State Assembly,2,DEMOCRATIC,Plant H,68,1,69
+New Castle,10-02,State Assembly,2,DEMOCRATIC,Farrell D,45,2,47
+New Castle,10-02,State Assembly,2,DEMOCRATIC,Plant H,51,1,52
+New Castle,11-02,State Assembly,2,DEMOCRATIC,Farrell D,27,0,27
+New Castle,11-02,State Assembly,2,DEMOCRATIC,Plant H,115,2,117
+New Castle,12-02,State Assembly,2,DEMOCRATIC,Farrell D,11,0,11
+New Castle,12-02,State Assembly,2,DEMOCRATIC,Plant H,37,0,37
+New Castle,15-02,State Assembly,2,DEMOCRATIC,Farrell D,0,0,0
+New Castle,15-02,State Assembly,2,DEMOCRATIC,Plant H,0,0,0
+New Castle,16-02,State Assembly,2,DEMOCRATIC,Farrell D,26,1,27
+New Castle,16-02,State Assembly,2,DEMOCRATIC,Plant H,29,0,29
+New Castle,Total,State Assembly,2,DEMOCRATIC,Farrell D,210,4,214
+New Castle,Total,State Assembly,2,DEMOCRATIC,Plant H,591,10,601
+New Castle,01-03,State Assembly,3,DEMOCRATIC,Bovell R,62,0,62
+New Castle,01-03,State Assembly,3,DEMOCRATIC,Keeley H,103,2,105
+New Castle,02-03,State Assembly,3,DEMOCRATIC,Bovell R,29,0,29
+New Castle,02-03,State Assembly,3,DEMOCRATIC,Keeley H,147,0,147
+New Castle,03-03,State Assembly,3,DEMOCRATIC,Bovell R,10,0,10
+New Castle,03-03,State Assembly,3,DEMOCRATIC,Keeley H,26,1,27
+New Castle,04-03,State Assembly,3,DEMOCRATIC,Bovell R,26,0,26
+New Castle,04-03,State Assembly,3,DEMOCRATIC,Keeley H,18,2,20
+New Castle,05-03,State Assembly,3,DEMOCRATIC,Bovell R,56,2,58
+New Castle,05-03,State Assembly,3,DEMOCRATIC,Keeley H,66,1,67
+New Castle,07-03,State Assembly,3,DEMOCRATIC,Bovell R,19,1,20
+New Castle,07-03,State Assembly,3,DEMOCRATIC,Keeley H,45,1,46
+New Castle,08-03,State Assembly,3,DEMOCRATIC,Bovell R,90,0,90
+New Castle,08-03,State Assembly,3,DEMOCRATIC,Keeley H,124,0,124
+New Castle,10-03,State Assembly,3,DEMOCRATIC,Bovell R,112,3,115
+New Castle,10-03,State Assembly,3,DEMOCRATIC,Keeley H,62,2,64
+New Castle,12-03,State Assembly,3,DEMOCRATIC,Bovell R,3,0,3
+New Castle,12-03,State Assembly,3,DEMOCRATIC,Keeley H,0,0,0
+New Castle,Total,State Assembly,3,DEMOCRATIC,Bovell R,407,6,413
+New Castle,Total,State Assembly,3,DEMOCRATIC,Keeley H,591,9,600
+New Castle,01-04,State Assembly,4,DEMOCRATIC,Brady G,122,1,123
+New Castle,01-04,State Assembly,4,DEMOCRATIC,Walsh L,62,1,63
+New Castle,01-04,State Assembly,4,DEMOCRATIC,Zilcosky J,9,0,9
+New Castle,02-04,State Assembly,4,DEMOCRATIC,Brady G,17,6,23
+New Castle,02-04,State Assembly,4,DEMOCRATIC,Walsh L,11,1,12
+New Castle,02-04,State Assembly,4,DEMOCRATIC,Zilcosky J,0,0,0
+New Castle,03-04,State Assembly,4,DEMOCRATIC,Brady G,139,9,148
+New Castle,03-04,State Assembly,4,DEMOCRATIC,Walsh L,82,4,86
+New Castle,03-04,State Assembly,4,DEMOCRATIC,Zilcosky J,2,0,2
+New Castle,04-04,State Assembly,4,DEMOCRATIC,Brady G,64,2,66
+New Castle,04-04,State Assembly,4,DEMOCRATIC,Walsh L,70,1,71
+New Castle,04-04,State Assembly,4,DEMOCRATIC,Zilcosky J,5,0,5
+New Castle,05-04,State Assembly,4,DEMOCRATIC,Brady G,41,1,42
+New Castle,05-04,State Assembly,4,DEMOCRATIC,Walsh L,91,0,91
+New Castle,05-04,State Assembly,4,DEMOCRATIC,Zilcosky J,11,0,11
+New Castle,06-04,State Assembly,4,DEMOCRATIC,Brady G,102,3,105
+New Castle,06-04,State Assembly,4,DEMOCRATIC,Walsh L,66,1,67
+New Castle,06-04,State Assembly,4,DEMOCRATIC,Zilcosky J,14,0,14
+New Castle,07-04,State Assembly,4,DEMOCRATIC,Brady G,57,1,58
+New Castle,07-04,State Assembly,4,DEMOCRATIC,Walsh L,54,0,54
+New Castle,07-04,State Assembly,4,DEMOCRATIC,Zilcosky J,9,0,9
+New Castle,08-04,State Assembly,4,DEMOCRATIC,Brady G,2,0,2
+New Castle,08-04,State Assembly,4,DEMOCRATIC,Walsh L,9,0,9
+New Castle,08-04,State Assembly,4,DEMOCRATIC,Zilcosky J,0,0,0
+New Castle,09-04,State Assembly,4,DEMOCRATIC,Brady G,52,1,53
+New Castle,09-04,State Assembly,4,DEMOCRATIC,Walsh L,73,10,83
+New Castle,09-04,State Assembly,4,DEMOCRATIC,Zilcosky J,4,1,5
+New Castle,10-04,State Assembly,4,DEMOCRATIC,Brady G,51,0,51
+New Castle,10-04,State Assembly,4,DEMOCRATIC,Walsh L,81,2,83
+New Castle,10-04,State Assembly,4,DEMOCRATIC,Zilcosky J,5,0,5
+New Castle,12-04,State Assembly,4,DEMOCRATIC,Brady G,15,0,15
+New Castle,12-04,State Assembly,4,DEMOCRATIC,Walsh L,15,0,15
+New Castle,12-04,State Assembly,4,DEMOCRATIC,Zilcosky J,2,0,2
+New Castle,13-04,State Assembly,4,DEMOCRATIC,Brady G,50,2,52
+New Castle,13-04,State Assembly,4,DEMOCRATIC,Walsh L,25,0,25
+New Castle,13-04,State Assembly,4,DEMOCRATIC,Zilcosky J,2,0,2
+New Castle,16-04,State Assembly,4,DEMOCRATIC,Brady G,0,0,0
+New Castle,16-04,State Assembly,4,DEMOCRATIC,Walsh L,4,1,5
+New Castle,16-04,State Assembly,4,DEMOCRATIC,Zilcosky J,0,0,0
+New Castle,18-04,State Assembly,4,DEMOCRATIC,Brady G,8,0,8
+New Castle,18-04,State Assembly,4,DEMOCRATIC,Walsh L,12,0,12
+New Castle,18-04,State Assembly,4,DEMOCRATIC,Zilcosky J,0,0,0
+New Castle,Total,State Assembly,4,DEMOCRATIC,Brady G,720,26,746
+New Castle,Total,State Assembly,4,DEMOCRATIC,Walsh L,655,21,676
+New Castle,Total,State Assembly,4,DEMOCRATIC,Zilcosky J,63,1,64
+New Castle,01-06,State Assembly,6,DEMOCRATIC,Dore M,4,0,4
+New Castle,01-06,State Assembly,6,DEMOCRATIC,Mcwilliams,30,0,30
+New Castle,02-06,State Assembly,6,DEMOCRATIC,Dore M,17,0,17
+New Castle,02-06,State Assembly,6,DEMOCRATIC,Mcwilliams,93,2,95
+New Castle,03-06,State Assembly,6,DEMOCRATIC,Dore M,45,1,46
+New Castle,03-06,State Assembly,6,DEMOCRATIC,Mcwilliams,156,2,158
+New Castle,04-06,State Assembly,6,DEMOCRATIC,Dore M,20,0,20
+New Castle,04-06,State Assembly,6,DEMOCRATIC,Mcwilliams,92,0,92
+New Castle,05-06,State Assembly,6,DEMOCRATIC,Dore M,9,0,9
+New Castle,05-06,State Assembly,6,DEMOCRATIC,Mcwilliams,24,0,24
+New Castle,06-06,State Assembly,6,DEMOCRATIC,Dore M,7,0,7
+New Castle,06-06,State Assembly,6,DEMOCRATIC,Mcwilliams,49,0,49
+New Castle,07-06,State Assembly,6,DEMOCRATIC,Dore M,13,0,13
+New Castle,07-06,State Assembly,6,DEMOCRATIC,Mcwilliams,95,0,95
+New Castle,09-06,State Assembly,6,DEMOCRATIC,Dore M,1,0,1
+New Castle,09-06,State Assembly,6,DEMOCRATIC,Mcwilliams,11,0,11
+New Castle,10-06,State Assembly,6,DEMOCRATIC,Dore M,10,1,11
+New Castle,10-06,State Assembly,6,DEMOCRATIC,Mcwilliams,66,0,66
+New Castle,11-06,State Assembly,6,DEMOCRATIC,Dore M,3,0,3
+New Castle,11-06,State Assembly,6,DEMOCRATIC,Mcwilliams,12,0,12
+New Castle,12-06,State Assembly,6,DEMOCRATIC,Dore M,1,0,1
+New Castle,12-06,State Assembly,6,DEMOCRATIC,Mcwilliams,19,1,20
+New Castle,Total,State Assembly,6,DEMOCRATIC,Dore M,130,2,132
+New Castle,Total,State Assembly,6,DEMOCRATIC,Mcwilliams,647,5,652
+New Castle,01-07,State Assembly,7,DEMOCRATIC,Boykin F,15,0,15
+New Castle,01-07,State Assembly,7,DEMOCRATIC,Colantuono,32,2,34
+New Castle,02-07,State Assembly,7,DEMOCRATIC,Boykin F,43,2,45
+New Castle,02-07,State Assembly,7,DEMOCRATIC,Colantuono,92,0,92
+New Castle,04-07,State Assembly,7,DEMOCRATIC,Boykin F,4,1,5
+New Castle,04-07,State Assembly,7,DEMOCRATIC,Colantuono,22,1,23
+New Castle,05-07,State Assembly,7,DEMOCRATIC,Boykin F,10,0,10
+New Castle,05-07,State Assembly,7,DEMOCRATIC,Colantuono,51,2,53
+New Castle,06-07,State Assembly,7,DEMOCRATIC,Boykin F,16,0,16
+New Castle,06-07,State Assembly,7,DEMOCRATIC,Colantuono,44,2,46
+New Castle,07-07,State Assembly,7,DEMOCRATIC,Boykin F,5,1,6
+New Castle,07-07,State Assembly,7,DEMOCRATIC,Colantuono,50,0,50
+New Castle,08-07,State Assembly,7,DEMOCRATIC,Boykin F,6,0,6
+New Castle,08-07,State Assembly,7,DEMOCRATIC,Colantuono,27,0,27
+New Castle,09-07,State Assembly,7,DEMOCRATIC,Boykin F,3,0,3
+New Castle,09-07,State Assembly,7,DEMOCRATIC,Colantuono,12,1,13
+New Castle,12-07,State Assembly,7,DEMOCRATIC,Boykin F,16,0,16
+New Castle,12-07,State Assembly,7,DEMOCRATIC,Colantuono,23,0,23
+New Castle,13-07,State Assembly,7,DEMOCRATIC,Boykin F,16,0,16
+New Castle,13-07,State Assembly,7,DEMOCRATIC,Colantuono,46,1,47
+New Castle,Total,State Assembly,7,DEMOCRATIC,Boykin F,134,4,138
+New Castle,Total,State Assembly,7,DEMOCRATIC,Colantuono,399,9,408
+New Castle,01-13,State Assembly,13,DEMOCRATIC,Doyle E,38,1,39
+New Castle,01-13,State Assembly,13,DEMOCRATIC,Mahon W,12,0,12
+New Castle,01-13,State Assembly,13,DEMOCRATIC,Mitchell J,41,0,41
+New Castle,03-13,State Assembly,13,DEMOCRATIC,Doyle E,9,0,9
+New Castle,03-13,State Assembly,13,DEMOCRATIC,Mahon W,20,1,21
+New Castle,03-13,State Assembly,13,DEMOCRATIC,Mitchell J,15,0,15
+New Castle,04-13,State Assembly,13,DEMOCRATIC,Doyle E,54,1,55
+New Castle,04-13,State Assembly,13,DEMOCRATIC,Mahon W,53,0,53
+New Castle,04-13,State Assembly,13,DEMOCRATIC,Mitchell J,56,0,56
+New Castle,05-13,State Assembly,13,DEMOCRATIC,Doyle E,35,0,35
+New Castle,05-13,State Assembly,13,DEMOCRATIC,Mahon W,18,0,18
+New Castle,05-13,State Assembly,13,DEMOCRATIC,Mitchell J,42,0,42
+New Castle,07-13,State Assembly,13,DEMOCRATIC,Doyle E,22,2,24
+New Castle,07-13,State Assembly,13,DEMOCRATIC,Mahon W,17,0,17
+New Castle,07-13,State Assembly,13,DEMOCRATIC,Mitchell J,30,0,30
+New Castle,08-13,State Assembly,13,DEMOCRATIC,Doyle E,26,0,26
+New Castle,08-13,State Assembly,13,DEMOCRATIC,Mahon W,4,0,4
+New Castle,08-13,State Assembly,13,DEMOCRATIC,Mitchell J,41,1,42
+New Castle,09-13,State Assembly,13,DEMOCRATIC,Doyle E,69,2,71
+New Castle,09-13,State Assembly,13,DEMOCRATIC,Mahon W,8,0,8
+New Castle,09-13,State Assembly,13,DEMOCRATIC,Mitchell J,71,0,71
+New Castle,10-13,State Assembly,13,DEMOCRATIC,Doyle E,64,3,67
+New Castle,10-13,State Assembly,13,DEMOCRATIC,Mahon W,7,0,7
+New Castle,10-13,State Assembly,13,DEMOCRATIC,Mitchell J,54,0,54
+New Castle,11-13,State Assembly,13,DEMOCRATIC,Doyle E,23,0,23
+New Castle,11-13,State Assembly,13,DEMOCRATIC,Mahon W,36,0,36
+New Castle,11-13,State Assembly,13,DEMOCRATIC,Mitchell J,23,1,24
+New Castle,Total,State Assembly,13,DEMOCRATIC,Doyle E,340,9,349
+New Castle,Total,State Assembly,13,DEMOCRATIC,Mahon W,175,1,176
+New Castle,Total,State Assembly,13,DEMOCRATIC,Mitchell J,373,2,375
+New Castle,01-20,State Assembly,20,REPUBLICAN,Manolakos,99,2,101
+New Castle,01-20,State Assembly,20,REPUBLICAN,Moore B,84,0,84
+New Castle,02-20,State Assembly,20,REPUBLICAN,Manolakos,27,0,27
+New Castle,02-20,State Assembly,20,REPUBLICAN,Moore B,25,0,25
+New Castle,03-20,State Assembly,20,REPUBLICAN,Manolakos,20,1,21
+New Castle,03-20,State Assembly,20,REPUBLICAN,Moore B,26,0,26
+New Castle,04-20,State Assembly,20,REPUBLICAN,Manolakos,65,2,67
+New Castle,04-20,State Assembly,20,REPUBLICAN,Moore B,27,0,27
+New Castle,05-20,State Assembly,20,REPUBLICAN,Manolakos,10,0,10
+New Castle,05-20,State Assembly,20,REPUBLICAN,Moore B,6,0,6
+New Castle,06-20,State Assembly,20,REPUBLICAN,Manolakos,146,3,149
+New Castle,06-20,State Assembly,20,REPUBLICAN,Moore B,77,1,78
+New Castle,10-20,State Assembly,20,REPUBLICAN,Manolakos,35,0,35
+New Castle,10-20,State Assembly,20,REPUBLICAN,Moore B,31,4,35
+New Castle,12-20,State Assembly,20,REPUBLICAN,Manolakos,76,0,76
+New Castle,12-20,State Assembly,20,REPUBLICAN,Moore B,47,1,48
+New Castle,13-20,State Assembly,20,REPUBLICAN,Manolakos,34,0,34
+New Castle,13-20,State Assembly,20,REPUBLICAN,Moore B,26,1,27
+New Castle,Total,State Assembly,20,REPUBLICAN,Manolakos,512,8,520
+New Castle,Total,State Assembly,20,REPUBLICAN,Moore B,349,7,356
+New Castle,01-26,State Assembly,26,DEMOCRATIC,Tucker C,86,2,88
+New Castle,01-26,State Assembly,26,DEMOCRATIC,Viola J,131,3,134
+New Castle,02-26,State Assembly,26,DEMOCRATIC,Tucker C,38,0,38
+New Castle,02-26,State Assembly,26,DEMOCRATIC,Viola J,54,1,55
+New Castle,03-26,State Assembly,26,DEMOCRATIC,Tucker C,25,2,27
+New Castle,03-26,State Assembly,26,DEMOCRATIC,Viola J,30,0,30
+New Castle,05-26,State Assembly,26,DEMOCRATIC,Tucker C,91,1,92
+New Castle,05-26,State Assembly,26,DEMOCRATIC,Viola J,86,0,86
+New Castle,09-26,State Assembly,26,DEMOCRATIC,Tucker C,24,1,25
+New Castle,09-26,State Assembly,26,DEMOCRATIC,Viola J,75,1,76
+New Castle,Total,State Assembly,26,DEMOCRATIC,Tucker C,264,6,270
+New Castle,Total,State Assembly,26,DEMOCRATIC,Viola J,376,5,381
+Kent,01-33,State Assembly,33,REPUBLICAN,Grant U S,6,0,6
+Kent,01-33,State Assembly,33,REPUBLICAN,Peterman H,5,0,5
+Kent,02-33,State Assembly,33,REPUBLICAN,Grant U S,84,0,84
+Kent,02-33,State Assembly,33,REPUBLICAN,Peterman H,59,1,60
+Kent,03-33,State Assembly,33,REPUBLICAN,Grant U S,69,4,73
+Kent,03-33,State Assembly,33,REPUBLICAN,Peterman H,42,1,43
+Kent,04-33,State Assembly,33,REPUBLICAN,Grant U S,81,3,84
+Kent,04-33,State Assembly,33,REPUBLICAN,Peterman H,64,4,68
+Kent,05-33,State Assembly,33,REPUBLICAN,Grant U S,76,1,77
+Kent,05-33,State Assembly,33,REPUBLICAN,Peterman H,50,2,52
+Kent,06-33,State Assembly,33,REPUBLICAN,Grant U S,126,2,128
+Kent,06-33,State Assembly,33,REPUBLICAN,Peterman H,159,9,168
+Sussex,09-33,State Assembly,33,REPUBLICAN,Grant U S,32,0,32
+Sussex,09-33,State Assembly,33,REPUBLICAN,Peterman H,58,3,61
+Sussex,10-33,State Assembly,33,REPUBLICAN,Grant U S,11,1,12
+Sussex,10-33,State Assembly,33,REPUBLICAN,Peterman H,14,0,14
+Sussex,Total,State Assembly,33,REPUBLICAN,Grant U S,485,11,496
+Sussex,Total,State Assembly,33,REPUBLICAN,Peterman H,451,20,471

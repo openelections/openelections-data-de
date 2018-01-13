@@ -1,0 +1,333 @@
+county,election_district,office,district,party,candidate,election_day,absentee,votes
+New Castle,01-02,State Senate,3,DEMOCRATIC,Dorseywalk,119,5,124
+New Castle,01-02,State Senate,3,DEMOCRATIC,Marshall R,78,2,80
+New Castle,04-02,State Senate,3,DEMOCRATIC,Dorseywalk,3,0,3
+New Castle,04-02,State Senate,3,DEMOCRATIC,Marshall R,4,0,4
+New Castle,05-02,State Senate,3,DEMOCRATIC,Dorseywalk,47,2,49
+New Castle,05-02,State Senate,3,DEMOCRATIC,Marshall R,54,2,56
+New Castle,06-02,State Senate,3,DEMOCRATIC,Dorseywalk,25,4,29
+New Castle,06-02,State Senate,3,DEMOCRATIC,Marshall R,28,6,34
+New Castle,07-02,State Senate,3,DEMOCRATIC,Dorseywalk,31,1,32
+New Castle,07-02,State Senate,3,DEMOCRATIC,Marshall R,38,1,39
+New Castle,08-02,State Senate,3,DEMOCRATIC,Dorseywalk,35,1,36
+New Castle,08-02,State Senate,3,DEMOCRATIC,Marshall R,24,4,28
+New Castle,10-02,State Senate,3,DEMOCRATIC,Dorseywalk,37,1,38
+New Castle,10-02,State Senate,3,DEMOCRATIC,Marshall R,19,0,19
+New Castle,10-02,State Senate,3,DEMOCRATIC,Dorseywalk,297,14,311
+New Castle,10-02,State Senate,3,DEMOCRATIC,Marshall R,245,15,260
+New Castle,01-03,State Senate,3,DEMOCRATIC,Dorseywalk,89,3,92
+New Castle,01-03,State Senate,3,DEMOCRATIC,Marshall R,86,0,86
+New Castle,02-03,State Senate,3,DEMOCRATIC,Dorseywalk,67,1,68
+New Castle,02-03,State Senate,3,DEMOCRATIC,Marshall R,119,8,127
+New Castle,03-03,State Senate,3,DEMOCRATIC,Dorseywalk,37,1,38
+New Castle,03-03,State Senate,3,DEMOCRATIC,Marshall R,26,0,26
+New Castle,04-03,State Senate,3,DEMOCRATIC,Dorseywalk,47,4,51
+New Castle,04-03,State Senate,3,DEMOCRATIC,Marshall R,60,3,63
+New Castle,05-03,State Senate,3,DEMOCRATIC,Dorseywalk,5,0,5
+New Castle,05-03,State Senate,3,DEMOCRATIC,Marshall R,5,0,5
+New Castle,07-03,State Senate,3,DEMOCRATIC,Dorseywalk,84,5,89
+New Castle,07-03,State Senate,3,DEMOCRATIC,Marshall R,78,3,81
+New Castle,08-03,State Senate,3,DEMOCRATIC,Dorseywalk,125,4,129
+New Castle,08-03,State Senate,3,DEMOCRATIC,Marshall R,125,4,129
+New Castle,08-03,State Senate,3,DEMOCRATIC,Dorseywalk,454,18,472
+New Castle,08-03,State Senate,3,DEMOCRATIC,Marshall R,499,18,517
+New Castle,04-04,State Senate,3,DEMOCRATIC,Dorseywalk,34,2,36
+New Castle,04-04,State Senate,3,DEMOCRATIC,Marshall R,43,3,46
+New Castle,05-04,State Senate,3,DEMOCRATIC,Dorseywalk,3,0,3
+New Castle,05-04,State Senate,3,DEMOCRATIC,Marshall R,2,0,2
+New Castle,09-04,State Senate,3,DEMOCRATIC,Dorseywalk,28,1,29
+New Castle,09-04,State Senate,3,DEMOCRATIC,Marshall R,37,1,38
+New Castle,16-04,State Senate,3,DEMOCRATIC,Dorseywalk,11,0,11
+New Castle,16-04,State Senate,3,DEMOCRATIC,Marshall R,1,0,1
+New Castle,16-04,State Senate,3,DEMOCRATIC,Dorseywalk,76,3,79
+New Castle,16-04,State Senate,3,DEMOCRATIC,Marshall R,83,4,87
+New Castle,03-13,State Senate,3,DEMOCRATIC,Dorseywalk,19,1,20
+New Castle,03-13,State Senate,3,DEMOCRATIC,Marshall R,16,0,16
+New Castle,07-13,State Senate,3,DEMOCRATIC,Dorseywalk,15,0,15
+New Castle,07-13,State Senate,3,DEMOCRATIC,Marshall R,23,1,24
+New Castle,11-13,State Senate,3,DEMOCRATIC,Dorseywalk,11,0,11
+New Castle,11-13,State Senate,3,DEMOCRATIC,Marshall R,41,0,41
+New Castle,14-13,State Senate,3,DEMOCRATIC,Dorseywalk,0,0,0
+New Castle,14-13,State Senate,3,DEMOCRATIC,Marshall R,0,0,0
+New Castle,14-13,State Senate,3,DEMOCRATIC,Dorseywalk,45,1,46
+New Castle,14-13,State Senate,3,DEMOCRATIC,Marshall R,80,1,81
+New Castle,Total,State Senate,3,DEMOCRATIC,Dorseywalk,872,36,908
+New Castle,Total,State Senate,3,DEMOCRATIC,Marshall R,907,38,945
+New Castle,06-05,State Senate,11,DEMOCRATIC,Tackett D,15,3,18
+New Castle,06-05,State Senate,11,DEMOCRATIC,Townsend B,57,1,58
+New Castle,06-05,State Senate,11,DEMOCRATIC,Tackett D,15,3,18
+New Castle,06-05,State Senate,11,DEMOCRATIC,Townsend B,57,1,58
+New Castle,06-18,State Senate,11,DEMOCRATIC,Tackett D,16,0,16
+New Castle,06-18,State Senate,11,DEMOCRATIC,Townsend B,78,4,82
+New Castle,08-18,State Senate,11,DEMOCRATIC,Tackett D,14,1,15
+New Castle,08-18,State Senate,11,DEMOCRATIC,Townsend B,67,5,72
+New Castle,08-18,State Senate,11,DEMOCRATIC,Tackett D,30,1,31
+New Castle,08-18,State Senate,11,DEMOCRATIC,Townsend B,145,9,154
+New Castle,01-24,State Senate,11,DEMOCRATIC,Tackett D,26,2,28
+New Castle,01-24,State Senate,11,DEMOCRATIC,Townsend B,145,17,162
+New Castle,04-24,State Senate,11,DEMOCRATIC,Tackett D,16,0,16
+New Castle,04-24,State Senate,11,DEMOCRATIC,Townsend B,23,1,24
+New Castle,08-24,State Senate,11,DEMOCRATIC,Tackett D,15,0,15
+New Castle,08-24,State Senate,11,DEMOCRATIC,Townsend B,87,3,90
+New Castle,09-24,State Senate,11,DEMOCRATIC,Tackett D,15,0,15
+New Castle,09-24,State Senate,11,DEMOCRATIC,Townsend B,117,6,123
+New Castle,09-24,State Senate,11,DEMOCRATIC,Tackett D,72,2,74
+New Castle,09-24,State Senate,11,DEMOCRATIC,Townsend B,372,27,399
+New Castle,01-26,State Senate,11,DEMOCRATIC,Tackett D,37,0,37
+New Castle,01-26,State Senate,11,DEMOCRATIC,Townsend B,139,6,145
+New Castle,03-26,State Senate,11,DEMOCRATIC,Tackett D,36,2,38
+New Castle,03-26,State Senate,11,DEMOCRATIC,Townsend B,98,9,107
+New Castle,04-26,State Senate,11,DEMOCRATIC,Tackett D,41,0,41
+New Castle,04-26,State Senate,11,DEMOCRATIC,Townsend B,78,5,83
+New Castle,05-26,State Senate,11,DEMOCRATIC,Tackett D,15,1,16
+New Castle,05-26,State Senate,11,DEMOCRATIC,Townsend B,47,2,49
+New Castle,06-26,State Senate,11,DEMOCRATIC,Tackett D,72,1,73
+New Castle,06-26,State Senate,11,DEMOCRATIC,Townsend B,153,2,155
+New Castle,09-26,State Senate,11,DEMOCRATIC,Tackett D,24,0,24
+New Castle,09-26,State Senate,11,DEMOCRATIC,Townsend B,101,2,103
+New Castle,09-26,State Senate,11,DEMOCRATIC,Tackett D,225,4,229
+New Castle,09-26,State Senate,11,DEMOCRATIC,Townsend B,616,26,642
+New Castle,Total,State Senate,11,DEMOCRATIC,Tackett D,342,10,352
+New Castle,Total,State Senate,11,DEMOCRATIC,Townsend B,1190,63,1253
+Sussex,09-20,State Senate,18,DEMOCRATIC,Emory P,6,0,6
+Sussex,09-20,State Senate,18,DEMOCRATIC,Wolfe G,3,0,3
+Sussex,09-20,State Senate,18,DEMOCRATIC,Emory P,6,0,6
+Sussex,09-20,State Senate,18,DEMOCRATIC,Wolfe G,3,0,3
+Kent,08-30,State Senate,18,DEMOCRATIC,Emory P,61,4,65
+Kent,08-30,State Senate,18,DEMOCRATIC,Wolfe G,32,4,36
+Kent,09-30,State Senate,18,DEMOCRATIC,Emory P,0,0,0
+Kent,09-30,State Senate,18,DEMOCRATIC,Wolfe G,0,0,0
+Kent,10-30,State Senate,18,DEMOCRATIC,Emory P,10,0,10
+Kent,10-30,State Senate,18,DEMOCRATIC,Wolfe G,7,1,8
+Kent,11-30,State Senate,18,DEMOCRATIC,Emory P,34,0,34
+Kent,11-30,State Senate,18,DEMOCRATIC,Wolfe G,20,0,20
+Kent,12-30,State Senate,18,DEMOCRATIC,Emory P,0,0,0
+Kent,12-30,State Senate,18,DEMOCRATIC,Wolfe G,0,0,0
+Kent,12-30,State Senate,18,DEMOCRATIC,Emory P,105,4,109
+Kent,12-30,State Senate,18,DEMOCRATIC,Wolfe G,59,5,64
+Kent,07-33,State Senate,18,DEMOCRATIC,Emory P,30,1,31
+Kent,07-33,State Senate,18,DEMOCRATIC,Wolfe G,13,0,13
+Kent,08-33,State Senate,18,DEMOCRATIC,Emory P,109,4,113
+Kent,08-33,State Senate,18,DEMOCRATIC,Wolfe G,32,5,37
+Kent,09-33,State Senate,18,DEMOCRATIC,Emory P,0,0,0
+Kent,09-33,State Senate,18,DEMOCRATIC,Wolfe G,0,0,0
+Kent,09-33,State Senate,18,DEMOCRATIC,Emory P,139,5,144
+Kent,09-33,State Senate,18,DEMOCRATIC,Wolfe G,45,5,50
+Sussex,01-35,State Senate,18,DEMOCRATIC,Emory P,49,2,51
+Sussex,01-35,State Senate,18,DEMOCRATIC,Wolfe G,30,2,32
+Sussex,07-35,State Senate,18,DEMOCRATIC,Emory P,20,1,21
+Sussex,07-35,State Senate,18,DEMOCRATIC,Wolfe G,8,3,11
+Sussex,07-35,State Senate,18,DEMOCRATIC,Emory P,69,3,72
+Sussex,07-35,State Senate,18,DEMOCRATIC,Wolfe G,38,5,43
+Sussex,01-36,State Senate,18,DEMOCRATIC,Emory P,47,9,56
+Sussex,01-36,State Senate,18,DEMOCRATIC,Wolfe G,29,1,30
+Sussex,02-36,State Senate,18,DEMOCRATIC,Emory P,38,4,42
+Sussex,02-36,State Senate,18,DEMOCRATIC,Wolfe G,22,2,24
+Sussex,03-36,State Senate,18,DEMOCRATIC,Emory P,74,2,76
+Sussex,03-36,State Senate,18,DEMOCRATIC,Wolfe G,51,3,54
+Sussex,04-36,State Senate,18,DEMOCRATIC,Emory P,33,1,34
+Sussex,04-36,State Senate,18,DEMOCRATIC,Wolfe G,10,2,12
+Sussex,05-36,State Senate,18,DEMOCRATIC,Emory P,33,1,34
+Sussex,05-36,State Senate,18,DEMOCRATIC,Wolfe G,13,0,13
+Sussex,06-36,State Senate,18,DEMOCRATIC,Emory P,37,3,40
+Sussex,06-36,State Senate,18,DEMOCRATIC,Wolfe G,19,2,21
+Sussex,07-36,State Senate,18,DEMOCRATIC,Emory P,41,0,41
+Sussex,07-36,State Senate,18,DEMOCRATIC,Wolfe G,32,0,32
+Sussex,07-36,State Senate,18,DEMOCRATIC,Emory P,303,20,323
+Sussex,07-36,State Senate,18,DEMOCRATIC,Wolfe G,176,10,186
+Sussex,Total,State Senate,18,DEMOCRATIC,Emory P,622,32,654
+Sussex,Total,State Senate,18,DEMOCRATIC,Wolfe G,321,25,346
+New Castle,01-10,State Assembly,10,DEMOCRATIC,Matthews S,108,2,110
+New Castle,01-10,State Assembly,10,DEMOCRATIC,Williams D,120,4,124
+New Castle,02-10,State Assembly,10,DEMOCRATIC,Matthews S,60,0,60
+New Castle,02-10,State Assembly,10,DEMOCRATIC,Williams D,70,2,72
+New Castle,04-10,State Assembly,10,DEMOCRATIC,Matthews S,64,1,65
+New Castle,04-10,State Assembly,10,DEMOCRATIC,Williams D,51,1,52
+New Castle,05-10,State Assembly,10,DEMOCRATIC,Matthews S,189,7,196
+New Castle,05-10,State Assembly,10,DEMOCRATIC,Williams D,88,0,88
+New Castle,07-10,State Assembly,10,DEMOCRATIC,Matthews S,98,3,101
+New Castle,07-10,State Assembly,10,DEMOCRATIC,Williams D,97,0,97
+New Castle,08-10,State Assembly,10,DEMOCRATIC,Matthews S,35,1,36
+New Castle,08-10,State Assembly,10,DEMOCRATIC,Williams D,41,2,43
+New Castle,09-10,State Assembly,10,DEMOCRATIC,Matthews S,57,4,61
+New Castle,09-10,State Assembly,10,DEMOCRATIC,Williams D,44,3,47
+New Castle,10-10,State Assembly,10,DEMOCRATIC,Matthews S,63,2,65
+New Castle,10-10,State Assembly,10,DEMOCRATIC,Williams D,44,1,45
+New Castle,10-10,State Assembly,10,DEMOCRATIC,Matthews S,674,20,694
+New Castle,10-10,State Assembly,10,DEMOCRATIC,Williams D,555,13,568
+New Castle,Total,State Assembly,10,DEMOCRATIC,Matthews S,674,20,694
+New Castle,Total,State Assembly,10,DEMOCRATIC,Williams D,555,13,568
+Sussex,01-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,0,0
+Sussex,01-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,02-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,0,0
+Sussex,02-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,03-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,1,1
+Sussex,03-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,04-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,0,0
+Sussex,04-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,05-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,1,1
+Sussex,05-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,06-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,0,0
+Sussex,06-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,07-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,2,2
+Sussex,07-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,07-14,State Assembly,14,DEMOCRATIC,Schwartzko,0,4,4
+Sussex,07-14,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+Sussex,Total,State Assembly,14,DEMOCRATIC,Schwartzko,0,4,4
+Sussex,Total,State Assembly,14,DEMOCRATIC,Warren N,0,0,0
+New Castle,01-15,State Assembly,15,DEMOCRATIC,Burton J,66,1,67
+New Castle,01-15,State Assembly,15,DEMOCRATIC,Longhurst,191,6,197
+New Castle,02-15,State Assembly,15,DEMOCRATIC,Burton J,83,2,85
+New Castle,02-15,State Assembly,15,DEMOCRATIC,Longhurst,106,1,107
+New Castle,04-15,State Assembly,15,DEMOCRATIC,Burton J,67,2,69
+New Castle,04-15,State Assembly,15,DEMOCRATIC,Longhurst,134,9,143
+New Castle,05-15,State Assembly,15,DEMOCRATIC,Burton J,83,2,85
+New Castle,05-15,State Assembly,15,DEMOCRATIC,Longhurst,98,2,100
+New Castle,07-15,State Assembly,15,DEMOCRATIC,Burton J,40,1,41
+New Castle,07-15,State Assembly,15,DEMOCRATIC,Longhurst,76,3,79
+New Castle,07-15,State Assembly,15,DEMOCRATIC,Burton J,339,8,347
+New Castle,07-15,State Assembly,15,DEMOCRATIC,Longhurst,605,21,626
+New Castle,Total,State Assembly,15,DEMOCRATIC,Burton J,339,8,347
+New Castle,Total,State Assembly,15,DEMOCRATIC,Longhurst,605,21,626
+New Castle,01-18,State Assembly,18,DEMOCRATIC,Barbieri M,91,3,94
+New Castle,01-18,State Assembly,18,DEMOCRATIC,Piecuch C,23,0,23
+New Castle,02-18,State Assembly,18,DEMOCRATIC,Barbieri M,57,3,60
+New Castle,02-18,State Assembly,18,DEMOCRATIC,Piecuch C,7,2,9
+New Castle,03-18,State Assembly,18,DEMOCRATIC,Barbieri M,40,2,42
+New Castle,03-18,State Assembly,18,DEMOCRATIC,Piecuch C,3,0,3
+New Castle,04-18,State Assembly,18,DEMOCRATIC,Barbieri M,157,8,165
+New Castle,04-18,State Assembly,18,DEMOCRATIC,Piecuch C,26,0,26
+New Castle,05-18,State Assembly,18,DEMOCRATIC,Barbieri M,46,3,49
+New Castle,05-18,State Assembly,18,DEMOCRATIC,Piecuch C,27,0,27
+New Castle,06-18,State Assembly,18,DEMOCRATIC,Barbieri M,74,2,76
+New Castle,06-18,State Assembly,18,DEMOCRATIC,Piecuch C,15,2,17
+New Castle,08-18,State Assembly,18,DEMOCRATIC,Barbieri M,63,6,69
+New Castle,08-18,State Assembly,18,DEMOCRATIC,Piecuch C,15,2,17
+New Castle,10-18,State Assembly,18,DEMOCRATIC,Barbieri M,22,0,22
+New Castle,10-18,State Assembly,18,DEMOCRATIC,Piecuch C,1,0,1
+New Castle,10-18,State Assembly,18,DEMOCRATIC,Barbieri M,550,27,577
+New Castle,10-18,State Assembly,18,DEMOCRATIC,Piecuch C,117,6,123
+New Castle,Total,State Assembly,18,DEMOCRATIC,Barbieri M,550,27,577
+New Castle,Total,State Assembly,18,DEMOCRATIC,Piecuch C,117,6,123
+New Castle,01-19,State Assembly,19,DEMOCRATIC,Dunn W,44,1,45
+New Castle,01-19,State Assembly,19,DEMOCRATIC,Williams K,130,9,139
+New Castle,02-19,State Assembly,19,DEMOCRATIC,Dunn W,36,0,36
+New Castle,02-19,State Assembly,19,DEMOCRATIC,Williams K,44,0,44
+New Castle,03-19,State Assembly,19,DEMOCRATIC,Dunn W,28,4,32
+New Castle,03-19,State Assembly,19,DEMOCRATIC,Williams K,63,7,70
+New Castle,04-19,State Assembly,19,DEMOCRATIC,Dunn W,23,2,25
+New Castle,04-19,State Assembly,19,DEMOCRATIC,Williams K,44,2,46
+New Castle,05-19,State Assembly,19,DEMOCRATIC,Dunn W,38,0,38
+New Castle,05-19,State Assembly,19,DEMOCRATIC,Williams K,56,2,58
+New Castle,06-19,State Assembly,19,DEMOCRATIC,Dunn W,1,0,1
+New Castle,06-19,State Assembly,19,DEMOCRATIC,Williams K,7,2,9
+New Castle,07-19,State Assembly,19,DEMOCRATIC,Dunn W,42,2,44
+New Castle,07-19,State Assembly,19,DEMOCRATIC,Williams K,109,4,113
+New Castle,09-19,State Assembly,19,DEMOCRATIC,Dunn W,29,1,30
+New Castle,09-19,State Assembly,19,DEMOCRATIC,Williams K,33,2,35
+New Castle,10-19,State Assembly,19,DEMOCRATIC,Dunn W,18,1,19
+New Castle,10-19,State Assembly,19,DEMOCRATIC,Williams K,34,0,34
+New Castle,11-19,State Assembly,19,DEMOCRATIC,Dunn W,7,0,7
+New Castle,11-19,State Assembly,19,DEMOCRATIC,Williams K,15,0,15
+New Castle,11-19,State Assembly,19,DEMOCRATIC,Dunn W,266,11,277
+New Castle,11-19,State Assembly,19,DEMOCRATIC,Williams K,535,28,563
+New Castle,Total,State Assembly,19,DEMOCRATIC,Dunn W,266,11,277
+New Castle,Total,State Assembly,19,DEMOCRATIC,Williams K,535,28,563
+New Castle,01-22,State Assembly,22,REPUBLICAN,Miro J,182,2,184
+New Castle,01-22,State Assembly,22,REPUBLICAN,Smith M,106,2,108
+New Castle,02-22,State Assembly,22,REPUBLICAN,Miro J,47,1,48
+New Castle,02-22,State Assembly,22,REPUBLICAN,Smith M,46,0,46
+New Castle,04-22,State Assembly,22,REPUBLICAN,Miro J,70,1,71
+New Castle,04-22,State Assembly,22,REPUBLICAN,Smith M,59,0,59
+New Castle,05-22,State Assembly,22,REPUBLICAN,Miro J,132,2,134
+New Castle,05-22,State Assembly,22,REPUBLICAN,Smith M,81,2,83
+New Castle,06-22,State Assembly,22,REPUBLICAN,Miro J,26,0,26
+New Castle,06-22,State Assembly,22,REPUBLICAN,Smith M,22,0,22
+New Castle,07-22,State Assembly,22,REPUBLICAN,Miro J,133,9,142
+New Castle,07-22,State Assembly,22,REPUBLICAN,Smith M,97,3,100
+New Castle,08-22,State Assembly,22,REPUBLICAN,Miro J,36,3,39
+New Castle,08-22,State Assembly,22,REPUBLICAN,Smith M,54,0,54
+New Castle,09-22,State Assembly,22,REPUBLICAN,Miro J,68,3,71
+New Castle,09-22,State Assembly,22,REPUBLICAN,Smith M,35,1,36
+New Castle,10-22,State Assembly,22,REPUBLICAN,Miro J,79,3,82
+New Castle,10-22,State Assembly,22,REPUBLICAN,Smith M,94,2,96
+New Castle,10-22,State Assembly,22,REPUBLICAN,Miro J,773,24,797
+New Castle,10-22,State Assembly,22,REPUBLICAN,Smith M,594,10,604
+New Castle,Total,State Assembly,22,REPUBLICAN,Miro J,773,24,797
+New Castle,Total,State Assembly,22,REPUBLICAN,Smith M,594,10,604
+Kent,01-31,State Assembly,31,DEMOCRATIC,Lynn S,14,0,14
+Kent,01-31,State Assembly,31,DEMOCRATIC,Taylor R,4,0,4
+Kent,02-31,State Assembly,31,DEMOCRATIC,Lynn S,57,2,59
+Kent,02-31,State Assembly,31,DEMOCRATIC,Taylor R,57,1,58
+Kent,03-31,State Assembly,31,DEMOCRATIC,Lynn S,137,13,150
+Kent,03-31,State Assembly,31,DEMOCRATIC,Taylor R,96,6,102
+Kent,04-31,State Assembly,31,DEMOCRATIC,Lynn S,42,6,48
+Kent,04-31,State Assembly,31,DEMOCRATIC,Taylor R,17,3,20
+Kent,05-31,State Assembly,31,DEMOCRATIC,Lynn S,0,0,0
+Kent,05-31,State Assembly,31,DEMOCRATIC,Taylor R,0,0,0
+Kent,06-31,State Assembly,31,DEMOCRATIC,Lynn S,115,1,116
+Kent,06-31,State Assembly,31,DEMOCRATIC,Taylor R,91,9,100
+Kent,07-31,State Assembly,31,DEMOCRATIC,Lynn S,0,0,0
+Kent,07-31,State Assembly,31,DEMOCRATIC,Taylor R,0,0,0
+Kent,08-31,State Assembly,31,DEMOCRATIC,Lynn S,0,0,0
+Kent,08-31,State Assembly,31,DEMOCRATIC,Taylor R,0,0,0
+Kent,09-31,State Assembly,31,DEMOCRATIC,Lynn S,66,3,69
+Kent,09-31,State Assembly,31,DEMOCRATIC,Taylor R,13,0,13
+Kent,10-31,State Assembly,31,DEMOCRATIC,Lynn S,21,5,26
+Kent,10-31,State Assembly,31,DEMOCRATIC,Taylor R,15,0,15
+Kent,11-31,State Assembly,31,DEMOCRATIC,Lynn S,0,0,0
+Kent,11-31,State Assembly,31,DEMOCRATIC,Taylor R,0,0,0
+Kent,11-31,State Assembly,31,DEMOCRATIC,Lynn S,452,30,482
+Kent,11-31,State Assembly,31,DEMOCRATIC,Taylor R,293,19,312
+Kent,Total,State Assembly,31,DEMOCRATIC,Lynn S,452,30,482
+Kent,Total,State Assembly,31,DEMOCRATIC,Taylor R,293,19,312
+Kent,01-33,State Assembly,33,REPUBLICAN,Peterman H,13,1,14
+Kent,01-33,State Assembly,33,REPUBLICAN,Postles C,10,0,10
+Kent,02-33,State Assembly,33,REPUBLICAN,Peterman H,48,2,50
+Kent,02-33,State Assembly,33,REPUBLICAN,Postles C,29,1,30
+Kent,03-33,State Assembly,33,REPUBLICAN,Peterman H,91,6,97
+Kent,03-33,State Assembly,33,REPUBLICAN,Postles C,30,1,31
+Kent,04-33,State Assembly,33,REPUBLICAN,Peterman H,158,4,162
+Kent,04-33,State Assembly,33,REPUBLICAN,Postles C,61,2,63
+Kent,05-33,State Assembly,33,REPUBLICAN,Peterman H,0,0,0
+Kent,05-33,State Assembly,33,REPUBLICAN,Postles C,0,0,0
+Kent,06-33,State Assembly,33,REPUBLICAN,Peterman H,22,3,25
+Kent,06-33,State Assembly,33,REPUBLICAN,Postles C,1,0,1
+Kent,07-33,State Assembly,33,REPUBLICAN,Peterman H,50,2,52
+Kent,07-33,State Assembly,33,REPUBLICAN,Postles C,51,1,52
+Kent,08-33,State Assembly,33,REPUBLICAN,Peterman H,164,8,172
+Kent,08-33,State Assembly,33,REPUBLICAN,Postles C,132,1,133
+Kent,09-33,State Assembly,33,REPUBLICAN,Peterman H,0,0,0
+Kent,09-33,State Assembly,33,REPUBLICAN,Postles C,0,0,0
+Kent,10-33,State Assembly,33,REPUBLICAN,Peterman H,85,0,85
+Kent,10-33,State Assembly,33,REPUBLICAN,Postles C,41,1,42
+Kent,10-33,State Assembly,33,REPUBLICAN,Peterman H,631,26,657
+Kent,10-33,State Assembly,33,REPUBLICAN,Postles C,355,7,362
+Kent,Total,State Assembly,33,REPUBLICAN,Peterman H,631,26,657
+Kent,Total,State Assembly,33,REPUBLICAN,Postles C,355,7,362
+Kent,01-34,State Assembly,34,REPUBLICAN,Blakey D,54,6,60
+Kent,01-34,State Assembly,34,REPUBLICAN,Yearick L,45,3,48
+Kent,02-34,State Assembly,34,REPUBLICAN,Blakey D,44,0,44
+Kent,02-34,State Assembly,34,REPUBLICAN,Yearick L,50,2,52
+Kent,03-34,State Assembly,34,REPUBLICAN,Blakey D,64,2,66
+Kent,03-34,State Assembly,34,REPUBLICAN,Yearick L,57,8,65
+Kent,04-34,State Assembly,34,REPUBLICAN,Blakey D,20,0,20
+Kent,04-34,State Assembly,34,REPUBLICAN,Yearick L,17,0,17
+Kent,05-34,State Assembly,34,REPUBLICAN,Blakey D,78,5,83
+Kent,05-34,State Assembly,34,REPUBLICAN,Yearick L,207,8,215
+Kent,06-34,State Assembly,34,REPUBLICAN,Blakey D,0,0,0
+Kent,06-34,State Assembly,34,REPUBLICAN,Yearick L,0,0,0
+Kent,07-34,State Assembly,34,REPUBLICAN,Blakey D,56,1,57
+Kent,07-34,State Assembly,34,REPUBLICAN,Yearick L,73,2,75
+Kent,08-34,State Assembly,34,REPUBLICAN,Blakey D,82,3,85
+Kent,08-34,State Assembly,34,REPUBLICAN,Yearick L,89,3,92
+Kent,09-34,State Assembly,34,REPUBLICAN,Blakey D,41,1,42
+Kent,09-34,State Assembly,34,REPUBLICAN,Yearick L,76,3,79
+Kent,10-34,State Assembly,34,REPUBLICAN,Blakey D,0,0,0
+Kent,10-34,State Assembly,34,REPUBLICAN,Yearick L,0,0,0
+Kent,11-34,State Assembly,34,REPUBLICAN,Blakey D,7,0,7
+Kent,11-34,State Assembly,34,REPUBLICAN,Yearick L,2,0,2
+Kent,11-34,State Assembly,34,REPUBLICAN,Blakey D,446,18,464
+Kent,11-34,State Assembly,34,REPUBLICAN,Yearick L,616,29,645
+Kent,Total,State Assembly,34,REPUBLICAN,Blakey D,446,18,464
+Kent,Total,State Assembly,34,REPUBLICAN,Yearick L,616,29,645

@@ -1,0 +1,64 @@
+county,election_district,office,district,party,candidate,election_day,absentee,votes
+New Castle,02-08,State Senate,14,DEMOCRATIC,Ennis B C,304,11,315
+New Castle,02-08,State Senate,14,REPUBLICAN,Christian,216,10,226
+New Castle,02-08,State Senate,14,IND OF DEL,Christian,39,1,40
+New Castle,03-08,State Senate,14,DEMOCRATIC,Ennis B C,121,1,122
+New Castle,03-08,State Senate,14,REPUBLICAN,Christian,75,1,76
+New Castle,03-08,State Senate,14,IND OF DEL,Christian,17,0,17
+New Castle,04-08,State Senate,14,DEMOCRATIC,Ennis B C,147,3,150
+New Castle,04-08,State Senate,14,REPUBLICAN,Christian,57,0,57
+New Castle,04-08,State Senate,14,IND OF DEL,Christian,12,0,12
+New Castle,05-08,State Senate,14,DEMOCRATIC,Ennis B C,234,4,238
+New Castle,05-08,State Senate,14,REPUBLICAN,Christian,160,4,164
+New Castle,05-08,State Senate,14,IND OF DEL,Christian,37,1,38
+New Castle,06-08,State Senate,14,DEMOCRATIC,Ennis B C,341,7,348
+New Castle,06-08,State Senate,14,REPUBLICAN,Christian,112,2,114
+New Castle,06-08,State Senate,14,IND OF DEL,Christian,19,1,20
+New Castle,07-08,State Senate,14,DEMOCRATIC,Ennis B C,281,8,289
+New Castle,07-08,State Senate,14,REPUBLICAN,Christian,86,2,88
+New Castle,07-08,State Senate,14,IND OF DEL,Christian,24,1,25
+New Castle,08-08,State Senate,14,DEMOCRATIC,Ennis B C,257,13,270
+New Castle,08-08,State Senate,14,REPUBLICAN,Christian,38,0,38
+New Castle,08-08,State Senate,14,IND OF DEL,Christian,4,0,4
+Kent,10-08,State Senate,14,DEMOCRATIC,Ennis B C,177,12,189
+Kent,10-08,State Senate,14,REPUBLICAN,Christian,15,0,15
+Kent,10-08,State Senate,14,IND OF DEL,Christian,6,0,6
+New Castle,01-09,State Senate,14,DEMOCRATIC,Ennis B C,51,0,51
+New Castle,01-09,State Senate,14,REPUBLICAN,Christian,33,1,34
+New Castle,01-09,State Senate,14,IND OF DEL,Christian,4,0,4
+New Castle,03-09,State Senate,14,DEMOCRATIC,Ennis B C,261,3,264
+New Castle,03-09,State Senate,14,REPUBLICAN,Christian,228,2,230
+New Castle,03-09,State Senate,14,IND OF DEL,Christian,33,0,33
+New Castle,04-09,State Senate,14,DEMOCRATIC,Ennis B C,119,4,123
+New Castle,04-09,State Senate,14,REPUBLICAN,Christian,53,0,53
+New Castle,04-09,State Senate,14,IND OF DEL,Christian,16,0,16
+New Castle,05-09,State Senate,14,DEMOCRATIC,Ennis B C,191,6,197
+New Castle,05-09,State Senate,14,REPUBLICAN,Christian,165,2,167
+New Castle,05-09,State Senate,14,IND OF DEL,Christian,13,0,13
+New Castle,07-09,State Senate,14,DEMOCRATIC,Ennis B C,171,5,176
+New Castle,07-09,State Senate,14,REPUBLICAN,Christian,125,5,130
+New Castle,07-09,State Senate,14,IND OF DEL,Christian,23,0,23
+New Castle,09-09,State Senate,14,DEMOCRATIC,Ennis B C,214,4,218
+New Castle,09-09,State Senate,14,REPUBLICAN,Christian,64,4,68
+New Castle,09-09,State Senate,14,IND OF DEL,Christian,13,0,13
+Kent,01-28,State Senate,14,DEMOCRATIC,Ennis B C,107,5,112
+Kent,01-28,State Senate,14,REPUBLICAN,Christian,8,0,8
+Kent,01-28,State Senate,14,IND OF DEL,Christian,1,0,1
+Kent,02-28,State Senate,14,DEMOCRATIC,Ennis B C,562,39,601
+Kent,02-28,State Senate,14,REPUBLICAN,Christian,103,2,105
+Kent,02-28,State Senate,14,IND OF DEL,Christian,22,0,22
+Kent,06-28,State Senate,14,DEMOCRATIC,Ennis B C,97,5,102
+Kent,06-28,State Senate,14,REPUBLICAN,Christian,10,0,10
+Kent,06-28,State Senate,14,IND OF DEL,Christian,2,0,2
+Kent,08-28,State Senate,14,DEMOCRATIC,Ennis B C,238,7,245
+Kent,08-28,State Senate,14,REPUBLICAN,Christian,41,4,45
+Kent,08-28,State Senate,14,IND OF DEL,Christian,14,0,14
+Kent,13-28,State Senate,14,DEMOCRATIC,Ennis B C,36,0,36
+Kent,13-28,State Senate,14,REPUBLICAN,Christian,19,1,20
+Kent,13-28,State Senate,14,IND OF DEL,Christian,0,0,0
+Kent,14-28,State Senate,14,DEMOCRATIC,Ennis B C,222,4,226
+Kent,14-28,State Senate,14,REPUBLICAN,Christian,54,2,56
+Kent,14-28,State Senate,14,IND OF DEL,Christian,6,0,6
+Kent,Total,State Senate,14,DEMOCRATIC,Ennis B C,4131,141,4272
+Kent,Total,State Senate,14,REPUBLICAN,Christian,1662,42,1704
+Kent,Total,State Senate,14,IND OF DEL,Christian,305,4,309
