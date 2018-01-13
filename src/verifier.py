@@ -55,7 +55,7 @@ def parseArguments():
 
 class Verifier(object):
 	validColumns = frozenset(['county', 'election_district', 'office', 'district', 'party', 'candidate', 'election_day', 'absentee', 'votes', 'notes'])
-	requiredColumnSet = frozenset(['county', 'election_district', 'office', 'district', 'party', 'candidate', 'election_day', 'absentee', 'votes'])
+	requiredColumnSet = frozenset(['county', 'election_district', 'office', 'district', 'party', 'candidate', 'votes'])
 	uniqueRowIDSet = frozenset(['county', 'election_district', 'office', 'district', 'party', 'candidate'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'State Senate', 'State Assembly', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Auditor', 'Commissioner of Agriculture',])
 	officesWithDistricts = frozenset(['State Senate', 'State House'])
