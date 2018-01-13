@@ -88,10 +88,11 @@ class DEParser(object):
 
         for i, row in enumerate(self.raw):
             # Does this line have the election type and date?
-            m = re.match(r"^(\d\d\/\d\d\/\d\d) (Presidential )?(\w+) ;", row)
-            if m:
-                self.election_type = m.group(3).lower()
-                self.date = "20{}{}{}".format(m.group(1)[6:8], m.group(1)[0:2], m.group(1)[3:5])
+            if not self.date:
+                m = re.match(r"\s*(\d\d\/\d\d\/\d\d)\s+(Presidential )?(\w+) ?;", row)
+                if m:
+                    self.election_type = m.group(3).lower()
+                    self.date = "20{}{}{}".format(m.group(1)[6:8], m.group(1)[0:2], m.group(1)[3:5])
 
             # New chunk begins: only one semicolon on a non-short line
             elif len(re.findall(';', row)) == 1 and len(row) > 5:
@@ -115,7 +116,7 @@ class DEParser(object):
                 
                 if line[0] == "District":
                     header = [] # Reset candidate header
-                    nextLine = chunk.resultLines[i+1].split(';')
+                    nextLine = [c.strip() for c in chunk.resultLines[i+1].split(';')]
 
                     for j, cell in enumerate(line):
                         candidateName = cell.title()
@@ -148,8 +149,10 @@ class DEParser(object):
                                 election_district = line[0]
 
                             try:
-                                                                # 'county election_district office district party candidate election_day absentee votes'
-                                result = self.Result(county, election_district, chunk.office, chunk.district, candidate[1], candidate[0], line[j], line[j+1], line[j+2])
+                                def clean(str):
+                                    return str.replace(',', '') or 0
+                                                  # 'county election_district office district party candidate election_day absentee votes'
+                                result = self.Result(county, election_district, chunk.office, chunk.district, candidate[1], candidate[0], clean(line[j]), clean(line[j+1]), clean(line[j+2]))
                                 # print(result)
                                 self.processed.append(result)
                             except:
