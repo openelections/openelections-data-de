@@ -1,0 +1,2827 @@
+county,election_district,office,district,party,candidate,election_day,absentee,votes
+New Castle,01-01,President,,DEMOCRATIC,Clinton H,603,22,625
+New Castle,01-01,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,01-01,President,,DEMOCRATIC,Sanders B,286,2,288
+New Castle,01-01,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,02-01,President,,DEMOCRATIC,Clinton H,437,16,453
+New Castle,02-01,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,02-01,President,,DEMOCRATIC,Sanders B,156,2,158
+New Castle,02-01,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,04-01,President,,DEMOCRATIC,Clinton H,275,3,278
+New Castle,04-01,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,04-01,President,,DEMOCRATIC,Sanders B,137,3,140
+New Castle,04-01,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,05-01,President,,DEMOCRATIC,Clinton H,335,6,341
+New Castle,05-01,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,05-01,President,,DEMOCRATIC,Sanders B,176,5,181
+New Castle,05-01,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,06-01,President,,DEMOCRATIC,Clinton H,125,2,127
+New Castle,06-01,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,06-01,President,,DEMOCRATIC,Sanders B,70,4,74
+New Castle,06-01,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,07-01,President,,DEMOCRATIC,Clinton H,101,2,103
+New Castle,07-01,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,07-01,President,,DEMOCRATIC,Sanders B,32,0,32
+New Castle,07-01,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,08-01,President,,DEMOCRATIC,Clinton H,193,6,199
+New Castle,08-01,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,08-01,President,,DEMOCRATIC,Sanders B,105,2,107
+New Castle,08-01,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,09-01,President,,DEMOCRATIC,Clinton H,273,6,279
+New Castle,09-01,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,09-01,President,,DEMOCRATIC,Sanders B,111,2,113
+New Castle,09-01,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,10-01,President,,DEMOCRATIC,Clinton H,294,10,304
+New Castle,10-01,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,10-01,President,,DEMOCRATIC,Sanders B,85,1,86
+New Castle,10-01,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,12-01,President,,DEMOCRATIC,Clinton H,66,3,69
+New Castle,12-01,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,12-01,President,,DEMOCRATIC,Sanders B,47,2,49
+New Castle,12-01,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,14-01,President,,DEMOCRATIC,Clinton H,136,2,138
+New Castle,14-01,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,14-01,President,,DEMOCRATIC,Sanders B,79,1,80
+New Castle,14-01,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,01-01,President,,REPUBLICAN,Carson B,0,1,1
+New Castle,01-01,President,,REPUBLICAN,Cruz R,13,0,13
+New Castle,01-01,President,,REPUBLICAN,Kasich J,14,1,15
+New Castle,01-01,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,01-01,President,,REPUBLICAN,Trump D,16,0,16
+New Castle,02-01,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,02-01,President,,REPUBLICAN,Cruz R,4,0,4
+New Castle,02-01,President,,REPUBLICAN,Kasich J,6,1,7
+New Castle,02-01,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,02-01,President,,REPUBLICAN,Trump D,6,0,6
+New Castle,04-01,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,04-01,President,,REPUBLICAN,Cruz R,3,0,3
+New Castle,04-01,President,,REPUBLICAN,Kasich J,5,0,5
+New Castle,04-01,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,04-01,President,,REPUBLICAN,Trump D,4,0,4
+New Castle,05-01,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,05-01,President,,REPUBLICAN,Cruz R,17,4,21
+New Castle,05-01,President,,REPUBLICAN,Kasich J,31,2,33
+New Castle,05-01,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,05-01,President,,REPUBLICAN,Trump D,27,0,27
+New Castle,06-01,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,06-01,President,,REPUBLICAN,Cruz R,0,0,0
+New Castle,06-01,President,,REPUBLICAN,Kasich J,0,0,0
+New Castle,06-01,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,06-01,President,,REPUBLICAN,Trump D,4,0,4
+New Castle,07-01,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,07-01,President,,REPUBLICAN,Cruz R,0,0,0
+New Castle,07-01,President,,REPUBLICAN,Kasich J,4,0,4
+New Castle,07-01,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,07-01,President,,REPUBLICAN,Trump D,5,0,5
+New Castle,08-01,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,08-01,President,,REPUBLICAN,Cruz R,10,3,13
+New Castle,08-01,President,,REPUBLICAN,Kasich J,13,0,13
+New Castle,08-01,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,08-01,President,,REPUBLICAN,Trump D,24,0,24
+New Castle,09-01,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,09-01,President,,REPUBLICAN,Cruz R,5,0,5
+New Castle,09-01,President,,REPUBLICAN,Kasich J,16,0,16
+New Castle,09-01,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,09-01,President,,REPUBLICAN,Trump D,6,0,6
+New Castle,10-01,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,10-01,President,,REPUBLICAN,Cruz R,1,0,1
+New Castle,10-01,President,,REPUBLICAN,Kasich J,1,0,1
+New Castle,10-01,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,10-01,President,,REPUBLICAN,Trump D,2,0,2
+New Castle,12-01,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,12-01,President,,REPUBLICAN,Cruz R,7,0,7
+New Castle,12-01,President,,REPUBLICAN,Kasich J,6,0,6
+New Castle,12-01,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,12-01,President,,REPUBLICAN,Trump D,14,0,14
+New Castle,14-01,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,14-01,President,,REPUBLICAN,Cruz R,17,1,18
+New Castle,14-01,President,,REPUBLICAN,Kasich J,34,1,35
+New Castle,14-01,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,14-01,President,,REPUBLICAN,Trump D,51,0,51
+New Castle,01-02,President,,DEMOCRATIC,Clinton H,312,9,321
+New Castle,01-02,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,01-02,President,,DEMOCRATIC,Sanders B,93,0,93
+New Castle,01-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,02-02,President,,DEMOCRATIC,Clinton H,149,3,152
+New Castle,02-02,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,02-02,President,,DEMOCRATIC,Sanders B,40,1,41
+New Castle,02-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,03-02,President,,DEMOCRATIC,Clinton H,170,5,175
+New Castle,03-02,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,03-02,President,,DEMOCRATIC,Sanders B,97,0,97
+New Castle,03-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,04-02,President,,DEMOCRATIC,Clinton H,147,6,153
+New Castle,04-02,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-02,President,,DEMOCRATIC,Sanders B,92,1,93
+New Castle,04-02,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,05-02,President,,DEMOCRATIC,Clinton H,197,3,200
+New Castle,05-02,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,05-02,President,,DEMOCRATIC,Sanders B,151,0,151
+New Castle,05-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,06-02,President,,DEMOCRATIC,Clinton H,106,8,114
+New Castle,06-02,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,06-02,President,,DEMOCRATIC,Sanders B,75,1,76
+New Castle,06-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,07-02,President,,DEMOCRATIC,Clinton H,140,1,141
+New Castle,07-02,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,07-02,President,,DEMOCRATIC,Sanders B,124,1,125
+New Castle,07-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,10-02,President,,DEMOCRATIC,Clinton H,129,1,130
+New Castle,10-02,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,10-02,President,,DEMOCRATIC,Sanders B,87,5,92
+New Castle,10-02,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,11-02,President,,DEMOCRATIC,Clinton H,251,3,254
+New Castle,11-02,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,11-02,President,,DEMOCRATIC,Sanders B,122,2,124
+New Castle,11-02,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,12-02,President,,DEMOCRATIC,Clinton H,134,1,135
+New Castle,12-02,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,12-02,President,,DEMOCRATIC,Sanders B,59,1,60
+New Castle,12-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,17-02,President,,DEMOCRATIC,Clinton H,0,49,49
+New Castle,17-02,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,17-02,President,,DEMOCRATIC,Sanders B,0,37,37
+New Castle,17-02,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-02,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,01-02,President,,REPUBLICAN,Cruz R,4,1,5
+New Castle,01-02,President,,REPUBLICAN,Kasich J,4,0,4
+New Castle,01-02,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,01-02,President,,REPUBLICAN,Trump D,2,0,2
+New Castle,02-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,02-02,President,,REPUBLICAN,Cruz R,0,0,0
+New Castle,02-02,President,,REPUBLICAN,Kasich J,0,0,0
+New Castle,02-02,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,02-02,President,,REPUBLICAN,Trump D,0,0,0
+New Castle,03-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,03-02,President,,REPUBLICAN,Cruz R,1,0,1
+New Castle,03-02,President,,REPUBLICAN,Kasich J,5,1,6
+New Castle,03-02,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,03-02,President,,REPUBLICAN,Trump D,4,0,4
+New Castle,04-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,04-02,President,,REPUBLICAN,Cruz R,17,0,17
+New Castle,04-02,President,,REPUBLICAN,Kasich J,15,0,15
+New Castle,04-02,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,04-02,President,,REPUBLICAN,Trump D,17,1,18
+New Castle,05-02,President,,REPUBLICAN,Carson B,0,1,1
+New Castle,05-02,President,,REPUBLICAN,Cruz R,9,1,10
+New Castle,05-02,President,,REPUBLICAN,Kasich J,12,0,12
+New Castle,05-02,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,05-02,President,,REPUBLICAN,Trump D,17,0,17
+New Castle,06-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,06-02,President,,REPUBLICAN,Cruz R,5,1,6
+New Castle,06-02,President,,REPUBLICAN,Kasich J,7,0,7
+New Castle,06-02,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,06-02,President,,REPUBLICAN,Trump D,10,0,10
+New Castle,07-02,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-02,President,,REPUBLICAN,Cruz R,12,0,12
+New Castle,07-02,President,,REPUBLICAN,Kasich J,19,0,19
+New Castle,07-02,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,07-02,President,,REPUBLICAN,Trump D,54,1,55
+New Castle,10-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,10-02,President,,REPUBLICAN,Cruz R,5,1,6
+New Castle,10-02,President,,REPUBLICAN,Kasich J,5,0,5
+New Castle,10-02,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,10-02,President,,REPUBLICAN,Trump D,11,0,11
+New Castle,11-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,11-02,President,,REPUBLICAN,Cruz R,0,0,0
+New Castle,11-02,President,,REPUBLICAN,Kasich J,2,0,2
+New Castle,11-02,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,11-02,President,,REPUBLICAN,Trump D,1,0,1
+New Castle,12-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,12-02,President,,REPUBLICAN,Cruz R,0,0,0
+New Castle,12-02,President,,REPUBLICAN,Kasich J,3,0,3
+New Castle,12-02,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,12-02,President,,REPUBLICAN,Trump D,0,0,0
+New Castle,17-02,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,17-02,President,,REPUBLICAN,Cruz R,0,9,9
+New Castle,17-02,President,,REPUBLICAN,Kasich J,0,2,2
+New Castle,17-02,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,17-02,President,,REPUBLICAN,Trump D,0,5,5
+New Castle,01-03,President,,DEMOCRATIC,Clinton H,250,5,255
+New Castle,01-03,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,01-03,President,,DEMOCRATIC,Sanders B,122,0,122
+New Castle,01-03,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,02-03,President,,DEMOCRATIC,Clinton H,195,4,199
+New Castle,02-03,President,,DEMOCRATIC,De La Fuen,1,1,2
+New Castle,02-03,President,,DEMOCRATIC,Sanders B,169,2,171
+New Castle,02-03,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,03-03,President,,DEMOCRATIC,Clinton H,289,5,294
+New Castle,03-03,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,03-03,President,,DEMOCRATIC,Sanders B,153,4,157
+New Castle,03-03,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,04-03,President,,DEMOCRATIC,Clinton H,192,2,194
+New Castle,04-03,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-03,President,,DEMOCRATIC,Sanders B,82,0,82
+New Castle,04-03,President,,REPUBLICAN,Bush J,0,1,1
+New Castle,07-03,President,,DEMOCRATIC,Clinton H,218,16,234
+New Castle,07-03,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,07-03,President,,DEMOCRATIC,Sanders B,129,3,132
+New Castle,07-03,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,08-03,President,,DEMOCRATIC,Clinton H,349,13,362
+New Castle,08-03,President,,DEMOCRATIC,De La Fuen,9,0,9
+New Castle,08-03,President,,DEMOCRATIC,Sanders B,255,1,256
+New Castle,08-03,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-03,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,01-03,President,,REPUBLICAN,Cruz R,7,1,8
+New Castle,01-03,President,,REPUBLICAN,Kasich J,5,0,5
+New Castle,01-03,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,01-03,President,,REPUBLICAN,Trump D,5,0,5
+New Castle,02-03,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,02-03,President,,REPUBLICAN,Cruz R,10,0,10
+New Castle,02-03,President,,REPUBLICAN,Kasich J,15,0,15
+New Castle,02-03,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,02-03,President,,REPUBLICAN,Trump D,21,0,21
+New Castle,03-03,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,03-03,President,,REPUBLICAN,Cruz R,29,0,29
+New Castle,03-03,President,,REPUBLICAN,Kasich J,138,5,143
+New Castle,03-03,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,03-03,President,,REPUBLICAN,Trump D,105,2,107
+New Castle,04-03,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,04-03,President,,REPUBLICAN,Cruz R,1,0,1
+New Castle,04-03,President,,REPUBLICAN,Kasich J,3,0,3
+New Castle,04-03,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,04-03,President,,REPUBLICAN,Trump D,4,0,4
+New Castle,07-03,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,07-03,President,,REPUBLICAN,Cruz R,2,0,2
+New Castle,07-03,President,,REPUBLICAN,Kasich J,6,1,7
+New Castle,07-03,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,07-03,President,,REPUBLICAN,Trump D,6,0,6
+New Castle,08-03,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,08-03,President,,REPUBLICAN,Cruz R,12,2,14
+New Castle,08-03,President,,REPUBLICAN,Kasich J,11,0,11
+New Castle,08-03,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,08-03,President,,REPUBLICAN,Trump D,35,0,35
+New Castle,01-04,President,,DEMOCRATIC,Clinton H,295,11,306
+New Castle,01-04,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,01-04,President,,DEMOCRATIC,Sanders B,164,8,172
+New Castle,01-04,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,02-04,President,,DEMOCRATIC,Clinton H,165,10,175
+New Castle,02-04,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,02-04,President,,DEMOCRATIC,Sanders B,73,8,81
+New Castle,02-04,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,03-04,President,,DEMOCRATIC,Clinton H,279,7,286
+New Castle,03-04,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,03-04,President,,DEMOCRATIC,Sanders B,177,5,182
+New Castle,03-04,President,,REPUBLICAN,Bush J,2,1,3
+New Castle,06-04,President,,DEMOCRATIC,Clinton H,183,3,186
+New Castle,06-04,President,,DEMOCRATIC,De La Fuen,2,1,3
+New Castle,06-04,President,,DEMOCRATIC,Sanders B,124,3,127
+New Castle,06-04,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,07-04,President,,DEMOCRATIC,Clinton H,179,16,195
+New Castle,07-04,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,07-04,President,,DEMOCRATIC,Sanders B,170,5,175
+New Castle,07-04,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,08-04,President,,DEMOCRATIC,Clinton H,180,6,186
+New Castle,08-04,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,08-04,President,,DEMOCRATIC,Sanders B,150,5,155
+New Castle,08-04,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,09-04,President,,DEMOCRATIC,Clinton H,143,10,153
+New Castle,09-04,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,09-04,President,,DEMOCRATIC,Sanders B,122,3,125
+New Castle,09-04,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,10-04,President,,DEMOCRATIC,Clinton H,79,3,82
+New Castle,10-04,President,,DEMOCRATIC,De La Fuen,1,1,2
+New Castle,10-04,President,,DEMOCRATIC,Sanders B,80,0,80
+New Castle,10-04,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,12-04,President,,DEMOCRATIC,Clinton H,134,8,142
+New Castle,12-04,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,12-04,President,,DEMOCRATIC,Sanders B,101,3,104
+New Castle,12-04,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,15-04,President,,DEMOCRATIC,Clinton H,32,2,34
+New Castle,15-04,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,15-04,President,,DEMOCRATIC,Sanders B,40,1,41
+New Castle,15-04,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-04,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,01-04,President,,REPUBLICAN,Cruz R,19,1,20
+New Castle,01-04,President,,REPUBLICAN,Kasich J,75,3,78
+New Castle,01-04,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,01-04,President,,REPUBLICAN,Trump D,69,3,72
+New Castle,02-04,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,02-04,President,,REPUBLICAN,Cruz R,29,6,35
+New Castle,02-04,President,,REPUBLICAN,Kasich J,151,3,154
+New Castle,02-04,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,02-04,President,,REPUBLICAN,Trump D,104,4,108
+New Castle,03-04,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,03-04,President,,REPUBLICAN,Cruz R,11,2,13
+New Castle,03-04,President,,REPUBLICAN,Kasich J,96,9,105
+New Castle,03-04,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,03-04,President,,REPUBLICAN,Trump D,64,2,66
+New Castle,06-04,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,06-04,President,,REPUBLICAN,Cruz R,10,0,10
+New Castle,06-04,President,,REPUBLICAN,Kasich J,45,1,46
+New Castle,06-04,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,06-04,President,,REPUBLICAN,Trump D,41,2,43
+New Castle,07-04,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-04,President,,REPUBLICAN,Cruz R,17,3,20
+New Castle,07-04,President,,REPUBLICAN,Kasich J,36,2,38
+New Castle,07-04,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,07-04,President,,REPUBLICAN,Trump D,44,2,46
+New Castle,08-04,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,08-04,President,,REPUBLICAN,Cruz R,30,1,31
+New Castle,08-04,President,,REPUBLICAN,Kasich J,90,6,96
+New Castle,08-04,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,08-04,President,,REPUBLICAN,Trump D,151,3,154
+New Castle,09-04,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,09-04,President,,REPUBLICAN,Cruz R,9,0,9
+New Castle,09-04,President,,REPUBLICAN,Kasich J,22,1,23
+New Castle,09-04,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,09-04,President,,REPUBLICAN,Trump D,16,1,17
+New Castle,10-04,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,10-04,President,,REPUBLICAN,Cruz R,5,1,6
+New Castle,10-04,President,,REPUBLICAN,Kasich J,14,0,14
+New Castle,10-04,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,10-04,President,,REPUBLICAN,Trump D,16,0,16
+New Castle,12-04,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,12-04,President,,REPUBLICAN,Cruz R,33,0,33
+New Castle,12-04,President,,REPUBLICAN,Kasich J,98,1,99
+New Castle,12-04,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,12-04,President,,REPUBLICAN,Trump D,100,2,102
+New Castle,15-04,President,,REPUBLICAN,Carson B,0,1,1
+New Castle,15-04,President,,REPUBLICAN,Cruz R,7,0,7
+New Castle,15-04,President,,REPUBLICAN,Kasich J,32,3,35
+New Castle,15-04,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,15-04,President,,REPUBLICAN,Trump D,61,2,63
+New Castle,01-05,President,,DEMOCRATIC,Clinton H,325,19,344
+New Castle,01-05,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,01-05,President,,DEMOCRATIC,Sanders B,162,4,166
+New Castle,01-05,President,,REPUBLICAN,Bush J,0,2,2
+New Castle,02-05,President,,DEMOCRATIC,Clinton H,426,5,431
+New Castle,02-05,President,,DEMOCRATIC,De La Fuen,7,0,7
+New Castle,02-05,President,,DEMOCRATIC,Sanders B,256,4,260
+New Castle,02-05,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,04-05,President,,DEMOCRATIC,Clinton H,363,6,369
+New Castle,04-05,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-05,President,,DEMOCRATIC,Sanders B,219,1,220
+New Castle,04-05,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-05,President,,DEMOCRATIC,Clinton H,351,5,356
+New Castle,06-05,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,06-05,President,,DEMOCRATIC,Sanders B,194,0,194
+New Castle,06-05,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,07-05,President,,DEMOCRATIC,Clinton H,242,2,244
+New Castle,07-05,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,07-05,President,,DEMOCRATIC,Sanders B,154,4,158
+New Castle,07-05,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,08-05,President,,DEMOCRATIC,Clinton H,317,4,321
+New Castle,08-05,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,08-05,President,,DEMOCRATIC,Sanders B,147,4,151
+New Castle,08-05,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,09-05,President,,DEMOCRATIC,Clinton H,371,2,373
+New Castle,09-05,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,09-05,President,,DEMOCRATIC,Sanders B,213,2,215
+New Castle,09-05,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-05,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,01-05,President,,REPUBLICAN,Cruz R,15,5,20
+New Castle,01-05,President,,REPUBLICAN,Kasich J,11,0,11
+New Castle,01-05,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,01-05,President,,REPUBLICAN,Trump D,58,0,58
+New Castle,02-05,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,02-05,President,,REPUBLICAN,Cruz R,37,0,37
+New Castle,02-05,President,,REPUBLICAN,Kasich J,21,0,21
+New Castle,02-05,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,02-05,President,,REPUBLICAN,Trump D,115,2,117
+New Castle,04-05,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,04-05,President,,REPUBLICAN,Cruz R,17,0,17
+New Castle,04-05,President,,REPUBLICAN,Kasich J,14,0,14
+New Castle,04-05,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,04-05,President,,REPUBLICAN,Trump D,29,0,29
+New Castle,06-05,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,06-05,President,,REPUBLICAN,Cruz R,33,4,37
+New Castle,06-05,President,,REPUBLICAN,Kasich J,31,1,32
+New Castle,06-05,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,06-05,President,,REPUBLICAN,Trump D,87,3,90
+New Castle,07-05,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,07-05,President,,REPUBLICAN,Cruz R,13,1,14
+New Castle,07-05,President,,REPUBLICAN,Kasich J,13,1,14
+New Castle,07-05,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,07-05,President,,REPUBLICAN,Trump D,52,1,53
+New Castle,08-05,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,08-05,President,,REPUBLICAN,Cruz R,33,1,34
+New Castle,08-05,President,,REPUBLICAN,Kasich J,19,1,20
+New Castle,08-05,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,08-05,President,,REPUBLICAN,Trump D,77,2,79
+New Castle,09-05,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,09-05,President,,REPUBLICAN,Cruz R,19,0,19
+New Castle,09-05,President,,REPUBLICAN,Kasich J,13,0,13
+New Castle,09-05,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,09-05,President,,REPUBLICAN,Trump D,35,0,35
+New Castle,01-06,President,,DEMOCRATIC,Clinton H,302,8,310
+New Castle,01-06,President,,DEMOCRATIC,De La Fuen,7,0,7
+New Castle,01-06,President,,DEMOCRATIC,Sanders B,305,6,311
+New Castle,01-06,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,02-06,President,,DEMOCRATIC,Clinton H,209,10,219
+New Castle,02-06,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,02-06,President,,DEMOCRATIC,Sanders B,125,7,132
+New Castle,02-06,President,,REPUBLICAN,Bush J,2,1,3
+New Castle,04-06,President,,DEMOCRATIC,Clinton H,144,2,146
+New Castle,04-06,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-06,President,,DEMOCRATIC,Sanders B,134,3,137
+New Castle,04-06,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,05-06,President,,DEMOCRATIC,Clinton H,297,7,304
+New Castle,05-06,President,,DEMOCRATIC,De La Fuen,2,1,3
+New Castle,05-06,President,,DEMOCRATIC,Sanders B,190,5,195
+New Castle,05-06,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,07-06,President,,DEMOCRATIC,Clinton H,138,10,148
+New Castle,07-06,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,07-06,President,,DEMOCRATIC,Sanders B,94,0,94
+New Castle,07-06,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,09-06,President,,DEMOCRATIC,Clinton H,287,7,294
+New Castle,09-06,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,09-06,President,,DEMOCRATIC,Sanders B,176,3,179
+New Castle,09-06,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,10-06,President,,DEMOCRATIC,Clinton H,153,0,153
+New Castle,10-06,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,10-06,President,,DEMOCRATIC,Sanders B,104,4,108
+New Castle,10-06,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,11-06,President,,DEMOCRATIC,Clinton H,154,6,160
+New Castle,11-06,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,11-06,President,,DEMOCRATIC,Sanders B,88,4,92
+New Castle,11-06,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,12-06,President,,DEMOCRATIC,Clinton H,179,3,182
+New Castle,12-06,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,12-06,President,,DEMOCRATIC,Sanders B,135,5,140
+New Castle,12-06,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,01-06,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,01-06,President,,REPUBLICAN,Cruz R,61,3,64
+New Castle,01-06,President,,REPUBLICAN,Kasich J,96,1,97
+New Castle,01-06,President,,REPUBLICAN,Rubio M,9,0,9
+New Castle,01-06,President,,REPUBLICAN,Trump D,167,2,169
+New Castle,02-06,President,,REPUBLICAN,Carson B,2,1,3
+New Castle,02-06,President,,REPUBLICAN,Cruz R,42,3,45
+New Castle,02-06,President,,REPUBLICAN,Kasich J,116,4,120
+New Castle,02-06,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,02-06,President,,REPUBLICAN,Trump D,156,1,157
+New Castle,04-06,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,04-06,President,,REPUBLICAN,Cruz R,31,0,31
+New Castle,04-06,President,,REPUBLICAN,Kasich J,34,0,34
+New Castle,04-06,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,04-06,President,,REPUBLICAN,Trump D,55,0,55
+New Castle,05-06,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,05-06,President,,REPUBLICAN,Cruz R,38,1,39
+New Castle,05-06,President,,REPUBLICAN,Kasich J,39,2,41
+New Castle,05-06,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,05-06,President,,REPUBLICAN,Trump D,66,2,68
+New Castle,07-06,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,07-06,President,,REPUBLICAN,Cruz R,28,0,28
+New Castle,07-06,President,,REPUBLICAN,Kasich J,73,1,74
+New Castle,07-06,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,07-06,President,,REPUBLICAN,Trump D,87,2,89
+New Castle,09-06,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,09-06,President,,REPUBLICAN,Cruz R,38,1,39
+New Castle,09-06,President,,REPUBLICAN,Kasich J,88,4,92
+New Castle,09-06,President,,REPUBLICAN,Rubio M,7,0,7
+New Castle,09-06,President,,REPUBLICAN,Trump D,112,1,113
+New Castle,10-06,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,10-06,President,,REPUBLICAN,Cruz R,46,1,47
+New Castle,10-06,President,,REPUBLICAN,Kasich J,94,1,95
+New Castle,10-06,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,10-06,President,,REPUBLICAN,Trump D,96,1,97
+New Castle,11-06,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,11-06,President,,REPUBLICAN,Cruz R,29,1,30
+New Castle,11-06,President,,REPUBLICAN,Kasich J,93,1,94
+New Castle,11-06,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,11-06,President,,REPUBLICAN,Trump D,80,5,85
+New Castle,12-06,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,12-06,President,,REPUBLICAN,Cruz R,53,2,55
+New Castle,12-06,President,,REPUBLICAN,Kasich J,107,1,108
+New Castle,12-06,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,12-06,President,,REPUBLICAN,Trump D,91,2,93
+New Castle,01-07,President,,DEMOCRATIC,Clinton H,285,5,290
+New Castle,01-07,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,01-07,President,,DEMOCRATIC,Sanders B,249,7,256
+New Castle,01-07,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,02-07,President,,DEMOCRATIC,Clinton H,346,17,363
+New Castle,02-07,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,02-07,President,,DEMOCRATIC,Sanders B,249,6,255
+New Castle,02-07,President,,REPUBLICAN,Bush J,7,1,8
+New Castle,04-07,President,,DEMOCRATIC,Clinton H,237,7,244
+New Castle,04-07,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-07,President,,DEMOCRATIC,Sanders B,202,7,209
+New Castle,04-07,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,05-07,President,,DEMOCRATIC,Clinton H,122,0,122
+New Castle,05-07,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,05-07,President,,DEMOCRATIC,Sanders B,147,4,151
+New Castle,05-07,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-07,President,,DEMOCRATIC,Clinton H,120,5,125
+New Castle,06-07,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,06-07,President,,DEMOCRATIC,Sanders B,97,3,100
+New Castle,06-07,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,07-07,President,,DEMOCRATIC,Clinton H,324,8,332
+New Castle,07-07,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,07-07,President,,DEMOCRATIC,Sanders B,206,3,209
+New Castle,07-07,President,,REPUBLICAN,Bush J,1,1,2
+New Castle,08-07,President,,DEMOCRATIC,Clinton H,172,5,177
+New Castle,08-07,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,08-07,President,,DEMOCRATIC,Sanders B,116,0,116
+New Castle,08-07,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,10-07,President,,DEMOCRATIC,Clinton H,212,5,217
+New Castle,10-07,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,10-07,President,,DEMOCRATIC,Sanders B,174,1,175
+New Castle,10-07,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-07,President,,REPUBLICAN,Carson B,7,0,7
+New Castle,01-07,President,,REPUBLICAN,Cruz R,55,3,58
+New Castle,01-07,President,,REPUBLICAN,Kasich J,64,0,64
+New Castle,01-07,President,,REPUBLICAN,Rubio M,7,0,7
+New Castle,01-07,President,,REPUBLICAN,Trump D,197,5,202
+New Castle,02-07,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,02-07,President,,REPUBLICAN,Cruz R,88,2,90
+New Castle,02-07,President,,REPUBLICAN,Kasich J,167,2,169
+New Castle,02-07,President,,REPUBLICAN,Rubio M,6,1,7
+New Castle,02-07,President,,REPUBLICAN,Trump D,182,4,186
+New Castle,04-07,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,04-07,President,,REPUBLICAN,Cruz R,24,1,25
+New Castle,04-07,President,,REPUBLICAN,Kasich J,33,1,34
+New Castle,04-07,President,,REPUBLICAN,Rubio M,1,1,2
+New Castle,04-07,President,,REPUBLICAN,Trump D,103,1,104
+New Castle,05-07,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,05-07,President,,REPUBLICAN,Cruz R,12,0,12
+New Castle,05-07,President,,REPUBLICAN,Kasich J,20,0,20
+New Castle,05-07,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,05-07,President,,REPUBLICAN,Trump D,23,0,23
+New Castle,06-07,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,06-07,President,,REPUBLICAN,Cruz R,20,0,20
+New Castle,06-07,President,,REPUBLICAN,Kasich J,50,3,53
+New Castle,06-07,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,06-07,President,,REPUBLICAN,Trump D,56,1,57
+New Castle,07-07,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,07-07,President,,REPUBLICAN,Cruz R,37,0,37
+New Castle,07-07,President,,REPUBLICAN,Kasich J,58,1,59
+New Castle,07-07,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,07-07,President,,REPUBLICAN,Trump D,111,2,113
+New Castle,08-07,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,08-07,President,,REPUBLICAN,Cruz R,27,4,31
+New Castle,08-07,President,,REPUBLICAN,Kasich J,82,4,86
+New Castle,08-07,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,08-07,President,,REPUBLICAN,Trump D,118,2,120
+New Castle,10-07,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,10-07,President,,REPUBLICAN,Cruz R,36,1,37
+New Castle,10-07,President,,REPUBLICAN,Kasich J,15,0,15
+New Castle,10-07,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,10-07,President,,REPUBLICAN,Trump D,64,1,65
+New Castle,01-08,President,,DEMOCRATIC,Clinton H,213,5,218
+New Castle,01-08,President,,DEMOCRATIC,De La Fuen,7,0,7
+New Castle,01-08,President,,DEMOCRATIC,Sanders B,146,1,147
+New Castle,01-08,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,02-08,President,,DEMOCRATIC,Clinton H,190,10,200
+New Castle,02-08,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,02-08,President,,DEMOCRATIC,Sanders B,104,4,108
+New Castle,02-08,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,03-08,President,,DEMOCRATIC,Clinton H,149,1,150
+New Castle,03-08,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,03-08,President,,DEMOCRATIC,Sanders B,100,0,100
+New Castle,03-08,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,04-08,President,,DEMOCRATIC,Clinton H,180,7,187
+New Castle,04-08,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,04-08,President,,DEMOCRATIC,Sanders B,96,0,96
+New Castle,04-08,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,05-08,President,,DEMOCRATIC,Clinton H,262,3,265
+New Castle,05-08,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,05-08,President,,DEMOCRATIC,Sanders B,189,2,191
+New Castle,05-08,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,06-08,President,,DEMOCRATIC,Clinton H,144,5,149
+New Castle,06-08,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,06-08,President,,DEMOCRATIC,Sanders B,103,1,104
+New Castle,06-08,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,07-08,President,,DEMOCRATIC,Clinton H,120,4,124
+New Castle,07-08,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,07-08,President,,DEMOCRATIC,Sanders B,97,4,101
+New Castle,07-08,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,10-08,President,,DEMOCRATIC,Clinton H,177,1,178
+New Castle,10-08,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,10-08,President,,DEMOCRATIC,Sanders B,86,2,88
+New Castle,10-08,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-08,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,01-08,President,,REPUBLICAN,Cruz R,77,1,78
+New Castle,01-08,President,,REPUBLICAN,Kasich J,37,0,37
+New Castle,01-08,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,01-08,President,,REPUBLICAN,Trump D,224,5,229
+New Castle,02-08,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,02-08,President,,REPUBLICAN,Cruz R,34,4,38
+New Castle,02-08,President,,REPUBLICAN,Kasich J,40,3,43
+New Castle,02-08,President,,REPUBLICAN,Rubio M,3,1,4
+New Castle,02-08,President,,REPUBLICAN,Trump D,121,1,122
+New Castle,03-08,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,03-08,President,,REPUBLICAN,Cruz R,22,2,24
+New Castle,03-08,President,,REPUBLICAN,Kasich J,23,1,24
+New Castle,03-08,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,03-08,President,,REPUBLICAN,Trump D,89,2,91
+New Castle,04-08,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,04-08,President,,REPUBLICAN,Cruz R,13,0,13
+New Castle,04-08,President,,REPUBLICAN,Kasich J,8,2,10
+New Castle,04-08,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,04-08,President,,REPUBLICAN,Trump D,27,0,27
+New Castle,05-08,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,05-08,President,,REPUBLICAN,Cruz R,39,0,39
+New Castle,05-08,President,,REPUBLICAN,Kasich J,31,0,31
+New Castle,05-08,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,05-08,President,,REPUBLICAN,Trump D,97,1,98
+New Castle,06-08,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,06-08,President,,REPUBLICAN,Cruz R,38,1,39
+New Castle,06-08,President,,REPUBLICAN,Kasich J,30,0,30
+New Castle,06-08,President,,REPUBLICAN,Rubio M,4,0,4
+New Castle,06-08,President,,REPUBLICAN,Trump D,113,0,113
+New Castle,07-08,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-08,President,,REPUBLICAN,Cruz R,57,2,59
+New Castle,07-08,President,,REPUBLICAN,Kasich J,49,0,49
+New Castle,07-08,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,07-08,President,,REPUBLICAN,Trump D,186,5,191
+New Castle,10-08,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,10-08,President,,REPUBLICAN,Cruz R,8,0,8
+New Castle,10-08,President,,REPUBLICAN,Kasich J,14,1,15
+New Castle,10-08,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,10-08,President,,REPUBLICAN,Trump D,83,0,83
+New Castle,01-09,President,,DEMOCRATIC,Clinton H,99,0,99
+New Castle,01-09,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,01-09,President,,DEMOCRATIC,Sanders B,90,1,91
+New Castle,01-09,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,02-09,President,,DEMOCRATIC,Clinton H,266,5,271
+New Castle,02-09,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,02-09,President,,DEMOCRATIC,Sanders B,160,1,161
+New Castle,02-09,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,03-09,President,,DEMOCRATIC,Clinton H,194,3,197
+New Castle,03-09,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,03-09,President,,DEMOCRATIC,Sanders B,93,4,97
+New Castle,03-09,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,04-09,President,,DEMOCRATIC,Clinton H,86,3,89
+New Castle,04-09,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-09,President,,DEMOCRATIC,Sanders B,48,1,49
+New Castle,04-09,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,05-09,President,,DEMOCRATIC,Clinton H,193,12,205
+New Castle,05-09,President,,DEMOCRATIC,De La Fuen,8,0,8
+New Castle,05-09,President,,DEMOCRATIC,Sanders B,136,6,142
+New Castle,05-09,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-09,President,,DEMOCRATIC,Clinton H,133,1,134
+New Castle,06-09,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,06-09,President,,DEMOCRATIC,Sanders B,112,2,114
+New Castle,06-09,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,08-09,President,,DEMOCRATIC,Clinton H,275,5,280
+New Castle,08-09,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,08-09,President,,DEMOCRATIC,Sanders B,184,1,185
+New Castle,08-09,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,09-09,President,,DEMOCRATIC,Clinton H,74,0,74
+New Castle,09-09,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,09-09,President,,DEMOCRATIC,Sanders B,70,2,72
+New Castle,09-09,President,,REPUBLICAN,Bush J,1,1,2
+New Castle,01-09,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,01-09,President,,REPUBLICAN,Cruz R,39,1,40
+New Castle,01-09,President,,REPUBLICAN,Kasich J,27,1,28
+New Castle,01-09,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,01-09,President,,REPUBLICAN,Trump D,112,0,112
+New Castle,02-09,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,02-09,President,,REPUBLICAN,Cruz R,47,1,48
+New Castle,02-09,President,,REPUBLICAN,Kasich J,54,2,56
+New Castle,02-09,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,02-09,President,,REPUBLICAN,Trump D,156,1,157
+New Castle,03-09,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,03-09,President,,REPUBLICAN,Cruz R,44,6,50
+New Castle,03-09,President,,REPUBLICAN,Kasich J,37,0,37
+New Castle,03-09,President,,REPUBLICAN,Rubio M,4,0,4
+New Castle,03-09,President,,REPUBLICAN,Trump D,157,0,157
+New Castle,04-09,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,04-09,President,,REPUBLICAN,Cruz R,22,0,22
+New Castle,04-09,President,,REPUBLICAN,Kasich J,18,0,18
+New Castle,04-09,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,04-09,President,,REPUBLICAN,Trump D,93,1,94
+New Castle,05-09,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,05-09,President,,REPUBLICAN,Cruz R,55,1,56
+New Castle,05-09,President,,REPUBLICAN,Kasich J,85,0,85
+New Castle,05-09,President,,REPUBLICAN,Rubio M,5,1,6
+New Castle,05-09,President,,REPUBLICAN,Trump D,202,3,205
+New Castle,06-09,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,06-09,President,,REPUBLICAN,Cruz R,55,1,56
+New Castle,06-09,President,,REPUBLICAN,Kasich J,50,2,52
+New Castle,06-09,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,06-09,President,,REPUBLICAN,Trump D,169,2,171
+New Castle,08-09,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,08-09,President,,REPUBLICAN,Cruz R,52,0,52
+New Castle,08-09,President,,REPUBLICAN,Kasich J,55,1,56
+New Castle,08-09,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,08-09,President,,REPUBLICAN,Trump D,228,2,230
+New Castle,09-09,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,09-09,President,,REPUBLICAN,Cruz R,33,0,33
+New Castle,09-09,President,,REPUBLICAN,Kasich J,22,0,22
+New Castle,09-09,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,09-09,President,,REPUBLICAN,Trump D,114,1,115
+New Castle,01-10,President,,DEMOCRATIC,Clinton H,320,3,323
+New Castle,01-10,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,01-10,President,,DEMOCRATIC,Sanders B,177,4,181
+New Castle,01-10,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,02-10,President,,DEMOCRATIC,Clinton H,141,1,142
+New Castle,02-10,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,02-10,President,,DEMOCRATIC,Sanders B,118,0,118
+New Castle,02-10,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,04-10,President,,DEMOCRATIC,Clinton H,201,4,205
+New Castle,04-10,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-10,President,,DEMOCRATIC,Sanders B,157,1,158
+New Castle,04-10,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,05-10,President,,DEMOCRATIC,Clinton H,309,6,315
+New Castle,05-10,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,05-10,President,,DEMOCRATIC,Sanders B,193,8,201
+New Castle,05-10,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,07-10,President,,DEMOCRATIC,Clinton H,196,4,200
+New Castle,07-10,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,07-10,President,,DEMOCRATIC,Sanders B,122,5,127
+New Castle,07-10,President,,REPUBLICAN,Bush J,8,0,8
+New Castle,09-10,President,,DEMOCRATIC,Clinton H,122,3,125
+New Castle,09-10,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,09-10,President,,DEMOCRATIC,Sanders B,74,2,76
+New Castle,09-10,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,10-10,President,,DEMOCRATIC,Clinton H,150,6,156
+New Castle,10-10,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,10-10,President,,DEMOCRATIC,Sanders B,87,2,89
+New Castle,10-10,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-10,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,01-10,President,,REPUBLICAN,Cruz R,71,3,74
+New Castle,01-10,President,,REPUBLICAN,Kasich J,126,1,127
+New Castle,01-10,President,,REPUBLICAN,Rubio M,9,0,9
+New Castle,01-10,President,,REPUBLICAN,Trump D,275,7,282
+New Castle,02-10,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,02-10,President,,REPUBLICAN,Cruz R,32,0,32
+New Castle,02-10,President,,REPUBLICAN,Kasich J,51,1,52
+New Castle,02-10,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,02-10,President,,REPUBLICAN,Trump D,101,3,104
+New Castle,04-10,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,04-10,President,,REPUBLICAN,Cruz R,28,0,28
+New Castle,04-10,President,,REPUBLICAN,Kasich J,43,2,45
+New Castle,04-10,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,04-10,President,,REPUBLICAN,Trump D,89,1,90
+New Castle,05-10,President,,REPUBLICAN,Carson B,9,0,9
+New Castle,05-10,President,,REPUBLICAN,Cruz R,98,1,99
+New Castle,05-10,President,,REPUBLICAN,Kasich J,208,3,211
+New Castle,05-10,President,,REPUBLICAN,Rubio M,5,0,5
+New Castle,05-10,President,,REPUBLICAN,Trump D,270,2,272
+New Castle,07-10,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,07-10,President,,REPUBLICAN,Cruz R,58,1,59
+New Castle,07-10,President,,REPUBLICAN,Kasich J,132,1,133
+New Castle,07-10,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,07-10,President,,REPUBLICAN,Trump D,136,1,137
+New Castle,09-10,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,09-10,President,,REPUBLICAN,Cruz R,32,1,33
+New Castle,09-10,President,,REPUBLICAN,Kasich J,58,0,58
+New Castle,09-10,President,,REPUBLICAN,Rubio M,4,0,4
+New Castle,09-10,President,,REPUBLICAN,Trump D,97,2,99
+New Castle,10-10,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,10-10,President,,REPUBLICAN,Cruz R,10,0,10
+New Castle,10-10,President,,REPUBLICAN,Kasich J,7,0,7
+New Castle,10-10,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,10-10,President,,REPUBLICAN,Trump D,28,0,28
+New Castle,01-11,President,,DEMOCRATIC,Clinton H,103,0,103
+New Castle,01-11,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,01-11,President,,DEMOCRATIC,Sanders B,95,1,96
+New Castle,01-11,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,02-11,President,,DEMOCRATIC,Clinton H,178,4,182
+New Castle,02-11,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,02-11,President,,DEMOCRATIC,Sanders B,111,0,111
+New Castle,02-11,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,03-11,President,,DEMOCRATIC,Clinton H,59,1,60
+New Castle,03-11,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,03-11,President,,DEMOCRATIC,Sanders B,75,1,76
+New Castle,03-11,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,04-11,President,,DEMOCRATIC,Clinton H,71,1,72
+New Castle,04-11,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,04-11,President,,DEMOCRATIC,Sanders B,52,1,53
+New Castle,04-11,President,,REPUBLICAN,Bush J,1,0,1
+Kent,05-11,President,,DEMOCRATIC,Clinton H,86,1,87
+Kent,05-11,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,05-11,President,,DEMOCRATIC,Sanders B,74,3,77
+Kent,05-11,President,,REPUBLICAN,Bush J,0,0,0
+Kent,06-11,President,,DEMOCRATIC,Clinton H,86,7,93
+Kent,06-11,President,,DEMOCRATIC,De La Fuen,7,0,7
+Kent,06-11,President,,DEMOCRATIC,Sanders B,114,3,117
+Kent,06-11,President,,REPUBLICAN,Bush J,1,0,1
+Kent,07-11,President,,DEMOCRATIC,Clinton H,107,3,110
+Kent,07-11,President,,DEMOCRATIC,De La Fuen,10,0,10
+Kent,07-11,President,,DEMOCRATIC,Sanders B,57,1,58
+Kent,07-11,President,,REPUBLICAN,Bush J,1,1,2
+Kent,09-11,President,,DEMOCRATIC,Clinton H,27,2,29
+Kent,09-11,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,09-11,President,,DEMOCRATIC,Sanders B,27,1,28
+Kent,09-11,President,,REPUBLICAN,Bush J,2,0,2
+Kent,10-11,President,,DEMOCRATIC,Clinton H,23,0,23
+Kent,10-11,President,,DEMOCRATIC,De La Fuen,1,1,2
+Kent,10-11,President,,DEMOCRATIC,Sanders B,39,4,43
+Kent,10-11,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-11,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,01-11,President,,REPUBLICAN,Cruz R,27,0,27
+New Castle,01-11,President,,REPUBLICAN,Kasich J,23,0,23
+New Castle,01-11,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,01-11,President,,REPUBLICAN,Trump D,81,2,83
+New Castle,02-11,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,02-11,President,,REPUBLICAN,Cruz R,33,1,34
+New Castle,02-11,President,,REPUBLICAN,Kasich J,25,0,25
+New Castle,02-11,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,02-11,President,,REPUBLICAN,Trump D,82,1,83
+New Castle,03-11,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,03-11,President,,REPUBLICAN,Cruz R,55,1,56
+New Castle,03-11,President,,REPUBLICAN,Kasich J,28,3,31
+New Castle,03-11,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,03-11,President,,REPUBLICAN,Trump D,136,1,137
+New Castle,04-11,President,,REPUBLICAN,Carson B,1,1,2
+New Castle,04-11,President,,REPUBLICAN,Cruz R,15,0,15
+New Castle,04-11,President,,REPUBLICAN,Kasich J,15,0,15
+New Castle,04-11,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,04-11,President,,REPUBLICAN,Trump D,94,1,95
+Kent,05-11,President,,REPUBLICAN,Carson B,4,0,4
+Kent,05-11,President,,REPUBLICAN,Cruz R,42,2,44
+Kent,05-11,President,,REPUBLICAN,Kasich J,13,2,15
+Kent,05-11,President,,REPUBLICAN,Rubio M,4,0,4
+Kent,05-11,President,,REPUBLICAN,Trump D,125,1,126
+Kent,06-11,President,,REPUBLICAN,Carson B,2,0,2
+Kent,06-11,President,,REPUBLICAN,Cruz R,63,4,67
+Kent,06-11,President,,REPUBLICAN,Kasich J,23,2,25
+Kent,06-11,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,06-11,President,,REPUBLICAN,Trump D,241,9,250
+Kent,07-11,President,,REPUBLICAN,Carson B,4,0,4
+Kent,07-11,President,,REPUBLICAN,Cruz R,46,2,48
+Kent,07-11,President,,REPUBLICAN,Kasich J,22,0,22
+Kent,07-11,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,07-11,President,,REPUBLICAN,Trump D,123,4,127
+Kent,09-11,President,,REPUBLICAN,Carson B,5,0,5
+Kent,09-11,President,,REPUBLICAN,Cruz R,22,0,22
+Kent,09-11,President,,REPUBLICAN,Kasich J,13,0,13
+Kent,09-11,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,09-11,President,,REPUBLICAN,Trump D,117,0,117
+Kent,10-11,President,,REPUBLICAN,Carson B,1,1,2
+Kent,10-11,President,,REPUBLICAN,Cruz R,15,1,16
+Kent,10-11,President,,REPUBLICAN,Kasich J,9,0,9
+Kent,10-11,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,10-11,President,,REPUBLICAN,Trump D,85,2,87
+New Castle,01-12,President,,DEMOCRATIC,Clinton H,176,2,178
+New Castle,01-12,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,01-12,President,,DEMOCRATIC,Sanders B,116,2,118
+New Castle,01-12,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,02-12,President,,DEMOCRATIC,Clinton H,194,8,202
+New Castle,02-12,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,02-12,President,,DEMOCRATIC,Sanders B,209,0,209
+New Castle,02-12,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,04-12,President,,DEMOCRATIC,Clinton H,95,8,103
+New Castle,04-12,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,04-12,President,,DEMOCRATIC,Sanders B,54,8,62
+New Castle,04-12,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,05-12,President,,DEMOCRATIC,Clinton H,188,7,195
+New Castle,05-12,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,05-12,President,,DEMOCRATIC,Sanders B,83,9,92
+New Castle,05-12,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,06-12,President,,DEMOCRATIC,Clinton H,79,3,82
+New Castle,06-12,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,06-12,President,,DEMOCRATIC,Sanders B,39,0,39
+New Castle,06-12,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,07-12,President,,DEMOCRATIC,Clinton H,88,3,91
+New Castle,07-12,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,07-12,President,,DEMOCRATIC,Sanders B,97,3,100
+New Castle,07-12,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,08-12,President,,DEMOCRATIC,Clinton H,255,12,267
+New Castle,08-12,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,08-12,President,,DEMOCRATIC,Sanders B,194,5,199
+New Castle,08-12,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,09-12,President,,DEMOCRATIC,Clinton H,191,16,207
+New Castle,09-12,President,,DEMOCRATIC,De La Fuen,1,1,2
+New Castle,09-12,President,,DEMOCRATIC,Sanders B,128,3,131
+New Castle,09-12,President,,REPUBLICAN,Bush J,2,1,3
+New Castle,11-12,President,,DEMOCRATIC,Clinton H,108,7,115
+New Castle,11-12,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,11-12,President,,DEMOCRATIC,Sanders B,54,1,55
+New Castle,11-12,President,,REPUBLICAN,Bush J,6,1,7
+New Castle,13-12,President,,DEMOCRATIC,Clinton H,137,12,149
+New Castle,13-12,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,13-12,President,,DEMOCRATIC,Sanders B,41,2,43
+New Castle,13-12,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,14-12,President,,DEMOCRATIC,Clinton H,110,3,113
+New Castle,14-12,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,14-12,President,,DEMOCRATIC,Sanders B,62,3,65
+New Castle,14-12,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,01-12,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,01-12,President,,REPUBLICAN,Cruz R,38,1,39
+New Castle,01-12,President,,REPUBLICAN,Kasich J,71,2,73
+New Castle,01-12,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,01-12,President,,REPUBLICAN,Trump D,102,1,103
+New Castle,02-12,President,,REPUBLICAN,Carson B,1,1,2
+New Castle,02-12,President,,REPUBLICAN,Cruz R,70,2,72
+New Castle,02-12,President,,REPUBLICAN,Kasich J,108,0,108
+New Castle,02-12,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,02-12,President,,REPUBLICAN,Trump D,141,1,142
+New Castle,04-12,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,04-12,President,,REPUBLICAN,Cruz R,23,1,24
+New Castle,04-12,President,,REPUBLICAN,Kasich J,138,3,141
+New Castle,04-12,President,,REPUBLICAN,Rubio M,1,1,2
+New Castle,04-12,President,,REPUBLICAN,Trump D,100,3,103
+New Castle,05-12,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,05-12,President,,REPUBLICAN,Cruz R,52,1,53
+New Castle,05-12,President,,REPUBLICAN,Kasich J,149,4,153
+New Castle,05-12,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,05-12,President,,REPUBLICAN,Trump D,118,3,121
+New Castle,06-12,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,06-12,President,,REPUBLICAN,Cruz R,29,0,29
+New Castle,06-12,President,,REPUBLICAN,Kasich J,58,0,58
+New Castle,06-12,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,06-12,President,,REPUBLICAN,Trump D,57,0,57
+New Castle,07-12,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,07-12,President,,REPUBLICAN,Cruz R,30,1,31
+New Castle,07-12,President,,REPUBLICAN,Kasich J,68,2,70
+New Castle,07-12,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,07-12,President,,REPUBLICAN,Trump D,86,2,88
+New Castle,08-12,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,08-12,President,,REPUBLICAN,Cruz R,75,2,77
+New Castle,08-12,President,,REPUBLICAN,Kasich J,210,8,218
+New Castle,08-12,President,,REPUBLICAN,Rubio M,5,0,5
+New Castle,08-12,President,,REPUBLICAN,Trump D,233,6,239
+New Castle,09-12,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,09-12,President,,REPUBLICAN,Cruz R,75,3,78
+New Castle,09-12,President,,REPUBLICAN,Kasich J,151,6,157
+New Castle,09-12,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,09-12,President,,REPUBLICAN,Trump D,178,7,185
+New Castle,11-12,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,11-12,President,,REPUBLICAN,Cruz R,27,3,30
+New Castle,11-12,President,,REPUBLICAN,Kasich J,135,4,139
+New Castle,11-12,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,11-12,President,,REPUBLICAN,Trump D,149,5,154
+New Castle,13-12,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,13-12,President,,REPUBLICAN,Cruz R,18,0,18
+New Castle,13-12,President,,REPUBLICAN,Kasich J,134,2,136
+New Castle,13-12,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,13-12,President,,REPUBLICAN,Trump D,93,2,95
+New Castle,14-12,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,14-12,President,,REPUBLICAN,Cruz R,28,0,28
+New Castle,14-12,President,,REPUBLICAN,Kasich J,77,1,78
+New Castle,14-12,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,14-12,President,,REPUBLICAN,Trump D,81,2,83
+New Castle,01-13,President,,DEMOCRATIC,Clinton H,149,4,153
+New Castle,01-13,President,,DEMOCRATIC,De La Fuen,8,0,8
+New Castle,01-13,President,,DEMOCRATIC,Sanders B,188,0,188
+New Castle,01-13,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,02-13,President,,DEMOCRATIC,Clinton H,175,1,176
+New Castle,02-13,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,02-13,President,,DEMOCRATIC,Sanders B,167,1,168
+New Castle,02-13,President,,REPUBLICAN,Bush J,1,1,2
+New Castle,03-13,President,,DEMOCRATIC,Clinton H,56,4,60
+New Castle,03-13,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,03-13,President,,DEMOCRATIC,Sanders B,38,2,40
+New Castle,03-13,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,04-13,President,,DEMOCRATIC,Clinton H,257,11,268
+New Castle,04-13,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,04-13,President,,DEMOCRATIC,Sanders B,272,5,277
+New Castle,04-13,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,05-13,President,,DEMOCRATIC,Clinton H,124,4,128
+New Castle,05-13,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,05-13,President,,DEMOCRATIC,Sanders B,103,2,105
+New Castle,05-13,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,08-13,President,,DEMOCRATIC,Clinton H,155,3,158
+New Castle,08-13,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,08-13,President,,DEMOCRATIC,Sanders B,148,0,148
+New Castle,08-13,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,09-13,President,,DEMOCRATIC,Clinton H,119,4,123
+New Castle,09-13,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,09-13,President,,DEMOCRATIC,Sanders B,130,2,132
+New Castle,09-13,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,10-13,President,,DEMOCRATIC,Clinton H,35,2,37
+New Castle,10-13,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,10-13,President,,DEMOCRATIC,Sanders B,48,0,48
+New Castle,10-13,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-13,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,01-13,President,,REPUBLICAN,Cruz R,32,1,33
+New Castle,01-13,President,,REPUBLICAN,Kasich J,22,1,23
+New Castle,01-13,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,01-13,President,,REPUBLICAN,Trump D,84,2,86
+New Castle,02-13,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,02-13,President,,REPUBLICAN,Cruz R,46,0,46
+New Castle,02-13,President,,REPUBLICAN,Kasich J,36,0,36
+New Castle,02-13,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,02-13,President,,REPUBLICAN,Trump D,113,3,116
+New Castle,03-13,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,03-13,President,,REPUBLICAN,Cruz R,5,0,5
+New Castle,03-13,President,,REPUBLICAN,Kasich J,0,0,0
+New Castle,03-13,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,03-13,President,,REPUBLICAN,Trump D,6,0,6
+New Castle,04-13,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,04-13,President,,REPUBLICAN,Cruz R,54,1,55
+New Castle,04-13,President,,REPUBLICAN,Kasich J,46,2,48
+New Castle,04-13,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,04-13,President,,REPUBLICAN,Trump D,131,5,136
+New Castle,05-13,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,05-13,President,,REPUBLICAN,Cruz R,22,0,22
+New Castle,05-13,President,,REPUBLICAN,Kasich J,11,0,11
+New Castle,05-13,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,05-13,President,,REPUBLICAN,Trump D,36,2,38
+New Castle,08-13,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,08-13,President,,REPUBLICAN,Cruz R,18,1,19
+New Castle,08-13,President,,REPUBLICAN,Kasich J,8,0,8
+New Castle,08-13,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,08-13,President,,REPUBLICAN,Trump D,45,2,47
+New Castle,09-13,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,09-13,President,,REPUBLICAN,Cruz R,16,1,17
+New Castle,09-13,President,,REPUBLICAN,Kasich J,10,1,11
+New Castle,09-13,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,09-13,President,,REPUBLICAN,Trump D,48,1,49
+New Castle,10-13,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,10-13,President,,REPUBLICAN,Cruz R,5,0,5
+New Castle,10-13,President,,REPUBLICAN,Kasich J,12,0,12
+New Castle,10-13,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,10-13,President,,REPUBLICAN,Trump D,18,1,19
+Sussex,01-14,President,,DEMOCRATIC,Clinton H,393,35,428
+Sussex,01-14,President,,DEMOCRATIC,De La Fuen,4,0,4
+Sussex,01-14,President,,DEMOCRATIC,Sanders B,174,4,178
+Sussex,01-14,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,02-14,President,,DEMOCRATIC,Clinton H,303,16,319
+Sussex,02-14,President,,DEMOCRATIC,De La Fuen,4,0,4
+Sussex,02-14,President,,DEMOCRATIC,Sanders B,131,12,143
+Sussex,02-14,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,03-14,President,,DEMOCRATIC,Clinton H,371,37,408
+Sussex,03-14,President,,DEMOCRATIC,De La Fuen,11,0,11
+Sussex,03-14,President,,DEMOCRATIC,Sanders B,122,8,130
+Sussex,03-14,President,,REPUBLICAN,Bush J,5,0,5
+Sussex,04-14,President,,DEMOCRATIC,Clinton H,424,30,454
+Sussex,04-14,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,04-14,President,,DEMOCRATIC,Sanders B,159,12,171
+Sussex,04-14,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,05-14,President,,DEMOCRATIC,Clinton H,271,13,284
+Sussex,05-14,President,,DEMOCRATIC,De La Fuen,8,0,8
+Sussex,05-14,President,,DEMOCRATIC,Sanders B,164,10,174
+Sussex,05-14,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,06-14,President,,DEMOCRATIC,Clinton H,227,23,250
+Sussex,06-14,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,06-14,President,,DEMOCRATIC,Sanders B,82,5,87
+Sussex,06-14,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,07-14,President,,DEMOCRATIC,Clinton H,200,21,221
+Sussex,07-14,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,07-14,President,,DEMOCRATIC,Sanders B,86,7,93
+Sussex,07-14,President,,REPUBLICAN,Bush J,4,0,4
+Sussex,01-14,President,,REPUBLICAN,Carson B,6,0,6
+Sussex,01-14,President,,REPUBLICAN,Cruz R,68,5,73
+Sussex,01-14,President,,REPUBLICAN,Kasich J,157,6,163
+Sussex,01-14,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,01-14,President,,REPUBLICAN,Trump D,430,10,440
+Sussex,02-14,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,02-14,President,,REPUBLICAN,Cruz R,42,8,50
+Sussex,02-14,President,,REPUBLICAN,Kasich J,88,8,96
+Sussex,02-14,President,,REPUBLICAN,Rubio M,4,0,4
+Sussex,02-14,President,,REPUBLICAN,Trump D,315,14,329
+Sussex,03-14,President,,REPUBLICAN,Carson B,4,1,5
+Sussex,03-14,President,,REPUBLICAN,Cruz R,24,1,25
+Sussex,03-14,President,,REPUBLICAN,Kasich J,92,2,94
+Sussex,03-14,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,03-14,President,,REPUBLICAN,Trump D,238,13,251
+Sussex,04-14,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,04-14,President,,REPUBLICAN,Cruz R,51,7,58
+Sussex,04-14,President,,REPUBLICAN,Kasich J,92,9,101
+Sussex,04-14,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,04-14,President,,REPUBLICAN,Trump D,322,14,336
+Sussex,05-14,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,05-14,President,,REPUBLICAN,Cruz R,38,2,40
+Sussex,05-14,President,,REPUBLICAN,Kasich J,89,3,92
+Sussex,05-14,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,05-14,President,,REPUBLICAN,Trump D,379,10,389
+Sussex,06-14,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,06-14,President,,REPUBLICAN,Cruz R,17,4,21
+Sussex,06-14,President,,REPUBLICAN,Kasich J,85,3,88
+Sussex,06-14,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,06-14,President,,REPUBLICAN,Trump D,192,12,204
+Sussex,07-14,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,07-14,President,,REPUBLICAN,Cruz R,14,4,18
+Sussex,07-14,President,,REPUBLICAN,Kasich J,74,3,77
+Sussex,07-14,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,07-14,President,,REPUBLICAN,Trump D,158,5,163
+New Castle,01-15,President,,DEMOCRATIC,Clinton H,426,5,431
+New Castle,01-15,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,01-15,President,,DEMOCRATIC,Sanders B,269,4,273
+New Castle,01-15,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,02-15,President,,DEMOCRATIC,Clinton H,534,10,544
+New Castle,02-15,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,02-15,President,,DEMOCRATIC,Sanders B,276,2,278
+New Castle,02-15,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,05-15,President,,DEMOCRATIC,Clinton H,444,7,451
+New Castle,05-15,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,05-15,President,,DEMOCRATIC,Sanders B,294,3,297
+New Castle,05-15,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,08-15,President,,DEMOCRATIC,Clinton H,338,9,347
+New Castle,08-15,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,08-15,President,,DEMOCRATIC,Sanders B,205,0,205
+New Castle,08-15,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-15,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,01-15,President,,REPUBLICAN,Cruz R,55,1,56
+New Castle,01-15,President,,REPUBLICAN,Kasich J,42,0,42
+New Castle,01-15,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,01-15,President,,REPUBLICAN,Trump D,185,5,190
+New Castle,02-15,President,,REPUBLICAN,Carson B,7,0,7
+New Castle,02-15,President,,REPUBLICAN,Cruz R,98,1,99
+New Castle,02-15,President,,REPUBLICAN,Kasich J,76,1,77
+New Castle,02-15,President,,REPUBLICAN,Rubio M,6,0,6
+New Castle,02-15,President,,REPUBLICAN,Trump D,262,4,266
+New Castle,05-15,President,,REPUBLICAN,Carson B,8,0,8
+New Castle,05-15,President,,REPUBLICAN,Cruz R,40,3,43
+New Castle,05-15,President,,REPUBLICAN,Kasich J,36,0,36
+New Castle,05-15,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,05-15,President,,REPUBLICAN,Trump D,126,5,131
+New Castle,08-15,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,08-15,President,,REPUBLICAN,Cruz R,52,0,52
+New Castle,08-15,President,,REPUBLICAN,Kasich J,28,0,28
+New Castle,08-15,President,,REPUBLICAN,Rubio M,9,0,9
+New Castle,08-15,President,,REPUBLICAN,Trump D,99,2,101
+New Castle,01-16,President,,DEMOCRATIC,Clinton H,168,7,175
+New Castle,01-16,President,,DEMOCRATIC,De La Fuen,7,0,7
+New Castle,01-16,President,,DEMOCRATIC,Sanders B,93,2,95
+New Castle,01-16,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,02-16,President,,DEMOCRATIC,Clinton H,278,4,282
+New Castle,02-16,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,02-16,President,,DEMOCRATIC,Sanders B,118,1,119
+New Castle,02-16,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,03-16,President,,DEMOCRATIC,Clinton H,301,4,305
+New Castle,03-16,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,03-16,President,,DEMOCRATIC,Sanders B,100,4,104
+New Castle,03-16,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,04-16,President,,DEMOCRATIC,Clinton H,99,4,103
+New Castle,04-16,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-16,President,,DEMOCRATIC,Sanders B,51,2,53
+New Castle,04-16,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,05-16,President,,DEMOCRATIC,Clinton H,349,2,351
+New Castle,05-16,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,05-16,President,,DEMOCRATIC,Sanders B,106,0,106
+New Castle,05-16,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,06-16,President,,DEMOCRATIC,Clinton H,166,6,172
+New Castle,06-16,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,06-16,President,,DEMOCRATIC,Sanders B,76,0,76
+New Castle,06-16,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,07-16,President,,DEMOCRATIC,Clinton H,524,11,535
+New Castle,07-16,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,07-16,President,,DEMOCRATIC,Sanders B,209,1,210
+New Castle,07-16,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,09-16,President,,DEMOCRATIC,Clinton H,236,10,246
+New Castle,09-16,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,09-16,President,,DEMOCRATIC,Sanders B,151,4,155
+New Castle,09-16,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-16,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,01-16,President,,REPUBLICAN,Cruz R,21,0,21
+New Castle,01-16,President,,REPUBLICAN,Kasich J,14,0,14
+New Castle,01-16,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,01-16,President,,REPUBLICAN,Trump D,43,1,44
+New Castle,02-16,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,02-16,President,,REPUBLICAN,Cruz R,6,0,6
+New Castle,02-16,President,,REPUBLICAN,Kasich J,2,0,2
+New Castle,02-16,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,02-16,President,,REPUBLICAN,Trump D,13,0,13
+New Castle,03-16,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,03-16,President,,REPUBLICAN,Cruz R,8,0,8
+New Castle,03-16,President,,REPUBLICAN,Kasich J,0,0,0
+New Castle,03-16,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,03-16,President,,REPUBLICAN,Trump D,0,1,1
+New Castle,04-16,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,04-16,President,,REPUBLICAN,Cruz R,4,0,4
+New Castle,04-16,President,,REPUBLICAN,Kasich J,4,1,5
+New Castle,04-16,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,04-16,President,,REPUBLICAN,Trump D,21,0,21
+New Castle,05-16,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,05-16,President,,REPUBLICAN,Cruz R,4,0,4
+New Castle,05-16,President,,REPUBLICAN,Kasich J,0,0,0
+New Castle,05-16,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,05-16,President,,REPUBLICAN,Trump D,8,0,8
+New Castle,06-16,President,,REPUBLICAN,Carson B,1,1,2
+New Castle,06-16,President,,REPUBLICAN,Cruz R,4,0,4
+New Castle,06-16,President,,REPUBLICAN,Kasich J,6,1,7
+New Castle,06-16,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,06-16,President,,REPUBLICAN,Trump D,6,0,6
+New Castle,07-16,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-16,President,,REPUBLICAN,Cruz R,25,0,25
+New Castle,07-16,President,,REPUBLICAN,Kasich J,16,0,16
+New Castle,07-16,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,07-16,President,,REPUBLICAN,Trump D,44,0,44
+New Castle,09-16,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,09-16,President,,REPUBLICAN,Cruz R,23,1,24
+New Castle,09-16,President,,REPUBLICAN,Kasich J,27,0,27
+New Castle,09-16,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,09-16,President,,REPUBLICAN,Trump D,48,2,50
+New Castle,01-17,President,,DEMOCRATIC,Clinton H,116,3,119
+New Castle,01-17,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,01-17,President,,DEMOCRATIC,Sanders B,49,0,49
+New Castle,01-17,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,02-17,President,,DEMOCRATIC,Clinton H,644,11,655
+New Castle,02-17,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,02-17,President,,DEMOCRATIC,Sanders B,332,1,333
+New Castle,02-17,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,04-17,President,,DEMOCRATIC,Clinton H,178,0,178
+New Castle,04-17,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,04-17,President,,DEMOCRATIC,Sanders B,128,3,131
+New Castle,04-17,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,05-17,President,,DEMOCRATIC,Clinton H,118,1,119
+New Castle,05-17,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,05-17,President,,DEMOCRATIC,Sanders B,80,1,81
+New Castle,05-17,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-17,President,,DEMOCRATIC,Clinton H,121,6,127
+New Castle,06-17,President,,DEMOCRATIC,De La Fuen,3,1,4
+New Castle,06-17,President,,DEMOCRATIC,Sanders B,97,2,99
+New Castle,06-17,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,07-17,President,,DEMOCRATIC,Clinton H,223,5,228
+New Castle,07-17,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,07-17,President,,DEMOCRATIC,Sanders B,158,2,160
+New Castle,07-17,President,,REPUBLICAN,Bush J,2,1,3
+New Castle,08-17,President,,DEMOCRATIC,Clinton H,127,2,129
+New Castle,08-17,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,08-17,President,,DEMOCRATIC,Sanders B,48,1,49
+New Castle,08-17,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,09-17,President,,DEMOCRATIC,Clinton H,123,1,124
+New Castle,09-17,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,09-17,President,,DEMOCRATIC,Sanders B,86,0,86
+New Castle,09-17,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,11-17,President,,DEMOCRATIC,Clinton H,173,1,174
+New Castle,11-17,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,11-17,President,,DEMOCRATIC,Sanders B,95,0,95
+New Castle,11-17,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-17,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,01-17,President,,REPUBLICAN,Cruz R,14,0,14
+New Castle,01-17,President,,REPUBLICAN,Kasich J,5,0,5
+New Castle,01-17,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,01-17,President,,REPUBLICAN,Trump D,31,0,31
+New Castle,02-17,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,02-17,President,,REPUBLICAN,Cruz R,25,2,27
+New Castle,02-17,President,,REPUBLICAN,Kasich J,29,0,29
+New Castle,02-17,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,02-17,President,,REPUBLICAN,Trump D,60,6,66
+New Castle,04-17,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,04-17,President,,REPUBLICAN,Cruz R,29,0,29
+New Castle,04-17,President,,REPUBLICAN,Kasich J,36,0,36
+New Castle,04-17,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,04-17,President,,REPUBLICAN,Trump D,70,1,71
+New Castle,05-17,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,05-17,President,,REPUBLICAN,Cruz R,25,0,25
+New Castle,05-17,President,,REPUBLICAN,Kasich J,20,0,20
+New Castle,05-17,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,05-17,President,,REPUBLICAN,Trump D,48,5,53
+New Castle,06-17,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,06-17,President,,REPUBLICAN,Cruz R,19,0,19
+New Castle,06-17,President,,REPUBLICAN,Kasich J,13,1,14
+New Castle,06-17,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,06-17,President,,REPUBLICAN,Trump D,47,6,53
+New Castle,07-17,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-17,President,,REPUBLICAN,Cruz R,23,0,23
+New Castle,07-17,President,,REPUBLICAN,Kasich J,18,0,18
+New Castle,07-17,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,07-17,President,,REPUBLICAN,Trump D,47,2,49
+New Castle,08-17,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,08-17,President,,REPUBLICAN,Cruz R,9,0,9
+New Castle,08-17,President,,REPUBLICAN,Kasich J,7,0,7
+New Castle,08-17,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,08-17,President,,REPUBLICAN,Trump D,25,0,25
+New Castle,09-17,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,09-17,President,,REPUBLICAN,Cruz R,19,0,19
+New Castle,09-17,President,,REPUBLICAN,Kasich J,20,0,20
+New Castle,09-17,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,09-17,President,,REPUBLICAN,Trump D,50,1,51
+New Castle,11-17,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,11-17,President,,REPUBLICAN,Cruz R,11,1,12
+New Castle,11-17,President,,REPUBLICAN,Kasich J,9,0,9
+New Castle,11-17,President,,REPUBLICAN,Rubio M,4,0,4
+New Castle,11-17,President,,REPUBLICAN,Trump D,59,0,59
+New Castle,01-18,President,,DEMOCRATIC,Clinton H,241,2,243
+New Castle,01-18,President,,DEMOCRATIC,De La Fuen,3,1,4
+New Castle,01-18,President,,DEMOCRATIC,Sanders B,225,3,228
+New Castle,01-18,President,,REPUBLICAN,Bush J,4,1,5
+New Castle,04-18,President,,DEMOCRATIC,Clinton H,368,7,375
+New Castle,04-18,President,,DEMOCRATIC,De La Fuen,11,0,11
+New Castle,04-18,President,,DEMOCRATIC,Sanders B,215,4,219
+New Castle,04-18,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-18,President,,DEMOCRATIC,Clinton H,190,2,192
+New Castle,06-18,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,06-18,President,,DEMOCRATIC,Sanders B,132,1,133
+New Castle,06-18,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,08-18,President,,DEMOCRATIC,Clinton H,229,8,237
+New Castle,08-18,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,08-18,President,,DEMOCRATIC,Sanders B,153,2,155
+New Castle,08-18,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,01-18,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,01-18,President,,REPUBLICAN,Cruz R,55,3,58
+New Castle,01-18,President,,REPUBLICAN,Kasich J,26,1,27
+New Castle,01-18,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,01-18,President,,REPUBLICAN,Trump D,109,6,115
+New Castle,04-18,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,04-18,President,,REPUBLICAN,Cruz R,52,3,55
+New Castle,04-18,President,,REPUBLICAN,Kasich J,35,2,37
+New Castle,04-18,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,04-18,President,,REPUBLICAN,Trump D,104,2,106
+New Castle,06-18,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,06-18,President,,REPUBLICAN,Cruz R,16,0,16
+New Castle,06-18,President,,REPUBLICAN,Kasich J,6,0,6
+New Castle,06-18,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,06-18,President,,REPUBLICAN,Trump D,36,1,37
+New Castle,08-18,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,08-18,President,,REPUBLICAN,Cruz R,23,1,24
+New Castle,08-18,President,,REPUBLICAN,Kasich J,33,0,33
+New Castle,08-18,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,08-18,President,,REPUBLICAN,Trump D,69,3,72
+New Castle,01-19,President,,DEMOCRATIC,Clinton H,281,7,288
+New Castle,01-19,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,01-19,President,,DEMOCRATIC,Sanders B,180,2,182
+New Castle,01-19,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,02-19,President,,DEMOCRATIC,Clinton H,96,2,98
+New Castle,02-19,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,02-19,President,,DEMOCRATIC,Sanders B,82,1,83
+New Castle,02-19,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,03-19,President,,DEMOCRATIC,Clinton H,109,7,116
+New Castle,03-19,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,03-19,President,,DEMOCRATIC,Sanders B,100,1,101
+New Castle,03-19,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,04-19,President,,DEMOCRATIC,Clinton H,135,4,139
+New Castle,04-19,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,04-19,President,,DEMOCRATIC,Sanders B,99,0,99
+New Castle,04-19,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,05-19,President,,DEMOCRATIC,Clinton H,97,3,100
+New Castle,05-19,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,05-19,President,,DEMOCRATIC,Sanders B,98,4,102
+New Castle,05-19,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-19,President,,DEMOCRATIC,Clinton H,24,1,25
+New Castle,06-19,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,06-19,President,,DEMOCRATIC,Sanders B,21,0,21
+New Castle,06-19,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,07-19,President,,DEMOCRATIC,Clinton H,180,1,181
+New Castle,07-19,President,,DEMOCRATIC,De La Fuen,4,1,5
+New Castle,07-19,President,,DEMOCRATIC,Sanders B,196,1,197
+New Castle,07-19,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,10-19,President,,DEMOCRATIC,Clinton H,97,1,98
+New Castle,10-19,President,,DEMOCRATIC,De La Fuen,2,1,3
+New Castle,10-19,President,,DEMOCRATIC,Sanders B,62,1,63
+New Castle,10-19,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,11-19,President,,DEMOCRATIC,Clinton H,21,0,21
+New Castle,11-19,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,11-19,President,,DEMOCRATIC,Sanders B,28,1,29
+New Castle,11-19,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,01-19,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,01-19,President,,REPUBLICAN,Cruz R,23,2,25
+New Castle,01-19,President,,REPUBLICAN,Kasich J,36,1,37
+New Castle,01-19,President,,REPUBLICAN,Rubio M,5,0,5
+New Castle,01-19,President,,REPUBLICAN,Trump D,72,2,74
+New Castle,02-19,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,02-19,President,,REPUBLICAN,Cruz R,10,0,10
+New Castle,02-19,President,,REPUBLICAN,Kasich J,8,0,8
+New Castle,02-19,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,02-19,President,,REPUBLICAN,Trump D,58,0,58
+New Castle,03-19,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,03-19,President,,REPUBLICAN,Cruz R,21,1,22
+New Castle,03-19,President,,REPUBLICAN,Kasich J,39,0,39
+New Castle,03-19,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,03-19,President,,REPUBLICAN,Trump D,76,3,79
+New Castle,04-19,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,04-19,President,,REPUBLICAN,Cruz R,27,3,30
+New Castle,04-19,President,,REPUBLICAN,Kasich J,26,1,27
+New Castle,04-19,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,04-19,President,,REPUBLICAN,Trump D,91,0,91
+New Castle,05-19,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,05-19,President,,REPUBLICAN,Cruz R,19,0,19
+New Castle,05-19,President,,REPUBLICAN,Kasich J,16,0,16
+New Castle,05-19,President,,REPUBLICAN,Rubio M,0,1,1
+New Castle,05-19,President,,REPUBLICAN,Trump D,84,2,86
+New Castle,06-19,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,06-19,President,,REPUBLICAN,Cruz R,6,0,6
+New Castle,06-19,President,,REPUBLICAN,Kasich J,5,0,5
+New Castle,06-19,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,06-19,President,,REPUBLICAN,Trump D,5,0,5
+New Castle,07-19,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,07-19,President,,REPUBLICAN,Cruz R,38,5,43
+New Castle,07-19,President,,REPUBLICAN,Kasich J,38,2,40
+New Castle,07-19,President,,REPUBLICAN,Rubio M,4,0,4
+New Castle,07-19,President,,REPUBLICAN,Trump D,105,0,105
+New Castle,10-19,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,10-19,President,,REPUBLICAN,Cruz R,15,0,15
+New Castle,10-19,President,,REPUBLICAN,Kasich J,20,4,24
+New Castle,10-19,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,10-19,President,,REPUBLICAN,Trump D,51,0,51
+New Castle,11-19,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,11-19,President,,REPUBLICAN,Cruz R,7,0,7
+New Castle,11-19,President,,REPUBLICAN,Kasich J,6,0,6
+New Castle,11-19,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,11-19,President,,REPUBLICAN,Trump D,12,0,12
+Sussex,01-20,President,,DEMOCRATIC,Clinton H,128,14,142
+Sussex,01-20,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,01-20,President,,DEMOCRATIC,Sanders B,111,1,112
+Sussex,01-20,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,02-20,President,,DEMOCRATIC,Clinton H,263,12,275
+Sussex,02-20,President,,DEMOCRATIC,De La Fuen,4,0,4
+Sussex,02-20,President,,DEMOCRATIC,Sanders B,141,7,148
+Sussex,02-20,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,03-20,President,,DEMOCRATIC,Clinton H,205,10,215
+Sussex,03-20,President,,DEMOCRATIC,De La Fuen,4,0,4
+Sussex,03-20,President,,DEMOCRATIC,Sanders B,114,5,119
+Sussex,03-20,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,04-20,President,,DEMOCRATIC,Clinton H,245,5,250
+Sussex,04-20,President,,DEMOCRATIC,De La Fuen,9,0,9
+Sussex,04-20,President,,DEMOCRATIC,Sanders B,139,4,143
+Sussex,04-20,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,05-20,President,,DEMOCRATIC,Clinton H,304,23,327
+Sussex,05-20,President,,DEMOCRATIC,De La Fuen,7,0,7
+Sussex,05-20,President,,DEMOCRATIC,Sanders B,175,5,180
+Sussex,05-20,President,,REPUBLICAN,Bush J,7,0,7
+Sussex,06-20,President,,DEMOCRATIC,Clinton H,139,11,150
+Sussex,06-20,President,,DEMOCRATIC,De La Fuen,5,0,5
+Sussex,06-20,President,,DEMOCRATIC,Sanders B,103,8,111
+Sussex,06-20,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,07-20,President,,DEMOCRATIC,Clinton H,299,18,317
+Sussex,07-20,President,,DEMOCRATIC,De La Fuen,5,1,6
+Sussex,07-20,President,,DEMOCRATIC,Sanders B,174,9,183
+Sussex,07-20,President,,REPUBLICAN,Bush J,5,0,5
+Sussex,08-20,President,,DEMOCRATIC,Clinton H,37,1,38
+Sussex,08-20,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,08-20,President,,DEMOCRATIC,Sanders B,27,3,30
+Sussex,08-20,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,09-20,President,,DEMOCRATIC,Clinton H,30,0,30
+Sussex,09-20,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,09-20,President,,DEMOCRATIC,Sanders B,18,0,18
+Sussex,09-20,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,10-20,President,,DEMOCRATIC,Clinton H,32,2,34
+Sussex,10-20,President,,DEMOCRATIC,De La Fuen,0,0,0
+Sussex,10-20,President,,DEMOCRATIC,Sanders B,19,1,20
+Sussex,10-20,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,01-20,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,01-20,President,,REPUBLICAN,Cruz R,31,3,34
+Sussex,01-20,President,,REPUBLICAN,Kasich J,27,3,30
+Sussex,01-20,President,,REPUBLICAN,Rubio M,2,1,3
+Sussex,01-20,President,,REPUBLICAN,Trump D,98,6,104
+Sussex,02-20,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,02-20,President,,REPUBLICAN,Cruz R,54,3,57
+Sussex,02-20,President,,REPUBLICAN,Kasich J,63,0,63
+Sussex,02-20,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,02-20,President,,REPUBLICAN,Trump D,354,8,362
+Sussex,03-20,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,03-20,President,,REPUBLICAN,Cruz R,42,3,45
+Sussex,03-20,President,,REPUBLICAN,Kasich J,79,2,81
+Sussex,03-20,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,03-20,President,,REPUBLICAN,Trump D,359,19,378
+Sussex,04-20,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,04-20,President,,REPUBLICAN,Cruz R,54,6,60
+Sussex,04-20,President,,REPUBLICAN,Kasich J,52,6,58
+Sussex,04-20,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,04-20,President,,REPUBLICAN,Trump D,363,14,377
+Sussex,05-20,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,05-20,President,,REPUBLICAN,Cruz R,51,3,54
+Sussex,05-20,President,,REPUBLICAN,Kasich J,115,1,116
+Sussex,05-20,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,05-20,President,,REPUBLICAN,Trump D,435,11,446
+Sussex,06-20,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,06-20,President,,REPUBLICAN,Cruz R,27,4,31
+Sussex,06-20,President,,REPUBLICAN,Kasich J,76,2,78
+Sussex,06-20,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,06-20,President,,REPUBLICAN,Trump D,225,9,234
+Sussex,07-20,President,,REPUBLICAN,Carson B,7,0,7
+Sussex,07-20,President,,REPUBLICAN,Cruz R,39,12,51
+Sussex,07-20,President,,REPUBLICAN,Kasich J,142,15,157
+Sussex,07-20,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,07-20,President,,REPUBLICAN,Trump D,230,9,239
+Sussex,08-20,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,08-20,President,,REPUBLICAN,Cruz R,14,0,14
+Sussex,08-20,President,,REPUBLICAN,Kasich J,8,0,8
+Sussex,08-20,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,08-20,President,,REPUBLICAN,Trump D,70,6,76
+Sussex,09-20,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,09-20,President,,REPUBLICAN,Cruz R,6,0,6
+Sussex,09-20,President,,REPUBLICAN,Kasich J,3,0,3
+Sussex,09-20,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,09-20,President,,REPUBLICAN,Trump D,41,0,41
+Sussex,10-20,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,10-20,President,,REPUBLICAN,Cruz R,4,0,4
+Sussex,10-20,President,,REPUBLICAN,Kasich J,8,0,8
+Sussex,10-20,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,10-20,President,,REPUBLICAN,Trump D,61,0,61
+New Castle,01-21,President,,DEMOCRATIC,Clinton H,233,4,237
+New Castle,01-21,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,01-21,President,,DEMOCRATIC,Sanders B,208,10,218
+New Castle,01-21,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,02-21,President,,DEMOCRATIC,Clinton H,276,5,281
+New Castle,02-21,President,,DEMOCRATIC,De La Fuen,13,1,14
+New Castle,02-21,President,,DEMOCRATIC,Sanders B,221,1,222
+New Castle,02-21,President,,REPUBLICAN,Bush J,3,1,4
+New Castle,04-21,President,,DEMOCRATIC,Clinton H,213,8,221
+New Castle,04-21,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,04-21,President,,DEMOCRATIC,Sanders B,200,3,203
+New Castle,04-21,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,05-21,President,,DEMOCRATIC,Clinton H,288,7,295
+New Castle,05-21,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,05-21,President,,DEMOCRATIC,Sanders B,252,3,255
+New Castle,05-21,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,07-21,President,,DEMOCRATIC,Clinton H,150,1,151
+New Castle,07-21,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,07-21,President,,DEMOCRATIC,Sanders B,106,3,109
+New Castle,07-21,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,10-21,President,,DEMOCRATIC,Clinton H,155,0,155
+New Castle,10-21,President,,DEMOCRATIC,De La Fuen,3,2,5
+New Castle,10-21,President,,DEMOCRATIC,Sanders B,160,4,164
+New Castle,10-21,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,11-21,President,,DEMOCRATIC,Clinton H,273,5,278
+New Castle,11-21,President,,DEMOCRATIC,De La Fuen,10,1,11
+New Castle,11-21,President,,DEMOCRATIC,Sanders B,256,5,261
+New Castle,11-21,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,01-21,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,01-21,President,,REPUBLICAN,Cruz R,77,0,77
+New Castle,01-21,President,,REPUBLICAN,Kasich J,103,2,105
+New Castle,01-21,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,01-21,President,,REPUBLICAN,Trump D,220,3,223
+New Castle,02-21,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,02-21,President,,REPUBLICAN,Cruz R,58,1,59
+New Castle,02-21,President,,REPUBLICAN,Kasich J,63,3,66
+New Castle,02-21,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,02-21,President,,REPUBLICAN,Trump D,157,4,161
+New Castle,04-21,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,04-21,President,,REPUBLICAN,Cruz R,66,1,67
+New Castle,04-21,President,,REPUBLICAN,Kasich J,115,2,117
+New Castle,04-21,President,,REPUBLICAN,Rubio M,5,0,5
+New Castle,04-21,President,,REPUBLICAN,Trump D,134,3,137
+New Castle,05-21,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,05-21,President,,REPUBLICAN,Cruz R,83,2,85
+New Castle,05-21,President,,REPUBLICAN,Kasich J,128,1,129
+New Castle,05-21,President,,REPUBLICAN,Rubio M,11,0,11
+New Castle,05-21,President,,REPUBLICAN,Trump D,220,5,225
+New Castle,07-21,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,07-21,President,,REPUBLICAN,Cruz R,39,2,41
+New Castle,07-21,President,,REPUBLICAN,Kasich J,105,4,109
+New Castle,07-21,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,07-21,President,,REPUBLICAN,Trump D,138,6,144
+New Castle,10-21,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,10-21,President,,REPUBLICAN,Cruz R,41,0,41
+New Castle,10-21,President,,REPUBLICAN,Kasich J,49,0,49
+New Castle,10-21,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,10-21,President,,REPUBLICAN,Trump D,120,2,122
+New Castle,11-21,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,11-21,President,,REPUBLICAN,Cruz R,63,1,64
+New Castle,11-21,President,,REPUBLICAN,Kasich J,68,0,68
+New Castle,11-21,President,,REPUBLICAN,Rubio M,8,0,8
+New Castle,11-21,President,,REPUBLICAN,Trump D,189,3,192
+New Castle,01-22,President,,DEMOCRATIC,Clinton H,391,11,402
+New Castle,01-22,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,01-22,President,,DEMOCRATIC,Sanders B,279,6,285
+New Castle,01-22,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,02-22,President,,DEMOCRATIC,Clinton H,96,2,98
+New Castle,02-22,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,02-22,President,,DEMOCRATIC,Sanders B,56,3,59
+New Castle,02-22,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,04-22,President,,DEMOCRATIC,Clinton H,163,4,167
+New Castle,04-22,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,04-22,President,,DEMOCRATIC,Sanders B,86,3,89
+New Castle,04-22,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,06-22,President,,DEMOCRATIC,Clinton H,167,6,173
+New Castle,06-22,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,06-22,President,,DEMOCRATIC,Sanders B,107,2,109
+New Castle,06-22,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,07-22,President,,DEMOCRATIC,Clinton H,353,7,360
+New Castle,07-22,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,07-22,President,,DEMOCRATIC,Sanders B,276,4,280
+New Castle,07-22,President,,REPUBLICAN,Bush J,4,2,6
+New Castle,10-22,President,,DEMOCRATIC,Clinton H,196,5,201
+New Castle,10-22,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,10-22,President,,DEMOCRATIC,Sanders B,157,2,159
+New Castle,10-22,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-22,President,,REPUBLICAN,Carson B,11,0,11
+New Castle,01-22,President,,REPUBLICAN,Cruz R,143,7,150
+New Castle,01-22,President,,REPUBLICAN,Kasich J,312,8,320
+New Castle,01-22,President,,REPUBLICAN,Rubio M,7,0,7
+New Castle,01-22,President,,REPUBLICAN,Trump D,416,6,422
+New Castle,02-22,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,02-22,President,,REPUBLICAN,Cruz R,24,2,26
+New Castle,02-22,President,,REPUBLICAN,Kasich J,64,4,68
+New Castle,02-22,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,02-22,President,,REPUBLICAN,Trump D,105,0,105
+New Castle,04-22,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,04-22,President,,REPUBLICAN,Cruz R,60,2,62
+New Castle,04-22,President,,REPUBLICAN,Kasich J,130,1,131
+New Castle,04-22,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,04-22,President,,REPUBLICAN,Trump D,170,0,170
+New Castle,06-22,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,06-22,President,,REPUBLICAN,Cruz R,47,4,51
+New Castle,06-22,President,,REPUBLICAN,Kasich J,102,1,103
+New Castle,06-22,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,06-22,President,,REPUBLICAN,Trump D,176,1,177
+New Castle,07-22,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-22,President,,REPUBLICAN,Cruz R,58,1,59
+New Castle,07-22,President,,REPUBLICAN,Kasich J,151,5,156
+New Castle,07-22,President,,REPUBLICAN,Rubio M,7,0,7
+New Castle,07-22,President,,REPUBLICAN,Trump D,239,8,247
+New Castle,10-22,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,10-22,President,,REPUBLICAN,Cruz R,64,1,65
+New Castle,10-22,President,,REPUBLICAN,Kasich J,116,3,119
+New Castle,10-22,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,10-22,President,,REPUBLICAN,Trump D,186,6,192
+New Castle,01-23,President,,DEMOCRATIC,Clinton H,152,10,162
+New Castle,01-23,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,01-23,President,,DEMOCRATIC,Sanders B,174,4,178
+New Castle,01-23,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,02-23,President,,DEMOCRATIC,Clinton H,184,10,194
+New Castle,02-23,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,02-23,President,,DEMOCRATIC,Sanders B,114,3,117
+New Castle,02-23,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,03-23,President,,DEMOCRATIC,Clinton H,368,12,380
+New Castle,03-23,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,03-23,President,,DEMOCRATIC,Sanders B,314,5,319
+New Castle,03-23,President,,REPUBLICAN,Bush J,4,0,4
+New Castle,05-23,President,,DEMOCRATIC,Clinton H,114,4,118
+New Castle,05-23,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,05-23,President,,DEMOCRATIC,Sanders B,159,1,160
+New Castle,05-23,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,07-23,President,,DEMOCRATIC,Clinton H,136,6,142
+New Castle,07-23,President,,DEMOCRATIC,De La Fuen,2,1,3
+New Castle,07-23,President,,DEMOCRATIC,Sanders B,74,3,77
+New Castle,07-23,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,08-23,President,,DEMOCRATIC,Clinton H,143,5,148
+New Castle,08-23,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,08-23,President,,DEMOCRATIC,Sanders B,104,4,108
+New Castle,08-23,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-23,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,01-23,President,,REPUBLICAN,Cruz R,19,0,19
+New Castle,01-23,President,,REPUBLICAN,Kasich J,25,2,27
+New Castle,01-23,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,01-23,President,,REPUBLICAN,Trump D,18,3,21
+New Castle,02-23,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,02-23,President,,REPUBLICAN,Cruz R,42,3,45
+New Castle,02-23,President,,REPUBLICAN,Kasich J,77,3,80
+New Castle,02-23,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,02-23,President,,REPUBLICAN,Trump D,91,0,91
+New Castle,03-23,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,03-23,President,,REPUBLICAN,Cruz R,54,2,56
+New Castle,03-23,President,,REPUBLICAN,Kasich J,140,7,147
+New Castle,03-23,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,03-23,President,,REPUBLICAN,Trump D,176,0,176
+New Castle,05-23,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,05-23,President,,REPUBLICAN,Cruz R,18,0,18
+New Castle,05-23,President,,REPUBLICAN,Kasich J,27,0,27
+New Castle,05-23,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,05-23,President,,REPUBLICAN,Trump D,40,1,41
+New Castle,07-23,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,07-23,President,,REPUBLICAN,Cruz R,26,1,27
+New Castle,07-23,President,,REPUBLICAN,Kasich J,53,3,56
+New Castle,07-23,President,,REPUBLICAN,Rubio M,1,1,2
+New Castle,07-23,President,,REPUBLICAN,Trump D,75,0,75
+New Castle,08-23,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,08-23,President,,REPUBLICAN,Cruz R,38,2,40
+New Castle,08-23,President,,REPUBLICAN,Kasich J,55,4,59
+New Castle,08-23,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,08-23,President,,REPUBLICAN,Trump D,112,4,116
+New Castle,01-24,President,,DEMOCRATIC,Clinton H,290,16,306
+New Castle,01-24,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,01-24,President,,DEMOCRATIC,Sanders B,228,4,232
+New Castle,01-24,President,,REPUBLICAN,Bush J,5,0,5
+New Castle,03-24,President,,DEMOCRATIC,Clinton H,385,7,392
+New Castle,03-24,President,,DEMOCRATIC,De La Fuen,6,1,7
+New Castle,03-24,President,,DEMOCRATIC,Sanders B,282,0,282
+New Castle,03-24,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,06-24,President,,DEMOCRATIC,Clinton H,81,2,83
+New Castle,06-24,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,06-24,President,,DEMOCRATIC,Sanders B,91,1,92
+New Castle,06-24,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,07-24,President,,DEMOCRATIC,Clinton H,167,1,168
+New Castle,07-24,President,,DEMOCRATIC,De La Fuen,7,0,7
+New Castle,07-24,President,,DEMOCRATIC,Sanders B,119,5,124
+New Castle,07-24,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,08-24,President,,DEMOCRATIC,Clinton H,114,2,116
+New Castle,08-24,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,08-24,President,,DEMOCRATIC,Sanders B,96,0,96
+New Castle,08-24,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,09-24,President,,DEMOCRATIC,Clinton H,148,1,149
+New Castle,09-24,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,09-24,President,,DEMOCRATIC,Sanders B,190,0,190
+New Castle,09-24,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-24,President,,REPUBLICAN,Carson B,4,1,5
+New Castle,01-24,President,,REPUBLICAN,Cruz R,47,3,50
+New Castle,01-24,President,,REPUBLICAN,Kasich J,36,0,36
+New Castle,01-24,President,,REPUBLICAN,Rubio M,5,0,5
+New Castle,01-24,President,,REPUBLICAN,Trump D,135,1,136
+New Castle,03-24,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,03-24,President,,REPUBLICAN,Cruz R,42,1,43
+New Castle,03-24,President,,REPUBLICAN,Kasich J,40,0,40
+New Castle,03-24,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,03-24,President,,REPUBLICAN,Trump D,117,1,118
+New Castle,06-24,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,06-24,President,,REPUBLICAN,Cruz R,20,1,21
+New Castle,06-24,President,,REPUBLICAN,Kasich J,31,0,31
+New Castle,06-24,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,06-24,President,,REPUBLICAN,Trump D,72,1,73
+New Castle,07-24,President,,REPUBLICAN,Carson B,5,0,5
+New Castle,07-24,President,,REPUBLICAN,Cruz R,17,0,17
+New Castle,07-24,President,,REPUBLICAN,Kasich J,24,1,25
+New Castle,07-24,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,07-24,President,,REPUBLICAN,Trump D,50,1,51
+New Castle,08-24,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,08-24,President,,REPUBLICAN,Cruz R,25,2,27
+New Castle,08-24,President,,REPUBLICAN,Kasich J,21,0,21
+New Castle,08-24,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,08-24,President,,REPUBLICAN,Trump D,58,0,58
+New Castle,09-24,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,09-24,President,,REPUBLICAN,Cruz R,34,3,37
+New Castle,09-24,President,,REPUBLICAN,Kasich J,39,0,39
+New Castle,09-24,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,09-24,President,,REPUBLICAN,Trump D,108,6,114
+New Castle,02-25,President,,DEMOCRATIC,Clinton H,393,11,404
+New Castle,02-25,President,,DEMOCRATIC,De La Fuen,9,0,9
+New Castle,02-25,President,,DEMOCRATIC,Sanders B,296,12,308
+New Castle,02-25,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,03-25,President,,DEMOCRATIC,Clinton H,118,1,119
+New Castle,03-25,President,,DEMOCRATIC,De La Fuen,2,0,2
+New Castle,03-25,President,,DEMOCRATIC,Sanders B,152,2,154
+New Castle,03-25,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,05-25,President,,DEMOCRATIC,Clinton H,230,10,240
+New Castle,05-25,President,,DEMOCRATIC,De La Fuen,5,0,5
+New Castle,05-25,President,,DEMOCRATIC,Sanders B,170,5,175
+New Castle,05-25,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,08-25,President,,DEMOCRATIC,Clinton H,303,3,306
+New Castle,08-25,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,08-25,President,,DEMOCRATIC,Sanders B,206,0,206
+New Castle,08-25,President,,REPUBLICAN,Bush J,3,0,3
+New Castle,02-25,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,02-25,President,,REPUBLICAN,Cruz R,80,2,82
+New Castle,02-25,President,,REPUBLICAN,Kasich J,120,2,122
+New Castle,02-25,President,,REPUBLICAN,Rubio M,6,0,6
+New Castle,02-25,President,,REPUBLICAN,Trump D,243,7,250
+New Castle,03-25,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,03-25,President,,REPUBLICAN,Cruz R,20,1,21
+New Castle,03-25,President,,REPUBLICAN,Kasich J,32,1,33
+New Castle,03-25,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,03-25,President,,REPUBLICAN,Trump D,66,1,67
+New Castle,05-25,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,05-25,President,,REPUBLICAN,Cruz R,46,1,47
+New Castle,05-25,President,,REPUBLICAN,Kasich J,59,0,59
+New Castle,05-25,President,,REPUBLICAN,Rubio M,2,1,3
+New Castle,05-25,President,,REPUBLICAN,Trump D,125,2,127
+New Castle,08-25,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,08-25,President,,REPUBLICAN,Cruz R,53,2,55
+New Castle,08-25,President,,REPUBLICAN,Kasich J,46,4,50
+New Castle,08-25,President,,REPUBLICAN,Rubio M,5,0,5
+New Castle,08-25,President,,REPUBLICAN,Trump D,107,0,107
+New Castle,03-26,President,,DEMOCRATIC,Clinton H,161,2,163
+New Castle,03-26,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,03-26,President,,DEMOCRATIC,Sanders B,118,3,121
+New Castle,03-26,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,05-26,President,,DEMOCRATIC,Clinton H,187,3,190
+New Castle,05-26,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,05-26,President,,DEMOCRATIC,Sanders B,161,5,166
+New Castle,05-26,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,06-26,President,,DEMOCRATIC,Clinton H,380,5,385
+New Castle,06-26,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,06-26,President,,DEMOCRATIC,Sanders B,293,8,301
+New Castle,06-26,President,,REPUBLICAN,Bush J,0,0,0
+New Castle,09-26,President,,DEMOCRATIC,Clinton H,246,7,253
+New Castle,09-26,President,,DEMOCRATIC,De La Fuen,3,0,3
+New Castle,09-26,President,,DEMOCRATIC,Sanders B,161,3,164
+New Castle,09-26,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,03-26,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,03-26,President,,REPUBLICAN,Cruz R,24,1,25
+New Castle,03-26,President,,REPUBLICAN,Kasich J,24,0,24
+New Castle,03-26,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,03-26,President,,REPUBLICAN,Trump D,64,1,65
+New Castle,05-26,President,,REPUBLICAN,Carson B,2,0,2
+New Castle,05-26,President,,REPUBLICAN,Cruz R,21,2,23
+New Castle,05-26,President,,REPUBLICAN,Kasich J,13,0,13
+New Castle,05-26,President,,REPUBLICAN,Rubio M,0,0,0
+New Castle,05-26,President,,REPUBLICAN,Trump D,48,0,48
+New Castle,06-26,President,,REPUBLICAN,Carson B,6,0,6
+New Castle,06-26,President,,REPUBLICAN,Cruz R,63,6,69
+New Castle,06-26,President,,REPUBLICAN,Kasich J,49,1,50
+New Castle,06-26,President,,REPUBLICAN,Rubio M,4,0,4
+New Castle,06-26,President,,REPUBLICAN,Trump D,113,1,114
+New Castle,09-26,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,09-26,President,,REPUBLICAN,Cruz R,15,0,15
+New Castle,09-26,President,,REPUBLICAN,Kasich J,6,0,6
+New Castle,09-26,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,09-26,President,,REPUBLICAN,Trump D,33,1,34
+New Castle,01-27,President,,DEMOCRATIC,Clinton H,368,5,373
+New Castle,01-27,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,01-27,President,,DEMOCRATIC,Sanders B,302,1,303
+New Castle,01-27,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,02-27,President,,DEMOCRATIC,Clinton H,104,2,106
+New Castle,02-27,President,,DEMOCRATIC,De La Fuen,0,0,0
+New Castle,02-27,President,,DEMOCRATIC,Sanders B,78,1,79
+New Castle,02-27,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,03-27,President,,DEMOCRATIC,Clinton H,450,4,454
+New Castle,03-27,President,,DEMOCRATIC,De La Fuen,6,0,6
+New Castle,03-27,President,,DEMOCRATIC,Sanders B,312,3,315
+New Castle,03-27,President,,REPUBLICAN,Bush J,6,0,6
+New Castle,05-27,President,,DEMOCRATIC,Clinton H,303,8,311
+New Castle,05-27,President,,DEMOCRATIC,De La Fuen,4,0,4
+New Castle,05-27,President,,DEMOCRATIC,Sanders B,219,1,220
+New Castle,05-27,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,07-27,President,,DEMOCRATIC,Clinton H,44,4,48
+New Castle,07-27,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,07-27,President,,DEMOCRATIC,Sanders B,34,0,34
+New Castle,07-27,President,,REPUBLICAN,Bush J,1,0,1
+New Castle,10-27,President,,DEMOCRATIC,Clinton H,187,5,192
+New Castle,10-27,President,,DEMOCRATIC,De La Fuen,1,0,1
+New Castle,10-27,President,,DEMOCRATIC,Sanders B,107,1,108
+New Castle,10-27,President,,REPUBLICAN,Bush J,2,0,2
+New Castle,01-27,President,,REPUBLICAN,Carson B,7,0,7
+New Castle,01-27,President,,REPUBLICAN,Cruz R,95,4,99
+New Castle,01-27,President,,REPUBLICAN,Kasich J,104,1,105
+New Castle,01-27,President,,REPUBLICAN,Rubio M,10,0,10
+New Castle,01-27,President,,REPUBLICAN,Trump D,230,2,232
+New Castle,02-27,President,,REPUBLICAN,Carson B,0,0,0
+New Castle,02-27,President,,REPUBLICAN,Cruz R,31,0,31
+New Castle,02-27,President,,REPUBLICAN,Kasich J,27,1,28
+New Castle,02-27,President,,REPUBLICAN,Rubio M,2,0,2
+New Castle,02-27,President,,REPUBLICAN,Trump D,69,1,70
+New Castle,03-27,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,03-27,President,,REPUBLICAN,Cruz R,113,2,115
+New Castle,03-27,President,,REPUBLICAN,Kasich J,93,0,93
+New Castle,03-27,President,,REPUBLICAN,Rubio M,3,0,3
+New Castle,03-27,President,,REPUBLICAN,Trump D,240,4,244
+New Castle,05-27,President,,REPUBLICAN,Carson B,4,0,4
+New Castle,05-27,President,,REPUBLICAN,Cruz R,43,2,45
+New Castle,05-27,President,,REPUBLICAN,Kasich J,47,2,49
+New Castle,05-27,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,05-27,President,,REPUBLICAN,Trump D,123,1,124
+New Castle,07-27,President,,REPUBLICAN,Carson B,1,0,1
+New Castle,07-27,President,,REPUBLICAN,Cruz R,20,0,20
+New Castle,07-27,President,,REPUBLICAN,Kasich J,19,0,19
+New Castle,07-27,President,,REPUBLICAN,Rubio M,6,0,6
+New Castle,07-27,President,,REPUBLICAN,Trump D,52,1,53
+New Castle,10-27,President,,REPUBLICAN,Carson B,3,0,3
+New Castle,10-27,President,,REPUBLICAN,Cruz R,63,0,63
+New Castle,10-27,President,,REPUBLICAN,Kasich J,49,0,49
+New Castle,10-27,President,,REPUBLICAN,Rubio M,1,0,1
+New Castle,10-27,President,,REPUBLICAN,Trump D,161,1,162
+Kent,01-28,President,,DEMOCRATIC,Clinton H,114,5,119
+Kent,01-28,President,,DEMOCRATIC,De La Fuen,4,0,4
+Kent,01-28,President,,DEMOCRATIC,Sanders B,72,0,72
+Kent,01-28,President,,REPUBLICAN,Bush J,2,0,2
+Kent,02-28,President,,DEMOCRATIC,Clinton H,92,3,95
+Kent,02-28,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,02-28,President,,DEMOCRATIC,Sanders B,62,1,63
+Kent,02-28,President,,REPUBLICAN,Bush J,2,0,2
+Kent,03-28,President,,DEMOCRATIC,Clinton H,203,13,216
+Kent,03-28,President,,DEMOCRATIC,De La Fuen,2,1,3
+Kent,03-28,President,,DEMOCRATIC,Sanders B,167,8,175
+Kent,03-28,President,,REPUBLICAN,Bush J,3,0,3
+Kent,04-28,President,,DEMOCRATIC,Clinton H,274,11,285
+Kent,04-28,President,,DEMOCRATIC,De La Fuen,3,0,3
+Kent,04-28,President,,DEMOCRATIC,Sanders B,147,3,150
+Kent,04-28,President,,REPUBLICAN,Bush J,1,0,1
+Kent,07-28,President,,DEMOCRATIC,Clinton H,240,19,259
+Kent,07-28,President,,DEMOCRATIC,De La Fuen,3,1,4
+Kent,07-28,President,,DEMOCRATIC,Sanders B,168,16,184
+Kent,07-28,President,,REPUBLICAN,Bush J,5,0,5
+Kent,09-28,President,,DEMOCRATIC,Clinton H,86,2,88
+Kent,09-28,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,09-28,President,,DEMOCRATIC,Sanders B,54,1,55
+Kent,09-28,President,,REPUBLICAN,Bush J,1,0,1
+Kent,10-28,President,,DEMOCRATIC,Clinton H,126,6,132
+Kent,10-28,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,10-28,President,,DEMOCRATIC,Sanders B,61,3,64
+Kent,10-28,President,,REPUBLICAN,Bush J,0,0,0
+Kent,11-28,President,,DEMOCRATIC,Clinton H,27,2,29
+Kent,11-28,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,11-28,President,,DEMOCRATIC,Sanders B,31,0,31
+Kent,11-28,President,,REPUBLICAN,Bush J,1,0,1
+Kent,01-28,President,,REPUBLICAN,Carson B,2,0,2
+Kent,01-28,President,,REPUBLICAN,Cruz R,24,1,25
+Kent,01-28,President,,REPUBLICAN,Kasich J,9,0,9
+Kent,01-28,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,01-28,President,,REPUBLICAN,Trump D,78,0,78
+Kent,02-28,President,,REPUBLICAN,Carson B,1,0,1
+Kent,02-28,President,,REPUBLICAN,Cruz R,19,0,19
+Kent,02-28,President,,REPUBLICAN,Kasich J,8,0,8
+Kent,02-28,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,02-28,President,,REPUBLICAN,Trump D,36,2,38
+Kent,03-28,President,,REPUBLICAN,Carson B,6,0,6
+Kent,03-28,President,,REPUBLICAN,Cruz R,46,2,48
+Kent,03-28,President,,REPUBLICAN,Kasich J,39,2,41
+Kent,03-28,President,,REPUBLICAN,Rubio M,4,2,6
+Kent,03-28,President,,REPUBLICAN,Trump D,147,2,149
+Kent,04-28,President,,REPUBLICAN,Carson B,4,0,4
+Kent,04-28,President,,REPUBLICAN,Cruz R,43,0,43
+Kent,04-28,President,,REPUBLICAN,Kasich J,27,2,29
+Kent,04-28,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,04-28,President,,REPUBLICAN,Trump D,156,4,160
+Kent,07-28,President,,REPUBLICAN,Carson B,4,0,4
+Kent,07-28,President,,REPUBLICAN,Cruz R,67,3,70
+Kent,07-28,President,,REPUBLICAN,Kasich J,42,2,44
+Kent,07-28,President,,REPUBLICAN,Rubio M,7,1,8
+Kent,07-28,President,,REPUBLICAN,Trump D,240,8,248
+Kent,09-28,President,,REPUBLICAN,Carson B,0,0,0
+Kent,09-28,President,,REPUBLICAN,Cruz R,13,0,13
+Kent,09-28,President,,REPUBLICAN,Kasich J,4,0,4
+Kent,09-28,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,09-28,President,,REPUBLICAN,Trump D,25,0,25
+Kent,10-28,President,,REPUBLICAN,Carson B,2,0,2
+Kent,10-28,President,,REPUBLICAN,Cruz R,14,0,14
+Kent,10-28,President,,REPUBLICAN,Kasich J,5,1,6
+Kent,10-28,President,,REPUBLICAN,Rubio M,3,0,3
+Kent,10-28,President,,REPUBLICAN,Trump D,37,0,37
+Kent,11-28,President,,REPUBLICAN,Carson B,0,0,0
+Kent,11-28,President,,REPUBLICAN,Cruz R,9,0,9
+Kent,11-28,President,,REPUBLICAN,Kasich J,6,0,6
+Kent,11-28,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,11-28,President,,REPUBLICAN,Trump D,42,1,43
+Kent,01-29,President,,DEMOCRATIC,Clinton H,270,3,273
+Kent,01-29,President,,DEMOCRATIC,De La Fuen,7,0,7
+Kent,01-29,President,,DEMOCRATIC,Sanders B,154,2,156
+Kent,01-29,President,,REPUBLICAN,Bush J,0,0,0
+Kent,03-29,President,,DEMOCRATIC,Clinton H,613,12,625
+Kent,03-29,President,,DEMOCRATIC,De La Fuen,6,0,6
+Kent,03-29,President,,DEMOCRATIC,Sanders B,304,14,318
+Kent,03-29,President,,REPUBLICAN,Bush J,6,0,6
+Kent,07-29,President,,DEMOCRATIC,Clinton H,111,2,113
+Kent,07-29,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,07-29,President,,DEMOCRATIC,Sanders B,44,0,44
+Kent,07-29,President,,REPUBLICAN,Bush J,1,1,2
+Kent,08-29,President,,DEMOCRATIC,Clinton H,144,5,149
+Kent,08-29,President,,DEMOCRATIC,De La Fuen,2,1,3
+Kent,08-29,President,,DEMOCRATIC,Sanders B,100,3,103
+Kent,08-29,President,,REPUBLICAN,Bush J,1,0,1
+Kent,09-29,President,,DEMOCRATIC,Clinton H,107,4,111
+Kent,09-29,President,,DEMOCRATIC,De La Fuen,4,0,4
+Kent,09-29,President,,DEMOCRATIC,Sanders B,68,5,73
+Kent,09-29,President,,REPUBLICAN,Bush J,3,0,3
+Kent,13-29,President,,DEMOCRATIC,Clinton H,27,1,28
+Kent,13-29,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,13-29,President,,DEMOCRATIC,Sanders B,16,0,16
+Kent,13-29,President,,REPUBLICAN,Bush J,0,0,0
+Kent,01-29,President,,REPUBLICAN,Carson B,2,0,2
+Kent,01-29,President,,REPUBLICAN,Cruz R,51,2,53
+Kent,01-29,President,,REPUBLICAN,Kasich J,33,0,33
+Kent,01-29,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,01-29,President,,REPUBLICAN,Trump D,157,5,162
+Kent,03-29,President,,REPUBLICAN,Carson B,9,1,10
+Kent,03-29,President,,REPUBLICAN,Cruz R,105,6,111
+Kent,03-29,President,,REPUBLICAN,Kasich J,90,3,93
+Kent,03-29,President,,REPUBLICAN,Rubio M,5,2,7
+Kent,03-29,President,,REPUBLICAN,Trump D,433,7,440
+Kent,07-29,President,,REPUBLICAN,Carson B,4,0,4
+Kent,07-29,President,,REPUBLICAN,Cruz R,20,2,22
+Kent,07-29,President,,REPUBLICAN,Kasich J,23,0,23
+Kent,07-29,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,07-29,President,,REPUBLICAN,Trump D,92,2,94
+Kent,08-29,President,,REPUBLICAN,Carson B,2,0,2
+Kent,08-29,President,,REPUBLICAN,Cruz R,104,1,105
+Kent,08-29,President,,REPUBLICAN,Kasich J,43,0,43
+Kent,08-29,President,,REPUBLICAN,Rubio M,3,0,3
+Kent,08-29,President,,REPUBLICAN,Trump D,206,5,211
+Kent,09-29,President,,REPUBLICAN,Carson B,2,0,2
+Kent,09-29,President,,REPUBLICAN,Cruz R,61,2,63
+Kent,09-29,President,,REPUBLICAN,Kasich J,51,8,59
+Kent,09-29,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,09-29,President,,REPUBLICAN,Trump D,212,5,217
+Kent,13-29,President,,REPUBLICAN,Carson B,0,0,0
+Kent,13-29,President,,REPUBLICAN,Cruz R,7,0,7
+Kent,13-29,President,,REPUBLICAN,Kasich J,5,2,7
+Kent,13-29,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,13-29,President,,REPUBLICAN,Trump D,28,2,30
+Kent,01-30,President,,DEMOCRATIC,Clinton H,32,0,32
+Kent,01-30,President,,DEMOCRATIC,De La Fuen,9,0,9
+Kent,01-30,President,,DEMOCRATIC,Sanders B,25,1,26
+Kent,01-30,President,,REPUBLICAN,Bush J,1,0,1
+Kent,02-30,President,,DEMOCRATIC,Clinton H,23,1,24
+Kent,02-30,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,02-30,President,,DEMOCRATIC,Sanders B,14,0,14
+Kent,02-30,President,,REPUBLICAN,Bush J,0,0,0
+Kent,03-30,President,,DEMOCRATIC,Clinton H,177,10,187
+Kent,03-30,President,,DEMOCRATIC,De La Fuen,9,0,9
+Kent,03-30,President,,DEMOCRATIC,Sanders B,148,5,153
+Kent,03-30,President,,REPUBLICAN,Bush J,5,0,5
+Kent,05-30,President,,DEMOCRATIC,Clinton H,49,2,51
+Kent,05-30,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,05-30,President,,DEMOCRATIC,Sanders B,59,0,59
+Kent,05-30,President,,REPUBLICAN,Bush J,1,0,1
+Kent,07-30,President,,DEMOCRATIC,Clinton H,161,4,165
+Kent,07-30,President,,DEMOCRATIC,De La Fuen,11,0,11
+Kent,07-30,President,,DEMOCRATIC,Sanders B,158,5,163
+Kent,07-30,President,,REPUBLICAN,Bush J,4,1,5
+Kent,10-30,President,,DEMOCRATIC,Clinton H,34,0,34
+Kent,10-30,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,10-30,President,,DEMOCRATIC,Sanders B,25,0,25
+Kent,10-30,President,,REPUBLICAN,Bush J,1,0,1
+Kent,11-30,President,,DEMOCRATIC,Clinton H,66,1,67
+Kent,11-30,President,,DEMOCRATIC,De La Fuen,7,0,7
+Kent,11-30,President,,DEMOCRATIC,Sanders B,61,1,62
+Kent,11-30,President,,REPUBLICAN,Bush J,3,0,3
+Kent,01-30,President,,REPUBLICAN,Carson B,4,0,4
+Kent,01-30,President,,REPUBLICAN,Cruz R,20,2,22
+Kent,01-30,President,,REPUBLICAN,Kasich J,9,0,9
+Kent,01-30,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,01-30,President,,REPUBLICAN,Trump D,104,0,104
+Kent,02-30,President,,REPUBLICAN,Carson B,1,0,1
+Kent,02-30,President,,REPUBLICAN,Cruz R,10,0,10
+Kent,02-30,President,,REPUBLICAN,Kasich J,6,0,6
+Kent,02-30,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,02-30,President,,REPUBLICAN,Trump D,43,0,43
+Kent,03-30,President,,REPUBLICAN,Carson B,7,1,8
+Kent,03-30,President,,REPUBLICAN,Cruz R,64,3,67
+Kent,03-30,President,,REPUBLICAN,Kasich J,39,4,43
+Kent,03-30,President,,REPUBLICAN,Rubio M,4,0,4
+Kent,03-30,President,,REPUBLICAN,Trump D,279,8,287
+Kent,05-30,President,,REPUBLICAN,Carson B,4,0,4
+Kent,05-30,President,,REPUBLICAN,Cruz R,45,2,47
+Kent,05-30,President,,REPUBLICAN,Kasich J,17,0,17
+Kent,05-30,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,05-30,President,,REPUBLICAN,Trump D,257,8,265
+Kent,07-30,President,,REPUBLICAN,Carson B,7,0,7
+Kent,07-30,President,,REPUBLICAN,Cruz R,86,2,88
+Kent,07-30,President,,REPUBLICAN,Kasich J,55,2,57
+Kent,07-30,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,07-30,President,,REPUBLICAN,Trump D,339,10,349
+Kent,10-30,President,,REPUBLICAN,Carson B,1,0,1
+Kent,10-30,President,,REPUBLICAN,Cruz R,15,0,15
+Kent,10-30,President,,REPUBLICAN,Kasich J,18,0,18
+Kent,10-30,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,10-30,President,,REPUBLICAN,Trump D,100,1,101
+Kent,11-30,President,,REPUBLICAN,Carson B,5,0,5
+Kent,11-30,President,,REPUBLICAN,Cruz R,59,0,59
+Kent,11-30,President,,REPUBLICAN,Kasich J,35,0,35
+Kent,11-30,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,11-30,President,,REPUBLICAN,Trump D,275,4,279
+Kent,01-31,President,,DEMOCRATIC,Clinton H,33,0,33
+Kent,01-31,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,01-31,President,,DEMOCRATIC,Sanders B,25,2,27
+Kent,01-31,President,,REPUBLICAN,Bush J,0,0,0
+Kent,02-31,President,,DEMOCRATIC,Clinton H,136,11,147
+Kent,02-31,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,02-31,President,,DEMOCRATIC,Sanders B,80,3,83
+Kent,02-31,President,,REPUBLICAN,Bush J,2,1,3
+Kent,03-31,President,,DEMOCRATIC,Clinton H,399,19,418
+Kent,03-31,President,,DEMOCRATIC,De La Fuen,9,0,9
+Kent,03-31,President,,DEMOCRATIC,Sanders B,234,10,244
+Kent,03-31,President,,REPUBLICAN,Bush J,5,0,5
+Kent,04-31,President,,DEMOCRATIC,Clinton H,90,9,99
+Kent,04-31,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,04-31,President,,DEMOCRATIC,Sanders B,43,2,45
+Kent,04-31,President,,REPUBLICAN,Bush J,2,1,3
+Kent,06-31,President,,DEMOCRATIC,Clinton H,386,17,403
+Kent,06-31,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,06-31,President,,DEMOCRATIC,Sanders B,242,11,253
+Kent,06-31,President,,REPUBLICAN,Bush J,3,0,3
+Kent,09-31,President,,DEMOCRATIC,Clinton H,70,6,76
+Kent,09-31,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,09-31,President,,DEMOCRATIC,Sanders B,55,0,55
+Kent,09-31,President,,REPUBLICAN,Bush J,1,0,1
+Kent,10-31,President,,DEMOCRATIC,Clinton H,68,5,73
+Kent,10-31,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,10-31,President,,DEMOCRATIC,Sanders B,53,2,55
+Kent,10-31,President,,REPUBLICAN,Bush J,0,1,1
+Kent,16-31,President,,DEMOCRATIC,Clinton H,0,3,3
+Kent,16-31,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,16-31,President,,DEMOCRATIC,Sanders B,0,1,1
+Kent,16-31,President,,REPUBLICAN,Bush J,0,0,0
+Kent,01-31,President,,REPUBLICAN,Carson B,0,0,0
+Kent,01-31,President,,REPUBLICAN,Cruz R,5,0,5
+Kent,01-31,President,,REPUBLICAN,Kasich J,2,0,2
+Kent,01-31,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,01-31,President,,REPUBLICAN,Trump D,17,4,21
+Kent,02-31,President,,REPUBLICAN,Carson B,4,0,4
+Kent,02-31,President,,REPUBLICAN,Cruz R,20,3,23
+Kent,02-31,President,,REPUBLICAN,Kasich J,47,2,49
+Kent,02-31,President,,REPUBLICAN,Rubio M,4,0,4
+Kent,02-31,President,,REPUBLICAN,Trump D,125,12,137
+Kent,03-31,President,,REPUBLICAN,Carson B,4,1,5
+Kent,03-31,President,,REPUBLICAN,Cruz R,62,4,66
+Kent,03-31,President,,REPUBLICAN,Kasich J,44,6,50
+Kent,03-31,President,,REPUBLICAN,Rubio M,7,1,8
+Kent,03-31,President,,REPUBLICAN,Trump D,199,10,209
+Kent,04-31,President,,REPUBLICAN,Carson B,5,0,5
+Kent,04-31,President,,REPUBLICAN,Cruz R,20,4,24
+Kent,04-31,President,,REPUBLICAN,Kasich J,22,5,27
+Kent,04-31,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,04-31,President,,REPUBLICAN,Trump D,56,9,65
+Kent,06-31,President,,REPUBLICAN,Carson B,5,1,6
+Kent,06-31,President,,REPUBLICAN,Cruz R,63,4,67
+Kent,06-31,President,,REPUBLICAN,Kasich J,43,7,50
+Kent,06-31,President,,REPUBLICAN,Rubio M,4,0,4
+Kent,06-31,President,,REPUBLICAN,Trump D,139,10,149
+Kent,09-31,President,,REPUBLICAN,Carson B,3,0,3
+Kent,09-31,President,,REPUBLICAN,Cruz R,17,4,21
+Kent,09-31,President,,REPUBLICAN,Kasich J,28,2,30
+Kent,09-31,President,,REPUBLICAN,Rubio M,2,1,3
+Kent,09-31,President,,REPUBLICAN,Trump D,51,3,54
+Kent,10-31,President,,REPUBLICAN,Carson B,1,0,1
+Kent,10-31,President,,REPUBLICAN,Cruz R,15,1,16
+Kent,10-31,President,,REPUBLICAN,Kasich J,11,3,14
+Kent,10-31,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,10-31,President,,REPUBLICAN,Trump D,41,0,41
+Kent,16-31,President,,REPUBLICAN,Carson B,0,0,0
+Kent,16-31,President,,REPUBLICAN,Cruz R,0,3,3
+Kent,16-31,President,,REPUBLICAN,Kasich J,0,0,0
+Kent,16-31,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,16-31,President,,REPUBLICAN,Trump D,0,2,2
+Kent,01-32,President,,DEMOCRATIC,Clinton H,262,19,281
+Kent,01-32,President,,DEMOCRATIC,De La Fuen,5,0,5
+Kent,01-32,President,,DEMOCRATIC,Sanders B,190,15,205
+Kent,01-32,President,,REPUBLICAN,Bush J,3,0,3
+Kent,02-32,President,,DEMOCRATIC,Clinton H,47,5,52
+Kent,02-32,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,02-32,President,,DEMOCRATIC,Sanders B,56,0,56
+Kent,02-32,President,,REPUBLICAN,Bush J,1,0,1
+Kent,03-32,President,,DEMOCRATIC,Clinton H,244,11,255
+Kent,03-32,President,,DEMOCRATIC,De La Fuen,3,0,3
+Kent,03-32,President,,DEMOCRATIC,Sanders B,168,4,172
+Kent,03-32,President,,REPUBLICAN,Bush J,7,0,7
+Kent,04-32,President,,DEMOCRATIC,Clinton H,6,0,6
+Kent,04-32,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,04-32,President,,DEMOCRATIC,Sanders B,4,0,4
+Kent,04-32,President,,REPUBLICAN,Bush J,0,0,0
+Kent,06-32,President,,DEMOCRATIC,Clinton H,27,0,27
+Kent,06-32,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,06-32,President,,DEMOCRATIC,Sanders B,18,4,22
+Kent,06-32,President,,REPUBLICAN,Bush J,1,0,1
+Kent,11-32,President,,DEMOCRATIC,Clinton H,96,2,98
+Kent,11-32,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,11-32,President,,DEMOCRATIC,Sanders B,82,0,82
+Kent,11-32,President,,REPUBLICAN,Bush J,0,0,0
+Kent,12-32,President,,DEMOCRATIC,Clinton H,74,4,78
+Kent,12-32,President,,DEMOCRATIC,De La Fuen,3,0,3
+Kent,12-32,President,,DEMOCRATIC,Sanders B,65,0,65
+Kent,12-32,President,,REPUBLICAN,Bush J,1,0,1
+Kent,01-32,President,,REPUBLICAN,Carson B,4,0,4
+Kent,01-32,President,,REPUBLICAN,Cruz R,57,1,58
+Kent,01-32,President,,REPUBLICAN,Kasich J,26,4,30
+Kent,01-32,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,01-32,President,,REPUBLICAN,Trump D,143,4,147
+Kent,02-32,President,,REPUBLICAN,Carson B,3,0,3
+Kent,02-32,President,,REPUBLICAN,Cruz R,20,2,22
+Kent,02-32,President,,REPUBLICAN,Kasich J,15,0,15
+Kent,02-32,President,,REPUBLICAN,Rubio M,3,0,3
+Kent,02-32,President,,REPUBLICAN,Trump D,47,1,48
+Kent,03-32,President,,REPUBLICAN,Carson B,9,0,9
+Kent,03-32,President,,REPUBLICAN,Cruz R,86,4,90
+Kent,03-32,President,,REPUBLICAN,Kasich J,35,2,37
+Kent,03-32,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,03-32,President,,REPUBLICAN,Trump D,175,2,177
+Kent,04-32,President,,REPUBLICAN,Carson B,0,0,0
+Kent,04-32,President,,REPUBLICAN,Cruz R,0,0,0
+Kent,04-32,President,,REPUBLICAN,Kasich J,0,0,0
+Kent,04-32,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,04-32,President,,REPUBLICAN,Trump D,1,0,1
+Kent,06-32,President,,REPUBLICAN,Carson B,0,0,0
+Kent,06-32,President,,REPUBLICAN,Cruz R,1,1,2
+Kent,06-32,President,,REPUBLICAN,Kasich J,7,1,8
+Kent,06-32,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,06-32,President,,REPUBLICAN,Trump D,35,0,35
+Kent,11-32,President,,REPUBLICAN,Carson B,1,0,1
+Kent,11-32,President,,REPUBLICAN,Cruz R,16,0,16
+Kent,11-32,President,,REPUBLICAN,Kasich J,11,0,11
+Kent,11-32,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,11-32,President,,REPUBLICAN,Trump D,72,1,73
+Kent,12-32,President,,REPUBLICAN,Carson B,2,0,2
+Kent,12-32,President,,REPUBLICAN,Cruz R,30,0,30
+Kent,12-32,President,,REPUBLICAN,Kasich J,23,0,23
+Kent,12-32,President,,REPUBLICAN,Rubio M,3,0,3
+Kent,12-32,President,,REPUBLICAN,Trump D,96,1,97
+Kent,01-33,President,,DEMOCRATIC,Clinton H,40,5,45
+Kent,01-33,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,01-33,President,,DEMOCRATIC,Sanders B,25,1,26
+Kent,01-33,President,,REPUBLICAN,Bush J,1,0,1
+Kent,02-33,President,,DEMOCRATIC,Clinton H,77,3,80
+Kent,02-33,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,02-33,President,,DEMOCRATIC,Sanders B,41,0,41
+Kent,02-33,President,,REPUBLICAN,Bush J,2,0,2
+Kent,03-33,President,,DEMOCRATIC,Clinton H,121,6,127
+Kent,03-33,President,,DEMOCRATIC,De La Fuen,3,0,3
+Kent,03-33,President,,DEMOCRATIC,Sanders B,91,6,97
+Kent,03-33,President,,REPUBLICAN,Bush J,2,0,2
+Kent,04-33,President,,DEMOCRATIC,Clinton H,184,8,192
+Kent,04-33,President,,DEMOCRATIC,De La Fuen,5,1,6
+Kent,04-33,President,,DEMOCRATIC,Sanders B,139,7,146
+Kent,04-33,President,,REPUBLICAN,Bush J,5,0,5
+Kent,06-33,President,,DEMOCRATIC,Clinton H,14,0,14
+Kent,06-33,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,06-33,President,,DEMOCRATIC,Sanders B,6,0,6
+Kent,06-33,President,,REPUBLICAN,Bush J,0,0,0
+Kent,07-33,President,,DEMOCRATIC,Clinton H,43,1,44
+Kent,07-33,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,07-33,President,,DEMOCRATIC,Sanders B,41,3,44
+Kent,07-33,President,,REPUBLICAN,Bush J,3,0,3
+Kent,08-33,President,,DEMOCRATIC,Clinton H,215,9,224
+Kent,08-33,President,,DEMOCRATIC,De La Fuen,5,0,5
+Kent,08-33,President,,DEMOCRATIC,Sanders B,162,3,165
+Kent,08-33,President,,REPUBLICAN,Bush J,6,0,6
+Kent,10-33,President,,DEMOCRATIC,Clinton H,46,2,48
+Kent,10-33,President,,DEMOCRATIC,De La Fuen,5,0,5
+Kent,10-33,President,,DEMOCRATIC,Sanders B,50,1,51
+Kent,10-33,President,,REPUBLICAN,Bush J,1,0,1
+Kent,01-33,President,,REPUBLICAN,Carson B,2,0,2
+Kent,01-33,President,,REPUBLICAN,Cruz R,12,0,12
+Kent,01-33,President,,REPUBLICAN,Kasich J,6,0,6
+Kent,01-33,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,01-33,President,,REPUBLICAN,Trump D,53,3,56
+Kent,02-33,President,,REPUBLICAN,Carson B,1,0,1
+Kent,02-33,President,,REPUBLICAN,Cruz R,26,0,26
+Kent,02-33,President,,REPUBLICAN,Kasich J,27,0,27
+Kent,02-33,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,02-33,President,,REPUBLICAN,Trump D,131,2,133
+Kent,03-33,President,,REPUBLICAN,Carson B,7,1,8
+Kent,03-33,President,,REPUBLICAN,Cruz R,53,2,55
+Kent,03-33,President,,REPUBLICAN,Kasich J,33,4,37
+Kent,03-33,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,03-33,President,,REPUBLICAN,Trump D,195,6,201
+Kent,04-33,President,,REPUBLICAN,Carson B,7,1,8
+Kent,04-33,President,,REPUBLICAN,Cruz R,103,2,105
+Kent,04-33,President,,REPUBLICAN,Kasich J,63,5,68
+Kent,04-33,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,04-33,President,,REPUBLICAN,Trump D,367,7,374
+Kent,06-33,President,,REPUBLICAN,Carson B,0,0,0
+Kent,06-33,President,,REPUBLICAN,Cruz R,7,1,8
+Kent,06-33,President,,REPUBLICAN,Kasich J,10,1,11
+Kent,06-33,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,06-33,President,,REPUBLICAN,Trump D,29,4,33
+Kent,07-33,President,,REPUBLICAN,Carson B,3,0,3
+Kent,07-33,President,,REPUBLICAN,Cruz R,30,2,32
+Kent,07-33,President,,REPUBLICAN,Kasich J,13,0,13
+Kent,07-33,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,07-33,President,,REPUBLICAN,Trump D,170,2,172
+Kent,08-33,President,,REPUBLICAN,Carson B,9,0,9
+Kent,08-33,President,,REPUBLICAN,Cruz R,73,5,78
+Kent,08-33,President,,REPUBLICAN,Kasich J,67,0,67
+Kent,08-33,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,08-33,President,,REPUBLICAN,Trump D,401,8,409
+Kent,10-33,President,,REPUBLICAN,Carson B,2,0,2
+Kent,10-33,President,,REPUBLICAN,Cruz R,18,0,18
+Kent,10-33,President,,REPUBLICAN,Kasich J,21,0,21
+Kent,10-33,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,10-33,President,,REPUBLICAN,Trump D,184,3,187
+Kent,01-34,President,,DEMOCRATIC,Clinton H,113,3,116
+Kent,01-34,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,01-34,President,,DEMOCRATIC,Sanders B,109,5,114
+Kent,01-34,President,,REPUBLICAN,Bush J,0,0,0
+Kent,02-34,President,,DEMOCRATIC,Clinton H,56,0,56
+Kent,02-34,President,,DEMOCRATIC,De La Fuen,0,0,0
+Kent,02-34,President,,DEMOCRATIC,Sanders B,33,2,35
+Kent,02-34,President,,REPUBLICAN,Bush J,2,0,2
+Kent,03-34,President,,DEMOCRATIC,Clinton H,157,9,166
+Kent,03-34,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,03-34,President,,DEMOCRATIC,Sanders B,85,6,91
+Kent,03-34,President,,REPUBLICAN,Bush J,4,0,4
+Kent,04-34,President,,DEMOCRATIC,Clinton H,28,2,30
+Kent,04-34,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,04-34,President,,DEMOCRATIC,Sanders B,24,1,25
+Kent,04-34,President,,REPUBLICAN,Bush J,0,1,1
+Kent,05-34,President,,DEMOCRATIC,Clinton H,340,6,346
+Kent,05-34,President,,DEMOCRATIC,De La Fuen,4,1,5
+Kent,05-34,President,,DEMOCRATIC,Sanders B,186,6,192
+Kent,05-34,President,,REPUBLICAN,Bush J,2,0,2
+Kent,07-34,President,,DEMOCRATIC,Clinton H,42,5,47
+Kent,07-34,President,,DEMOCRATIC,De La Fuen,2,0,2
+Kent,07-34,President,,DEMOCRATIC,Sanders B,54,1,55
+Kent,07-34,President,,REPUBLICAN,Bush J,1,0,1
+Kent,08-34,President,,DEMOCRATIC,Clinton H,130,10,140
+Kent,08-34,President,,DEMOCRATIC,De La Fuen,5,0,5
+Kent,08-34,President,,DEMOCRATIC,Sanders B,81,7,88
+Kent,08-34,President,,REPUBLICAN,Bush J,2,0,2
+Kent,09-34,President,,DEMOCRATIC,Clinton H,182,3,185
+Kent,09-34,President,,DEMOCRATIC,De La Fuen,3,0,3
+Kent,09-34,President,,DEMOCRATIC,Sanders B,102,3,105
+Kent,09-34,President,,REPUBLICAN,Bush J,1,0,1
+Kent,11-34,President,,DEMOCRATIC,Clinton H,5,0,5
+Kent,11-34,President,,DEMOCRATIC,De La Fuen,1,0,1
+Kent,11-34,President,,DEMOCRATIC,Sanders B,0,1,1
+Kent,11-34,President,,REPUBLICAN,Bush J,0,0,0
+Kent,01-34,President,,REPUBLICAN,Carson B,9,0,9
+Kent,01-34,President,,REPUBLICAN,Cruz R,37,6,43
+Kent,01-34,President,,REPUBLICAN,Kasich J,42,1,43
+Kent,01-34,President,,REPUBLICAN,Rubio M,4,0,4
+Kent,01-34,President,,REPUBLICAN,Trump D,133,11,144
+Kent,02-34,President,,REPUBLICAN,Carson B,2,0,2
+Kent,02-34,President,,REPUBLICAN,Cruz R,22,0,22
+Kent,02-34,President,,REPUBLICAN,Kasich J,27,0,27
+Kent,02-34,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,02-34,President,,REPUBLICAN,Trump D,92,1,93
+Kent,03-34,President,,REPUBLICAN,Carson B,5,0,5
+Kent,03-34,President,,REPUBLICAN,Cruz R,37,1,38
+Kent,03-34,President,,REPUBLICAN,Kasich J,30,1,31
+Kent,03-34,President,,REPUBLICAN,Rubio M,2,0,2
+Kent,03-34,President,,REPUBLICAN,Trump D,171,5,176
+Kent,04-34,President,,REPUBLICAN,Carson B,1,0,1
+Kent,04-34,President,,REPUBLICAN,Cruz R,20,0,20
+Kent,04-34,President,,REPUBLICAN,Kasich J,17,0,17
+Kent,04-34,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,04-34,President,,REPUBLICAN,Trump D,60,2,62
+Kent,05-34,President,,REPUBLICAN,Carson B,8,0,8
+Kent,05-34,President,,REPUBLICAN,Cruz R,140,12,152
+Kent,05-34,President,,REPUBLICAN,Kasich J,93,1,94
+Kent,05-34,President,,REPUBLICAN,Rubio M,4,2,6
+Kent,05-34,President,,REPUBLICAN,Trump D,456,18,474
+Kent,07-34,President,,REPUBLICAN,Carson B,2,0,2
+Kent,07-34,President,,REPUBLICAN,Cruz R,31,4,35
+Kent,07-34,President,,REPUBLICAN,Kasich J,51,2,53
+Kent,07-34,President,,REPUBLICAN,Rubio M,3,0,3
+Kent,07-34,President,,REPUBLICAN,Trump D,120,3,123
+Kent,08-34,President,,REPUBLICAN,Carson B,3,0,3
+Kent,08-34,President,,REPUBLICAN,Cruz R,59,5,64
+Kent,08-34,President,,REPUBLICAN,Kasich J,72,4,76
+Kent,08-34,President,,REPUBLICAN,Rubio M,6,0,6
+Kent,08-34,President,,REPUBLICAN,Trump D,183,6,189
+Kent,09-34,President,,REPUBLICAN,Carson B,5,0,5
+Kent,09-34,President,,REPUBLICAN,Cruz R,55,4,59
+Kent,09-34,President,,REPUBLICAN,Kasich J,55,2,57
+Kent,09-34,President,,REPUBLICAN,Rubio M,1,0,1
+Kent,09-34,President,,REPUBLICAN,Trump D,137,2,139
+Kent,11-34,President,,REPUBLICAN,Carson B,1,0,1
+Kent,11-34,President,,REPUBLICAN,Cruz R,7,0,7
+Kent,11-34,President,,REPUBLICAN,Kasich J,1,0,1
+Kent,11-34,President,,REPUBLICAN,Rubio M,0,0,0
+Kent,11-34,President,,REPUBLICAN,Trump D,6,0,6
+Sussex,01-35,President,,DEMOCRATIC,Clinton H,106,5,111
+Sussex,01-35,President,,DEMOCRATIC,De La Fuen,11,1,12
+Sussex,01-35,President,,DEMOCRATIC,Sanders B,107,4,111
+Sussex,01-35,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,02-35,President,,DEMOCRATIC,Clinton H,142,8,150
+Sussex,02-35,President,,DEMOCRATIC,De La Fuen,8,0,8
+Sussex,02-35,President,,DEMOCRATIC,Sanders B,99,4,103
+Sussex,02-35,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,03-35,President,,DEMOCRATIC,Clinton H,67,6,73
+Sussex,03-35,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,03-35,President,,DEMOCRATIC,Sanders B,52,0,52
+Sussex,03-35,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,04-35,President,,DEMOCRATIC,Clinton H,113,5,118
+Sussex,04-35,President,,DEMOCRATIC,De La Fuen,5,1,6
+Sussex,04-35,President,,DEMOCRATIC,Sanders B,54,4,58
+Sussex,04-35,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,05-35,President,,DEMOCRATIC,Clinton H,19,2,21
+Sussex,05-35,President,,DEMOCRATIC,De La Fuen,4,0,4
+Sussex,05-35,President,,DEMOCRATIC,Sanders B,31,0,31
+Sussex,05-35,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,06-35,President,,DEMOCRATIC,Clinton H,33,0,33
+Sussex,06-35,President,,DEMOCRATIC,De La Fuen,5,1,6
+Sussex,06-35,President,,DEMOCRATIC,Sanders B,22,0,22
+Sussex,06-35,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,07-35,President,,DEMOCRATIC,Clinton H,68,2,70
+Sussex,07-35,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,07-35,President,,DEMOCRATIC,Sanders B,35,3,38
+Sussex,07-35,President,,REPUBLICAN,Bush J,5,0,5
+Sussex,01-35,President,,REPUBLICAN,Carson B,8,0,8
+Sussex,01-35,President,,REPUBLICAN,Cruz R,127,4,131
+Sussex,01-35,President,,REPUBLICAN,Kasich J,64,2,66
+Sussex,01-35,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,01-35,President,,REPUBLICAN,Trump D,401,6,407
+Sussex,02-35,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,02-35,President,,REPUBLICAN,Cruz R,53,3,56
+Sussex,02-35,President,,REPUBLICAN,Kasich J,84,2,86
+Sussex,02-35,President,,REPUBLICAN,Rubio M,2,1,3
+Sussex,02-35,President,,REPUBLICAN,Trump D,401,9,410
+Sussex,03-35,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,03-35,President,,REPUBLICAN,Cruz R,34,3,37
+Sussex,03-35,President,,REPUBLICAN,Kasich J,11,0,11
+Sussex,03-35,President,,REPUBLICAN,Rubio M,5,0,5
+Sussex,03-35,President,,REPUBLICAN,Trump D,137,3,140
+Sussex,04-35,President,,REPUBLICAN,Carson B,7,1,8
+Sussex,04-35,President,,REPUBLICAN,Cruz R,31,1,32
+Sussex,04-35,President,,REPUBLICAN,Kasich J,19,2,21
+Sussex,04-35,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,04-35,President,,REPUBLICAN,Trump D,221,6,227
+Sussex,05-35,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,05-35,President,,REPUBLICAN,Cruz R,21,0,21
+Sussex,05-35,President,,REPUBLICAN,Kasich J,13,0,13
+Sussex,05-35,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,05-35,President,,REPUBLICAN,Trump D,86,0,86
+Sussex,06-35,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,06-35,President,,REPUBLICAN,Cruz R,20,0,20
+Sussex,06-35,President,,REPUBLICAN,Kasich J,13,2,15
+Sussex,06-35,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,06-35,President,,REPUBLICAN,Trump D,142,1,143
+Sussex,07-35,President,,REPUBLICAN,Carson B,3,1,4
+Sussex,07-35,President,,REPUBLICAN,Cruz R,52,0,52
+Sussex,07-35,President,,REPUBLICAN,Kasich J,14,0,14
+Sussex,07-35,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,07-35,President,,REPUBLICAN,Trump D,167,2,169
+Sussex,01-36,President,,DEMOCRATIC,Clinton H,80,5,85
+Sussex,01-36,President,,DEMOCRATIC,De La Fuen,1,0,1
+Sussex,01-36,President,,DEMOCRATIC,Sanders B,85,4,89
+Sussex,01-36,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,02-36,President,,DEMOCRATIC,Clinton H,54,7,61
+Sussex,02-36,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,02-36,President,,DEMOCRATIC,Sanders B,55,1,56
+Sussex,02-36,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,03-36,President,,DEMOCRATIC,Clinton H,177,4,181
+Sussex,03-36,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,03-36,President,,DEMOCRATIC,Sanders B,100,4,104
+Sussex,03-36,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,04-36,President,,DEMOCRATIC,Clinton H,68,0,68
+Sussex,04-36,President,,DEMOCRATIC,De La Fuen,2,1,3
+Sussex,04-36,President,,DEMOCRATIC,Sanders B,56,3,59
+Sussex,04-36,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,05-36,President,,DEMOCRATIC,Clinton H,50,2,52
+Sussex,05-36,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,05-36,President,,DEMOCRATIC,Sanders B,38,4,42
+Sussex,05-36,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,06-36,President,,DEMOCRATIC,Clinton H,81,5,86
+Sussex,06-36,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,06-36,President,,DEMOCRATIC,Sanders B,80,2,82
+Sussex,06-36,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,07-36,President,,DEMOCRATIC,Clinton H,112,6,118
+Sussex,07-36,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,07-36,President,,DEMOCRATIC,Sanders B,62,5,67
+Sussex,07-36,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,08-36,President,,DEMOCRATIC,Clinton H,6,0,6
+Sussex,08-36,President,,DEMOCRATIC,De La Fuen,1,0,1
+Sussex,08-36,President,,DEMOCRATIC,Sanders B,9,1,10
+Sussex,08-36,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,09-36,President,,DEMOCRATIC,Clinton H,4,1,5
+Sussex,09-36,President,,DEMOCRATIC,De La Fuen,0,0,0
+Sussex,09-36,President,,DEMOCRATIC,Sanders B,0,1,1
+Sussex,09-36,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,10-36,President,,DEMOCRATIC,Clinton H,10,0,10
+Sussex,10-36,President,,DEMOCRATIC,De La Fuen,0,0,0
+Sussex,10-36,President,,DEMOCRATIC,Sanders B,6,0,6
+Sussex,10-36,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,11-36,President,,DEMOCRATIC,Clinton H,37,2,39
+Sussex,11-36,President,,DEMOCRATIC,De La Fuen,0,0,0
+Sussex,11-36,President,,DEMOCRATIC,Sanders B,11,0,11
+Sussex,11-36,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,01-36,President,,REPUBLICAN,Carson B,6,0,6
+Sussex,01-36,President,,REPUBLICAN,Cruz R,31,1,32
+Sussex,01-36,President,,REPUBLICAN,Kasich J,49,4,53
+Sussex,01-36,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,01-36,President,,REPUBLICAN,Trump D,183,5,188
+Sussex,02-36,President,,REPUBLICAN,Carson B,6,0,6
+Sussex,02-36,President,,REPUBLICAN,Cruz R,59,3,62
+Sussex,02-36,President,,REPUBLICAN,Kasich J,40,3,43
+Sussex,02-36,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,02-36,President,,REPUBLICAN,Trump D,259,5,264
+Sussex,03-36,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,03-36,President,,REPUBLICAN,Cruz R,57,3,60
+Sussex,03-36,President,,REPUBLICAN,Kasich J,81,1,82
+Sussex,03-36,President,,REPUBLICAN,Rubio M,2,1,3
+Sussex,03-36,President,,REPUBLICAN,Trump D,273,6,279
+Sussex,04-36,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,04-36,President,,REPUBLICAN,Cruz R,33,0,33
+Sussex,04-36,President,,REPUBLICAN,Kasich J,14,0,14
+Sussex,04-36,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,04-36,President,,REPUBLICAN,Trump D,129,0,129
+Sussex,05-36,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,05-36,President,,REPUBLICAN,Cruz R,23,0,23
+Sussex,05-36,President,,REPUBLICAN,Kasich J,20,3,23
+Sussex,05-36,President,,REPUBLICAN,Rubio M,4,0,4
+Sussex,05-36,President,,REPUBLICAN,Trump D,202,3,205
+Sussex,06-36,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,06-36,President,,REPUBLICAN,Cruz R,33,1,34
+Sussex,06-36,President,,REPUBLICAN,Kasich J,20,0,20
+Sussex,06-36,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,06-36,President,,REPUBLICAN,Trump D,180,5,185
+Sussex,07-36,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,07-36,President,,REPUBLICAN,Cruz R,24,0,24
+Sussex,07-36,President,,REPUBLICAN,Kasich J,25,0,25
+Sussex,07-36,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,07-36,President,,REPUBLICAN,Trump D,155,5,160
+Sussex,08-36,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,08-36,President,,REPUBLICAN,Cruz R,3,0,3
+Sussex,08-36,President,,REPUBLICAN,Kasich J,2,0,2
+Sussex,08-36,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,08-36,President,,REPUBLICAN,Trump D,33,0,33
+Sussex,09-36,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,09-36,President,,REPUBLICAN,Cruz R,3,1,4
+Sussex,09-36,President,,REPUBLICAN,Kasich J,0,1,1
+Sussex,09-36,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,09-36,President,,REPUBLICAN,Trump D,23,0,23
+Sussex,10-36,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,10-36,President,,REPUBLICAN,Cruz R,0,0,0
+Sussex,10-36,President,,REPUBLICAN,Kasich J,3,0,3
+Sussex,10-36,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,10-36,President,,REPUBLICAN,Trump D,22,0,22
+Sussex,11-36,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,11-36,President,,REPUBLICAN,Cruz R,8,0,8
+Sussex,11-36,President,,REPUBLICAN,Kasich J,11,0,11
+Sussex,11-36,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,11-36,President,,REPUBLICAN,Trump D,40,1,41
+Sussex,01-37,President,,DEMOCRATIC,Clinton H,111,12,123
+Sussex,01-37,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,01-37,President,,DEMOCRATIC,Sanders B,79,4,83
+Sussex,01-37,President,,REPUBLICAN,Bush J,3,1,4
+Sussex,02-37,President,,DEMOCRATIC,Clinton H,82,7,89
+Sussex,02-37,President,,DEMOCRATIC,De La Fuen,4,0,4
+Sussex,02-37,President,,DEMOCRATIC,Sanders B,58,0,58
+Sussex,02-37,President,,REPUBLICAN,Bush J,4,0,4
+Sussex,03-37,President,,DEMOCRATIC,Clinton H,192,9,201
+Sussex,03-37,President,,DEMOCRATIC,De La Fuen,5,0,5
+Sussex,03-37,President,,DEMOCRATIC,Sanders B,124,5,129
+Sussex,03-37,President,,REPUBLICAN,Bush J,5,0,5
+Sussex,04-37,President,,DEMOCRATIC,Clinton H,226,8,234
+Sussex,04-37,President,,DEMOCRATIC,De La Fuen,10,0,10
+Sussex,04-37,President,,DEMOCRATIC,Sanders B,152,9,161
+Sussex,04-37,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,05-37,President,,DEMOCRATIC,Clinton H,195,5,200
+Sussex,05-37,President,,DEMOCRATIC,De La Fuen,11,1,12
+Sussex,05-37,President,,DEMOCRATIC,Sanders B,89,4,93
+Sussex,05-37,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,06-37,President,,DEMOCRATIC,Clinton H,115,5,120
+Sussex,06-37,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,06-37,President,,DEMOCRATIC,Sanders B,51,1,52
+Sussex,06-37,President,,REPUBLICAN,Bush J,4,0,4
+Sussex,07-37,President,,DEMOCRATIC,Clinton H,131,10,141
+Sussex,07-37,President,,DEMOCRATIC,De La Fuen,5,1,6
+Sussex,07-37,President,,DEMOCRATIC,Sanders B,63,2,65
+Sussex,07-37,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,01-37,President,,REPUBLICAN,Carson B,8,0,8
+Sussex,01-37,President,,REPUBLICAN,Cruz R,17,0,17
+Sussex,01-37,President,,REPUBLICAN,Kasich J,45,2,47
+Sussex,01-37,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,01-37,President,,REPUBLICAN,Trump D,155,10,165
+Sussex,02-37,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,02-37,President,,REPUBLICAN,Cruz R,40,5,45
+Sussex,02-37,President,,REPUBLICAN,Kasich J,48,4,52
+Sussex,02-37,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,02-37,President,,REPUBLICAN,Trump D,238,13,251
+Sussex,03-37,President,,REPUBLICAN,Carson B,9,0,9
+Sussex,03-37,President,,REPUBLICAN,Cruz R,67,1,68
+Sussex,03-37,President,,REPUBLICAN,Kasich J,61,3,64
+Sussex,03-37,President,,REPUBLICAN,Rubio M,3,1,4
+Sussex,03-37,President,,REPUBLICAN,Trump D,400,16,416
+Sussex,04-37,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,04-37,President,,REPUBLICAN,Cruz R,48,0,48
+Sussex,04-37,President,,REPUBLICAN,Kasich J,65,5,70
+Sussex,04-37,President,,REPUBLICAN,Rubio M,8,0,8
+Sussex,04-37,President,,REPUBLICAN,Trump D,393,10,403
+Sussex,05-37,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,05-37,President,,REPUBLICAN,Cruz R,28,1,29
+Sussex,05-37,President,,REPUBLICAN,Kasich J,44,5,49
+Sussex,05-37,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,05-37,President,,REPUBLICAN,Trump D,283,10,293
+Sussex,06-37,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,06-37,President,,REPUBLICAN,Cruz R,25,0,25
+Sussex,06-37,President,,REPUBLICAN,Kasich J,15,0,15
+Sussex,06-37,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,06-37,President,,REPUBLICAN,Trump D,193,6,199
+Sussex,07-37,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,07-37,President,,REPUBLICAN,Cruz R,25,0,25
+Sussex,07-37,President,,REPUBLICAN,Kasich J,70,1,71
+Sussex,07-37,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,07-37,President,,REPUBLICAN,Trump D,309,12,321
+Sussex,01-38,President,,DEMOCRATIC,Clinton H,144,7,151
+Sussex,01-38,President,,DEMOCRATIC,De La Fuen,7,0,7
+Sussex,01-38,President,,DEMOCRATIC,Sanders B,83,3,86
+Sussex,01-38,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,02-38,President,,DEMOCRATIC,Clinton H,241,16,257
+Sussex,02-38,President,,DEMOCRATIC,De La Fuen,10,0,10
+Sussex,02-38,President,,DEMOCRATIC,Sanders B,138,3,141
+Sussex,02-38,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,03-38,President,,DEMOCRATIC,Clinton H,198,28,226
+Sussex,03-38,President,,DEMOCRATIC,De La Fuen,9,0,9
+Sussex,03-38,President,,DEMOCRATIC,Sanders B,118,6,124
+Sussex,03-38,President,,REPUBLICAN,Bush J,6,0,6
+Sussex,04-38,President,,DEMOCRATIC,Clinton H,218,25,243
+Sussex,04-38,President,,DEMOCRATIC,De La Fuen,8,0,8
+Sussex,04-38,President,,DEMOCRATIC,Sanders B,89,14,103
+Sussex,04-38,President,,REPUBLICAN,Bush J,5,0,5
+Sussex,05-38,President,,DEMOCRATIC,Clinton H,128,10,138
+Sussex,05-38,President,,DEMOCRATIC,De La Fuen,7,0,7
+Sussex,05-38,President,,DEMOCRATIC,Sanders B,63,4,67
+Sussex,05-38,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,06-38,President,,DEMOCRATIC,Clinton H,180,9,189
+Sussex,06-38,President,,DEMOCRATIC,De La Fuen,5,1,6
+Sussex,06-38,President,,DEMOCRATIC,Sanders B,107,9,116
+Sussex,06-38,President,,REPUBLICAN,Bush J,2,1,3
+Sussex,07-38,President,,DEMOCRATIC,Clinton H,132,10,142
+Sussex,07-38,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,07-38,President,,DEMOCRATIC,Sanders B,122,4,126
+Sussex,07-38,President,,REPUBLICAN,Bush J,6,1,7
+Sussex,08-38,President,,DEMOCRATIC,Clinton H,80,4,84
+Sussex,08-38,President,,DEMOCRATIC,De La Fuen,7,0,7
+Sussex,08-38,President,,DEMOCRATIC,Sanders B,42,1,43
+Sussex,08-38,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,01-38,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,01-38,President,,REPUBLICAN,Cruz R,46,3,49
+Sussex,01-38,President,,REPUBLICAN,Kasich J,101,1,102
+Sussex,01-38,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,01-38,President,,REPUBLICAN,Trump D,391,20,411
+Sussex,02-38,President,,REPUBLICAN,Carson B,6,0,6
+Sussex,02-38,President,,REPUBLICAN,Cruz R,65,5,70
+Sussex,02-38,President,,REPUBLICAN,Kasich J,103,9,112
+Sussex,02-38,President,,REPUBLICAN,Rubio M,5,0,5
+Sussex,02-38,President,,REPUBLICAN,Trump D,458,15,473
+Sussex,03-38,President,,REPUBLICAN,Carson B,5,1,6
+Sussex,03-38,President,,REPUBLICAN,Cruz R,51,10,61
+Sussex,03-38,President,,REPUBLICAN,Kasich J,116,5,121
+Sussex,03-38,President,,REPUBLICAN,Rubio M,4,0,4
+Sussex,03-38,President,,REPUBLICAN,Trump D,438,20,458
+Sussex,04-38,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,04-38,President,,REPUBLICAN,Cruz R,50,9,59
+Sussex,04-38,President,,REPUBLICAN,Kasich J,136,12,148
+Sussex,04-38,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,04-38,President,,REPUBLICAN,Trump D,318,13,331
+Sussex,05-38,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,05-38,President,,REPUBLICAN,Cruz R,34,2,36
+Sussex,05-38,President,,REPUBLICAN,Kasich J,81,3,84
+Sussex,05-38,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,05-38,President,,REPUBLICAN,Trump D,268,10,278
+Sussex,06-38,President,,REPUBLICAN,Carson B,10,0,10
+Sussex,06-38,President,,REPUBLICAN,Cruz R,43,6,49
+Sussex,06-38,President,,REPUBLICAN,Kasich J,100,5,105
+Sussex,06-38,President,,REPUBLICAN,Rubio M,0,1,1
+Sussex,06-38,President,,REPUBLICAN,Trump D,519,19,538
+Sussex,07-38,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,07-38,President,,REPUBLICAN,Cruz R,55,3,58
+Sussex,07-38,President,,REPUBLICAN,Kasich J,85,3,88
+Sussex,07-38,President,,REPUBLICAN,Rubio M,4,0,4
+Sussex,07-38,President,,REPUBLICAN,Trump D,461,16,477
+Sussex,08-38,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,08-38,President,,REPUBLICAN,Cruz R,27,4,31
+Sussex,08-38,President,,REPUBLICAN,Kasich J,32,3,35
+Sussex,08-38,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,08-38,President,,REPUBLICAN,Trump D,249,5,254
+Sussex,01-39,President,,DEMOCRATIC,Clinton H,86,1,87
+Sussex,01-39,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,01-39,President,,DEMOCRATIC,Sanders B,54,3,57
+Sussex,01-39,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,02-39,President,,DEMOCRATIC,Clinton H,102,5,107
+Sussex,02-39,President,,DEMOCRATIC,De La Fuen,5,0,5
+Sussex,02-39,President,,DEMOCRATIC,Sanders B,106,4,110
+Sussex,02-39,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,03-39,President,,DEMOCRATIC,Clinton H,69,7,76
+Sussex,03-39,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,03-39,President,,DEMOCRATIC,Sanders B,46,1,47
+Sussex,03-39,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,04-39,President,,DEMOCRATIC,Clinton H,85,8,93
+Sussex,04-39,President,,DEMOCRATIC,De La Fuen,0,0,0
+Sussex,04-39,President,,DEMOCRATIC,Sanders B,67,2,69
+Sussex,04-39,President,,REPUBLICAN,Bush J,6,0,6
+Sussex,05-39,President,,DEMOCRATIC,Clinton H,74,3,77
+Sussex,05-39,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,05-39,President,,DEMOCRATIC,Sanders B,64,3,67
+Sussex,05-39,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,06-39,President,,DEMOCRATIC,Clinton H,112,5,117
+Sussex,06-39,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,06-39,President,,DEMOCRATIC,Sanders B,69,4,73
+Sussex,06-39,President,,REPUBLICAN,Bush J,5,0,5
+Sussex,07-39,President,,DEMOCRATIC,Clinton H,86,3,89
+Sussex,07-39,President,,DEMOCRATIC,De La Fuen,2,0,2
+Sussex,07-39,President,,DEMOCRATIC,Sanders B,49,1,50
+Sussex,07-39,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,01-39,President,,REPUBLICAN,Carson B,9,0,9
+Sussex,01-39,President,,REPUBLICAN,Cruz R,56,1,57
+Sussex,01-39,President,,REPUBLICAN,Kasich J,37,1,38
+Sussex,01-39,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,01-39,President,,REPUBLICAN,Trump D,268,5,273
+Sussex,02-39,President,,REPUBLICAN,Carson B,11,0,11
+Sussex,02-39,President,,REPUBLICAN,Cruz R,53,2,55
+Sussex,02-39,President,,REPUBLICAN,Kasich J,62,2,64
+Sussex,02-39,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,02-39,President,,REPUBLICAN,Trump D,221,8,229
+Sussex,03-39,President,,REPUBLICAN,Carson B,9,0,9
+Sussex,03-39,President,,REPUBLICAN,Cruz R,43,0,43
+Sussex,03-39,President,,REPUBLICAN,Kasich J,46,3,49
+Sussex,03-39,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,03-39,President,,REPUBLICAN,Trump D,211,5,216
+Sussex,04-39,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,04-39,President,,REPUBLICAN,Cruz R,31,7,38
+Sussex,04-39,President,,REPUBLICAN,Kasich J,49,4,53
+Sussex,04-39,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,04-39,President,,REPUBLICAN,Trump D,111,11,122
+Sussex,05-39,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,05-39,President,,REPUBLICAN,Cruz R,31,3,34
+Sussex,05-39,President,,REPUBLICAN,Kasich J,29,0,29
+Sussex,05-39,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,05-39,President,,REPUBLICAN,Trump D,208,2,210
+Sussex,06-39,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,06-39,President,,REPUBLICAN,Cruz R,59,1,60
+Sussex,06-39,President,,REPUBLICAN,Kasich J,50,0,50
+Sussex,06-39,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,06-39,President,,REPUBLICAN,Trump D,266,4,270
+Sussex,07-39,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,07-39,President,,REPUBLICAN,Cruz R,26,1,27
+Sussex,07-39,President,,REPUBLICAN,Kasich J,15,0,15
+Sussex,07-39,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,07-39,President,,REPUBLICAN,Trump D,180,0,180
+Sussex,01-40,President,,DEMOCRATIC,Clinton H,54,5,59
+Sussex,01-40,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,01-40,President,,DEMOCRATIC,Sanders B,47,2,49
+Sussex,01-40,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,02-40,President,,DEMOCRATIC,Clinton H,73,3,76
+Sussex,02-40,President,,DEMOCRATIC,De La Fuen,7,0,7
+Sussex,02-40,President,,DEMOCRATIC,Sanders B,73,6,79
+Sussex,02-40,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,03-40,President,,DEMOCRATIC,Clinton H,106,10,116
+Sussex,03-40,President,,DEMOCRATIC,De La Fuen,1,0,1
+Sussex,03-40,President,,DEMOCRATIC,Sanders B,58,2,60
+Sussex,03-40,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,04-40,President,,DEMOCRATIC,Clinton H,70,8,78
+Sussex,04-40,President,,DEMOCRATIC,De La Fuen,9,2,11
+Sussex,04-40,President,,DEMOCRATIC,Sanders B,58,3,61
+Sussex,04-40,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,05-40,President,,DEMOCRATIC,Clinton H,35,3,38
+Sussex,05-40,President,,DEMOCRATIC,De La Fuen,1,0,1
+Sussex,05-40,President,,DEMOCRATIC,Sanders B,39,1,40
+Sussex,05-40,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,06-40,President,,DEMOCRATIC,Clinton H,50,1,51
+Sussex,06-40,President,,DEMOCRATIC,De La Fuen,9,0,9
+Sussex,06-40,President,,DEMOCRATIC,Sanders B,48,2,50
+Sussex,06-40,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,07-40,President,,DEMOCRATIC,Clinton H,122,6,128
+Sussex,07-40,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,07-40,President,,DEMOCRATIC,Sanders B,84,2,86
+Sussex,07-40,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,08-40,President,,DEMOCRATIC,Clinton H,36,6,42
+Sussex,08-40,President,,DEMOCRATIC,De La Fuen,4,2,6
+Sussex,08-40,President,,DEMOCRATIC,Sanders B,43,1,44
+Sussex,08-40,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,01-40,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,01-40,President,,REPUBLICAN,Cruz R,31,1,32
+Sussex,01-40,President,,REPUBLICAN,Kasich J,17,1,18
+Sussex,01-40,President,,REPUBLICAN,Rubio M,1,1,2
+Sussex,01-40,President,,REPUBLICAN,Trump D,134,3,137
+Sussex,02-40,President,,REPUBLICAN,Carson B,13,0,13
+Sussex,02-40,President,,REPUBLICAN,Cruz R,71,1,72
+Sussex,02-40,President,,REPUBLICAN,Kasich J,41,3,44
+Sussex,02-40,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,02-40,President,,REPUBLICAN,Trump D,347,10,357
+Sussex,03-40,President,,REPUBLICAN,Carson B,5,0,5
+Sussex,03-40,President,,REPUBLICAN,Cruz R,26,1,27
+Sussex,03-40,President,,REPUBLICAN,Kasich J,18,0,18
+Sussex,03-40,President,,REPUBLICAN,Rubio M,3,1,4
+Sussex,03-40,President,,REPUBLICAN,Trump D,91,5,96
+Sussex,04-40,President,,REPUBLICAN,Carson B,7,1,8
+Sussex,04-40,President,,REPUBLICAN,Cruz R,58,2,60
+Sussex,04-40,President,,REPUBLICAN,Kasich J,46,0,46
+Sussex,04-40,President,,REPUBLICAN,Rubio M,2,1,3
+Sussex,04-40,President,,REPUBLICAN,Trump D,228,4,232
+Sussex,05-40,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,05-40,President,,REPUBLICAN,Cruz R,23,0,23
+Sussex,05-40,President,,REPUBLICAN,Kasich J,9,2,11
+Sussex,05-40,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,05-40,President,,REPUBLICAN,Trump D,138,5,143
+Sussex,06-40,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,06-40,President,,REPUBLICAN,Cruz R,62,1,63
+Sussex,06-40,President,,REPUBLICAN,Kasich J,19,0,19
+Sussex,06-40,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,06-40,President,,REPUBLICAN,Trump D,231,3,234
+Sussex,07-40,President,,REPUBLICAN,Carson B,6,0,6
+Sussex,07-40,President,,REPUBLICAN,Cruz R,64,1,65
+Sussex,07-40,President,,REPUBLICAN,Kasich J,27,1,28
+Sussex,07-40,President,,REPUBLICAN,Rubio M,4,0,4
+Sussex,07-40,President,,REPUBLICAN,Trump D,257,2,259
+Sussex,08-40,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,08-40,President,,REPUBLICAN,Cruz R,15,0,15
+Sussex,08-40,President,,REPUBLICAN,Kasich J,20,1,21
+Sussex,08-40,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,08-40,President,,REPUBLICAN,Trump D,114,6,120
+Sussex,01-41,President,,DEMOCRATIC,Clinton H,60,2,62
+Sussex,01-41,President,,DEMOCRATIC,De La Fuen,8,0,8
+Sussex,01-41,President,,DEMOCRATIC,Sanders B,68,7,75
+Sussex,01-41,President,,REPUBLICAN,Bush J,4,0,4
+Sussex,02-41,President,,DEMOCRATIC,Clinton H,140,6,146
+Sussex,02-41,President,,DEMOCRATIC,De La Fuen,6,0,6
+Sussex,02-41,President,,DEMOCRATIC,Sanders B,107,1,108
+Sussex,02-41,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,03-41,President,,DEMOCRATIC,Clinton H,104,2,106
+Sussex,03-41,President,,DEMOCRATIC,De La Fuen,7,0,7
+Sussex,03-41,President,,DEMOCRATIC,Sanders B,41,4,45
+Sussex,03-41,President,,REPUBLICAN,Bush J,3,0,3
+Sussex,04-41,President,,DEMOCRATIC,Clinton H,77,2,79
+Sussex,04-41,President,,DEMOCRATIC,De La Fuen,3,0,3
+Sussex,04-41,President,,DEMOCRATIC,Sanders B,59,1,60
+Sussex,04-41,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,05-41,President,,DEMOCRATIC,Clinton H,172,11,183
+Sussex,05-41,President,,DEMOCRATIC,De La Fuen,12,0,12
+Sussex,05-41,President,,DEMOCRATIC,Sanders B,118,4,122
+Sussex,05-41,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,06-41,President,,DEMOCRATIC,Clinton H,72,5,77
+Sussex,06-41,President,,DEMOCRATIC,De La Fuen,5,0,5
+Sussex,06-41,President,,DEMOCRATIC,Sanders B,47,4,51
+Sussex,06-41,President,,REPUBLICAN,Bush J,4,0,4
+Sussex,07-41,President,,DEMOCRATIC,Clinton H,103,4,107
+Sussex,07-41,President,,DEMOCRATIC,De La Fuen,4,1,5
+Sussex,07-41,President,,DEMOCRATIC,Sanders B,62,0,62
+Sussex,07-41,President,,REPUBLICAN,Bush J,1,0,1
+Sussex,08-41,President,,DEMOCRATIC,Clinton H,56,5,61
+Sussex,08-41,President,,DEMOCRATIC,De La Fuen,1,0,1
+Sussex,08-41,President,,DEMOCRATIC,Sanders B,37,3,40
+Sussex,08-41,President,,REPUBLICAN,Bush J,2,0,2
+Sussex,16-41,President,,DEMOCRATIC,Clinton H,0,10,10
+Sussex,16-41,President,,DEMOCRATIC,De La Fuen,0,0,0
+Sussex,16-41,President,,DEMOCRATIC,Sanders B,0,7,7
+Sussex,16-41,President,,REPUBLICAN,Bush J,0,0,0
+Sussex,01-41,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,01-41,President,,REPUBLICAN,Cruz R,82,4,86
+Sussex,01-41,President,,REPUBLICAN,Kasich J,34,2,36
+Sussex,01-41,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,01-41,President,,REPUBLICAN,Trump D,325,8,333
+Sussex,02-41,President,,REPUBLICAN,Carson B,7,0,7
+Sussex,02-41,President,,REPUBLICAN,Cruz R,50,2,52
+Sussex,02-41,President,,REPUBLICAN,Kasich J,42,5,47
+Sussex,02-41,President,,REPUBLICAN,Rubio M,3,0,3
+Sussex,02-41,President,,REPUBLICAN,Trump D,335,6,341
+Sussex,03-41,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,03-41,President,,REPUBLICAN,Cruz R,18,0,18
+Sussex,03-41,President,,REPUBLICAN,Kasich J,21,0,21
+Sussex,03-41,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,03-41,President,,REPUBLICAN,Trump D,179,1,180
+Sussex,04-41,President,,REPUBLICAN,Carson B,1,0,1
+Sussex,04-41,President,,REPUBLICAN,Cruz R,23,1,24
+Sussex,04-41,President,,REPUBLICAN,Kasich J,32,0,32
+Sussex,04-41,President,,REPUBLICAN,Rubio M,2,0,2
+Sussex,04-41,President,,REPUBLICAN,Trump D,191,5,196
+Sussex,05-41,President,,REPUBLICAN,Carson B,4,0,4
+Sussex,05-41,President,,REPUBLICAN,Cruz R,52,1,53
+Sussex,05-41,President,,REPUBLICAN,Kasich J,43,5,48
+Sussex,05-41,President,,REPUBLICAN,Rubio M,4,0,4
+Sussex,05-41,President,,REPUBLICAN,Trump D,326,10,336
+Sussex,06-41,President,,REPUBLICAN,Carson B,2,0,2
+Sussex,06-41,President,,REPUBLICAN,Cruz R,18,2,20
+Sussex,06-41,President,,REPUBLICAN,Kasich J,29,3,32
+Sussex,06-41,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,06-41,President,,REPUBLICAN,Trump D,168,9,177
+Sussex,07-41,President,,REPUBLICAN,Carson B,9,0,9
+Sussex,07-41,President,,REPUBLICAN,Cruz R,26,1,27
+Sussex,07-41,President,,REPUBLICAN,Kasich J,34,3,37
+Sussex,07-41,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,07-41,President,,REPUBLICAN,Trump D,221,6,227
+Sussex,08-41,President,,REPUBLICAN,Carson B,3,0,3
+Sussex,08-41,President,,REPUBLICAN,Cruz R,14,0,14
+Sussex,08-41,President,,REPUBLICAN,Kasich J,12,2,14
+Sussex,08-41,President,,REPUBLICAN,Rubio M,1,0,1
+Sussex,08-41,President,,REPUBLICAN,Trump D,114,2,116
+Sussex,16-41,President,,REPUBLICAN,Carson B,0,0,0
+Sussex,16-41,President,,REPUBLICAN,Cruz R,0,0,0
+Sussex,16-41,President,,REPUBLICAN,Kasich J,0,0,0
+Sussex,16-41,President,,REPUBLICAN,Rubio M,0,0,0
+Sussex,16-41,President,,REPUBLICAN,Trump D,0,1,1
+Sussex,Total,President,,DEMOCRATIC,Clinton H,54022,1932,55954
+Sussex,Total,President,,DEMOCRATIC,De La Fuen,990,34,1024
+Sussex,Total,President,,DEMOCRATIC,Sanders B,35703,959,36662
+Sussex,Total,President,,REPUBLICAN,Bush J,552,26,578
+Sussex,Total,President,,REPUBLICAN,Carson B,865,20,885
+Sussex,Total,President,,REPUBLICAN,Cruz R,10621,489,11110
+Sussex,Total,President,,REPUBLICAN,Kasich J,13747,478,14225
+Sussex,Total,President,,REPUBLICAN,Rubio M,590,32,622
+Sussex,Total,President,,REPUBLICAN,Trump D,41396,1076,42472
