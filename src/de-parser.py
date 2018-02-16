@@ -71,6 +71,8 @@ class DEParser(object):
             self.raw = text_file.read().splitlines()
 
     def readInDistricts(self):
+        districtsFile = None
+        
         if self.date > "20120424" and self.date <= "20221108":
             districtsFile = "election_districts_2012-2022.csv"
         elif self.date > "20021105" and self.date <= "20120424":
@@ -78,9 +80,12 @@ class DEParser(object):
 
         print(f"Using ED file {districtsFile}")
 
-        with open(districtsFile, "rU") as lookup_file:
-            for row in csv.DictReader(lookup_file):
-                self.district_lookup[row['election_district']] = row['county']
+        if districtsFile:
+            with open(districtsFile, "rU") as lookup_file:
+                for row in csv.DictReader(lookup_file):
+                    self.district_lookup[row['election_district']] = row['county']
+        else:
+            self.district_lookup = {}
 
     def splitIntoChunks(self):
         lastchunkstart = None

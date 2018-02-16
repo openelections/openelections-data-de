@@ -72,16 +72,23 @@ class DEParser(object):
             self.raw = text_file.read().splitlines()
 
     def readInDistricts(self):
+        districtsFile = None
+        
         if self.date > "20120424" and self.date <= "20221108":
             districtsFile = "election_districts_2012-2022.csv"
-        elif self.date > "20021105" and self.date <= "20120424":
+        elif self.date > "20011231" and self.date <= "20120424":
             districtsFile = "election_districts_2002-2012.csv"
+        elif self.date > "19921103" and self.date <="20011231":
+            districtsFile = "election_districts_1992-2002.csv"
 
         print(f"Using ED file {districtsFile}")
 
-        with open(districtsFile, "rU") as lookup_file:
-            for row in csv.DictReader(lookup_file):
-                self.district_lookup[row['election_district']] = row['county']
+        if districtsFile:
+            with open(districtsFile, "rU") as lookup_file:
+                for row in csv.DictReader(lookup_file):
+                    self.district_lookup[row['election_district']] = row['county']
+        else:
+            self.district_lookup = {}
 
     def splitIntoChunks(self):
         lastchunkstart = None
@@ -137,7 +144,7 @@ class DEParser(object):
                     for j, candidate in enumerate(header):
                         if candidate:
                             if line[0] == "CAND TOT":
-                                county = self.district_lookup[lastED]
+                                county = self.district_lookup.get(lastED, None)
                                 election_district = "Total"
                             else:
                                 try:
@@ -184,7 +191,7 @@ class Chunk(object):
         self.text = text
 
     def identifyOfficeAndDistrict(self):
-        office_district = self.rawOffice[1:].split(' DISTRICT ')
+        office_district = self.rawOffice[1:].strip().split(' DISTRICT ')
         
         if len(office_district) > 1:
             self.office, self.district = office_district

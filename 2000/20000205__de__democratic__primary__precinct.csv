@@ -1,0 +1,592 @@
+county,election_district,office,district,party,candidate,votes
+New Castle,01-01,President,,DEMOCRAT,Bradley B,46
+New Castle,01-01,President,,DEMOCRAT,Gore A,82
+New Castle,01-01,President,,DEMOCRAT,Larouche L,7
+New Castle,02-01,President,,DEMOCRAT,Bradley B,18
+New Castle,02-01,President,,DEMOCRAT,Gore A,57
+New Castle,02-01,President,,DEMOCRAT,Larouche L,10
+New Castle,04-01,President,,DEMOCRAT,Bradley B,78
+New Castle,04-01,President,,DEMOCRAT,Gore A,102
+New Castle,04-01,President,,DEMOCRAT,Larouche L,18
+New Castle,06-01,President,,DEMOCRAT,Bradley B,30
+New Castle,06-01,President,,DEMOCRAT,Gore A,27
+New Castle,06-01,President,,DEMOCRAT,Larouche L,2
+New Castle,01-02,President,,DEMOCRAT,Bradley B,18
+New Castle,01-02,President,,DEMOCRAT,Gore A,59
+New Castle,01-02,President,,DEMOCRAT,Larouche L,7
+New Castle,02-02,President,,DEMOCRAT,Bradley B,16
+New Castle,02-02,President,,DEMOCRAT,Gore A,85
+New Castle,02-02,President,,DEMOCRAT,Larouche L,11
+New Castle,06-02,President,,DEMOCRAT,Bradley B,13
+New Castle,06-02,President,,DEMOCRAT,Gore A,26
+New Castle,06-02,President,,DEMOCRAT,Larouche L,4
+New Castle,11-02,President,,DEMOCRAT,Bradley B,9
+New Castle,11-02,President,,DEMOCRAT,Gore A,22
+New Castle,11-02,President,,DEMOCRAT,Larouche L,8
+New Castle,01-03,President,,DEMOCRAT,Bradley B,16
+New Castle,01-03,President,,DEMOCRAT,Gore A,80
+New Castle,01-03,President,,DEMOCRAT,Larouche L,8
+New Castle,04-03,President,,DEMOCRAT,Bradley B,6
+New Castle,04-03,President,,DEMOCRAT,Gore A,43
+New Castle,04-03,President,,DEMOCRAT,Larouche L,1
+New Castle,05-03,President,,DEMOCRAT,Bradley B,12
+New Castle,05-03,President,,DEMOCRAT,Gore A,42
+New Castle,05-03,President,,DEMOCRAT,Larouche L,7
+New Castle,07-03,President,,DEMOCRAT,Bradley B,7
+New Castle,07-03,President,,DEMOCRAT,Gore A,23
+New Castle,07-03,President,,DEMOCRAT,Larouche L,5
+New Castle,01-04,President,,DEMOCRAT,Bradley B,92
+New Castle,01-04,President,,DEMOCRAT,Gore A,59
+New Castle,01-04,President,,DEMOCRAT,Larouche L,3
+New Castle,04-04,President,,DEMOCRAT,Bradley B,50
+New Castle,04-04,President,,DEMOCRAT,Gore A,60
+New Castle,04-04,President,,DEMOCRAT,Larouche L,7
+New Castle,05-04,President,,DEMOCRAT,Bradley B,40
+New Castle,05-04,President,,DEMOCRAT,Gore A,31
+New Castle,05-04,President,,DEMOCRAT,Larouche L,1
+New Castle,08-04,President,,DEMOCRAT,Bradley B,39
+New Castle,08-04,President,,DEMOCRAT,Gore A,52
+New Castle,08-04,President,,DEMOCRAT,Larouche L,7
+New Castle,01-05,President,,DEMOCRAT,Bradley B,16
+New Castle,01-05,President,,DEMOCRAT,Gore A,29
+New Castle,01-05,President,,DEMOCRAT,Larouche L,2
+New Castle,03-05,President,,DEMOCRAT,Bradley B,8
+New Castle,03-05,President,,DEMOCRAT,Gore A,33
+New Castle,03-05,President,,DEMOCRAT,Larouche L,8
+New Castle,05-05,President,,DEMOCRAT,Bradley B,2
+New Castle,05-05,President,,DEMOCRAT,Gore A,28
+New Castle,05-05,President,,DEMOCRAT,Larouche L,3
+New Castle,06-05,President,,DEMOCRAT,Bradley B,27
+New Castle,06-05,President,,DEMOCRAT,Gore A,41
+New Castle,06-05,President,,DEMOCRAT,Larouche L,2
+New Castle,01-06,President,,DEMOCRAT,Bradley B,9
+New Castle,01-06,President,,DEMOCRAT,Gore A,8
+New Castle,01-06,President,,DEMOCRAT,Larouche L,4
+New Castle,02-06,President,,DEMOCRAT,Bradley B,37
+New Castle,02-06,President,,DEMOCRAT,Gore A,53
+New Castle,02-06,President,,DEMOCRAT,Larouche L,0
+New Castle,03-06,President,,DEMOCRAT,Bradley B,57
+New Castle,03-06,President,,DEMOCRAT,Gore A,67
+New Castle,03-06,President,,DEMOCRAT,Larouche L,3
+New Castle,06-06,President,,DEMOCRAT,Bradley B,46
+New Castle,06-06,President,,DEMOCRAT,Gore A,56
+New Castle,06-06,President,,DEMOCRAT,Larouche L,1
+New Castle,01-07,President,,DEMOCRAT,Bradley B,40
+New Castle,01-07,President,,DEMOCRAT,Gore A,62
+New Castle,01-07,President,,DEMOCRAT,Larouche L,0
+New Castle,02-07,President,,DEMOCRAT,Bradley B,25
+New Castle,02-07,President,,DEMOCRAT,Gore A,27
+New Castle,02-07,President,,DEMOCRAT,Larouche L,0
+New Castle,05-07,President,,DEMOCRAT,Bradley B,58
+New Castle,05-07,President,,DEMOCRAT,Gore A,57
+New Castle,05-07,President,,DEMOCRAT,Larouche L,1
+New Castle,06-07,President,,DEMOCRAT,Bradley B,19
+New Castle,06-07,President,,DEMOCRAT,Gore A,27
+New Castle,06-07,President,,DEMOCRAT,Larouche L,1
+New Castle,01-08,President,,DEMOCRAT,Bradley B,41
+New Castle,01-08,President,,DEMOCRAT,Gore A,28
+New Castle,01-08,President,,DEMOCRAT,Larouche L,2
+New Castle,02-08,President,,DEMOCRAT,Bradley B,27
+New Castle,02-08,President,,DEMOCRAT,Gore A,26
+New Castle,02-08,President,,DEMOCRAT,Larouche L,2
+New Castle,04-08,President,,DEMOCRAT,Bradley B,34
+New Castle,04-08,President,,DEMOCRAT,Gore A,42
+New Castle,04-08,President,,DEMOCRAT,Larouche L,5
+New Castle,05-08,President,,DEMOCRAT,Bradley B,10
+New Castle,05-08,President,,DEMOCRAT,Gore A,27
+New Castle,05-08,President,,DEMOCRAT,Larouche L,2
+New Castle,01-09,President,,DEMOCRAT,Bradley B,25
+New Castle,01-09,President,,DEMOCRAT,Gore A,46
+New Castle,01-09,President,,DEMOCRAT,Larouche L,3
+New Castle,02-09,President,,DEMOCRAT,Bradley B,39
+New Castle,02-09,President,,DEMOCRAT,Gore A,32
+New Castle,02-09,President,,DEMOCRAT,Larouche L,3
+New Castle,04-09,President,,DEMOCRAT,Bradley B,34
+New Castle,04-09,President,,DEMOCRAT,Gore A,56
+New Castle,04-09,President,,DEMOCRAT,Larouche L,2
+New Castle,05-09,President,,DEMOCRAT,Bradley B,15
+New Castle,05-09,President,,DEMOCRAT,Gore A,19
+New Castle,05-09,President,,DEMOCRAT,Larouche L,1
+New Castle,01-10,President,,DEMOCRAT,Bradley B,38
+New Castle,01-10,President,,DEMOCRAT,Gore A,37
+New Castle,01-10,President,,DEMOCRAT,Larouche L,3
+New Castle,02-10,President,,DEMOCRAT,Bradley B,44
+New Castle,02-10,President,,DEMOCRAT,Gore A,58
+New Castle,02-10,President,,DEMOCRAT,Larouche L,2
+New Castle,04-10,President,,DEMOCRAT,Bradley B,66
+New Castle,04-10,President,,DEMOCRAT,Gore A,48
+New Castle,04-10,President,,DEMOCRAT,Larouche L,1
+New Castle,08-10,President,,DEMOCRAT,Bradley B,13
+New Castle,08-10,President,,DEMOCRAT,Gore A,15
+New Castle,08-10,President,,DEMOCRAT,Larouche L,0
+New Castle,01-11,President,,DEMOCRAT,Bradley B,87
+New Castle,01-11,President,,DEMOCRAT,Gore A,58
+New Castle,01-11,President,,DEMOCRAT,Larouche L,3
+New Castle,04-11,President,,DEMOCRAT,Bradley B,51
+New Castle,04-11,President,,DEMOCRAT,Gore A,46
+New Castle,04-11,President,,DEMOCRAT,Larouche L,0
+New Castle,06-11,President,,DEMOCRAT,Bradley B,36
+New Castle,06-11,President,,DEMOCRAT,Gore A,39
+New Castle,06-11,President,,DEMOCRAT,Larouche L,0
+New Castle,11-11,President,,DEMOCRAT,Bradley B,7
+New Castle,11-11,President,,DEMOCRAT,Gore A,8
+New Castle,11-11,President,,DEMOCRAT,Larouche L,0
+New Castle,01-12,President,,DEMOCRAT,Bradley B,45
+New Castle,01-12,President,,DEMOCRAT,Gore A,67
+New Castle,01-12,President,,DEMOCRAT,Larouche L,0
+New Castle,04-12,President,,DEMOCRAT,Bradley B,52
+New Castle,04-12,President,,DEMOCRAT,Gore A,45
+New Castle,04-12,President,,DEMOCRAT,Larouche L,0
+New Castle,05-12,President,,DEMOCRAT,Bradley B,39
+New Castle,05-12,President,,DEMOCRAT,Gore A,43
+New Castle,05-12,President,,DEMOCRAT,Larouche L,0
+New Castle,08-12,President,,DEMOCRAT,Bradley B,24
+New Castle,08-12,President,,DEMOCRAT,Gore A,17
+New Castle,08-12,President,,DEMOCRAT,Larouche L,1
+New Castle,01-13,President,,DEMOCRAT,Bradley B,22
+New Castle,01-13,President,,DEMOCRAT,Gore A,44
+New Castle,01-13,President,,DEMOCRAT,Larouche L,0
+New Castle,03-13,President,,DEMOCRAT,Bradley B,14
+New Castle,03-13,President,,DEMOCRAT,Gore A,26
+New Castle,03-13,President,,DEMOCRAT,Larouche L,0
+New Castle,04-13,President,,DEMOCRAT,Bradley B,13
+New Castle,04-13,President,,DEMOCRAT,Gore A,23
+New Castle,04-13,President,,DEMOCRAT,Larouche L,2
+New Castle,05-13,President,,DEMOCRAT,Bradley B,29
+New Castle,05-13,President,,DEMOCRAT,Gore A,42
+New Castle,05-13,President,,DEMOCRAT,Larouche L,3
+New Castle,01-14,President,,DEMOCRAT,Bradley B,9
+New Castle,01-14,President,,DEMOCRAT,Gore A,11
+New Castle,01-14,President,,DEMOCRAT,Larouche L,0
+New Castle,02-14,President,,DEMOCRAT,Bradley B,24
+New Castle,02-14,President,,DEMOCRAT,Gore A,64
+New Castle,02-14,President,,DEMOCRAT,Larouche L,1
+New Castle,04-14,President,,DEMOCRAT,Bradley B,30
+New Castle,04-14,President,,DEMOCRAT,Gore A,27
+New Castle,04-14,President,,DEMOCRAT,Larouche L,2
+New Castle,07-14,President,,DEMOCRAT,Bradley B,13
+New Castle,07-14,President,,DEMOCRAT,Gore A,15
+New Castle,07-14,President,,DEMOCRAT,Larouche L,1
+New Castle,01-15,President,,DEMOCRAT,Bradley B,20
+New Castle,01-15,President,,DEMOCRAT,Gore A,39
+New Castle,01-15,President,,DEMOCRAT,Larouche L,3
+New Castle,02-15,President,,DEMOCRAT,Bradley B,26
+New Castle,02-15,President,,DEMOCRAT,Gore A,28
+New Castle,02-15,President,,DEMOCRAT,Larouche L,2
+New Castle,03-15,President,,DEMOCRAT,Bradley B,24
+New Castle,03-15,President,,DEMOCRAT,Gore A,48
+New Castle,03-15,President,,DEMOCRAT,Larouche L,0
+New Castle,05-15,President,,DEMOCRAT,Bradley B,2
+New Castle,05-15,President,,DEMOCRAT,Gore A,13
+New Castle,05-15,President,,DEMOCRAT,Larouche L,0
+New Castle,01-16,President,,DEMOCRAT,Bradley B,17
+New Castle,01-16,President,,DEMOCRAT,Gore A,64
+New Castle,01-16,President,,DEMOCRAT,Larouche L,10
+New Castle,02-16,President,,DEMOCRAT,Bradley B,18
+New Castle,02-16,President,,DEMOCRAT,Gore A,43
+New Castle,02-16,President,,DEMOCRAT,Larouche L,0
+New Castle,03-16,President,,DEMOCRAT,Bradley B,20
+New Castle,03-16,President,,DEMOCRAT,Gore A,41
+New Castle,03-16,President,,DEMOCRAT,Larouche L,2
+New Castle,06-16,President,,DEMOCRAT,Bradley B,25
+New Castle,06-16,President,,DEMOCRAT,Gore A,34
+New Castle,06-16,President,,DEMOCRAT,Larouche L,2
+New Castle,01-17,President,,DEMOCRAT,Bradley B,71
+New Castle,01-17,President,,DEMOCRAT,Gore A,103
+New Castle,01-17,President,,DEMOCRAT,Larouche L,4
+New Castle,03-17,President,,DEMOCRAT,Bradley B,50
+New Castle,03-17,President,,DEMOCRAT,Gore A,88
+New Castle,03-17,President,,DEMOCRAT,Larouche L,3
+New Castle,06-17,President,,DEMOCRAT,Bradley B,3
+New Castle,06-17,President,,DEMOCRAT,Gore A,27
+New Castle,06-17,President,,DEMOCRAT,Larouche L,8
+New Castle,07-17,President,,DEMOCRAT,Bradley B,7
+New Castle,07-17,President,,DEMOCRAT,Gore A,13
+New Castle,07-17,President,,DEMOCRAT,Larouche L,7
+New Castle,01-18,President,,DEMOCRAT,Bradley B,26
+New Castle,01-18,President,,DEMOCRAT,Gore A,44
+New Castle,01-18,President,,DEMOCRAT,Larouche L,2
+New Castle,04-18,President,,DEMOCRAT,Bradley B,11
+New Castle,04-18,President,,DEMOCRAT,Gore A,24
+New Castle,04-18,President,,DEMOCRAT,Larouche L,0
+New Castle,05-18,President,,DEMOCRAT,Bradley B,8
+New Castle,05-18,President,,DEMOCRAT,Gore A,14
+New Castle,05-18,President,,DEMOCRAT,Larouche L,0
+New Castle,06-18,President,,DEMOCRAT,Bradley B,7
+New Castle,06-18,President,,DEMOCRAT,Gore A,17
+New Castle,06-18,President,,DEMOCRAT,Larouche L,0
+New Castle,01-19,President,,DEMOCRAT,Bradley B,24
+New Castle,01-19,President,,DEMOCRAT,Gore A,64
+New Castle,01-19,President,,DEMOCRAT,Larouche L,1
+New Castle,03-19,President,,DEMOCRAT,Bradley B,31
+New Castle,03-19,President,,DEMOCRAT,Gore A,66
+New Castle,03-19,President,,DEMOCRAT,Larouche L,1
+New Castle,05-19,President,,DEMOCRAT,Bradley B,20
+New Castle,05-19,President,,DEMOCRAT,Gore A,35
+New Castle,05-19,President,,DEMOCRAT,Larouche L,0
+New Castle,06-19,President,,DEMOCRAT,Bradley B,12
+New Castle,06-19,President,,DEMOCRAT,Gore A,26
+New Castle,06-19,President,,DEMOCRAT,Larouche L,0
+New Castle,01-20,President,,DEMOCRAT,Bradley B,27
+New Castle,01-20,President,,DEMOCRAT,Gore A,23
+New Castle,01-20,President,,DEMOCRAT,Larouche L,0
+New Castle,02-20,President,,DEMOCRAT,Bradley B,44
+New Castle,02-20,President,,DEMOCRAT,Gore A,48
+New Castle,02-20,President,,DEMOCRAT,Larouche L,2
+New Castle,04-20,President,,DEMOCRAT,Bradley B,27
+New Castle,04-20,President,,DEMOCRAT,Gore A,25
+New Castle,04-20,President,,DEMOCRAT,Larouche L,0
+New Castle,06-20,President,,DEMOCRAT,Bradley B,42
+New Castle,06-20,President,,DEMOCRAT,Gore A,54
+New Castle,06-20,President,,DEMOCRAT,Larouche L,0
+New Castle,01-21,President,,DEMOCRAT,Bradley B,22
+New Castle,01-21,President,,DEMOCRAT,Gore A,12
+New Castle,01-21,President,,DEMOCRAT,Larouche L,0
+New Castle,02-21,President,,DEMOCRAT,Bradley B,33
+New Castle,02-21,President,,DEMOCRAT,Gore A,45
+New Castle,02-21,President,,DEMOCRAT,Larouche L,3
+New Castle,03-21,President,,DEMOCRAT,Bradley B,27
+New Castle,03-21,President,,DEMOCRAT,Gore A,21
+New Castle,03-21,President,,DEMOCRAT,Larouche L,0
+New Castle,04-21,President,,DEMOCRAT,Bradley B,24
+New Castle,04-21,President,,DEMOCRAT,Gore A,24
+New Castle,04-21,President,,DEMOCRAT,Larouche L,1
+New Castle,01-22,President,,DEMOCRAT,Bradley B,19
+New Castle,01-22,President,,DEMOCRAT,Gore A,27
+New Castle,01-22,President,,DEMOCRAT,Larouche L,0
+New Castle,03-22,President,,DEMOCRAT,Bradley B,34
+New Castle,03-22,President,,DEMOCRAT,Gore A,24
+New Castle,03-22,President,,DEMOCRAT,Larouche L,0
+New Castle,04-22,President,,DEMOCRAT,Bradley B,43
+New Castle,04-22,President,,DEMOCRAT,Gore A,68
+New Castle,04-22,President,,DEMOCRAT,Larouche L,1
+New Castle,07-22,President,,DEMOCRAT,Bradley B,36
+New Castle,07-22,President,,DEMOCRAT,Gore A,30
+New Castle,07-22,President,,DEMOCRAT,Larouche L,1
+New Castle,01-23,President,,DEMOCRAT,Bradley B,21
+New Castle,01-23,President,,DEMOCRAT,Gore A,13
+New Castle,01-23,President,,DEMOCRAT,Larouche L,0
+New Castle,02-23,President,,DEMOCRAT,Bradley B,35
+New Castle,02-23,President,,DEMOCRAT,Gore A,29
+New Castle,02-23,President,,DEMOCRAT,Larouche L,0
+New Castle,03-23,President,,DEMOCRAT,Bradley B,70
+New Castle,03-23,President,,DEMOCRAT,Gore A,47
+New Castle,03-23,President,,DEMOCRAT,Larouche L,1
+New Castle,06-23,President,,DEMOCRAT,Bradley B,25
+New Castle,06-23,President,,DEMOCRAT,Gore A,37
+New Castle,06-23,President,,DEMOCRAT,Larouche L,1
+New Castle,01-24,President,,DEMOCRAT,Bradley B,19
+New Castle,01-24,President,,DEMOCRAT,Gore A,30
+New Castle,01-24,President,,DEMOCRAT,Larouche L,0
+New Castle,03-24,President,,DEMOCRAT,Bradley B,13
+New Castle,03-24,President,,DEMOCRAT,Gore A,17
+New Castle,03-24,President,,DEMOCRAT,Larouche L,2
+New Castle,04-24,President,,DEMOCRAT,Bradley B,10
+New Castle,04-24,President,,DEMOCRAT,Gore A,16
+New Castle,04-24,President,,DEMOCRAT,Larouche L,2
+New Castle,06-24,President,,DEMOCRAT,Bradley B,10
+New Castle,06-24,President,,DEMOCRAT,Gore A,13
+New Castle,06-24,President,,DEMOCRAT,Larouche L,0
+New Castle,01-25,President,,DEMOCRAT,Bradley B,15
+New Castle,01-25,President,,DEMOCRAT,Gore A,16
+New Castle,01-25,President,,DEMOCRAT,Larouche L,0
+New Castle,02-25,President,,DEMOCRAT,Bradley B,37
+New Castle,02-25,President,,DEMOCRAT,Gore A,30
+New Castle,02-25,President,,DEMOCRAT,Larouche L,1
+New Castle,03-25,President,,DEMOCRAT,Bradley B,16
+New Castle,03-25,President,,DEMOCRAT,Gore A,23
+New Castle,03-25,President,,DEMOCRAT,Larouche L,0
+New Castle,05-25,President,,DEMOCRAT,Bradley B,5
+New Castle,05-25,President,,DEMOCRAT,Gore A,13
+New Castle,05-25,President,,DEMOCRAT,Larouche L,0
+New Castle,01-26,President,,DEMOCRAT,Bradley B,9
+New Castle,01-26,President,,DEMOCRAT,Gore A,19
+New Castle,01-26,President,,DEMOCRAT,Larouche L,0
+New Castle,02-26,President,,DEMOCRAT,Bradley B,9
+New Castle,02-26,President,,DEMOCRAT,Gore A,22
+New Castle,02-26,President,,DEMOCRAT,Larouche L,0
+New Castle,03-26,President,,DEMOCRAT,Bradley B,20
+New Castle,03-26,President,,DEMOCRAT,Gore A,29
+New Castle,03-26,President,,DEMOCRAT,Larouche L,2
+New Castle,04-26,President,,DEMOCRAT,Bradley B,11
+New Castle,04-26,President,,DEMOCRAT,Gore A,20
+New Castle,04-26,President,,DEMOCRAT,Larouche L,1
+New Castle,01-27,President,,DEMOCRAT,Bradley B,6
+New Castle,01-27,President,,DEMOCRAT,Gore A,21
+New Castle,01-27,President,,DEMOCRAT,Larouche L,0
+New Castle,02-27,President,,DEMOCRAT,Bradley B,41
+New Castle,02-27,President,,DEMOCRAT,Gore A,85
+New Castle,02-27,President,,DEMOCRAT,Larouche L,4
+New Castle,03-27,President,,DEMOCRAT,Bradley B,21
+New Castle,03-27,President,,DEMOCRAT,Gore A,21
+New Castle,03-27,President,,DEMOCRAT,Larouche L,3
+New Castle,05-27,President,,DEMOCRAT,Bradley B,41
+New Castle,05-27,President,,DEMOCRAT,Gore A,56
+New Castle,05-27,President,,DEMOCRAT,Larouche L,1
+New Castle,01-28,President,,DEMOCRAT,Bradley B,19
+New Castle,01-28,President,,DEMOCRAT,Gore A,23
+New Castle,01-28,President,,DEMOCRAT,Larouche L,0
+Kent,02-28,President,,DEMOCRAT,Bradley B,25
+Kent,02-28,President,,DEMOCRAT,Gore A,27
+Kent,02-28,President,,DEMOCRAT,Larouche L,2
+Kent,03-28,President,,DEMOCRAT,Bradley B,16
+Kent,03-28,President,,DEMOCRAT,Gore A,22
+Kent,03-28,President,,DEMOCRAT,Larouche L,1
+Kent,04-28,President,,DEMOCRAT,Bradley B,15
+Kent,04-28,President,,DEMOCRAT,Gore A,19
+Kent,04-28,President,,DEMOCRAT,Larouche L,0
+Kent,05-28,President,,DEMOCRAT,Bradley B,11
+Kent,05-28,President,,DEMOCRAT,Gore A,23
+Kent,05-28,President,,DEMOCRAT,Larouche L,1
+Kent,07-28,President,,DEMOCRAT,Bradley B,7
+Kent,07-28,President,,DEMOCRAT,Gore A,25
+Kent,07-28,President,,DEMOCRAT,Larouche L,0
+Kent,01-29,President,,DEMOCRAT,Bradley B,30
+Kent,01-29,President,,DEMOCRAT,Gore A,45
+Kent,01-29,President,,DEMOCRAT,Larouche L,1
+Kent,02-29,President,,DEMOCRAT,Bradley B,21
+Kent,02-29,President,,DEMOCRAT,Gore A,31
+Kent,02-29,President,,DEMOCRAT,Larouche L,0
+Kent,03-29,President,,DEMOCRAT,Bradley B,6
+Kent,03-29,President,,DEMOCRAT,Gore A,12
+Kent,03-29,President,,DEMOCRAT,Larouche L,0
+Kent,04-29,President,,DEMOCRAT,Bradley B,31
+Kent,04-29,President,,DEMOCRAT,Gore A,27
+Kent,04-29,President,,DEMOCRAT,Larouche L,3
+Kent,05-29,President,,DEMOCRAT,Bradley B,7
+Kent,05-29,President,,DEMOCRAT,Gore A,23
+Kent,05-29,President,,DEMOCRAT,Larouche L,0
+Kent,08-29,President,,DEMOCRAT,Bradley B,5
+Kent,08-29,President,,DEMOCRAT,Gore A,4
+Kent,08-29,President,,DEMOCRAT,Larouche L,0
+Kent,02-30,President,,DEMOCRAT,Bradley B,16
+Kent,02-30,President,,DEMOCRAT,Gore A,29
+Kent,02-30,President,,DEMOCRAT,Larouche L,1
+Kent,03-30,President,,DEMOCRAT,Bradley B,30
+Kent,03-30,President,,DEMOCRAT,Gore A,50
+Kent,03-30,President,,DEMOCRAT,Larouche L,1
+Kent,05-30,President,,DEMOCRAT,Bradley B,15
+Kent,05-30,President,,DEMOCRAT,Gore A,13
+Kent,05-30,President,,DEMOCRAT,Larouche L,0
+Kent,07-30,President,,DEMOCRAT,Bradley B,27
+Kent,07-30,President,,DEMOCRAT,Gore A,47
+Kent,07-30,President,,DEMOCRAT,Larouche L,2
+Kent,09-30,President,,DEMOCRAT,Bradley B,8
+Kent,09-30,President,,DEMOCRAT,Gore A,10
+Kent,09-30,President,,DEMOCRAT,Larouche L,1
+Kent,01-31,President,,DEMOCRAT,Bradley B,24
+Kent,01-31,President,,DEMOCRAT,Gore A,46
+Kent,01-31,President,,DEMOCRAT,Larouche L,0
+Kent,03-31,President,,DEMOCRAT,Bradley B,4
+Kent,03-31,President,,DEMOCRAT,Gore A,17
+Kent,03-31,President,,DEMOCRAT,Larouche L,0
+Kent,04-31,President,,DEMOCRAT,Bradley B,29
+Kent,04-31,President,,DEMOCRAT,Gore A,46
+Kent,04-31,President,,DEMOCRAT,Larouche L,2
+Kent,06-31,President,,DEMOCRAT,Bradley B,27
+Kent,06-31,President,,DEMOCRAT,Gore A,46
+Kent,06-31,President,,DEMOCRAT,Larouche L,0
+Kent,07-31,President,,DEMOCRAT,Bradley B,4
+Kent,07-31,President,,DEMOCRAT,Gore A,17
+Kent,07-31,President,,DEMOCRAT,Larouche L,0
+Kent,01-32,President,,DEMOCRAT,Bradley B,12
+Kent,01-32,President,,DEMOCRAT,Gore A,17
+Kent,01-32,President,,DEMOCRAT,Larouche L,0
+Kent,02-32,President,,DEMOCRAT,Bradley B,21
+Kent,02-32,President,,DEMOCRAT,Gore A,25
+Kent,02-32,President,,DEMOCRAT,Larouche L,1
+Kent,03-32,President,,DEMOCRAT,Bradley B,20
+Kent,03-32,President,,DEMOCRAT,Gore A,25
+Kent,03-32,President,,DEMOCRAT,Larouche L,1
+Kent,04-32,President,,DEMOCRAT,Bradley B,34
+Kent,04-32,President,,DEMOCRAT,Gore A,54
+Kent,04-32,President,,DEMOCRAT,Larouche L,0
+Kent,02-33,President,,DEMOCRAT,Bradley B,21
+Kent,02-33,President,,DEMOCRAT,Gore A,40
+Kent,02-33,President,,DEMOCRAT,Larouche L,1
+Kent,04-33,President,,DEMOCRAT,Bradley B,7
+Kent,04-33,President,,DEMOCRAT,Gore A,25
+Kent,04-33,President,,DEMOCRAT,Larouche L,0
+Kent,06-33,President,,DEMOCRAT,Bradley B,14
+Kent,06-33,President,,DEMOCRAT,Gore A,31
+Kent,06-33,President,,DEMOCRAT,Larouche L,2
+Kent,07-33,President,,DEMOCRAT,Bradley B,10
+Kent,07-33,President,,DEMOCRAT,Gore A,29
+Kent,07-33,President,,DEMOCRAT,Larouche L,2
+Kent,08-33,President,,DEMOCRAT,Bradley B,10
+Kent,08-33,President,,DEMOCRAT,Gore A,19
+Kent,08-33,President,,DEMOCRAT,Larouche L,0
+Kent,09-33,President,,DEMOCRAT,Bradley B,10
+Kent,09-33,President,,DEMOCRAT,Gore A,12
+Kent,09-33,President,,DEMOCRAT,Larouche L,2
+Kent,02-34,President,,DEMOCRAT,Bradley B,0
+Kent,02-34,President,,DEMOCRAT,Gore A,0
+Kent,02-34,President,,DEMOCRAT,Larouche L,0
+Kent,03-34,President,,DEMOCRAT,Bradley B,18
+Kent,03-34,President,,DEMOCRAT,Gore A,21
+Kent,03-34,President,,DEMOCRAT,Larouche L,0
+Kent,04-34,President,,DEMOCRAT,Bradley B,23
+Kent,04-34,President,,DEMOCRAT,Gore A,18
+Kent,04-34,President,,DEMOCRAT,Larouche L,0
+Kent,05-34,President,,DEMOCRAT,Bradley B,17
+Kent,05-34,President,,DEMOCRAT,Gore A,22
+Kent,05-34,President,,DEMOCRAT,Larouche L,1
+Kent,07-34,President,,DEMOCRAT,Bradley B,15
+Kent,07-34,President,,DEMOCRAT,Gore A,23
+Kent,07-34,President,,DEMOCRAT,Larouche L,0
+Kent,02-35,President,,DEMOCRAT,Bradley B,10
+Kent,02-35,President,,DEMOCRAT,Gore A,14
+Kent,02-35,President,,DEMOCRAT,Larouche L,0
+Sussex,04-35,President,,DEMOCRAT,Bradley B,6
+Sussex,04-35,President,,DEMOCRAT,Gore A,7
+Sussex,04-35,President,,DEMOCRAT,Larouche L,0
+Sussex,05-35,President,,DEMOCRAT,Bradley B,8
+Sussex,05-35,President,,DEMOCRAT,Gore A,5
+Sussex,05-35,President,,DEMOCRAT,Larouche L,0
+Sussex,06-35,President,,DEMOCRAT,Bradley B,18
+Sussex,06-35,President,,DEMOCRAT,Gore A,25
+Sussex,06-35,President,,DEMOCRAT,Larouche L,1
+Sussex,07-35,President,,DEMOCRAT,Bradley B,17
+Sussex,07-35,President,,DEMOCRAT,Gore A,48
+Sussex,07-35,President,,DEMOCRAT,Larouche L,1
+Sussex,08-35,President,,DEMOCRAT,Bradley B,5
+Sussex,08-35,President,,DEMOCRAT,Gore A,13
+Sussex,08-35,President,,DEMOCRAT,Larouche L,0
+Sussex,09-35,President,,DEMOCRAT,Bradley B,9
+Sussex,09-35,President,,DEMOCRAT,Gore A,10
+Sussex,09-35,President,,DEMOCRAT,Larouche L,0
+Sussex,01-36,President,,DEMOCRAT,Bradley B,21
+Sussex,01-36,President,,DEMOCRAT,Gore A,21
+Sussex,01-36,President,,DEMOCRAT,Larouche L,0
+Sussex,02-36,President,,DEMOCRAT,Bradley B,10
+Sussex,02-36,President,,DEMOCRAT,Gore A,14
+Sussex,02-36,President,,DEMOCRAT,Larouche L,0
+Sussex,03-36,President,,DEMOCRAT,Bradley B,8
+Sussex,03-36,President,,DEMOCRAT,Gore A,20
+Sussex,03-36,President,,DEMOCRAT,Larouche L,0
+Sussex,04-36,President,,DEMOCRAT,Bradley B,16
+Sussex,04-36,President,,DEMOCRAT,Gore A,31
+Sussex,04-36,President,,DEMOCRAT,Larouche L,0
+Sussex,05-36,President,,DEMOCRAT,Bradley B,2
+Sussex,05-36,President,,DEMOCRAT,Gore A,5
+Sussex,05-36,President,,DEMOCRAT,Larouche L,0
+Sussex,06-36,President,,DEMOCRAT,Bradley B,21
+Sussex,06-36,President,,DEMOCRAT,Gore A,33
+Sussex,06-36,President,,DEMOCRAT,Larouche L,0
+Sussex,07-36,President,,DEMOCRAT,Bradley B,23
+Sussex,07-36,President,,DEMOCRAT,Gore A,44
+Sussex,07-36,President,,DEMOCRAT,Larouche L,2
+Sussex,01-37,President,,DEMOCRAT,Bradley B,30
+Sussex,01-37,President,,DEMOCRAT,Gore A,60
+Sussex,01-37,President,,DEMOCRAT,Larouche L,0
+Sussex,02-37,President,,DEMOCRAT,Bradley B,15
+Sussex,02-37,President,,DEMOCRAT,Gore A,28
+Sussex,02-37,President,,DEMOCRAT,Larouche L,1
+Sussex,03-37,President,,DEMOCRAT,Bradley B,54
+Sussex,03-37,President,,DEMOCRAT,Gore A,38
+Sussex,03-37,President,,DEMOCRAT,Larouche L,1
+Sussex,04-37,President,,DEMOCRAT,Bradley B,21
+Sussex,04-37,President,,DEMOCRAT,Gore A,28
+Sussex,04-37,President,,DEMOCRAT,Larouche L,0
+Sussex,05-37,President,,DEMOCRAT,Bradley B,33
+Sussex,05-37,President,,DEMOCRAT,Gore A,45
+Sussex,05-37,President,,DEMOCRAT,Larouche L,0
+Sussex,06-37,President,,DEMOCRAT,Bradley B,37
+Sussex,06-37,President,,DEMOCRAT,Gore A,39
+Sussex,06-37,President,,DEMOCRAT,Larouche L,0
+Sussex,07-37,President,,DEMOCRAT,Bradley B,31
+Sussex,07-37,President,,DEMOCRAT,Gore A,53
+Sussex,07-37,President,,DEMOCRAT,Larouche L,0
+Sussex,08-37,President,,DEMOCRAT,Bradley B,25
+Sussex,08-37,President,,DEMOCRAT,Gore A,22
+Sussex,08-37,President,,DEMOCRAT,Larouche L,1
+Sussex,01-38,President,,DEMOCRAT,Bradley B,22
+Sussex,01-38,President,,DEMOCRAT,Gore A,48
+Sussex,01-38,President,,DEMOCRAT,Larouche L,1
+Sussex,02-38,President,,DEMOCRAT,Bradley B,26
+Sussex,02-38,President,,DEMOCRAT,Gore A,35
+Sussex,02-38,President,,DEMOCRAT,Larouche L,3
+Sussex,03-38,President,,DEMOCRAT,Bradley B,60
+Sussex,03-38,President,,DEMOCRAT,Gore A,52
+Sussex,03-38,President,,DEMOCRAT,Larouche L,1
+Sussex,04-38,President,,DEMOCRAT,Bradley B,63
+Sussex,04-38,President,,DEMOCRAT,Gore A,63
+Sussex,04-38,President,,DEMOCRAT,Larouche L,1
+Sussex,05-38,President,,DEMOCRAT,Bradley B,24
+Sussex,05-38,President,,DEMOCRAT,Gore A,39
+Sussex,05-38,President,,DEMOCRAT,Larouche L,0
+Sussex,06-38,President,,DEMOCRAT,Bradley B,8
+Sussex,06-38,President,,DEMOCRAT,Gore A,10
+Sussex,06-38,President,,DEMOCRAT,Larouche L,0
+Sussex,07-38,President,,DEMOCRAT,Bradley B,10
+Sussex,07-38,President,,DEMOCRAT,Gore A,20
+Sussex,07-38,President,,DEMOCRAT,Larouche L,0
+Sussex,08-38,President,,DEMOCRAT,Bradley B,35
+Sussex,08-38,President,,DEMOCRAT,Gore A,54
+Sussex,08-38,President,,DEMOCRAT,Larouche L,0
+Sussex,01-39,President,,DEMOCRAT,Bradley B,11
+Sussex,01-39,President,,DEMOCRAT,Gore A,12
+Sussex,01-39,President,,DEMOCRAT,Larouche L,0
+Sussex,02-39,President,,DEMOCRAT,Bradley B,12
+Sussex,02-39,President,,DEMOCRAT,Gore A,26
+Sussex,02-39,President,,DEMOCRAT,Larouche L,2
+Sussex,03-39,President,,DEMOCRAT,Bradley B,4
+Sussex,03-39,President,,DEMOCRAT,Gore A,8
+Sussex,03-39,President,,DEMOCRAT,Larouche L,0
+Sussex,04-39,President,,DEMOCRAT,Bradley B,7
+Sussex,04-39,President,,DEMOCRAT,Gore A,7
+Sussex,04-39,President,,DEMOCRAT,Larouche L,0
+Sussex,05-39,President,,DEMOCRAT,Bradley B,11
+Sussex,05-39,President,,DEMOCRAT,Gore A,19
+Sussex,05-39,President,,DEMOCRAT,Larouche L,0
+Sussex,06-39,President,,DEMOCRAT,Bradley B,10
+Sussex,06-39,President,,DEMOCRAT,Gore A,22
+Sussex,06-39,President,,DEMOCRAT,Larouche L,0
+Sussex,01-40,President,,DEMOCRAT,Bradley B,7
+Sussex,01-40,President,,DEMOCRAT,Gore A,10
+Sussex,01-40,President,,DEMOCRAT,Larouche L,1
+Sussex,02-40,President,,DEMOCRAT,Bradley B,10
+Sussex,02-40,President,,DEMOCRAT,Gore A,16
+Sussex,02-40,President,,DEMOCRAT,Larouche L,0
+Sussex,03-40,President,,DEMOCRAT,Bradley B,8
+Sussex,03-40,President,,DEMOCRAT,Gore A,15
+Sussex,03-40,President,,DEMOCRAT,Larouche L,0
+Sussex,04-40,President,,DEMOCRAT,Bradley B,12
+Sussex,04-40,President,,DEMOCRAT,Gore A,16
+Sussex,04-40,President,,DEMOCRAT,Larouche L,0
+Sussex,05-40,President,,DEMOCRAT,Bradley B,15
+Sussex,05-40,President,,DEMOCRAT,Gore A,23
+Sussex,05-40,President,,DEMOCRAT,Larouche L,1
+Sussex,06-40,President,,DEMOCRAT,Bradley B,15
+Sussex,06-40,President,,DEMOCRAT,Gore A,20
+Sussex,06-40,President,,DEMOCRAT,Larouche L,1
+Sussex,07-40,President,,DEMOCRAT,Bradley B,14
+Sussex,07-40,President,,DEMOCRAT,Gore A,7
+Sussex,07-40,President,,DEMOCRAT,Larouche L,0
+Sussex,01-41,President,,DEMOCRAT,Bradley B,13
+Sussex,01-41,President,,DEMOCRAT,Gore A,12
+Sussex,01-41,President,,DEMOCRAT,Larouche L,0
+Sussex,02-41,President,,DEMOCRAT,Bradley B,16
+Sussex,02-41,President,,DEMOCRAT,Gore A,13
+Sussex,02-41,President,,DEMOCRAT,Larouche L,1
+Sussex,03-41,President,,DEMOCRAT,Bradley B,13
+Sussex,03-41,President,,DEMOCRAT,Gore A,12
+Sussex,03-41,President,,DEMOCRAT,Larouche L,0
+Sussex,04-41,President,,DEMOCRAT,Bradley B,13
+Sussex,04-41,President,,DEMOCRAT,Gore A,34
+Sussex,04-41,President,,DEMOCRAT,Larouche L,1
+Sussex,05-41,President,,DEMOCRAT,Bradley B,24
+Sussex,05-41,President,,DEMOCRAT,Gore A,34
+Sussex,05-41,President,,DEMOCRAT,Larouche L,0
+Sussex,06-41,President,,DEMOCRAT,Bradley B,8
+Sussex,06-41,President,,DEMOCRAT,Gore A,9
+Sussex,06-41,President,,DEMOCRAT,Larouche L,1
+Sussex,07-41,President,,DEMOCRAT,Bradley B,12
+Sussex,07-41,President,,DEMOCRAT,Gore A,16
+Sussex,07-41,President,,DEMOCRAT,Larouche L,1
+Sussex,08-41,President,,DEMOCRAT,Bradley B,15
+Sussex,08-41,President,,DEMOCRAT,Gore A,23
+Sussex,08-41,President,,DEMOCRAT,Larouche L,0
+Statewide,Total,President,,DEMOCRAT,Bradley B,4476
+Statewide,Total,President,,DEMOCRAT,Gore A,6377
+Statewide,Total,President,,DEMOCRAT,Larouche L,288

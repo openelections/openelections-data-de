@@ -1,0 +1,830 @@
+county,election_district,office,district,party,candidate,votes
+New Castle,01-01,Governor,,REPUBLICAN,Burris J M,32
+New Castle,01-01,Governor,,REPUBLICAN,Lee W S,18
+New Castle,02-01,Governor,,REPUBLICAN,Burris J M,15
+New Castle,02-01,Governor,,REPUBLICAN,Lee W S,11
+New Castle,03-01,Governor,,REPUBLICAN,Burris J M,7
+New Castle,03-01,Governor,,REPUBLICAN,Lee W S,4
+New Castle,04-01,Governor,,REPUBLICAN,Burris J M,12
+New Castle,04-01,Governor,,REPUBLICAN,Lee W S,7
+New Castle,05-01,Governor,,REPUBLICAN,Burris J M,27
+New Castle,05-01,Governor,,REPUBLICAN,Lee W S,40
+New Castle,06-01,Governor,,REPUBLICAN,Burris J M,49
+New Castle,06-01,Governor,,REPUBLICAN,Lee W S,53
+New Castle,09-01,Governor,,REPUBLICAN,Burris J M,2
+New Castle,09-01,Governor,,REPUBLICAN,Lee W S,7
+New Castle,11-01,Governor,,REPUBLICAN,Burris J M,1
+New Castle,11-01,Governor,,REPUBLICAN,Lee W S,0
+New Castle,12-01,Governor,,REPUBLICAN,Burris J M,8
+New Castle,12-01,Governor,,REPUBLICAN,Lee W S,15
+New Castle,13-01,Governor,,REPUBLICAN,Burris J M,17
+New Castle,13-01,Governor,,REPUBLICAN,Lee W S,7
+New Castle,01-02,Governor,,REPUBLICAN,Burris J M,6
+New Castle,01-02,Governor,,REPUBLICAN,Lee W S,6
+New Castle,02-02,Governor,,REPUBLICAN,Burris J M,3
+New Castle,02-02,Governor,,REPUBLICAN,Lee W S,7
+New Castle,03-02,Governor,,REPUBLICAN,Burris J M,0
+New Castle,03-02,Governor,,REPUBLICAN,Lee W S,0
+New Castle,04-02,Governor,,REPUBLICAN,Burris J M,14
+New Castle,04-02,Governor,,REPUBLICAN,Lee W S,4
+New Castle,05-02,Governor,,REPUBLICAN,Burris J M,3
+New Castle,05-02,Governor,,REPUBLICAN,Lee W S,3
+New Castle,06-02,Governor,,REPUBLICAN,Burris J M,9
+New Castle,06-02,Governor,,REPUBLICAN,Lee W S,7
+New Castle,08-02,Governor,,REPUBLICAN,Burris J M,1
+New Castle,08-02,Governor,,REPUBLICAN,Lee W S,5
+New Castle,09-02,Governor,,REPUBLICAN,Burris J M,7
+New Castle,09-02,Governor,,REPUBLICAN,Lee W S,12
+New Castle,10-02,Governor,,REPUBLICAN,Burris J M,14
+New Castle,10-02,Governor,,REPUBLICAN,Lee W S,17
+New Castle,11-02,Governor,,REPUBLICAN,Burris J M,3
+New Castle,11-02,Governor,,REPUBLICAN,Lee W S,2
+New Castle,12-02,Governor,,REPUBLICAN,Burris J M,2
+New Castle,12-02,Governor,,REPUBLICAN,Lee W S,3
+New Castle,01-03,Governor,,REPUBLICAN,Burris J M,6
+New Castle,01-03,Governor,,REPUBLICAN,Lee W S,1
+New Castle,02-03,Governor,,REPUBLICAN,Burris J M,4
+New Castle,02-03,Governor,,REPUBLICAN,Lee W S,1
+New Castle,03-03,Governor,,REPUBLICAN,Burris J M,6
+New Castle,03-03,Governor,,REPUBLICAN,Lee W S,5
+New Castle,04-03,Governor,,REPUBLICAN,Burris J M,6
+New Castle,04-03,Governor,,REPUBLICAN,Lee W S,8
+New Castle,05-03,Governor,,REPUBLICAN,Burris J M,0
+New Castle,05-03,Governor,,REPUBLICAN,Lee W S,1
+New Castle,07-03,Governor,,REPUBLICAN,Burris J M,0
+New Castle,07-03,Governor,,REPUBLICAN,Lee W S,1
+New Castle,08-03,Governor,,REPUBLICAN,Burris J M,2
+New Castle,08-03,Governor,,REPUBLICAN,Lee W S,1
+New Castle,09-03,Governor,,REPUBLICAN,Burris J M,7
+New Castle,09-03,Governor,,REPUBLICAN,Lee W S,9
+New Castle,10-03,Governor,,REPUBLICAN,Burris J M,14
+New Castle,10-03,Governor,,REPUBLICAN,Lee W S,4
+New Castle,12-03,Governor,,REPUBLICAN,Burris J M,0
+New Castle,12-03,Governor,,REPUBLICAN,Lee W S,2
+New Castle,01-04,Governor,,REPUBLICAN,Burris J M,87
+New Castle,01-04,Governor,,REPUBLICAN,Lee W S,72
+New Castle,02-04,Governor,,REPUBLICAN,Burris J M,15
+New Castle,02-04,Governor,,REPUBLICAN,Lee W S,10
+New Castle,03-04,Governor,,REPUBLICAN,Burris J M,77
+New Castle,03-04,Governor,,REPUBLICAN,Lee W S,97
+New Castle,04-04,Governor,,REPUBLICAN,Burris J M,68
+New Castle,04-04,Governor,,REPUBLICAN,Lee W S,83
+New Castle,05-04,Governor,,REPUBLICAN,Burris J M,15
+New Castle,05-04,Governor,,REPUBLICAN,Lee W S,18
+New Castle,06-04,Governor,,REPUBLICAN,Burris J M,5
+New Castle,06-04,Governor,,REPUBLICAN,Lee W S,2
+New Castle,08-04,Governor,,REPUBLICAN,Burris J M,3
+New Castle,08-04,Governor,,REPUBLICAN,Lee W S,6
+New Castle,09-04,Governor,,REPUBLICAN,Burris J M,7
+New Castle,09-04,Governor,,REPUBLICAN,Lee W S,11
+New Castle,10-04,Governor,,REPUBLICAN,Burris J M,10
+New Castle,10-04,Governor,,REPUBLICAN,Lee W S,7
+New Castle,11-04,Governor,,REPUBLICAN,Burris J M,74
+New Castle,11-04,Governor,,REPUBLICAN,Lee W S,139
+New Castle,12-04,Governor,,REPUBLICAN,Burris J M,9
+New Castle,12-04,Governor,,REPUBLICAN,Lee W S,13
+New Castle,14-04,Governor,,REPUBLICAN,Burris J M,23
+New Castle,14-04,Governor,,REPUBLICAN,Lee W S,32
+New Castle,01-05,Governor,,REPUBLICAN,Burris J M,9
+New Castle,01-05,Governor,,REPUBLICAN,Lee W S,6
+New Castle,02-05,Governor,,REPUBLICAN,Burris J M,24
+New Castle,02-05,Governor,,REPUBLICAN,Lee W S,15
+New Castle,03-05,Governor,,REPUBLICAN,Burris J M,10
+New Castle,03-05,Governor,,REPUBLICAN,Lee W S,7
+New Castle,04-05,Governor,,REPUBLICAN,Burris J M,3
+New Castle,04-05,Governor,,REPUBLICAN,Lee W S,1
+New Castle,05-05,Governor,,REPUBLICAN,Burris J M,2
+New Castle,05-05,Governor,,REPUBLICAN,Lee W S,5
+New Castle,06-05,Governor,,REPUBLICAN,Burris J M,17
+New Castle,06-05,Governor,,REPUBLICAN,Lee W S,17
+New Castle,07-05,Governor,,REPUBLICAN,Burris J M,1
+New Castle,07-05,Governor,,REPUBLICAN,Lee W S,1
+New Castle,08-05,Governor,,REPUBLICAN,Burris J M,9
+New Castle,08-05,Governor,,REPUBLICAN,Lee W S,5
+New Castle,01-06,Governor,,REPUBLICAN,Burris J M,48
+New Castle,01-06,Governor,,REPUBLICAN,Lee W S,30
+New Castle,02-06,Governor,,REPUBLICAN,Burris J M,30
+New Castle,02-06,Governor,,REPUBLICAN,Lee W S,32
+New Castle,03-06,Governor,,REPUBLICAN,Burris J M,45
+New Castle,03-06,Governor,,REPUBLICAN,Lee W S,44
+New Castle,04-06,Governor,,REPUBLICAN,Burris J M,37
+New Castle,04-06,Governor,,REPUBLICAN,Lee W S,37
+New Castle,05-06,Governor,,REPUBLICAN,Burris J M,66
+New Castle,05-06,Governor,,REPUBLICAN,Lee W S,81
+New Castle,06-06,Governor,,REPUBLICAN,Burris J M,61
+New Castle,06-06,Governor,,REPUBLICAN,Lee W S,57
+New Castle,07-06,Governor,,REPUBLICAN,Burris J M,92
+New Castle,07-06,Governor,,REPUBLICAN,Lee W S,97
+New Castle,01-07,Governor,,REPUBLICAN,Burris J M,54
+New Castle,01-07,Governor,,REPUBLICAN,Lee W S,51
+New Castle,02-07,Governor,,REPUBLICAN,Burris J M,118
+New Castle,02-07,Governor,,REPUBLICAN,Lee W S,116
+New Castle,03-07,Governor,,REPUBLICAN,Burris J M,16
+New Castle,03-07,Governor,,REPUBLICAN,Lee W S,20
+New Castle,04-07,Governor,,REPUBLICAN,Burris J M,27
+New Castle,04-07,Governor,,REPUBLICAN,Lee W S,12
+New Castle,05-07,Governor,,REPUBLICAN,Burris J M,26
+New Castle,05-07,Governor,,REPUBLICAN,Lee W S,20
+New Castle,06-07,Governor,,REPUBLICAN,Burris J M,57
+New Castle,06-07,Governor,,REPUBLICAN,Lee W S,36
+New Castle,07-07,Governor,,REPUBLICAN,Burris J M,43
+New Castle,07-07,Governor,,REPUBLICAN,Lee W S,51
+New Castle,08-07,Governor,,REPUBLICAN,Burris J M,59
+New Castle,08-07,Governor,,REPUBLICAN,Lee W S,69
+New Castle,09-07,Governor,,REPUBLICAN,Burris J M,15
+New Castle,09-07,Governor,,REPUBLICAN,Lee W S,9
+New Castle,01-08,Governor,,REPUBLICAN,Burris J M,99
+New Castle,01-08,Governor,,REPUBLICAN,Lee W S,145
+New Castle,02-08,Governor,,REPUBLICAN,Burris J M,48
+New Castle,02-08,Governor,,REPUBLICAN,Lee W S,55
+New Castle,04-08,Governor,,REPUBLICAN,Burris J M,20
+New Castle,04-08,Governor,,REPUBLICAN,Lee W S,32
+New Castle,05-08,Governor,,REPUBLICAN,Burris J M,14
+New Castle,05-08,Governor,,REPUBLICAN,Lee W S,11
+New Castle,06-08,Governor,,REPUBLICAN,Burris J M,48
+New Castle,06-08,Governor,,REPUBLICAN,Lee W S,44
+New Castle,07-08,Governor,,REPUBLICAN,Burris J M,11
+New Castle,07-08,Governor,,REPUBLICAN,Lee W S,10
+New Castle,08-08,Governor,,REPUBLICAN,Burris J M,15
+New Castle,08-08,Governor,,REPUBLICAN,Lee W S,22
+New Castle,01-09,Governor,,REPUBLICAN,Burris J M,10
+New Castle,01-09,Governor,,REPUBLICAN,Lee W S,8
+New Castle,02-09,Governor,,REPUBLICAN,Burris J M,43
+New Castle,02-09,Governor,,REPUBLICAN,Lee W S,43
+New Castle,03-09,Governor,,REPUBLICAN,Burris J M,37
+New Castle,03-09,Governor,,REPUBLICAN,Lee W S,60
+New Castle,04-09,Governor,,REPUBLICAN,Burris J M,20
+New Castle,04-09,Governor,,REPUBLICAN,Lee W S,52
+New Castle,05-09,Governor,,REPUBLICAN,Burris J M,64
+New Castle,05-09,Governor,,REPUBLICAN,Lee W S,88
+New Castle,06-09,Governor,,REPUBLICAN,Burris J M,22
+New Castle,06-09,Governor,,REPUBLICAN,Lee W S,25
+New Castle,07-09,Governor,,REPUBLICAN,Burris J M,44
+New Castle,07-09,Governor,,REPUBLICAN,Lee W S,37
+New Castle,08-09,Governor,,REPUBLICAN,Burris J M,30
+New Castle,08-09,Governor,,REPUBLICAN,Lee W S,12
+New Castle,11-09,Governor,,REPUBLICAN,Burris J M,63
+New Castle,11-09,Governor,,REPUBLICAN,Lee W S,24
+New Castle,01-10,Governor,,REPUBLICAN,Burris J M,37
+New Castle,01-10,Governor,,REPUBLICAN,Lee W S,39
+New Castle,02-10,Governor,,REPUBLICAN,Burris J M,52
+New Castle,02-10,Governor,,REPUBLICAN,Lee W S,71
+New Castle,03-10,Governor,,REPUBLICAN,Burris J M,58
+New Castle,03-10,Governor,,REPUBLICAN,Lee W S,79
+New Castle,04-10,Governor,,REPUBLICAN,Burris J M,167
+New Castle,04-10,Governor,,REPUBLICAN,Lee W S,154
+New Castle,05-10,Governor,,REPUBLICAN,Burris J M,102
+New Castle,05-10,Governor,,REPUBLICAN,Lee W S,94
+New Castle,07-10,Governor,,REPUBLICAN,Burris J M,83
+New Castle,07-10,Governor,,REPUBLICAN,Lee W S,92
+New Castle,08-10,Governor,,REPUBLICAN,Burris J M,49
+New Castle,08-10,Governor,,REPUBLICAN,Lee W S,68
+New Castle,09-10,Governor,,REPUBLICAN,Burris J M,45
+New Castle,09-10,Governor,,REPUBLICAN,Lee W S,46
+New Castle,01-11,Governor,,REPUBLICAN,Burris J M,223
+New Castle,01-11,Governor,,REPUBLICAN,Lee W S,215
+New Castle,02-11,Governor,,REPUBLICAN,Burris J M,28
+New Castle,02-11,Governor,,REPUBLICAN,Lee W S,48
+New Castle,03-11,Governor,,REPUBLICAN,Burris J M,129
+New Castle,03-11,Governor,,REPUBLICAN,Lee W S,146
+New Castle,04-11,Governor,,REPUBLICAN,Burris J M,64
+New Castle,04-11,Governor,,REPUBLICAN,Lee W S,87
+New Castle,06-11,Governor,,REPUBLICAN,Burris J M,81
+New Castle,06-11,Governor,,REPUBLICAN,Lee W S,98
+New Castle,07-11,Governor,,REPUBLICAN,Burris J M,100
+New Castle,07-11,Governor,,REPUBLICAN,Lee W S,90
+New Castle,08-11,Governor,,REPUBLICAN,Burris J M,162
+New Castle,08-11,Governor,,REPUBLICAN,Lee W S,140
+New Castle,10-11,Governor,,REPUBLICAN,Burris J M,197
+New Castle,10-11,Governor,,REPUBLICAN,Lee W S,165
+New Castle,11-11,Governor,,REPUBLICAN,Burris J M,111
+New Castle,11-11,Governor,,REPUBLICAN,Lee W S,164
+New Castle,01-12,Governor,,REPUBLICAN,Burris J M,32
+New Castle,01-12,Governor,,REPUBLICAN,Lee W S,27
+New Castle,02-12,Governor,,REPUBLICAN,Burris J M,16
+New Castle,02-12,Governor,,REPUBLICAN,Lee W S,22
+New Castle,03-12,Governor,,REPUBLICAN,Burris J M,19
+New Castle,03-12,Governor,,REPUBLICAN,Lee W S,6
+New Castle,04-12,Governor,,REPUBLICAN,Burris J M,75
+New Castle,04-12,Governor,,REPUBLICAN,Lee W S,80
+New Castle,05-12,Governor,,REPUBLICAN,Burris J M,56
+New Castle,05-12,Governor,,REPUBLICAN,Lee W S,55
+New Castle,06-12,Governor,,REPUBLICAN,Burris J M,125
+New Castle,06-12,Governor,,REPUBLICAN,Lee W S,187
+New Castle,07-12,Governor,,REPUBLICAN,Burris J M,23
+New Castle,07-12,Governor,,REPUBLICAN,Lee W S,17
+New Castle,08-12,Governor,,REPUBLICAN,Burris J M,114
+New Castle,08-12,Governor,,REPUBLICAN,Lee W S,87
+New Castle,09-12,Governor,,REPUBLICAN,Burris J M,96
+New Castle,09-12,Governor,,REPUBLICAN,Lee W S,106
+New Castle,11-12,Governor,,REPUBLICAN,Burris J M,70
+New Castle,11-12,Governor,,REPUBLICAN,Lee W S,83
+New Castle,12-12,Governor,,REPUBLICAN,Burris J M,74
+New Castle,12-12,Governor,,REPUBLICAN,Lee W S,93
+New Castle,01-13,Governor,,REPUBLICAN,Burris J M,32
+New Castle,01-13,Governor,,REPUBLICAN,Lee W S,23
+New Castle,03-13,Governor,,REPUBLICAN,Burris J M,25
+New Castle,03-13,Governor,,REPUBLICAN,Lee W S,32
+New Castle,04-13,Governor,,REPUBLICAN,Burris J M,16
+New Castle,04-13,Governor,,REPUBLICAN,Lee W S,34
+New Castle,05-13,Governor,,REPUBLICAN,Burris J M,13
+New Castle,05-13,Governor,,REPUBLICAN,Lee W S,11
+New Castle,06-13,Governor,,REPUBLICAN,Burris J M,20
+New Castle,06-13,Governor,,REPUBLICAN,Lee W S,20
+New Castle,08-13,Governor,,REPUBLICAN,Burris J M,8
+New Castle,08-13,Governor,,REPUBLICAN,Lee W S,5
+New Castle,10-13,Governor,,REPUBLICAN,Burris J M,8
+New Castle,10-13,Governor,,REPUBLICAN,Lee W S,1
+New Castle,01-14,Governor,,REPUBLICAN,Burris J M,12
+New Castle,01-14,Governor,,REPUBLICAN,Lee W S,15
+New Castle,02-14,Governor,,REPUBLICAN,Burris J M,31
+New Castle,02-14,Governor,,REPUBLICAN,Lee W S,37
+New Castle,03-14,Governor,,REPUBLICAN,Burris J M,36
+New Castle,03-14,Governor,,REPUBLICAN,Lee W S,34
+New Castle,04-14,Governor,,REPUBLICAN,Burris J M,77
+New Castle,04-14,Governor,,REPUBLICAN,Lee W S,98
+New Castle,07-14,Governor,,REPUBLICAN,Burris J M,33
+New Castle,07-14,Governor,,REPUBLICAN,Lee W S,29
+New Castle,01-15,Governor,,REPUBLICAN,Burris J M,31
+New Castle,01-15,Governor,,REPUBLICAN,Lee W S,21
+New Castle,02-15,Governor,,REPUBLICAN,Burris J M,28
+New Castle,02-15,Governor,,REPUBLICAN,Lee W S,17
+New Castle,03-15,Governor,,REPUBLICAN,Burris J M,26
+New Castle,03-15,Governor,,REPUBLICAN,Lee W S,16
+New Castle,04-15,Governor,,REPUBLICAN,Burris J M,13
+New Castle,04-15,Governor,,REPUBLICAN,Lee W S,15
+New Castle,05-15,Governor,,REPUBLICAN,Burris J M,23
+New Castle,05-15,Governor,,REPUBLICAN,Lee W S,18
+New Castle,06-15,Governor,,REPUBLICAN,Burris J M,2
+New Castle,06-15,Governor,,REPUBLICAN,Lee W S,1
+New Castle,08-15,Governor,,REPUBLICAN,Burris J M,29
+New Castle,08-15,Governor,,REPUBLICAN,Lee W S,15
+New Castle,01-16,Governor,,REPUBLICAN,Burris J M,12
+New Castle,01-16,Governor,,REPUBLICAN,Lee W S,11
+New Castle,02-16,Governor,,REPUBLICAN,Burris J M,10
+New Castle,02-16,Governor,,REPUBLICAN,Lee W S,10
+New Castle,03-16,Governor,,REPUBLICAN,Burris J M,8
+New Castle,03-16,Governor,,REPUBLICAN,Lee W S,14
+New Castle,04-16,Governor,,REPUBLICAN,Burris J M,4
+New Castle,04-16,Governor,,REPUBLICAN,Lee W S,12
+New Castle,05-16,Governor,,REPUBLICAN,Burris J M,5
+New Castle,05-16,Governor,,REPUBLICAN,Lee W S,10
+New Castle,06-16,Governor,,REPUBLICAN,Burris J M,7
+New Castle,06-16,Governor,,REPUBLICAN,Lee W S,5
+New Castle,07-16,Governor,,REPUBLICAN,Burris J M,7
+New Castle,07-16,Governor,,REPUBLICAN,Lee W S,10
+New Castle,09-16,Governor,,REPUBLICAN,Burris J M,10
+New Castle,09-16,Governor,,REPUBLICAN,Lee W S,9
+New Castle,10-16,Governor,,REPUBLICAN,Burris J M,10
+New Castle,10-16,Governor,,REPUBLICAN,Lee W S,3
+New Castle,01-17,Governor,,REPUBLICAN,Burris J M,22
+New Castle,01-17,Governor,,REPUBLICAN,Lee W S,24
+New Castle,02-17,Governor,,REPUBLICAN,Burris J M,18
+New Castle,02-17,Governor,,REPUBLICAN,Lee W S,15
+New Castle,03-17,Governor,,REPUBLICAN,Burris J M,11
+New Castle,03-17,Governor,,REPUBLICAN,Lee W S,22
+New Castle,04-17,Governor,,REPUBLICAN,Burris J M,19
+New Castle,04-17,Governor,,REPUBLICAN,Lee W S,18
+New Castle,05-17,Governor,,REPUBLICAN,Burris J M,35
+New Castle,05-17,Governor,,REPUBLICAN,Lee W S,35
+New Castle,06-17,Governor,,REPUBLICAN,Burris J M,22
+New Castle,06-17,Governor,,REPUBLICAN,Lee W S,25
+New Castle,07-17,Governor,,REPUBLICAN,Burris J M,24
+New Castle,07-17,Governor,,REPUBLICAN,Lee W S,14
+New Castle,09-17,Governor,,REPUBLICAN,Burris J M,14
+New Castle,09-17,Governor,,REPUBLICAN,Lee W S,15
+New Castle,10-17,Governor,,REPUBLICAN,Burris J M,3
+New Castle,10-17,Governor,,REPUBLICAN,Lee W S,2
+New Castle,01-18,Governor,,REPUBLICAN,Burris J M,11
+New Castle,01-18,Governor,,REPUBLICAN,Lee W S,19
+New Castle,02-18,Governor,,REPUBLICAN,Burris J M,20
+New Castle,02-18,Governor,,REPUBLICAN,Lee W S,20
+New Castle,03-18,Governor,,REPUBLICAN,Burris J M,9
+New Castle,03-18,Governor,,REPUBLICAN,Lee W S,13
+New Castle,04-18,Governor,,REPUBLICAN,Burris J M,13
+New Castle,04-18,Governor,,REPUBLICAN,Lee W S,19
+New Castle,05-18,Governor,,REPUBLICAN,Burris J M,24
+New Castle,05-18,Governor,,REPUBLICAN,Lee W S,20
+New Castle,06-18,Governor,,REPUBLICAN,Burris J M,8
+New Castle,06-18,Governor,,REPUBLICAN,Lee W S,4
+New Castle,07-18,Governor,,REPUBLICAN,Burris J M,24
+New Castle,07-18,Governor,,REPUBLICAN,Lee W S,9
+New Castle,09-18,Governor,,REPUBLICAN,Burris J M,13
+New Castle,09-18,Governor,,REPUBLICAN,Lee W S,21
+New Castle,01-19,Governor,,REPUBLICAN,Burris J M,29
+New Castle,01-19,Governor,,REPUBLICAN,Lee W S,39
+New Castle,02-19,Governor,,REPUBLICAN,Burris J M,15
+New Castle,02-19,Governor,,REPUBLICAN,Lee W S,10
+New Castle,03-19,Governor,,REPUBLICAN,Burris J M,25
+New Castle,03-19,Governor,,REPUBLICAN,Lee W S,46
+New Castle,04-19,Governor,,REPUBLICAN,Burris J M,14
+New Castle,04-19,Governor,,REPUBLICAN,Lee W S,20
+New Castle,05-19,Governor,,REPUBLICAN,Burris J M,7
+New Castle,05-19,Governor,,REPUBLICAN,Lee W S,13
+New Castle,06-19,Governor,,REPUBLICAN,Burris J M,37
+New Castle,06-19,Governor,,REPUBLICAN,Lee W S,21
+New Castle,07-19,Governor,,REPUBLICAN,Burris J M,20
+New Castle,07-19,Governor,,REPUBLICAN,Lee W S,23
+New Castle,08-19,Governor,,REPUBLICAN,Burris J M,11
+New Castle,08-19,Governor,,REPUBLICAN,Lee W S,9
+New Castle,01-20,Governor,,REPUBLICAN,Burris J M,100
+New Castle,01-20,Governor,,REPUBLICAN,Lee W S,91
+New Castle,02-20,Governor,,REPUBLICAN,Burris J M,25
+New Castle,02-20,Governor,,REPUBLICAN,Lee W S,31
+New Castle,03-20,Governor,,REPUBLICAN,Burris J M,35
+New Castle,03-20,Governor,,REPUBLICAN,Lee W S,22
+New Castle,04-20,Governor,,REPUBLICAN,Burris J M,53
+New Castle,04-20,Governor,,REPUBLICAN,Lee W S,45
+New Castle,06-20,Governor,,REPUBLICAN,Burris J M,64
+New Castle,06-20,Governor,,REPUBLICAN,Lee W S,51
+New Castle,07-20,Governor,,REPUBLICAN,Burris J M,35
+New Castle,07-20,Governor,,REPUBLICAN,Lee W S,30
+New Castle,08-20,Governor,,REPUBLICAN,Burris J M,77
+New Castle,08-20,Governor,,REPUBLICAN,Lee W S,95
+New Castle,10-20,Governor,,REPUBLICAN,Burris J M,23
+New Castle,10-20,Governor,,REPUBLICAN,Lee W S,31
+New Castle,11-20,Governor,,REPUBLICAN,Burris J M,40
+New Castle,11-20,Governor,,REPUBLICAN,Lee W S,39
+New Castle,01-21,Governor,,REPUBLICAN,Burris J M,77
+New Castle,01-21,Governor,,REPUBLICAN,Lee W S,107
+New Castle,02-21,Governor,,REPUBLICAN,Burris J M,46
+New Castle,02-21,Governor,,REPUBLICAN,Lee W S,45
+New Castle,03-21,Governor,,REPUBLICAN,Burris J M,49
+New Castle,03-21,Governor,,REPUBLICAN,Lee W S,65
+New Castle,04-21,Governor,,REPUBLICAN,Burris J M,59
+New Castle,04-21,Governor,,REPUBLICAN,Lee W S,56
+New Castle,08-21,Governor,,REPUBLICAN,Burris J M,14
+New Castle,08-21,Governor,,REPUBLICAN,Lee W S,29
+New Castle,10-21,Governor,,REPUBLICAN,Burris J M,14
+New Castle,10-21,Governor,,REPUBLICAN,Lee W S,26
+New Castle,01-22,Governor,,REPUBLICAN,Burris J M,31
+New Castle,01-22,Governor,,REPUBLICAN,Lee W S,33
+New Castle,02-22,Governor,,REPUBLICAN,Burris J M,24
+New Castle,02-22,Governor,,REPUBLICAN,Lee W S,45
+New Castle,03-22,Governor,,REPUBLICAN,Burris J M,53
+New Castle,03-22,Governor,,REPUBLICAN,Lee W S,72
+New Castle,04-22,Governor,,REPUBLICAN,Burris J M,99
+New Castle,04-22,Governor,,REPUBLICAN,Lee W S,76
+New Castle,05-22,Governor,,REPUBLICAN,Burris J M,57
+New Castle,05-22,Governor,,REPUBLICAN,Lee W S,68
+New Castle,06-22,Governor,,REPUBLICAN,Burris J M,62
+New Castle,06-22,Governor,,REPUBLICAN,Lee W S,50
+New Castle,07-22,Governor,,REPUBLICAN,Burris J M,54
+New Castle,07-22,Governor,,REPUBLICAN,Lee W S,66
+New Castle,09-22,Governor,,REPUBLICAN,Burris J M,63
+New Castle,09-22,Governor,,REPUBLICAN,Lee W S,71
+New Castle,11-22,Governor,,REPUBLICAN,Burris J M,48
+New Castle,11-22,Governor,,REPUBLICAN,Lee W S,50
+New Castle,01-23,Governor,,REPUBLICAN,Burris J M,11
+New Castle,01-23,Governor,,REPUBLICAN,Lee W S,11
+New Castle,02-23,Governor,,REPUBLICAN,Burris J M,83
+New Castle,02-23,Governor,,REPUBLICAN,Lee W S,121
+New Castle,03-23,Governor,,REPUBLICAN,Burris J M,67
+New Castle,03-23,Governor,,REPUBLICAN,Lee W S,141
+New Castle,06-23,Governor,,REPUBLICAN,Burris J M,38
+New Castle,06-23,Governor,,REPUBLICAN,Lee W S,46
+New Castle,09-23,Governor,,REPUBLICAN,Burris J M,25
+New Castle,09-23,Governor,,REPUBLICAN,Lee W S,13
+New Castle,01-24,Governor,,REPUBLICAN,Burris J M,16
+New Castle,01-24,Governor,,REPUBLICAN,Lee W S,14
+New Castle,02-24,Governor,,REPUBLICAN,Burris J M,27
+New Castle,02-24,Governor,,REPUBLICAN,Lee W S,26
+New Castle,03-24,Governor,,REPUBLICAN,Burris J M,19
+New Castle,03-24,Governor,,REPUBLICAN,Lee W S,20
+New Castle,04-24,Governor,,REPUBLICAN,Burris J M,20
+New Castle,04-24,Governor,,REPUBLICAN,Lee W S,20
+New Castle,06-24,Governor,,REPUBLICAN,Burris J M,13
+New Castle,06-24,Governor,,REPUBLICAN,Lee W S,6
+New Castle,07-24,Governor,,REPUBLICAN,Burris J M,30
+New Castle,07-24,Governor,,REPUBLICAN,Lee W S,20
+New Castle,01-25,Governor,,REPUBLICAN,Burris J M,25
+New Castle,01-25,Governor,,REPUBLICAN,Lee W S,38
+New Castle,02-25,Governor,,REPUBLICAN,Burris J M,54
+New Castle,02-25,Governor,,REPUBLICAN,Lee W S,53
+New Castle,03-25,Governor,,REPUBLICAN,Burris J M,30
+New Castle,03-25,Governor,,REPUBLICAN,Lee W S,48
+New Castle,05-25,Governor,,REPUBLICAN,Burris J M,18
+New Castle,05-25,Governor,,REPUBLICAN,Lee W S,18
+New Castle,07-25,Governor,,REPUBLICAN,Burris J M,25
+New Castle,07-25,Governor,,REPUBLICAN,Lee W S,28
+New Castle,01-26,Governor,,REPUBLICAN,Burris J M,29
+New Castle,01-26,Governor,,REPUBLICAN,Lee W S,15
+New Castle,02-26,Governor,,REPUBLICAN,Burris J M,3
+New Castle,02-26,Governor,,REPUBLICAN,Lee W S,4
+New Castle,03-26,Governor,,REPUBLICAN,Burris J M,43
+New Castle,03-26,Governor,,REPUBLICAN,Lee W S,25
+New Castle,04-26,Governor,,REPUBLICAN,Burris J M,4
+New Castle,04-26,Governor,,REPUBLICAN,Lee W S,12
+New Castle,06-26,Governor,,REPUBLICAN,Burris J M,19
+New Castle,06-26,Governor,,REPUBLICAN,Lee W S,19
+New Castle,07-26,Governor,,REPUBLICAN,Burris J M,19
+New Castle,07-26,Governor,,REPUBLICAN,Lee W S,16
+New Castle,08-26,Governor,,REPUBLICAN,Burris J M,7
+New Castle,08-26,Governor,,REPUBLICAN,Lee W S,12
+New Castle,09-26,Governor,,REPUBLICAN,Burris J M,6
+New Castle,09-26,Governor,,REPUBLICAN,Lee W S,6
+New Castle,01-27,Governor,,REPUBLICAN,Burris J M,15
+New Castle,01-27,Governor,,REPUBLICAN,Lee W S,24
+New Castle,02-27,Governor,,REPUBLICAN,Burris J M,32
+New Castle,02-27,Governor,,REPUBLICAN,Lee W S,26
+New Castle,03-27,Governor,,REPUBLICAN,Burris J M,28
+New Castle,03-27,Governor,,REPUBLICAN,Lee W S,39
+New Castle,04-27,Governor,,REPUBLICAN,Burris J M,40
+New Castle,04-27,Governor,,REPUBLICAN,Lee W S,54
+New Castle,05-27,Governor,,REPUBLICAN,Burris J M,20
+New Castle,05-27,Governor,,REPUBLICAN,Lee W S,29
+New Castle,06-27,Governor,,REPUBLICAN,Burris J M,10
+New Castle,06-27,Governor,,REPUBLICAN,Lee W S,13
+New Castle,07-27,Governor,,REPUBLICAN,Burris J M,35
+New Castle,07-27,Governor,,REPUBLICAN,Lee W S,38
+New Castle,08-27,Governor,,REPUBLICAN,Burris J M,17
+New Castle,08-27,Governor,,REPUBLICAN,Lee W S,14
+New Castle,09-27,Governor,,REPUBLICAN,Burris J M,23
+New Castle,09-27,Governor,,REPUBLICAN,Lee W S,19
+New Castle,10-27,Governor,,REPUBLICAN,Burris J M,19
+New Castle,10-27,Governor,,REPUBLICAN,Lee W S,21
+New Castle,11-27,Governor,,REPUBLICAN,Burris J M,26
+New Castle,11-27,Governor,,REPUBLICAN,Lee W S,23
+New Castle,01-28,Governor,,REPUBLICAN,Burris J M,21
+New Castle,01-28,Governor,,REPUBLICAN,Lee W S,29
+Kent,02-28,Governor,,REPUBLICAN,Burris J M,28
+Kent,02-28,Governor,,REPUBLICAN,Lee W S,15
+Kent,03-28,Governor,,REPUBLICAN,Burris J M,57
+Kent,03-28,Governor,,REPUBLICAN,Lee W S,35
+Kent,04-28,Governor,,REPUBLICAN,Burris J M,53
+Kent,04-28,Governor,,REPUBLICAN,Lee W S,29
+Kent,05-28,Governor,,REPUBLICAN,Burris J M,30
+Kent,05-28,Governor,,REPUBLICAN,Lee W S,11
+Kent,07-28,Governor,,REPUBLICAN,Burris J M,46
+Kent,07-28,Governor,,REPUBLICAN,Lee W S,15
+Kent,01-29,Governor,,REPUBLICAN,Burris J M,69
+Kent,01-29,Governor,,REPUBLICAN,Lee W S,30
+Kent,02-29,Governor,,REPUBLICAN,Burris J M,102
+Kent,02-29,Governor,,REPUBLICAN,Lee W S,56
+Kent,03-29,Governor,,REPUBLICAN,Burris J M,22
+Kent,03-29,Governor,,REPUBLICAN,Lee W S,9
+Kent,04-29,Governor,,REPUBLICAN,Burris J M,139
+Kent,04-29,Governor,,REPUBLICAN,Lee W S,58
+Kent,05-29,Governor,,REPUBLICAN,Burris J M,58
+Kent,05-29,Governor,,REPUBLICAN,Lee W S,25
+Kent,08-29,Governor,,REPUBLICAN,Burris J M,15
+Kent,08-29,Governor,,REPUBLICAN,Lee W S,5
+Kent,02-30,Governor,,REPUBLICAN,Burris J M,47
+Kent,02-30,Governor,,REPUBLICAN,Lee W S,12
+Kent,03-30,Governor,,REPUBLICAN,Burris J M,31
+Kent,03-30,Governor,,REPUBLICAN,Lee W S,8
+Kent,04-30,Governor,,REPUBLICAN,Burris J M,109
+Kent,04-30,Governor,,REPUBLICAN,Lee W S,40
+Kent,05-30,Governor,,REPUBLICAN,Burris J M,45
+Kent,05-30,Governor,,REPUBLICAN,Lee W S,19
+Kent,07-30,Governor,,REPUBLICAN,Burris J M,45
+Kent,07-30,Governor,,REPUBLICAN,Lee W S,7
+Kent,08-30,Governor,,REPUBLICAN,Burris J M,38
+Kent,08-30,Governor,,REPUBLICAN,Lee W S,26
+Kent,09-30,Governor,,REPUBLICAN,Burris J M,65
+Kent,09-30,Governor,,REPUBLICAN,Lee W S,22
+Kent,01-31,Governor,,REPUBLICAN,Burris J M,178
+Kent,01-31,Governor,,REPUBLICAN,Lee W S,87
+Kent,03-31,Governor,,REPUBLICAN,Burris J M,25
+Kent,03-31,Governor,,REPUBLICAN,Lee W S,25
+Kent,04-31,Governor,,REPUBLICAN,Burris J M,50
+Kent,04-31,Governor,,REPUBLICAN,Lee W S,37
+Kent,05-31,Governor,,REPUBLICAN,Burris J M,36
+Kent,05-31,Governor,,REPUBLICAN,Lee W S,21
+Kent,06-31,Governor,,REPUBLICAN,Burris J M,154
+Kent,06-31,Governor,,REPUBLICAN,Lee W S,44
+Kent,07-31,Governor,,REPUBLICAN,Burris J M,38
+Kent,07-31,Governor,,REPUBLICAN,Lee W S,14
+Kent,01-32,Governor,,REPUBLICAN,Burris J M,27
+Kent,01-32,Governor,,REPUBLICAN,Lee W S,15
+Kent,02-32,Governor,,REPUBLICAN,Burris J M,91
+Kent,02-32,Governor,,REPUBLICAN,Lee W S,45
+Kent,03-32,Governor,,REPUBLICAN,Burris J M,88
+Kent,03-32,Governor,,REPUBLICAN,Lee W S,50
+Kent,04-32,Governor,,REPUBLICAN,Burris J M,153
+Kent,04-32,Governor,,REPUBLICAN,Lee W S,105
+Kent,02-33,Governor,,REPUBLICAN,Burris J M,138
+Kent,02-33,Governor,,REPUBLICAN,Lee W S,87
+Kent,04-33,Governor,,REPUBLICAN,Burris J M,35
+Kent,04-33,Governor,,REPUBLICAN,Lee W S,34
+Kent,06-33,Governor,,REPUBLICAN,Burris J M,59
+Kent,06-33,Governor,,REPUBLICAN,Lee W S,27
+Kent,07-33,Governor,,REPUBLICAN,Burris J M,51
+Kent,07-33,Governor,,REPUBLICAN,Lee W S,38
+Kent,08-33,Governor,,REPUBLICAN,Burris J M,64
+Kent,08-33,Governor,,REPUBLICAN,Lee W S,22
+Kent,09-33,Governor,,REPUBLICAN,Burris J M,95
+Kent,09-33,Governor,,REPUBLICAN,Lee W S,30
+Kent,02-34,Governor,,REPUBLICAN,Burris J M,3
+Kent,02-34,Governor,,REPUBLICAN,Lee W S,0
+Kent,03-34,Governor,,REPUBLICAN,Burris J M,77
+Kent,03-34,Governor,,REPUBLICAN,Lee W S,40
+Kent,04-34,Governor,,REPUBLICAN,Burris J M,96
+Kent,04-34,Governor,,REPUBLICAN,Lee W S,63
+Kent,05-34,Governor,,REPUBLICAN,Burris J M,96
+Kent,05-34,Governor,,REPUBLICAN,Lee W S,42
+Kent,07-34,Governor,,REPUBLICAN,Burris J M,81
+Kent,07-34,Governor,,REPUBLICAN,Lee W S,33
+Kent,02-35,Governor,,REPUBLICAN,Burris J M,43
+Kent,02-35,Governor,,REPUBLICAN,Lee W S,22
+Sussex,04-35,Governor,,REPUBLICAN,Burris J M,64
+Sussex,04-35,Governor,,REPUBLICAN,Lee W S,33
+Sussex,05-35,Governor,,REPUBLICAN,Burris J M,32
+Sussex,05-35,Governor,,REPUBLICAN,Lee W S,25
+Sussex,06-35,Governor,,REPUBLICAN,Burris J M,62
+Sussex,06-35,Governor,,REPUBLICAN,Lee W S,80
+Sussex,07-35,Governor,,REPUBLICAN,Burris J M,59
+Sussex,07-35,Governor,,REPUBLICAN,Lee W S,62
+Sussex,08-35,Governor,,REPUBLICAN,Burris J M,27
+Sussex,08-35,Governor,,REPUBLICAN,Lee W S,35
+Sussex,09-35,Governor,,REPUBLICAN,Burris J M,25
+Sussex,09-35,Governor,,REPUBLICAN,Lee W S,64
+Sussex,01-36,Governor,,REPUBLICAN,Burris J M,149
+Sussex,01-36,Governor,,REPUBLICAN,Lee W S,68
+Sussex,02-36,Governor,,REPUBLICAN,Burris J M,69
+Sussex,02-36,Governor,,REPUBLICAN,Lee W S,33
+Sussex,03-36,Governor,,REPUBLICAN,Burris J M,44
+Sussex,03-36,Governor,,REPUBLICAN,Lee W S,27
+Sussex,04-36,Governor,,REPUBLICAN,Burris J M,78
+Sussex,04-36,Governor,,REPUBLICAN,Lee W S,59
+Sussex,05-36,Governor,,REPUBLICAN,Burris J M,27
+Sussex,05-36,Governor,,REPUBLICAN,Lee W S,52
+Sussex,06-36,Governor,,REPUBLICAN,Burris J M,77
+Sussex,06-36,Governor,,REPUBLICAN,Lee W S,64
+Sussex,07-36,Governor,,REPUBLICAN,Burris J M,88
+Sussex,07-36,Governor,,REPUBLICAN,Lee W S,86
+Sussex,01-37,Governor,,REPUBLICAN,Burris J M,136
+Sussex,01-37,Governor,,REPUBLICAN,Lee W S,165
+Sussex,02-37,Governor,,REPUBLICAN,Burris J M,94
+Sussex,02-37,Governor,,REPUBLICAN,Lee W S,86
+Sussex,03-37,Governor,,REPUBLICAN,Burris J M,216
+Sussex,03-37,Governor,,REPUBLICAN,Lee W S,150
+Sussex,04-37,Governor,,REPUBLICAN,Burris J M,83
+Sussex,04-37,Governor,,REPUBLICAN,Lee W S,101
+Sussex,05-37,Governor,,REPUBLICAN,Burris J M,91
+Sussex,05-37,Governor,,REPUBLICAN,Lee W S,220
+Sussex,06-37,Governor,,REPUBLICAN,Burris J M,121
+Sussex,06-37,Governor,,REPUBLICAN,Lee W S,235
+Sussex,07-37,Governor,,REPUBLICAN,Burris J M,136
+Sussex,07-37,Governor,,REPUBLICAN,Lee W S,177
+Sussex,08-37,Governor,,REPUBLICAN,Burris J M,49
+Sussex,08-37,Governor,,REPUBLICAN,Lee W S,91
+Sussex,01-38,Governor,,REPUBLICAN,Burris J M,93
+Sussex,01-38,Governor,,REPUBLICAN,Lee W S,92
+Sussex,02-38,Governor,,REPUBLICAN,Burris J M,96
+Sussex,02-38,Governor,,REPUBLICAN,Lee W S,105
+Sussex,03-38,Governor,,REPUBLICAN,Burris J M,188
+Sussex,03-38,Governor,,REPUBLICAN,Lee W S,280
+Sussex,04-38,Governor,,REPUBLICAN,Burris J M,158
+Sussex,04-38,Governor,,REPUBLICAN,Lee W S,264
+Sussex,05-38,Governor,,REPUBLICAN,Burris J M,76
+Sussex,05-38,Governor,,REPUBLICAN,Lee W S,118
+Sussex,06-38,Governor,,REPUBLICAN,Burris J M,31
+Sussex,06-38,Governor,,REPUBLICAN,Lee W S,45
+Sussex,07-38,Governor,,REPUBLICAN,Burris J M,37
+Sussex,07-38,Governor,,REPUBLICAN,Lee W S,60
+Sussex,08-38,Governor,,REPUBLICAN,Burris J M,76
+Sussex,08-38,Governor,,REPUBLICAN,Lee W S,87
+Sussex,01-39,Governor,,REPUBLICAN,Burris J M,53
+Sussex,01-39,Governor,,REPUBLICAN,Lee W S,57
+Sussex,02-39,Governor,,REPUBLICAN,Burris J M,59
+Sussex,02-39,Governor,,REPUBLICAN,Lee W S,66
+Sussex,03-39,Governor,,REPUBLICAN,Burris J M,22
+Sussex,03-39,Governor,,REPUBLICAN,Lee W S,52
+Sussex,04-39,Governor,,REPUBLICAN,Burris J M,50
+Sussex,04-39,Governor,,REPUBLICAN,Lee W S,68
+Sussex,05-39,Governor,,REPUBLICAN,Burris J M,53
+Sussex,05-39,Governor,,REPUBLICAN,Lee W S,90
+Sussex,06-39,Governor,,REPUBLICAN,Burris J M,78
+Sussex,06-39,Governor,,REPUBLICAN,Lee W S,85
+Sussex,01-40,Governor,,REPUBLICAN,Burris J M,13
+Sussex,01-40,Governor,,REPUBLICAN,Lee W S,42
+Sussex,02-40,Governor,,REPUBLICAN,Burris J M,34
+Sussex,02-40,Governor,,REPUBLICAN,Lee W S,58
+Sussex,03-40,Governor,,REPUBLICAN,Burris J M,25
+Sussex,03-40,Governor,,REPUBLICAN,Lee W S,30
+Sussex,04-40,Governor,,REPUBLICAN,Burris J M,76
+Sussex,04-40,Governor,,REPUBLICAN,Lee W S,45
+Sussex,05-40,Governor,,REPUBLICAN,Burris J M,30
+Sussex,05-40,Governor,,REPUBLICAN,Lee W S,41
+Sussex,06-40,Governor,,REPUBLICAN,Burris J M,50
+Sussex,06-40,Governor,,REPUBLICAN,Lee W S,40
+Sussex,07-40,Governor,,REPUBLICAN,Burris J M,49
+Sussex,07-40,Governor,,REPUBLICAN,Lee W S,34
+Sussex,01-41,Governor,,REPUBLICAN,Burris J M,66
+Sussex,01-41,Governor,,REPUBLICAN,Lee W S,99
+Sussex,02-41,Governor,,REPUBLICAN,Burris J M,90
+Sussex,02-41,Governor,,REPUBLICAN,Lee W S,128
+Sussex,03-41,Governor,,REPUBLICAN,Burris J M,24
+Sussex,03-41,Governor,,REPUBLICAN,Lee W S,35
+Sussex,04-41,Governor,,REPUBLICAN,Burris J M,120
+Sussex,04-41,Governor,,REPUBLICAN,Lee W S,123
+Sussex,05-41,Governor,,REPUBLICAN,Burris J M,88
+Sussex,05-41,Governor,,REPUBLICAN,Lee W S,100
+Sussex,06-41,Governor,,REPUBLICAN,Burris J M,35
+Sussex,06-41,Governor,,REPUBLICAN,Lee W S,65
+Sussex,07-41,Governor,,REPUBLICAN,Burris J M,38
+Sussex,07-41,Governor,,REPUBLICAN,Lee W S,47
+Sussex,08-41,Governor,,REPUBLICAN,Burris J M,63
+Sussex,08-41,Governor,,REPUBLICAN,Lee W S,121
+Sussex,Total,Governor,,REPUBLICAN,Burris J M,13893
+Sussex,Total,Governor,,REPUBLICAN,Lee W S,13847
+New Castle,01-07,State Senate,5,REPUBLICAN,Cloutier C,58
+New Castle,01-07,State Senate,5,REPUBLICAN,Walsh M J,46
+New Castle,02-07,State Senate,5,REPUBLICAN,Cloutier C,136
+New Castle,02-07,State Senate,5,REPUBLICAN,Walsh M J,95
+New Castle,04-07,State Senate,5,REPUBLICAN,Cloutier C,28
+New Castle,04-07,State Senate,5,REPUBLICAN,Walsh M J,11
+New Castle,05-07,State Senate,5,REPUBLICAN,Cloutier C,37
+New Castle,05-07,State Senate,5,REPUBLICAN,Walsh M J,7
+New Castle,06-07,State Senate,5,REPUBLICAN,Cloutier C,46
+New Castle,06-07,State Senate,5,REPUBLICAN,Walsh M J,48
+New Castle,07-07,State Senate,5,REPUBLICAN,Cloutier C,61
+New Castle,07-07,State Senate,5,REPUBLICAN,Walsh M J,33
+New Castle,08-07,State Senate,5,REPUBLICAN,Cloutier C,73
+New Castle,08-07,State Senate,5,REPUBLICAN,Walsh M J,57
+New Castle,09-07,State Senate,5,REPUBLICAN,Cloutier C,20
+New Castle,09-07,State Senate,5,REPUBLICAN,Walsh M J,4
+New Castle,05-08,State Senate,5,REPUBLICAN,Cloutier C,15
+New Castle,05-08,State Senate,5,REPUBLICAN,Walsh M J,9
+New Castle,06-08,State Senate,5,REPUBLICAN,Cloutier C,56
+New Castle,06-08,State Senate,5,REPUBLICAN,Walsh M J,34
+New Castle,03-10,State Senate,5,REPUBLICAN,Cloutier C,94
+New Castle,03-10,State Senate,5,REPUBLICAN,Walsh M J,43
+New Castle,04-10,State Senate,5,REPUBLICAN,Cloutier C,213
+New Castle,04-10,State Senate,5,REPUBLICAN,Walsh M J,103
+New Castle,05-10,State Senate,5,REPUBLICAN,Cloutier C,154
+New Castle,05-10,State Senate,5,REPUBLICAN,Walsh M J,44
+New Castle,07-10,State Senate,5,REPUBLICAN,Cloutier C,124
+New Castle,07-10,State Senate,5,REPUBLICAN,Walsh M J,51
+New Castle,09-10,State Senate,5,REPUBLICAN,Cloutier C,69
+New Castle,09-10,State Senate,5,REPUBLICAN,Walsh M J,25
+New Castle,01-11,State Senate,5,REPUBLICAN,Cloutier C,345
+New Castle,01-11,State Senate,5,REPUBLICAN,Walsh M J,91
+New Castle,Total,State Senate,5,REPUBLICAN,Cloutier C,1529
+New Castle,Total,State Senate,5,REPUBLICAN,Walsh M J,701
+Sussex,05-37,State Senate,20,REPUBLICAN,Hocker G W,193
+Sussex,05-37,State Senate,20,REPUBLICAN,Mccabe T L,86
+Sussex,06-37,State Senate,20,REPUBLICAN,Hocker G W,263
+Sussex,06-37,State Senate,20,REPUBLICAN,Mccabe T L,69
+Sussex,08-37,State Senate,20,REPUBLICAN,Hocker G W,108
+Sussex,08-37,State Senate,20,REPUBLICAN,Mccabe T L,28
+Sussex,01-38,State Senate,20,REPUBLICAN,Hocker G W,110
+Sussex,01-38,State Senate,20,REPUBLICAN,Mccabe T L,70
+Sussex,02-38,State Senate,20,REPUBLICAN,Hocker G W,130
+Sussex,02-38,State Senate,20,REPUBLICAN,Mccabe T L,67
+Sussex,03-38,State Senate,20,REPUBLICAN,Hocker G W,392
+Sussex,03-38,State Senate,20,REPUBLICAN,Mccabe T L,74
+Sussex,04-38,State Senate,20,REPUBLICAN,Hocker G W,372
+Sussex,04-38,State Senate,20,REPUBLICAN,Mccabe T L,55
+Sussex,05-38,State Senate,20,REPUBLICAN,Hocker G W,160
+Sussex,05-38,State Senate,20,REPUBLICAN,Mccabe T L,36
+Sussex,06-38,State Senate,20,REPUBLICAN,Hocker G W,60
+Sussex,06-38,State Senate,20,REPUBLICAN,Mccabe T L,16
+Sussex,07-38,State Senate,20,REPUBLICAN,Hocker G W,74
+Sussex,07-38,State Senate,20,REPUBLICAN,Mccabe T L,20
+Sussex,08-38,State Senate,20,REPUBLICAN,Hocker G W,139
+Sussex,08-38,State Senate,20,REPUBLICAN,Mccabe T L,29
+Sussex,04-41,State Senate,20,REPUBLICAN,Hocker G W,173
+Sussex,04-41,State Senate,20,REPUBLICAN,Mccabe T L,64
+Sussex,05-41,State Senate,20,REPUBLICAN,Hocker G W,156
+Sussex,05-41,State Senate,20,REPUBLICAN,Mccabe T L,30
+Sussex,06-41,State Senate,20,REPUBLICAN,Hocker G W,67
+Sussex,06-41,State Senate,20,REPUBLICAN,Mccabe T L,33
+Sussex,08-41,State Senate,20,REPUBLICAN,Hocker G W,141
+Sussex,08-41,State Senate,20,REPUBLICAN,Mccabe T L,44
+Sussex,Total,State Senate,20,REPUBLICAN,Hocker G W,2538
+Sussex,Total,State Senate,20,REPUBLICAN,Mccabe T L,721
+New Castle,01-02,State Assembly,2,DEMOCRATIC,Brown R E,34
+New Castle,01-02,State Assembly,2,DEMOCRATIC,Carroll B,147
+New Castle,01-02,State Assembly,2,DEMOCRATIC,Plant A O,247
+New Castle,02-02,State Assembly,2,DEMOCRATIC,Brown R E,47
+New Castle,02-02,State Assembly,2,DEMOCRATIC,Carroll B,80
+New Castle,02-02,State Assembly,2,DEMOCRATIC,Plant A O,235
+New Castle,03-02,State Assembly,2,DEMOCRATIC,Brown R E,5
+New Castle,03-02,State Assembly,2,DEMOCRATIC,Carroll B,5
+New Castle,03-02,State Assembly,2,DEMOCRATIC,Plant A O,7
+New Castle,04-02,State Assembly,2,DEMOCRATIC,Brown R E,13
+New Castle,04-02,State Assembly,2,DEMOCRATIC,Carroll B,5
+New Castle,04-02,State Assembly,2,DEMOCRATIC,Plant A O,6
+New Castle,05-02,State Assembly,2,DEMOCRATIC,Brown R E,5
+New Castle,05-02,State Assembly,2,DEMOCRATIC,Carroll B,6
+New Castle,05-02,State Assembly,2,DEMOCRATIC,Plant A O,17
+New Castle,06-02,State Assembly,2,DEMOCRATIC,Brown R E,37
+New Castle,06-02,State Assembly,2,DEMOCRATIC,Carroll B,34
+New Castle,06-02,State Assembly,2,DEMOCRATIC,Plant A O,27
+New Castle,08-02,State Assembly,2,DEMOCRATIC,Brown R E,60
+New Castle,08-02,State Assembly,2,DEMOCRATIC,Carroll B,39
+New Castle,08-02,State Assembly,2,DEMOCRATIC,Plant A O,109
+New Castle,09-02,State Assembly,2,DEMOCRATIC,Brown R E,13
+New Castle,09-02,State Assembly,2,DEMOCRATIC,Carroll B,27
+New Castle,09-02,State Assembly,2,DEMOCRATIC,Plant A O,23
+New Castle,10-02,State Assembly,2,DEMOCRATIC,Brown R E,38
+New Castle,10-02,State Assembly,2,DEMOCRATIC,Carroll B,83
+New Castle,10-02,State Assembly,2,DEMOCRATIC,Plant A O,134
+New Castle,11-02,State Assembly,2,DEMOCRATIC,Brown R E,38
+New Castle,11-02,State Assembly,2,DEMOCRATIC,Carroll B,38
+New Castle,11-02,State Assembly,2,DEMOCRATIC,Plant A O,109
+New Castle,12-02,State Assembly,2,DEMOCRATIC,Brown R E,17
+New Castle,12-02,State Assembly,2,DEMOCRATIC,Carroll B,46
+New Castle,12-02,State Assembly,2,DEMOCRATIC,Plant A O,76
+New Castle,Total,State Assembly,2,DEMOCRATIC,Brown R E,307
+New Castle,Total,State Assembly,2,DEMOCRATIC,Carroll B,510
+New Castle,Total,State Assembly,2,DEMOCRATIC,Plant A O,990
+New Castle,01-03,State Assembly,3,DEMOCRATIC,Holloway H,11
+New Castle,01-03,State Assembly,3,DEMOCRATIC,Scott A L,28
+New Castle,02-03,State Assembly,3,DEMOCRATIC,Holloway H,46
+New Castle,02-03,State Assembly,3,DEMOCRATIC,Scott A L,85
+New Castle,03-03,State Assembly,3,DEMOCRATIC,Holloway H,161
+New Castle,03-03,State Assembly,3,DEMOCRATIC,Scott A L,220
+New Castle,04-03,State Assembly,3,DEMOCRATIC,Holloway H,85
+New Castle,04-03,State Assembly,3,DEMOCRATIC,Scott A L,110
+New Castle,05-03,State Assembly,3,DEMOCRATIC,Holloway H,11
+New Castle,05-03,State Assembly,3,DEMOCRATIC,Scott A L,10
+New Castle,07-03,State Assembly,3,DEMOCRATIC,Holloway H,4
+New Castle,07-03,State Assembly,3,DEMOCRATIC,Scott A L,10
+New Castle,08-03,State Assembly,3,DEMOCRATIC,Holloway H,175
+New Castle,08-03,State Assembly,3,DEMOCRATIC,Scott A L,71
+New Castle,09-03,State Assembly,3,DEMOCRATIC,Holloway H,50
+New Castle,09-03,State Assembly,3,DEMOCRATIC,Scott A L,151
+New Castle,10-03,State Assembly,3,DEMOCRATIC,Holloway H,225
+New Castle,10-03,State Assembly,3,DEMOCRATIC,Scott A L,195
+New Castle,12-03,State Assembly,3,DEMOCRATIC,Holloway H,27
+New Castle,12-03,State Assembly,3,DEMOCRATIC,Scott A L,15
+New Castle,Total,State Assembly,3,DEMOCRATIC,Holloway H,795
+New Castle,Total,State Assembly,3,DEMOCRATIC,Scott A L,895
+New Castle,01-05,State Assembly,5,DEMOCRATIC,Cannon L S,21
+New Castle,01-05,State Assembly,5,DEMOCRATIC,Falkowski,22
+New Castle,01-05,State Assembly,5,DEMOCRATIC,Keeley H,110
+New Castle,02-05,State Assembly,5,DEMOCRATIC,Cannon L S,7
+New Castle,02-05,State Assembly,5,DEMOCRATIC,Falkowski,52
+New Castle,02-05,State Assembly,5,DEMOCRATIC,Keeley H,221
+New Castle,03-05,State Assembly,5,DEMOCRATIC,Cannon L S,50
+New Castle,03-05,State Assembly,5,DEMOCRATIC,Falkowski,110
+New Castle,03-05,State Assembly,5,DEMOCRATIC,Keeley H,197
+New Castle,04-05,State Assembly,5,DEMOCRATIC,Cannon L S,49
+New Castle,04-05,State Assembly,5,DEMOCRATIC,Falkowski,17
+New Castle,04-05,State Assembly,5,DEMOCRATIC,Keeley H,69
+New Castle,05-05,State Assembly,5,DEMOCRATIC,Cannon L S,84
+New Castle,05-05,State Assembly,5,DEMOCRATIC,Falkowski,48
+New Castle,05-05,State Assembly,5,DEMOCRATIC,Keeley H,209
+New Castle,06-05,State Assembly,5,DEMOCRATIC,Cannon L S,24
+New Castle,06-05,State Assembly,5,DEMOCRATIC,Falkowski,75
+New Castle,06-05,State Assembly,5,DEMOCRATIC,Keeley H,247
+New Castle,07-05,State Assembly,5,DEMOCRATIC,Cannon L S,15
+New Castle,07-05,State Assembly,5,DEMOCRATIC,Falkowski,4
+New Castle,07-05,State Assembly,5,DEMOCRATIC,Keeley H,30
+New Castle,08-05,State Assembly,5,DEMOCRATIC,Cannon L S,50
+New Castle,08-05,State Assembly,5,DEMOCRATIC,Falkowski,20
+New Castle,08-05,State Assembly,5,DEMOCRATIC,Keeley H,106
+New Castle,Total,State Assembly,5,DEMOCRATIC,Cannon L S,300
+New Castle,Total,State Assembly,5,DEMOCRATIC,Falkowski,348
+New Castle,Total,State Assembly,5,DEMOCRATIC,Keeley H,1189
+New Castle,01-11,State Assembly,11,REPUBLICAN,Cragg J E,72
+New Castle,01-11,State Assembly,11,REPUBLICAN,Lavelle G,217
+New Castle,01-11,State Assembly,11,REPUBLICAN,Rhodunda R,149
+New Castle,02-11,State Assembly,11,REPUBLICAN,Cragg J E,19
+New Castle,02-11,State Assembly,11,REPUBLICAN,Lavelle G,44
+New Castle,02-11,State Assembly,11,REPUBLICAN,Rhodunda R,11
+New Castle,03-11,State Assembly,11,REPUBLICAN,Cragg J E,75
+New Castle,03-11,State Assembly,11,REPUBLICAN,Lavelle G,106
+New Castle,03-11,State Assembly,11,REPUBLICAN,Rhodunda R,90
+New Castle,04-11,State Assembly,11,REPUBLICAN,Cragg J E,38
+New Castle,04-11,State Assembly,11,REPUBLICAN,Lavelle G,58
+New Castle,04-11,State Assembly,11,REPUBLICAN,Rhodunda R,55
+New Castle,06-11,State Assembly,11,REPUBLICAN,Cragg J E,19
+New Castle,06-11,State Assembly,11,REPUBLICAN,Lavelle G,60
+New Castle,06-11,State Assembly,11,REPUBLICAN,Rhodunda R,100
+New Castle,07-11,State Assembly,11,REPUBLICAN,Cragg J E,77
+New Castle,07-11,State Assembly,11,REPUBLICAN,Lavelle G,74
+New Castle,07-11,State Assembly,11,REPUBLICAN,Rhodunda R,38
+New Castle,08-11,State Assembly,11,REPUBLICAN,Cragg J E,74
+New Castle,08-11,State Assembly,11,REPUBLICAN,Lavelle G,122
+New Castle,08-11,State Assembly,11,REPUBLICAN,Rhodunda R,105
+New Castle,10-11,State Assembly,11,REPUBLICAN,Cragg J E,41
+New Castle,10-11,State Assembly,11,REPUBLICAN,Lavelle G,276
+New Castle,10-11,State Assembly,11,REPUBLICAN,Rhodunda R,47
+New Castle,11-11,State Assembly,11,REPUBLICAN,Cragg J E,29
+New Castle,11-11,State Assembly,11,REPUBLICAN,Lavelle G,175
+New Castle,11-11,State Assembly,11,REPUBLICAN,Rhodunda R,60
+New Castle,Total,State Assembly,11,REPUBLICAN,Cragg J E,444
+New Castle,Total,State Assembly,11,REPUBLICAN,Lavelle G,1132
+New Castle,Total,State Assembly,11,REPUBLICAN,Rhodunda R,655
+Sussex,01-41,State Assembly,41,REPUBLICAN,Evans J S,61
+Sussex,01-41,State Assembly,41,REPUBLICAN,King R B,104
+Sussex,02-41,State Assembly,41,REPUBLICAN,Evans J S,101
+Sussex,02-41,State Assembly,41,REPUBLICAN,King R B,118
+Sussex,03-41,State Assembly,41,REPUBLICAN,Evans J S,30
+Sussex,03-41,State Assembly,41,REPUBLICAN,King R B,29
+Sussex,04-41,State Assembly,41,REPUBLICAN,Evans J S,134
+Sussex,04-41,State Assembly,41,REPUBLICAN,King R B,105
+Sussex,05-41,State Assembly,41,REPUBLICAN,Evans J S,145
+Sussex,05-41,State Assembly,41,REPUBLICAN,King R B,39
+Sussex,06-41,State Assembly,41,REPUBLICAN,Evans J S,70
+Sussex,06-41,State Assembly,41,REPUBLICAN,King R B,31
+Sussex,07-41,State Assembly,41,REPUBLICAN,Evans J S,34
+Sussex,07-41,State Assembly,41,REPUBLICAN,King R B,50
+Sussex,08-41,State Assembly,41,REPUBLICAN,Evans J S,119
+Sussex,08-41,State Assembly,41,REPUBLICAN,King R B,66
+Sussex,Total,State Assembly,41,REPUBLICAN,Evans J S,694
+Sussex,Total,State Assembly,41,REPUBLICAN,King R B,542
