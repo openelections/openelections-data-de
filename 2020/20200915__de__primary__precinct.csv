@@ -8713,13 +8713,8 @@ New Castle,01~11,State Senate,1,Democratic Party,SARAH MCBRIDE,315,199,514
 New Castle,01~13,State Senate,1,Democratic Party,SARAH MCBRIDE,355,268,623
 New Castle,01~14,State Senate,1,Democratic Party,SARAH MCBRIDE,253,246,499
 New Castle,03~10,State Senate,3,Democratic Party,SARAH MCBRIDE,107,75,182
-<<<<<<< HEAD
-New Castle,04~01,State Senate,4,Democratic Party,SARAH MCBRIDE,516,605,"1,121"
-New Castle,04~03,State Senate,4,Democratic Party,SARAH MCBRIDE,498,541,"1,039"
-=======
 New Castle,04~01,State Senate,4,Democratic Party,SARAH MCBRIDE,516,605,1121
 New Castle,04~03,State Senate,4,Democratic Party,SARAH MCBRIDE,498,541,1039
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,04~06,State Senate,4,Democratic Party,SARAH MCBRIDE,386,393,779
 New Castle,04~07,State Senate,4,Democratic Party,SARAH MCBRIDE,468,368,836
 New Castle,04~10,State Senate,4,Democratic Party,SARAH MCBRIDE,108,57,165
@@ -8728,15 +8723,9 @@ New Castle,04~14,State Senate,4,Democratic Party,SARAH MCBRIDE,105,82,187
 New Castle,06~01,State Senate,6,Democratic Party,SARAH MCBRIDE,366,238,604
 New Castle,06~04,State Senate,6,Democratic Party,SARAH MCBRIDE,414,293,707
 New Castle,06~05,State Senate,6,Democratic Party,SARAH MCBRIDE,575,396,971
-<<<<<<< HEAD
-New Castle,06~08,State Senate,6,Democratic Party,SARAH MCBRIDE,630,464,"1,094"
-New Castle,07~01,State Senate,7,Democratic Party,SARAH MCBRIDE,468,315,783
-New Castle,07~04,State Senate,7,Democratic Party,SARAH MCBRIDE,833,492,"1,325"
-=======
 New Castle,06~08,State Senate,6,Democratic Party,SARAH MCBRIDE,630,464,1094
 New Castle,07~01,State Senate,7,Democratic Party,SARAH MCBRIDE,468,315,783
 New Castle,07~04,State Senate,7,Democratic Party,SARAH MCBRIDE,833,492,1325
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,07~07,State Senate,7,Democratic Party,SARAH MCBRIDE,539,257,796
 New Castle,07~09,State Senate,7,Democratic Party,SARAH MCBRIDE,389,309,698
 New Castle,07~10,State Senate,7,Democratic Party,SARAH MCBRIDE,630,353,983
@@ -8853,20 +8842,12 @@ New Castle,21~07,State Senate,21,Democratic Party,DAVID P. SOKOLA,43,40,83
 New Castle,22~01,State Senate,22,Democratic Party,DAVID P. SOKOLA,417,520,937
 New Castle,22~03,State Senate,22,Democratic Party,DAVID P. SOKOLA,420,454,874
 New Castle,22~04,State Senate,22,Democratic Party,DAVID P. SOKOLA,440,420,860
-<<<<<<< HEAD
-New Castle,22~05,State Senate,22,Democratic Party,DAVID P. SOKOLA,589,592,"1,181"
-=======
 New Castle,22~05,State Senate,22,Democratic Party,DAVID P. SOKOLA,589,592,1181
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,22~06,State Senate,22,Democratic Party,DAVID P. SOKOLA,222,179,401
 New Castle,23~01,State Senate,23,Democratic Party,DAVID P. SOKOLA,99,69,168
 New Castle,23~02,State Senate,23,Democratic Party,DAVID P. SOKOLA,413,543,956
 New Castle,23~03,State Senate,23,Democratic Party,DAVID P. SOKOLA,332,407,739
-<<<<<<< HEAD
-New Castle,23~04,State Senate,23,Democratic Party,DAVID P. SOKOLA,473,684,"1,157"
-=======
 New Castle,23~04,State Senate,23,Democratic Party,DAVID P. SOKOLA,473,684,1157
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,23~05,State Senate,23,Democratic Party,DAVID P. SOKOLA,518,284,802
 New Castle,23~06,State Senate,23,Democratic Party,DAVID P. SOKOLA,482,504,986
 New Castle,23~07,State Senate,23,Democratic Party,DAVID P. SOKOLA,406,362,768
@@ -8875,11 +8856,7 @@ New Castle,23~09,State Senate,23,Democratic Party,DAVID P. SOKOLA,138,185,323
 New Castle,25~01,State Senate,25,Democratic Party,DAVID P. SOKOLA,268,366,634
 New Castle,25~03,State Senate,25,Democratic Party,DAVID P. SOKOLA,384,349,733
 New Castle,17~06,State Senate,17,Democratic Party,JACK WALSH,37,46,83
-<<<<<<< HEAD
-New Castle,18~01,State Senate,18,Democratic Party,JACK WALSH,775,360,"1,135"
-=======
 New Castle,18~01,State Senate,18,Democratic Party,JACK WALSH,775,360,1135
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,18~02,State Senate,18,Democratic Party,JACK WALSH,423,329,752
 New Castle,18~07,State Senate,18,Democratic Party,JACK WALSH,341,198,539
 New Castle,19~01,State Senate,19,Democratic Party,JACK WALSH,421,302,723
@@ -8915,22 +8892,6 @@ New Castle,24~05,State Senate,24,Republican Party,TODD RUCKLE,325,64,389
 New Castle,24~06,State Senate,24,Republican Party,TODD RUCKLE,331,74,405
 New Castle,24~07,State Senate,24,Republican Party,TODD RUCKLE,201,55,256
 New Castle,09~08,State Senate,9,Democratic Party,NICOLE POORE,507,314,821
-<<<<<<< HEAD
-New Castle,09~12,State Senate,9,Democratic Party,NICOLE POORE,494,552,"1,046"
-New Castle,09~13,State Senate,9,Democratic Party,NICOLE POORE,922,511,"1,433"
-New Castle,15~01,State Senate,15,Democratic Party,NICOLE POORE,825,280,"1,105"
-New Castle,15~02,State Senate,15,Democratic Party,NICOLE POORE,638,567,"1,205"
-New Castle,15~03,State Senate,15,Democratic Party,NICOLE POORE,788,547,"1,335"
-New Castle,15~05,State Senate,15,Democratic Party,NICOLE POORE,"1,122",706,"1,828"
-New Castle,15~06,State Senate,15,Democratic Party,NICOLE POORE,667,306,973
-New Castle,15~07,State Senate,15,Democratic Party,NICOLE POORE,574,342,916
-New Castle,15~09,State Senate,15,Democratic Party,NICOLE POORE,234,187,421
-New Castle,15~10,State Senate,15,Democratic Party,NICOLE POORE,810,488,"1,298"
-New Castle,16~09,State Senate,16,Democratic Party,NICOLE POORE,146,71,217
-New Castle,16~10,State Senate,16,Democratic Party,NICOLE POORE,547,298,845
-New Castle,17~02,State Senate,17,Democratic Party,NICOLE POORE,"1,015",512,"1,527"
-New Castle,17~03,State Senate,17,Democratic Party,NICOLE POORE,692,390,"1,082"
-=======
 New Castle,09~12,State Senate,9,Democratic Party,NICOLE POORE,494,552,1046
 New Castle,09~13,State Senate,9,Democratic Party,NICOLE POORE,922,511,1433
 New Castle,15~01,State Senate,15,Democratic Party,NICOLE POORE,825,280,1105
@@ -8945,7 +8906,6 @@ New Castle,16~09,State Senate,16,Democratic Party,NICOLE POORE,146,71,217
 New Castle,16~10,State Senate,16,Democratic Party,NICOLE POORE,547,298,845
 New Castle,17~02,State Senate,17,Democratic Party,NICOLE POORE,"1,015",512,1527
 New Castle,17~03,State Senate,17,Democratic Party,NICOLE POORE,692,390,1082
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,17~04,State Senate,17,Democratic Party,NICOLE POORE,436,354,790
 New Castle,17~05,State Senate,17,Democratic Party,NICOLE POORE,471,212,683
 New Castle,17~08,State Senate,17,Democratic Party,NICOLE POORE,312,142,454
@@ -8954,21 +8914,13 @@ New Castle,27~05,State Senate,27,Democratic Party,NICOLE POORE,617,351,968
 New Castle,27~06,State Senate,27,Democratic Party,NICOLE POORE,548,214,762
 New Castle,27~07,State Senate,27,Democratic Party,NICOLE POORE,152,134,286
 New Castle,27~09,State Senate,27,Democratic Party,NICOLE POORE,592,402,994
-<<<<<<< HEAD
-New Castle,05~01,State Senate,5,Democratic Party,MARIE PINKNEY,743,384,"1,127"
-=======
 New Castle,05~01,State Senate,5,Democratic Party,MARIE PINKNEY,743,384,1127
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,05~02,State Senate,5,Democratic Party,MARIE PINKNEY,348,131,479
 New Castle,05~03,State Senate,5,Democratic Party,MARIE PINKNEY,469,197,666
 New Castle,05~04,State Senate,5,Democratic Party,MARIE PINKNEY,614,229,843
 New Castle,05~05,State Senate,5,Democratic Party,MARIE PINKNEY,591,260,851
 New Castle,05~07,State Senate,5,Democratic Party,MARIE PINKNEY,464,216,680
-<<<<<<< HEAD
-New Castle,05~08,State Senate,5,Democratic Party,MARIE PINKNEY,784,457,"1,241"
-=======
 New Castle,05~08,State Senate,5,Democratic Party,MARIE PINKNEY,784,457,1241
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,05~09,State Senate,5,Democratic Party,MARIE PINKNEY,512,228,740
 New Castle,05~10,State Senate,5,Democratic Party,MARIE PINKNEY,608,218,826
 New Castle,15~04,State Senate,15,Democratic Party,MARIE PINKNEY,311,262,573
@@ -9003,19 +8955,6 @@ New Castle,18~05,State Senate,18,Republican Party,ALEXANDER M. HOMICH,313,42,355
 New Castle,18~09,State Senate,18,Republican Party,ALEXANDER M. HOMICH,244,37,281
 New Castle,18~10,State Senate,18,Republican Party,ALEXANDER M. HOMICH,103,13,116
 New Castle,08~02,State Senate,8,Democratic Party,BRUCE C. ENNIS,576,402,978
-<<<<<<< HEAD
-New Castle,08~05,State Senate,8,Democratic Party,BRUCE C. ENNIS,"1,037",413,"1,450"
-New Castle,08~08,State Senate,8,Democratic Party,BRUCE C. ENNIS,748,508,"1,256"
-New Castle,09~01,State Senate,9,Democratic Party,BRUCE C. ENNIS,422,217,639
-New Castle,09~02,State Senate,9,Democratic Party,BRUCE C. ENNIS,565,276,841
-New Castle,09~03,State Senate,9,Democratic Party,BRUCE C. ENNIS,674,358,"1,032"
-New Castle,09~05,State Senate,9,Democratic Party,BRUCE C. ENNIS,542,285,827
-New Castle,09~09,State Senate,9,Democratic Party,BRUCE C. ENNIS,315,160,475
-New Castle,09~10,State Senate,9,Democratic Party,BRUCE C. ENNIS,492,330,822
-New Castle,09~11,State Senate,9,Democratic Party,BRUCE C. ENNIS,581,467,"1,048"
-New Castle,11~01,State Senate,11,Democratic Party,BRUCE C. ENNIS,548,295,843
-New Castle,11~02,State Senate,11,Democratic Party,BRUCE C. ENNIS,825,314,"1,139"
-=======
 New Castle,08~05,State Senate,8,Democratic Party,BRUCE C. ENNIS,"1,037",413,1450
 New Castle,08~08,State Senate,8,Democratic Party,BRUCE C. ENNIS,748,508,1256
 New Castle,09~01,State Senate,9,Democratic Party,BRUCE C. ENNIS,422,217,639
@@ -9027,7 +8966,6 @@ New Castle,09~10,State Senate,9,Democratic Party,BRUCE C. ENNIS,492,330,822
 New Castle,09~11,State Senate,9,Democratic Party,BRUCE C. ENNIS,581,467,1048
 New Castle,11~01,State Senate,11,Democratic Party,BRUCE C. ENNIS,548,295,843
 New Castle,11~02,State Senate,11,Democratic Party,BRUCE C. ENNIS,825,314,1139
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,11~03,State Senate,11,Democratic Party,BRUCE C. ENNIS,316,167,483
 New Castle,11~04,State Senate,11,Democratic Party,BRUCE C. ENNIS,269,135,404
 Kent,28~01,State Senate,28,Democratic Party,BRUCE C. ENNIS,556,186,742
@@ -9066,16 +9004,6 @@ Kent,11~07,State Senate,11,Democratic Party,JACI HUGG,315,202,517
 Kent,11~08,State Senate,11,Democratic Party,JACI HUGG,138,74,212
 Kent,11~09,State Senate,11,Democratic Party,JACI HUGG,100,46,146
 Kent,11~10,State Senate,11,Democratic Party,JACI HUGG,101,74,175
-<<<<<<< HEAD
-Kent,28~04,State Senate,28,Democratic Party,JACI HUGG,687,424,"1,111"
-Kent,28~12,State Senate,28,Democratic Party,JACI HUGG,42,43,85
-Kent,28~13,State Senate,28,Democratic Party,JACI HUGG,162,103,265
-Kent,29~01,State Senate,29,Democratic Party,JACI HUGG,"1,120",589,"1,709"
-Kent,29~03,State Senate,29,Democratic Party,JACI HUGG,572,563,"1,135"
-Kent,29~04,State Senate,29,Democratic Party,JACI HUGG,451,380,831
-Kent,29~05,State Senate,29,Democratic Party,JACI HUGG,209,297,506
-Kent,29~06,State Senate,29,Democratic Party,JACI HUGG,683,334,"1,017"
-=======
 Kent,28~04,State Senate,28,Democratic Party,JACI HUGG,687,424,1111
 Kent,28~12,State Senate,28,Democratic Party,JACI HUGG,42,43,85
 Kent,28~13,State Senate,28,Democratic Party,JACI HUGG,162,103,265
@@ -9084,7 +9012,6 @@ Kent,29~03,State Senate,29,Democratic Party,JACI HUGG,572,563,1135
 Kent,29~04,State Senate,29,Democratic Party,JACI HUGG,451,380,831
 Kent,29~05,State Senate,29,Democratic Party,JACI HUGG,209,297,506
 Kent,29~06,State Senate,29,Democratic Party,JACI HUGG,683,334,1017
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 Kent,29~08,State Senate,29,Democratic Party,JACI HUGG,351,306,657
 Kent,29~09,State Senate,29,Democratic Party,JACI HUGG,240,283,523
 Kent,29~10,State Senate,29,Democratic Party,JACI HUGG,31,28,59
@@ -9105,11 +9032,7 @@ Kent,11~10,State Senate,11,Republican Party,DAVID LAWSON,393,73,466
 Kent,28~04,State Senate,28,Republican Party,DAVID LAWSON,469,105,574
 Kent,28~12,State Senate,28,Republican Party,DAVID LAWSON,71,21,92
 Kent,28~13,State Senate,28,Republican Party,DAVID LAWSON,85,29,114
-<<<<<<< HEAD
-Kent,29~01,State Senate,29,Republican Party,DAVID LAWSON,893,138,"1,031"
-=======
 Kent,29~01,State Senate,29,Republican Party,DAVID LAWSON,893,138,1031
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 Kent,29~03,State Senate,29,Republican Party,DAVID LAWSON,612,166,778
 Kent,29~04,State Senate,29,Republican Party,DAVID LAWSON,484,113,597
 Kent,29~05,State Senate,29,Republican Party,DAVID LAWSON,318,119,437
@@ -9126,50 +9049,13 @@ Kent,30~06,State Senate,30,Republican Party,DAVID LAWSON,350,34,384
 Kent,30~07,State Senate,30,Republican Party,DAVID LAWSON,336,25,361
 Kent,33~06,State Senate,33,Republican Party,DAVID LAWSON,139,24,163
 Sussex,20~08,State Senate,20,Republican Party,BRIAN G. PETTYJOHN,296,47,343
-<<<<<<< HEAD
-Sussex,35~02,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,"1,435",521,"1,956"
-Sussex,35~03,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,619,218,837
-Sussex,35~04,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,814,284,"1,098"
-=======
 Sussex,35~02,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,"1,435",521,1956
 Sussex,35~03,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,619,218,837
 Sussex,35~04,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,814,284,1098
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 Sussex,35~06,State Senate,35,Republican Party,BRIAN G. PETTYJOHN,522,77,599
 Sussex,36~08,State Senate,36,Republican Party,BRIAN G. PETTYJOHN,144,20,164
 Sussex,36~09,State Senate,36,Republican Party,BRIAN G. PETTYJOHN,77,14,91
 Sussex,37~01,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,602,248,850
-<<<<<<< HEAD
-Sussex,37~02,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,768,291,"1,059"
-Sussex,37~03,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,"1,456",622,"2,078"
-Sussex,37~04,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,"1,304",594,"1,898"
-Sussex,37~06,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,700,270,970
-Sussex,37~07,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,782,262,"1,044"
-Sussex,39~01,State Senate,39,Republican Party,BRIAN G. PETTYJOHN,945,244,"1,189"
-Sussex,39~03,State Senate,39,Republican Party,BRIAN G. PETTYJOHN,664,267,931
-Sussex,40~08,State Senate,40,Republican Party,BRIAN G. PETTYJOHN,528,141,669
-Sussex,41~08,State Senate,41,Republican Party,BRIAN G. PETTYJOHN,448,100,548
-Sussex,37~05,State Senate,37,Republican Party,GERALD W. HOCKER,"1,235",487,"1,722"
-Sussex,38~01,State Senate,38,Republican Party,GERALD W. HOCKER,"1,383",567,"1,950"
-Sussex,38~02,State Senate,38,Republican Party,GERALD W. HOCKER,"1,615",810,"2,425"
-Sussex,38~03,State Senate,38,Republican Party,GERALD W. HOCKER,"1,374",754,"2,128"
-Sussex,38~04,State Senate,38,Republican Party,GERALD W. HOCKER,884,659,"1,543"
-Sussex,38~05,State Senate,38,Republican Party,GERALD W. HOCKER,779,426,"1,205"
-Sussex,38~06,State Senate,38,Republican Party,GERALD W. HOCKER,"1,350",792,"2,142"
-Sussex,38~07,State Senate,38,Republican Party,GERALD W. HOCKER,"1,684",916,"2,600"
-Sussex,38~08,State Senate,38,Republican Party,GERALD W. HOCKER,"1,057",389,"1,446"
-Sussex,41~02,State Senate,41,Republican Party,GERALD W. HOCKER,"1,448",488,"1,936"
-Sussex,41~03,State Senate,41,Republican Party,GERALD W. HOCKER,629,102,731
-Sussex,41~04,State Senate,41,Republican Party,GERALD W. HOCKER,702,152,854
-Sussex,41~05,State Senate,41,Republican Party,GERALD W. HOCKER,"1,211",371,"1,582"
-Sussex,41~06,State Senate,41,Republican Party,GERALD W. HOCKER,656,245,901
-Sussex,41~07,State Senate,41,Republican Party,GERALD W. HOCKER,695,141,836
-New Castle,01~01,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,406,273,679
-New Castle,01~02,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,723,343,"1,066"
-New Castle,01~03,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,515,198,713
-New Castle,01~04,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,714,269,983
-New Castle,01~05,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,582,436,"1,018"
-=======
 Sussex,37~02,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,768,291,1059
 Sussex,37~03,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,"1,456",622,2078
 Sussex,37~04,State Senate,37,Republican Party,BRIAN G. PETTYJOHN,"1,304",594,1898
@@ -9199,7 +9085,6 @@ New Castle,01~02,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,723,343,
 New Castle,01~03,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,515,198,713
 New Castle,01~04,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,714,269,983
 New Castle,01~05,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,582,436,1018
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,01~06,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,253,98,351
 New Castle,01~07,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,281,133,414
 New Castle,01~08,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,80,48,128
@@ -9209,11 +9094,7 @@ New Castle,01~11,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,352,201,
 New Castle,01~12,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,195,148,343
 New Castle,01~13,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,379,271,650
 New Castle,01~14,State Assembly,1,Democratic Party,NNAMDI O. CHUKWUOCHA,295,261,556
-<<<<<<< HEAD
-New Castle,02~01,State Assembly,2,Democratic Party,STEPHANIE T. BOLDEN,805,212,"1,017"
-=======
 New Castle,02~01,State Assembly,2,Democratic Party,STEPHANIE T. BOLDEN,805,212,1017
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,02~02,State Assembly,2,Democratic Party,STEPHANIE T. BOLDEN,292,106,398
 New Castle,02~03,State Assembly,2,Democratic Party,STEPHANIE T. BOLDEN,98,108,206
 New Castle,02~04,State Assembly,2,Democratic Party,STEPHANIE T. BOLDEN,43,33,76
@@ -9235,24 +9116,14 @@ New Castle,03~07,State Assembly,3,Democratic Party,SHERRY DORSEY WALKER,631,242,
 New Castle,03~08,State Assembly,3,Democratic Party,SHERRY DORSEY WALKER,534,247,781
 New Castle,03~09,State Assembly,3,Democratic Party,SHERRY DORSEY WALKER,607,221,828
 New Castle,03~10,State Assembly,3,Democratic Party,SHERRY DORSEY WALKER,113,84,197
-<<<<<<< HEAD
-New Castle,04~01,State Assembly,4,Democratic Party,GERALD L. BRADY,533,611,"1,144"
-New Castle,04~02,State Assembly,4,Democratic Party,GERALD L. BRADY,333,521,854
-New Castle,04~03,State Assembly,4,Democratic Party,GERALD L. BRADY,516,550,"1,066"
-=======
 New Castle,04~01,State Assembly,4,Democratic Party,GERALD L. BRADY,533,611,1144
 New Castle,04~02,State Assembly,4,Democratic Party,GERALD L. BRADY,333,521,854
 New Castle,04~03,State Assembly,4,Democratic Party,GERALD L. BRADY,516,550,1066
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,04~04,State Assembly,4,Democratic Party,GERALD L. BRADY,240,209,449
 New Castle,04~05,State Assembly,4,Democratic Party,GERALD L. BRADY,111,43,154
 New Castle,04~06,State Assembly,4,Democratic Party,GERALD L. BRADY,385,385,770
 New Castle,04~07,State Assembly,4,Democratic Party,GERALD L. BRADY,458,368,826
-<<<<<<< HEAD
-New Castle,04~08,State Assembly,4,Democratic Party,GERALD L. BRADY,560,591,"1,151"
-=======
 New Castle,04~08,State Assembly,4,Democratic Party,GERALD L. BRADY,560,591,1151
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,04~09,State Assembly,4,Democratic Party,GERALD L. BRADY,296,172,468
 New Castle,04~10,State Assembly,4,Democratic Party,GERALD L. BRADY,105,54,159
 New Castle,04~11,State Assembly,4,Democratic Party,GERALD L. BRADY,376,418,794
@@ -9291,19 +9162,11 @@ New Castle,06~01,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,405,253,658
 New Castle,06~02,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,472,500,972
 New Castle,06~03,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,124,120,244
 New Castle,06~04,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,466,310,776
-<<<<<<< HEAD
-New Castle,06~05,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,621,426,"1,047"
-New Castle,06~06,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,348,130,478
-New Castle,06~07,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,364,371,735
-New Castle,06~08,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,746,511,"1,257"
-New Castle,06~09,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,659,602,"1,261"
-=======
 New Castle,06~05,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,621,426,1047
 New Castle,06~06,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,348,130,478
 New Castle,06~07,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,364,371,735
 New Castle,06~08,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,746,511,1257
 New Castle,06~09,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,659,602,1261
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,06~10,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,512,396,908
 New Castle,06~11,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,357,423,780
 New Castle,06~12,State Assembly,6,Democratic Party,DEBRA HEFFERNAN,536,445,981
@@ -9341,17 +9204,10 @@ New Castle,08~01,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",204,
 New Castle,08~02,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",545,379,924
 New Castle,08~03,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",455,238,693
 New Castle,08~04,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",623,184,807
-<<<<<<< HEAD
-New Castle,08~05,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",976,400,"1,376"
-New Castle,08~06,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",430,296,726
-New Castle,08~07,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",342,261,603
-New Castle,08~08,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",689,494,"1,183"
-=======
 New Castle,08~05,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",976,400,1376
 New Castle,08~06,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",430,296,726
 New Castle,08~07,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",342,261,603
 New Castle,08~08,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",689,494,1183
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,08~09,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",75,44,119
 New Castle,08~10,State Assembly,8,Democratic Party,"SHERAE'A ""RAE"" MOORE",533,260,793
 New Castle,08~01,State Assembly,8,Republican Party,DANIEL ZITOFSKY,596,107,703
@@ -9445,11 +9301,7 @@ New Castle,13~04,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,609,266
 New Castle,13~05,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,597,246,843
 New Castle,13~06,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,671,318,989
 New Castle,13~07,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,220,100,320
-<<<<<<< HEAD
-New Castle,13~08,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,721,285,"1,006"
-=======
 New Castle,13~08,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,721,285,1006
->>>>>>> 5d5fa8cdf009d7f1c479c0c63bd58ac65fdc7d42
 New Castle,13~09,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,596,262,858
 New Castle,13~10,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,235,102,337
 New Castle,13~11,State Assembly,13,Democratic Party,JOHN L. MITCHELL JR.,425,119,544
