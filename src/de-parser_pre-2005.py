@@ -150,7 +150,7 @@ class DEParser(object):
                                 try:
                                     county = self.district_lookup[line[0]]
                                     lastED = line[0]
-                                except:
+                                except (KeyError, IndexError):
                                     print(f"ERROR: Can't find ED: {line[0]}")
                                 election_district = line[0]
 
@@ -161,7 +161,7 @@ class DEParser(object):
                                 result = self.Result(county, election_district, chunk.office, chunk.district, candidate[1], candidate[0], clean(line[j]))
                                 # print(result)
                                 self.processed.append(result)
-                            except:
+                            except (KeyError, IndexError):
                                 print(f"ERROR: Failed adding result for {candidate} in ED-RD {line[0]}")
 
 
